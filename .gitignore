@@ -1,0 +1,6 @@
+# Original uncompressed videos (287M backups — too large for GitHub; keep on external drive)
+mp4 folder/
+# OS junk + backups
+.DS_Store
+*.bak*
+index 2.html

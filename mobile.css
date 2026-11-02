@@ -1,0 +1,124 @@
+/* Phone layout: stack everything in one readable column. Desktop is untouched. */
+@media (max-width: 767px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+
+  .u-header .u-sheet,
+  body > section > .u-sheet,
+  body > footer > .u-sheet {
+    width: auto !important;
+    min-height: 0 !important;
+    margin-left: 22px !important;
+    margin-right: 22px !important;
+  }
+
+  body > section > .u-sheet {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  body > section > .u-sheet > :not(.u-line-vertical),
+  body > section .u-group-elements,
+  body > section .u-group-elements > *,
+  body > section .u-container-layout > * {
+    position: static !important;
+    width: auto !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    height: auto !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 16px !important;
+    float: none !important;
+  }
+
+  body > section .u-line-horizontal.u-expanded-width {
+    width: calc(100% + 40px) !important;
+    margin-left: -20px !important;
+    transform: none;
+  }
+
+  body > section img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  .fr-view > p:has(> br:only-child),
+  .fr-view > h1:has(> br:only-child) {
+    display: none;
+  }
+
+  body > section .u-video-1,
+  body > section .u-video {
+    height: 56vw !important;
+    margin-top: 0 !important;
+  }
+
+  body > section h1.u-text {
+    font-size: 2.5rem !important;
+    text-align: center;
+  }
+
+  body > section h2.u-text {
+    font-size: 1.75rem !important;
+  }
+
+  body > section .u-group-elements h4,
+  body > section h4.u-text {
+    font-size: 1.4rem !important;
+    line-height: 1.3;
+  }
+
+  body > section .u-group-elements h3,
+  body > section h3.u-text {
+    font-size: 1.05rem !important;
+    line-height: 1.6;
+  }
+
+  body > section p.u-text {
+    font-size: 1rem !important;
+    line-height: 1.6;
+  }
+
+  body > section .u-social-icons {
+    display: flex !important;
+    gap: 12px;
+    height: 56px !important;
+  }
+
+  body > section .u-social-icons .u-icon {
+    width: 56px !important;
+    height: 56px !important;
+  }
+
+  body > section h1,
+  body > section h2,
+  body > section h3,
+  body > section h4,
+  body > section p {
+    overflow-wrap: break-word;
+    word-break: normal;
+    hyphens: manual;
+  }
+
+  body > section .u-group-elements h3 *,
+  body > section p.u-text * {
+    font-size: inherit !important;
+    line-height: inherit !important;
+    padding: 0 !important;
+  }
+
+  .u-header .city-nav .nav-all {
+    grid-column: 1 / -1;
+  }
+  .u-header .city-nav .nav-region-btn,
+  .u-header .city-nav .nav-all {
+    font-size: 0.8rem;
+    padding: 12px 2px;
+    white-space: normal;
+    line-height: 1.25;
+  }
+}
