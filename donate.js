@@ -12,7 +12,7 @@
     Array.prototype.forEach.call(document.querySelectorAll(".donate-btn"), function (btn) {
       btn.href = DONATE_URL;
     });
-    Array.prototype.forEach.call(document.querySelectorAll(".gofundme-btn, .nav-gofundme"), function (btn) {
+    Array.prototype.forEach.call(document.querySelectorAll(".gofundme-btn"), function (btn) {
       btn.href = GOFUNDME_URL;
       if (/^https?:\/\//.test(GOFUNDME_URL)) {
         btn.target = "_blank";
