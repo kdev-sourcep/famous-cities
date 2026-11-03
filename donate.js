@@ -6,7 +6,7 @@
   // GOFUNDME_URL: paste your GoFundMe campaign URL when it is live,
   // e.g. "https://www.gofundme.com/f/support-famous-cities".
   // Until then, the button links to the support.html statement page.
-  var GOFUNDME_URL = "support.html";
+  var GOFUNDME_URL = "https://www.gofundme.com/f/support-famous-cities-and-its-creator";
 
   document.addEventListener("DOMContentLoaded", function () {
     Array.prototype.forEach.call(document.querySelectorAll(".donate-btn"), function (btn) {
