@@ -42355,3 +42355,6 @@ html[data-theme="light"] section.u-image::before,
 html[data-theme="light"] section.u-image::after {
   background: rgba(15,23,42,.45);
 }
+
+/* FUN FACTS heading: always full width (overrides leftover per-city fixed widths, e.g. Dubai) */
+h1.fun-facts-title { width: 100% !important; }
