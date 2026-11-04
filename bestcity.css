@@ -42358,3 +42358,9 @@ html[data-theme="light"] section.u-image::after {
 
 /* FUN FACTS heading: always full width (overrides leftover per-city fixed widths, e.g. Dubai) */
 h1.fun-facts-title { width: 100% !important; }
+
+/* Stay22 price map (shown only when FC_AFF.stay22_aid is set) */
+.stay-map { margin: 0 0 20px; text-align: center; }
+.stay-map-frame { display: block; width: 100%; height: 460px; border: 2px solid #454545; border-radius: 12px; background: #111; }
+.stay-map-note { font-size: 0.8rem; color: #9ca3af; margin: 8px 0 0; }
+@media (max-width: 575px) { .stay-map-frame { height: 520px; } }

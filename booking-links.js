@@ -177,8 +177,15 @@
     }).join("");
   }
 
+  function stayMapSrc(city, inD, outD, adults, has) {
+    var p = { aid: encodeURIComponent(FC_AFF.stay22_aid), address: encodeURIComponent(city), mapstyle: "dark", maincolor: "478ac9", listviewexpand: "true", adults: adults, campaign: "famouscities" };
+    if (has) { p.checkin = inD; p.checkout = outD; }
+    return "https://www.stay22.com/embed/gm?" + q(p);
+  }
+
   function render(container) {
     var city = container.getAttribute("data-city");
+    var stayMap = typeof FC_AFF !== "undefined" && FC_AFF.stay22_aid;
     var min = today();
     var guests = "";
     for (var i = 1; i <= 8; i++) guests += '<option value="' + i + '"' + (i === 2 ? " selected" : "") + ">" + i + (i === 1 ? " guest" : " guests") + "</option>";
@@ -190,6 +197,11 @@
         '<label>Guests <select class="trip-guests">' + guests + "</select></label>" +
         '<span class="trip-dates-hint">Pick dates to compare prices across every site in one click.</span>' +
       "</div>" +
+      (stayMap
+        ? '<div class="stay-map"><h4 class="trip-group-title">Compare places to stay in ' + city + '</h4>' +
+          '<iframe class="stay-map-frame" title="Places to stay in ' + city + '" loading="lazy"></iframe>' +
+          '<p class="stay-map-note">Live prices from Booking.com, Vrbo and more. Or use the buttons below to search each site directly.</p></div>'
+        : "") +
       '<div class="trip-grid"></div>' +
       (typeof FC_AFF !== "undefined" && FC_AFF.amazon_tag
         ? '<div class="pack-card"><h4 class="trip-group-title">🎒 Pack for ' + city + '</h4><div class="trip-buttons">' +
@@ -206,6 +218,7 @@
     var gEl = container.querySelector(".trip-guests");
     var grid = container.querySelector(".trip-grid");
     var hint = container.querySelector(".trip-dates-hint");
+    var mapFrame = container.querySelector(".stay-map-frame");
 
     var restored = false;
     try {
@@ -225,6 +238,10 @@
         ? "Links now search " + inEl.value + " to " + outEl.value + " for " + gEl.value + (gEl.value === "1" ? " guest." : " guests.") + (restored ? " (restored from your last visit)" : "")
         : (inEl.value && outEl.value ? "Check-out must be after check-in." : "Pick dates to compare prices across every site in one click.");
       grid.innerHTML = linksHtml({ c: encodeURIComponent(city), city: city, inD: inEl.value, outD: outEl.value, adults: gEl.value, has: has });
+      if (mapFrame) {
+        var src = stayMapSrc(city, inEl.value, outEl.value, gEl.value, has);
+        if (mapFrame.getAttribute("src") !== src) mapFrame.setAttribute("src", src);
+      }
       try {
         localStorage.setItem("fc_trip", JSON.stringify({ inD: inEl.value, outD: outEl.value, adults: gEl.value }));
       } catch (e) {}

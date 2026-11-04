@@ -6,6 +6,8 @@
  *
  * STAY22    — paste your script src; monetizes every accommodation link.
  *             In their dashboard, EXCLUDE booking.com (your direct ID pays more).
+ *             stay22_aid: your Stay22 affiliate ID → a live price map appears
+ *             under "When are you going?" on every city page.
  * TRAVELPAYOUTS — marker + program IDs for Viator, GetYourGuide, Skyscanner,
  *             Kayak, SafetyWing, Airalo, DiscoverCars.
  * AMAZON    — your Associates tag → a "Pack for the trip" gear card appears
@@ -17,6 +19,7 @@
  */
 var FC_AFF = {
   stay22_src: "",
+  stay22_aid: "",
   tp_marker: "",
   tp_programs: {
     viator: "", getyourguide: "", skyscanner: "", kayak: "",
