@@ -1,0 +1,140 @@
+{
+  "slug": "Bariloche",
+  "name": "Bariloche",
+  "region": "South America",
+  "country": "Argentina",
+  "metro": "135,000",
+  "seo": {
+    "title": "Bariloche Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Bariloche travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Bariloche.",
+    "keywords": "Bariloche, Bariloche travel guide, things to do in Bariloche, Bariloche fun facts, where to stay in Bariloche, Famous Cities"
+  },
+  "image": "Bariloche.png",
+  "video": "videos/bariloche.mp4",
+  "youtube": null,
+  "tagline": "Argentina's Alpine-style Patagonian resort town pairs a mountain lake as blue as Switzerland with the country's best chocolate, ski slopes and the famous Seven Lakes road.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Bariloche",
+    "twitter": "https://twitter.com/search?q=visit%20Bariloche",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Carlos_de_Bariloche"
+  },
+  "overview": [
+    "San Carlos de Bariloche sits on the shore of Nahuel Huapi, a glacial lake ringed by snowy Andes peaks. Founded in 1902 and settled by Swiss, German and Austrian immigrants, its log-and-stone architecture and chocolate shops earned it the nickname 'Little Switzerland'.",
+    "The town is Argentina's mountain playground. In winter, Cerro Catedral — South America's biggest ski resort — fills with skiers; in summer, kayaks and sailboats take to the lake and hikers ride chairlifts to views over the national park. The Circuito Chico drive curves past viewpoints, breweries and the Llao Llao hotel.",
+    "Everything here comes with chocolate: Bariloche has been Argentina's chocolate capital since Italian immigrants opened shops in the 1940s. Day trips follow the Seven Lakes route north to San Martín de los Andes or south to El Bolsón's hippy market."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Bariloche&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Bariloche",
+    "flights": "https://www.skyscanner.net/transport/flights/to/brc/cheap-flights-to-bariloche.html"
+  },
+  "topThings": [
+    {
+      "icon": "🚡",
+      "title": "Circuito Chico & Cerro Campanario",
+      "desc": "The classic lake-view loop and chairlift panorama.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bariloche%20Circuito%20Chico%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bariloche%20Circuito%20Chico%20tour"
+    },
+    {
+      "icon": "⛷️",
+      "title": "Cerro Catedral Skiing",
+      "desc": "Lift passes and lessons at South America's biggest resort.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bariloche%20Cerro%20Catedral%20ski",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bariloche%20Cerro%20Catedral%20ski"
+    },
+    {
+      "icon": "🍫",
+      "title": "Chocolate & Beer Tour",
+      "desc": "The town's two obsessions in one tasting walk.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bariloche%20chocolate%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bariloche%20chocolate%20tour"
+    },
+    {
+      "icon": "⛵",
+      "title": "Seven Lakes & San Martín",
+      "desc": "The famous lake-road day trip through the forest.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seven%20Lakes%20tour%20from%20Bariloche",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seven%20Lakes%20tour%20from%20Bariloche"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "LITTLE SWITZERLAND",
+      "text": "Alpine architecture, chocolate shops and snowy peaks earned Bariloche its Swiss nickname."
+    },
+    {
+      "title": "ARGENTINA'S CHOCOLATE CAPITAL",
+      "text": "Italian immigrants founded the chocolate industry in the 1940s — shops line Mitre street."
+    },
+    {
+      "title": "SOUTH AMERICA'S BIGGEST SKI RESORT",
+      "text": "Cerro Catedral offers around 120 kilometres of pistes with views over the lake."
+    },
+    {
+      "title": "THE SEVEN LAKES",
+      "text": "The scenic Ruta de los Siete Lagos links seven glacial lakes through the forest."
+    },
+    {
+      "title": "A PARK FOUNDED IN 1934",
+      "text": "Nahuel Huapi was Argentina's first national park, modelled on Yellowstone."
+    },
+    {
+      "title": "A LEGENDARY HOTEL",
+      "text": "The Llao Llao hotel, rebuilt after a 1938 fire, is an icon of Patagonian architecture."
+    },
+    {
+      "title": "CERRO TRONADOR",
+      "text": "The 'Thunderer' glacier volcano nearby is named for the sound of its ice avalanches."
+    },
+    {
+      "title": "A HITLER MYTH",
+      "text": "Wild conspiracy theories claimed Nazi fugitives hid here — historians debunk most, but the myth persists."
+    },
+    {
+      "title": "SMOKED FISH & CURANTO",
+      "text": "Mapuche curanto feasts and smoked trout are the regional table."
+    },
+    {
+      "title": "CROSSING TO CHILE",
+      "text": "The Andean Lakes Crossing connects Bariloche to Puerto Varas by boats and buses."
+    }
+  ],
+  "randomFacts": [
+    "Alpine architecture, chocolate shops and snowy peaks earned Bariloche its Swiss nickname.",
+    "Italian immigrants founded the chocolate industry in the 1940s — shops line Mitre street.",
+    "Cerro Catedral offers around 120 kilometres of pistes with views over the lake.",
+    "The scenic Ruta de los Siete Lagos links seven glacial lakes through the forest.",
+    "Nahuel Huapi was Argentina's first national park, modelled on Yellowstone.",
+    "The Llao Llao hotel, rebuilt after a 1938 fire, is an icon of Patagonian architecture.",
+    "The 'Thunderer' glacier volcano nearby is named for the sound of its ice avalanches.",
+    "Wild conspiracy theories claimed Nazi fugitives hid here — historians debunk most, but the myth persists.",
+    "Mapuche curanto feasts and smoked trout are the regional table.",
+    "The Andean Lakes Crossing connects Bariloche to Puerto Varas by boats and buses.",
+    "Bariloche's civic centre has sculptures of St. Bernards by local artists.",
+    "The town's St. Bernard dogs are a tradition from the Alpine settlers.",
+    "Craft beer boomed here — dozens of brewpubs dot the road west.",
+    "Winter July is peak ski season — Argentine summer holidays.",
+    "The Circuito Chico viewpoint is on postcards across Argentina."
+  ],
+  "faq": [
+    {
+      "q": "Where is Bariloche located?",
+      "a": "Bariloche is in Argentina, in South America."
+    },
+    {
+      "q": "What is the population of Bariloche?",
+      "a": "The greater Bariloche area is home to about 135,000 people."
+    },
+    {
+      "q": "What is Bariloche famous for?",
+      "a": "Argentina's Alpine-style Patagonian resort town pairs a mountain lake as blue as Switzerland with the country's best chocolate, ski slopes and the famous Seven Lakes road."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

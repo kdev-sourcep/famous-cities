@@ -1,0 +1,286 @@
+{
+  "source": "The 50 best cities on the planet for 2026, ranked by Time Out's survey of more than 24,000 locals and 100+ city experts. Cities with a Famous Cities guide are marked.",
+  "rows": [
+    {
+      "rank": 1,
+      "name": "Melbourne",
+      "country": "Australia",
+      "slug": "Melbourne"
+    },
+    {
+      "rank": 2,
+      "name": "Shanghai",
+      "country": "China",
+      "slug": "Shanghai"
+    },
+    {
+      "rank": 3,
+      "name": "Edinburgh",
+      "country": "Scotland",
+      "slug": "Edinburgh"
+    },
+    {
+      "rank": 4,
+      "name": "London",
+      "country": "United Kingdom",
+      "slug": "LONDON"
+    },
+    {
+      "rank": 5,
+      "name": "New York",
+      "country": "USA",
+      "slug": "New-York"
+    },
+    {
+      "rank": 6,
+      "name": "Cape Town",
+      "country": "South Africa",
+      "slug": "Cape-Town"
+    },
+    {
+      "rank": 7,
+      "name": "Mexico City",
+      "country": "Mexico",
+      "slug": "Mexico-City"
+    },
+    {
+      "rank": 8,
+      "name": "Bangkok",
+      "country": "Thailand",
+      "slug": "Bangkok"
+    },
+    {
+      "rank": 9,
+      "name": "Seoul",
+      "country": "South Korea",
+      "slug": "Seoul"
+    },
+    {
+      "rank": 10,
+      "name": "Tokyo",
+      "country": "Japan",
+      "slug": "Tokyo"
+    },
+    {
+      "rank": 11,
+      "name": "Zürich",
+      "country": "Switzerland"
+    },
+    {
+      "rank": 12,
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "slug": "Rio-de-Janeiro"
+    },
+    {
+      "rank": 13,
+      "name": "Copenhagen",
+      "country": "Denmark",
+      "slug": "Copenhagen"
+    },
+    {
+      "rank": 14,
+      "name": "São Paulo",
+      "country": "Brazil"
+    },
+    {
+      "rank": 15,
+      "name": "Hong Kong",
+      "country": "China",
+      "slug": "Hong-Kong"
+    },
+    {
+      "rank": 16,
+      "name": "Kraków",
+      "country": "Poland"
+    },
+    {
+      "rank": 17,
+      "name": "Porto",
+      "country": "Portugal"
+    },
+    {
+      "rank": 18,
+      "name": "Guadalajara",
+      "country": "Mexico"
+    },
+    {
+      "rank": 19,
+      "name": "Madrid",
+      "country": "Spain",
+      "slug": "Madrid"
+    },
+    {
+      "rank": 20,
+      "name": "Valencia",
+      "country": "Spain"
+    },
+    {
+      "rank": 21,
+      "name": "Sydney",
+      "country": "Australia",
+      "slug": "Sydney"
+    },
+    {
+      "rank": 22,
+      "name": "Paris",
+      "country": "France",
+      "slug": "Paris"
+    },
+    {
+      "rank": 23,
+      "name": "Singapore",
+      "country": "Singapore",
+      "slug": "Singapore"
+    },
+    {
+      "rank": 24,
+      "name": "Marrakech",
+      "country": "Morocco",
+      "slug": "Marrakesh"
+    },
+    {
+      "rank": 25,
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "slug": "Hanoi"
+    },
+    {
+      "rank": 26,
+      "name": "Bath",
+      "country": "United Kingdom"
+    },
+    {
+      "rank": 27,
+      "name": "Bilbao",
+      "country": "Spain"
+    },
+    {
+      "rank": 28,
+      "name": "Berlin",
+      "country": "Germany"
+    },
+    {
+      "rank": 29,
+      "name": "Adelaide",
+      "country": "Australia",
+      "slug": "Adelaide"
+    },
+    {
+      "rank": 30,
+      "name": "Beijing",
+      "country": "China",
+      "slug": "Beijing"
+    },
+    {
+      "rank": 31,
+      "name": "Antwerp",
+      "country": "Belgium"
+    },
+    {
+      "rank": 32,
+      "name": "Chiang Mai",
+      "country": "Thailand"
+    },
+    {
+      "rank": 33,
+      "name": "Naples",
+      "country": "Italy"
+    },
+    {
+      "rank": 34,
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "slug": "Amsterdam"
+    },
+    {
+      "rank": 35,
+      "name": "Medellín",
+      "country": "Colombia",
+      "slug": "Medellin"
+    },
+    {
+      "rank": 36,
+      "name": "Lima",
+      "country": "Peru",
+      "slug": "Lima"
+    },
+    {
+      "rank": 37,
+      "name": "Vancouver",
+      "country": "Canada"
+    },
+    {
+      "rank": 38,
+      "name": "Ho Chi Minh City",
+      "country": "Vietnam"
+    },
+    {
+      "rank": 39,
+      "name": "Osaka",
+      "country": "Japan",
+      "slug": "Osaka"
+    },
+    {
+      "rank": 40,
+      "name": "Athens",
+      "country": "Greece"
+    },
+    {
+      "rank": 41,
+      "name": "Chicago",
+      "country": "USA"
+    },
+    {
+      "rank": 42,
+      "name": "Cairo",
+      "country": "Egypt",
+      "slug": "Cairo"
+    },
+    {
+      "rank": 43,
+      "name": "Buenos Aires",
+      "country": "Argentina",
+      "slug": "Buenos-Aires"
+    },
+    {
+      "rank": 44,
+      "name": "Vienna",
+      "country": "Austria"
+    },
+    {
+      "rank": 45,
+      "name": "Dublin",
+      "country": "Ireland"
+    },
+    {
+      "rank": 46,
+      "name": "San Francisco",
+      "country": "USA"
+    },
+    {
+      "rank": 47,
+      "name": "Lagos",
+      "country": "Nigeria",
+      "slug": "Lagos"
+    },
+    {
+      "rank": 48,
+      "name": "Auckland",
+      "country": "New Zealand",
+      "slug": "Auckland"
+    },
+    {
+      "rank": 49,
+      "name": "Lisbon",
+      "country": "Portugal",
+      "slug": "Lisbon"
+    },
+    {
+      "rank": 50,
+      "name": "Bogotá",
+      "country": "Colombia",
+      "slug": "Bogota"
+    }
+  ]
+}

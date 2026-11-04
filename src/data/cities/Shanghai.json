@@ -1,0 +1,148 @@
+{
+  "slug": "Shanghai",
+  "name": "Shanghai",
+  "region": "Asia",
+  "country": "China",
+  "metro": "29,000,000",
+  "seo": {
+    "title": "Shanghai Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Shanghai travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Shanghai.",
+    "keywords": "Shanghai, Shanghai travel guide, things to do in Shanghai, Shanghai fun facts, where to stay in Shanghai, Famous Cities"
+  },
+  "image": "Shanghai.png",
+  "video": "videos/shanghai.mp4",
+  "youtube": null,
+  "tagline": "China's biggest city stacks a futuristic Pudong skyline over the historic Bund, with tree-lined French Concession streets, famous soup dumplings and the fastest commercial train on Earth. It is ranked #2 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Shanghai",
+    "twitter": "https://twitter.com/search?q=visit%20Shanghai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shanghai"
+  },
+  "overview": [
+    "Shanghai grew from a fishing town into a giant treaty port after 1842, when foreign concessions gave it grand European-style buildings along the Bund. By the 1930s it was known as the 'Paris of the East', famous for glamour, jazz and Art Deco towers.",
+    "Across the Huangpu River, the Pudong district shows the modern city: the Oriental Pearl Tower, the bottle-opener-shaped World Financial Center and the twisting Shanghai Tower, one of the tallest buildings on Earth. Back on the west bank, the Ming-era Yu Garden and the former French Concession's leafy avenues keep the old city alive.",
+    "Shanghai is a food city at heart. Order xiaolongbao, the delicate soup dumplings born in nearby Nanxiang, snack through the Old Town bazaar, and take a Huangpu River night cruise to see both skylines light up. Day trips reach the canals of Zhujiajiao water town or Shanghai Disneyland."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Shanghai&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Shanghai",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sha/cheap-flights-to-shanghai.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌃",
+      "title": "Huangpu River Night Cruise",
+      "desc": "See the Bund and Pudong skylines lit up from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Huangpu%20River%20night%20cruise%20Shanghai",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Huangpu%20River%20night%20cruise%20Shanghai"
+    },
+    {
+      "icon": "🥡",
+      "title": "Soup Dumpling Food Tour",
+      "desc": "Taste xiaolongbao and street food with a local guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shanghai%20food%20tour%20soup%20dumplings",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shanghai%20food%20tour%20soup%20dumplings"
+    },
+    {
+      "icon": "🏙️",
+      "title": "Shanghai Tower Observation Deck",
+      "desc": "Ride up one of the world's tallest towers for city views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shanghai%20Tower%20observation%20deck%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shanghai%20Tower%20observation%20deck%20tickets"
+    },
+    {
+      "icon": "🛶",
+      "title": "Zhujiajiao Water Town",
+      "desc": "Bridges, canals and old lanes on an easy day trip.",
+      "viator": "https://www.viator.com/searchResults/all?text=Zhujiajiao%20water%20town%20tour%20from%20Shanghai",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Zhujiajiao%20water%20town%20tour%20from%20Shanghai"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A TOWERING SKYLINE",
+      "text": "The 632-metre Shanghai Tower is one of the tallest buildings in the world, and its elevators are among the fastest ever built."
+    },
+    {
+      "title": "THE BUND'S WATERFRONT",
+      "text": "The Bund's riverside promenade is lined with more than 50 grand colonial-era buildings in Gothic, Baroque and Art Deco styles."
+    },
+    {
+      "title": "PARIS OF THE EAST",
+      "text": "In the 1920s and 1930s Shanghai was a global centre of fashion, jazz and nightlife, earning its famous nickname."
+    },
+    {
+      "title": "SOUP DUMPLINGS",
+      "text": "Xiaolongbao, steamed dumplings filled with pork and hot broth, were invented in Nanxiang, now part of Shanghai."
+    },
+    {
+      "title": "THE FASTEST TRAIN",
+      "text": "The Shanghai Maglev reaches 431 km/h and covers the 30 kilometres from the airport to the city in about 8 minutes."
+    },
+    {
+      "title": "A METRO GIANT",
+      "text": "The Shanghai Metro runs more than 800 kilometres of track, making it one of the longest metro systems in the world."
+    },
+    {
+      "title": "A 400-YEAR-OLD GARDEN",
+      "text": "Yu Garden was laid out during the Ming dynasty in 1559 and still sits beside the bustling Old Town bazaar."
+    },
+    {
+      "title": "DISNEY'S BIGGEST CASTLE",
+      "text": "Shanghai Disneyland's Enchanted Storybook Castle is the largest Disney castle ever built."
+    },
+    {
+      "title": "THE WORLD'S BUSIEST PORT",
+      "text": "The Port of Shanghai has handled more shipping containers than any other port every year since 2010."
+    },
+    {
+      "title": "A NAME THAT MEANS 'ABOVE THE SEA'",
+      "text": "Shanghai sits on the Yangtze River Delta where the river meets the East China Sea."
+    }
+  ],
+  "randomFacts": [
+    "The 632-metre Shanghai Tower is one of the tallest buildings in the world, and its elevators are among the fastest ever built.",
+    "The Bund's riverside promenade is lined with more than 50 grand colonial-era buildings in Gothic, Baroque and Art Deco styles.",
+    "In the 1920s and 1930s Shanghai was a global centre of fashion, jazz and nightlife, earning its famous nickname.",
+    "Xiaolongbao, steamed dumplings filled with pork and hot broth, were invented in Nanxiang, now part of Shanghai.",
+    "The Shanghai Maglev reaches 431 km/h and covers the 30 kilometres from the airport to the city in about 8 minutes.",
+    "The Shanghai Metro runs more than 800 kilometres of track, making it one of the longest metro systems in the world.",
+    "Yu Garden was laid out during the Ming dynasty in 1559 and still sits beside the bustling Old Town bazaar.",
+    "Shanghai Disneyland's Enchanted Storybook Castle is the largest Disney castle ever built.",
+    "The Port of Shanghai has handled more shipping containers than any other port every year since 2010.",
+    "Shanghai sits on the Yangtze River Delta where the river meets the East China Sea.",
+    "Shanghai's name roughly translates to 'upon the sea'.",
+    "Expo 2010 in Shanghai drew around 73 million visitors, a record for a world's fair.",
+    "The white magnolia is Shanghai's official city flower.",
+    "The Longhua Temple pagoda is over 1,000 years old.",
+    "More than 24 million people live in Shanghai proper."
+  ],
+  "faq": [
+    {
+      "q": "Where is Shanghai located?",
+      "a": "Shanghai is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Shanghai?",
+      "a": "The greater Shanghai area is home to about 29,000,000 people."
+    },
+    {
+      "q": "What is Shanghai famous for?",
+      "a": "China's biggest city stacks a futuristic Pudong skyline over the historic Bund, with tree-lined French Concession streets, famous soup dumplings and the fastest commercial train on Earth."
+    },
+    {
+      "q": "Is Shanghai worth visiting?",
+      "a": "Yes — Shanghai was ranked #2 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Shanghai?",
+      "a": "Yes — IShowSpeed streamed from Shanghai during his 2025 China tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 2
+}

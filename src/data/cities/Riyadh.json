@@ -1,0 +1,140 @@
+{
+  "slug": "Riyadh",
+  "name": "Riyadh",
+  "region": "Middle East",
+  "country": "Saudi Arabia",
+  "metro": "7,700,000",
+  "seo": {
+    "title": "Riyadh Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Riyadh travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Riyadh.",
+    "keywords": "Riyadh, Riyadh travel guide, things to do in Riyadh, Riyadh fun facts, where to stay in Riyadh, Famous Cities"
+  },
+  "image": "Riyadh.png",
+  "video": "videos/riyadh.mp4",
+  "youtube": null,
+  "tagline": "Saudi Arabia's capital blends the mud-brick birthplace of the kingdom at Diriyah with the glass towers of the King Abdullah Financial District, ringed by desert cliffs at the Edge of the World.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Riyadh",
+    "twitter": "https://twitter.com/search?q=visit%20Riyadh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riyadh"
+  },
+  "overview": [
+    "Riyadh began as an oasis town on the Najd plateau — its name comes from the Arabic for 'gardens'. The story of modern Saudi Arabia started next door at Diriyah, seat of the first Saudi state in 1744, whose mud-brick At-Turaif quarter is now a UNESCO World Heritage Site.",
+    "After oil transformed the kingdom, Riyadh became its political and financial heart. The Kingdom Centre tower, with its inverted arch and sky bridge 99 floors up, and the glass-and-steel King Abdullah Financial District define the new skyline, while the 1902 capture of Masmak Fortress remains the founding legend of the modern state.",
+    "The desert is the city's playground: the Tuwaiq escarpment, nicknamed the Edge of the World, drops sheer cliffs over an ancient seabed about 90 minutes away. In winter, the Riyadh Season festival fills Boulevard Riyadh City with concerts, food and shows, and a brand-new metro system is reshaping how the city moves."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Riyadh&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Riyadh",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ruh/cheap-flights-to-riyadh.html"
+  },
+  "topThings": [
+    {
+      "icon": "⛰️",
+      "title": "Edge of the World Tour",
+      "desc": "Stand on Tuwaiq's cliffs above the endless desert plain.",
+      "viator": "https://www.viator.com/searchResults/all?text=Riyadh%20Edge%20of%20the%20World%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Riyadh%20Edge%20of%20the%20World%20tour"
+    },
+    {
+      "icon": "🏯",
+      "title": "Diriyah & At-Turaif",
+      "desc": "Explore the UNESCO mud-brick birthplace of Saudi Arabia.",
+      "viator": "https://www.viator.com/searchResults/all?text=Diriyah%20At-Turaif%20tour%20Riyadh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Diriyah%20At-Turaif%20tour%20Riyadh"
+    },
+    {
+      "icon": "🏙️",
+      "title": "Kingdom Centre & City Tour",
+      "desc": "Sky bridge views, Masmak Fortress and the old town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Riyadh%20city%20tour%20Kingdom%20Centre",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Riyadh%20city%20tour%20Kingdom%20Centre"
+    },
+    {
+      "icon": "🐫",
+      "title": "Desert Safari & Dinner",
+      "desc": "Dunes, camels, quad bikes and a desert camp dinner.",
+      "viator": "https://www.viator.com/searchResults/all?text=Riyadh%20desert%20safari%20dinner",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Riyadh%20desert%20safari%20dinner"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WHERE SAUDI ARABIA BEGAN",
+      "text": "Diriyah's At-Turaif district was the capital of the first Saudi state from 1744 and is a UNESCO World Heritage Site."
+    },
+    {
+      "title": "A NAME THAT MEANS GARDENS",
+      "text": "Riyadh comes from 'riyad', the plural of 'rawda', meaning gardens or meadows — after the oasis greenery."
+    },
+    {
+      "title": "THE BOTTLE OPENER",
+      "text": "The 302-metre Kingdom Centre tower is topped by an inverted arch with a glass sky bridge on the 99th floor."
+    },
+    {
+      "title": "THE EDGE OF THE WORLD",
+      "text": "The Tuwaiq escarpment's cliffs overlook an endless desert plain that was once the floor of an ocean."
+    },
+    {
+      "title": "A NEW METRO",
+      "text": "The Riyadh Metro, opened in 2024, is one of the largest metro systems ever built in a single phase."
+    },
+    {
+      "title": "THE FORTRESS RAID",
+      "text": "In 1902 Abdulaziz ibn Saud recaptured Masmak Fortress, the daring raid that began the unification of Saudi Arabia."
+    },
+    {
+      "title": "ONE OF THE FASTEST-GROWING",
+      "text": "Riyadh has grown from a town of under 200,000 in the 1950s to a metropolis of over 7 million."
+    },
+    {
+      "title": "A WINTER FESTIVAL",
+      "text": "Riyadh Season, launched in 2019, turns the city into months of concerts, boxing, food festivals and pop-ups."
+    },
+    {
+      "title": "FIRST SUNDAY",
+      "text": "Saudi Arabia's weekend runs Friday–Saturday, since Friday is the holy day."
+    },
+    {
+      "title": "CAMEL MARKETS",
+      "text": "Just outside the city, one of the Arabian Peninsula's largest camel markets still trades daily."
+    }
+  ],
+  "randomFacts": [
+    "Diriyah's At-Turaif district was the capital of the first Saudi state from 1744 and is a UNESCO World Heritage Site.",
+    "Riyadh comes from 'riyad', the plural of 'rawda', meaning gardens or meadows — after the oasis greenery.",
+    "The 302-metre Kingdom Centre tower is topped by an inverted arch with a glass sky bridge on the 99th floor.",
+    "The Tuwaiq escarpment's cliffs overlook an endless desert plain that was once the floor of an ocean.",
+    "The Riyadh Metro, opened in 2024, is one of the largest metro systems ever built in a single phase.",
+    "In 1902 Abdulaziz ibn Saud recaptured Masmak Fortress, the daring raid that began the unification of Saudi Arabia.",
+    "Riyadh has grown from a town of under 200,000 in the 1950s to a metropolis of over 7 million.",
+    "Riyadh Season, launched in 2019, turns the city into months of concerts, boxing, food festivals and pop-ups.",
+    "Saudi Arabia's weekend runs Friday–Saturday, since Friday is the holy day.",
+    "Just outside the city, one of the Arabian Peninsula's largest camel markets still trades daily.",
+    "Riyadh sits about 600 metres above sea level on the Najd plateau.",
+    "The National Museum tells Arabia's story from the creation of the universe onward.",
+    "Boulevard Riyadh City is a purpose-built entertainment district.",
+    "Arabic coffee, qahwa, with dates is the traditional welcome.",
+    "The city hosted the WWE Crown Jewel events and world title boxing."
+  ],
+  "faq": [
+    {
+      "q": "Where is Riyadh located?",
+      "a": "Riyadh is in Saudi Arabia, in the Middle East."
+    },
+    {
+      "q": "What is the population of Riyadh?",
+      "a": "The greater Riyadh area is home to about 7,700,000 people."
+    },
+    {
+      "q": "What is Riyadh famous for?",
+      "a": "Saudi Arabia's capital blends the mud-brick birthplace of the kingdom at Diriyah with the glass towers of the King Abdullah Financial District, ringed by desert cliffs at the Edge of the World."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

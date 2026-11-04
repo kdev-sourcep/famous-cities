@@ -1,0 +1,140 @@
+{
+  "slug": "Nosara",
+  "name": "Nosara",
+  "region": "North America",
+  "country": "Costa Rica",
+  "metro": "6,000",
+  "seo": {
+    "title": "Nosara Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Nosara travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Nosara.",
+    "keywords": "Nosara, Nosara travel guide, things to do in Nosara, Nosara fun facts, where to stay in Nosara, Famous Cities"
+  },
+  "image": "Nosara.png",
+  "video": "videos/nosara.mp4",
+  "youtube": null,
+  "tagline": "Costa Rica's quiet wellness capital hides behind a wall of jungle — no buildings on the beach, world-class yoga, gentle surf at Guiones and mass turtle arrivals at Ostional.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Nosara",
+    "twitter": "https://twitter.com/search?q=visit%20Nosara",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nosara"
+  },
+  "overview": [
+    "Nosara stayed small on purpose. An early 1970s beach community, the 'Nosara Project', set aside jungle corridors instead of oceanfront lots, so today the beaches of Guiones and Pelada are backed by trees, not towers. The result is one of the calmest beach towns in Costa Rica.",
+    "Playa Guiones runs for nearly 7 kilometres with a forgiving, consistent beach break that surf schools love. The town is one of Latin America's biggest yoga destinations — institutes like the Nosara Yoga Institute made it famous, and open-air shalas host retreats year-round.",
+    "Just north, the black-sand Ostional refuge hosts arribadas — mass nestings when tens of thousands of olive ridley turtles storm the beach at once, one of nature's great spectacles. Add the SIBU wildlife sanctuary, Pelada's blowhole and trails through the Blue Zone forest, and Nosara earns its reputation as the peninsula's peaceful soul."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Nosara&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Nosara",
+    "flights": "https://www.skyscanner.net/transport/flights/to/nob/cheap-flights-to-nosara.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏄",
+      "title": "Surf Lesson at Guiones",
+      "desc": "Learn on one of Costa Rica's gentlest beach breaks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nosara%20Guiones%20surf%20lesson",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nosara%20Guiones%20surf%20lesson"
+    },
+    {
+      "icon": "🐢",
+      "title": "Ostional Turtle Arribada",
+      "desc": "Witness a mass nesting with a certified wildlife guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ostional%20turtle%20arribada%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ostional%20turtle%20arribada%20tour"
+    },
+    {
+      "icon": "🧘",
+      "title": "Yoga Retreat Day",
+      "desc": "Take a class at one of the town's landmark studios.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nosara%20yoga%20retreat",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nosara%20yoga%20retreat"
+    },
+    {
+      "icon": "🐵",
+      "title": "Wildlife Sanctuary Visit",
+      "desc": "Meet rescued monkeys and learn local conservation.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nosara%20wildlife%20sanctuary%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nosara%20wildlife%20sanctuary%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A BLUE ZONE",
+      "text": "Nosara sits inside the Nicoya Blue Zone, where residents famously outlive the rest of the world."
+    },
+    {
+      "title": "JUNGLE INSTEAD OF HOTELS",
+      "text": "Beachfront lots were never built on — a 1970s plan left the shoreline wild."
+    },
+    {
+      "title": "THE ARRIBADA",
+      "text": "Ostional's mass turtle nestings can bring over 100,000 olive ridley turtles ashore in a few days."
+    },
+    {
+      "title": "A YOGA CAPITAL",
+      "text": "Nosara hosts some of the oldest yoga teacher-training schools in the Americas."
+    },
+    {
+      "title": "SEVEN KILOMETRES OF BREAK",
+      "text": "Playa Guiones's sandy, gentle waves make it a favourite for learning to surf."
+    },
+    {
+      "title": "A BLOWHOLE BEACH",
+      "text": "At Playa Pelada, waves blast through a sea cave blowhole at high tide."
+    },
+    {
+      "title": "ITS OWN AIRPORT",
+      "text": "Tiny Nosara Airport connects the town to San José in about 40 minutes by prop plane."
+    },
+    {
+      "title": "MONKEYS GET A SANCTUARY",
+      "text": "SIBU Sanctuary rescues and rehabilitates orphaned and injured wildlife."
+    },
+    {
+      "title": "ONE OF THE FIRST EXPAT COMMUNITIES",
+      "text": "The Nosara Project was one of Costa Rica's earliest planned international communities."
+    },
+    {
+      "title": "A TOWN WITH NO CENTRE",
+      "text": "Nosara sprawls through the jungle with no real downtown — directions use beaches and landmarks."
+    }
+  ],
+  "randomFacts": [
+    "Nosara sits inside the Nicoya Blue Zone, where residents famously outlive the rest of the world.",
+    "Beachfront lots were never built on — a 1970s plan left the shoreline wild.",
+    "Ostional's mass turtle nestings can bring over 100,000 olive ridley turtles ashore in a few days.",
+    "Nosara hosts some of the oldest yoga teacher-training schools in the Americas.",
+    "Playa Guiones's sandy, gentle waves make it a favourite for learning to surf.",
+    "At Playa Pelada, waves blast through a sea cave blowhole at high tide.",
+    "Tiny Nosara Airport connects the town to San José in about 40 minutes by prop plane.",
+    "SIBU Sanctuary rescues and rehabilitates orphaned and injured wildlife.",
+    "The Nosara Project was one of Costa Rica's earliest planned international communities.",
+    "Nosara sprawls through the jungle with no real downtown — directions use beaches and landmarks.",
+    "Nosara was once reachable only by ox-cart and small plane.",
+    "Olive ridley turtles return to the same beach where they hatched.",
+    "The local dish gallo pinto is rice and beans for breakfast.",
+    "Nosara's dirt roads turn to rivers in the September rains.",
+    "The town has no chain hotels or fast-food franchises."
+  ],
+  "faq": [
+    {
+      "q": "Where is Nosara located?",
+      "a": "Nosara is in Costa Rica, in North America."
+    },
+    {
+      "q": "What is the population of Nosara?",
+      "a": "The greater Nosara area is home to about 6,000 people."
+    },
+    {
+      "q": "What is Nosara famous for?",
+      "a": "Costa Rica's quiet wellness capital hides behind a wall of jungle — no buildings on the beach, world-class yoga, gentle surf at Guiones and mass turtle arrivals at Ostional."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

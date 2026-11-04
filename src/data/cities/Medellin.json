@@ -1,0 +1,144 @@
+{
+  "slug": "Medellin",
+  "name": "Medellín",
+  "region": "South America",
+  "country": "Colombia",
+  "metro": "4,000,000",
+  "seo": {
+    "title": "Medellín Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Medellín travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Medellín.",
+    "keywords": "Medellín, Medellín travel guide, things to do in Medellín, Medellín fun facts, where to stay in Medellín, Famous Cities"
+  },
+  "image": "Medellin.png",
+  "video": "videos/medellin.mp4",
+  "youtube": null,
+  "tagline": "Colombia's 'City of Eternal Spring' turned itself from the world's most dangerous city into a model of urban innovation, strung together by cable cars over green mountains. It is ranked #35 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Medell%C3%ADn",
+    "twitter": "https://twitter.com/search?q=visit%20Medell%C3%ADn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Medellín"
+  },
+  "overview": [
+    "Medellín sits in a mountain valley at 1,500 metres, giving it its famous springlike climate. Founded in 1675, it grew rich on coffee and textiles before the drug wars of the 1980s and 90s made it infamous — the era of Pablo Escobar cast a long shadow.",
+    "The turnaround since is one of urbanism's great stories. Metrocable gondolas link once-isolated hillside barrios to the metro, and Comuna 13, formerly a no-go zone, now welcomes visitors to escalators, street art and hip-hop tours. Botero Plaza displays 23 sculptures by Medellín's most famous artist.",
+    "Paisas — locals — fill the cafés of El Poblado and Laureles, dance salsa into the night, and welcome the world at August's Feria de las Flores flower festival. Day trips climb the rock of Guatapé over a lake of drowned valleys or ride the cable car into the forests of Parque Arví."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Medellín&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Medell%C3%ADn",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mde/cheap-flights-to-medell%C3%ADn.html"
+  },
+  "topThings": [
+    {
+      "icon": "🎨",
+      "title": "Comuna 13 Tour",
+      "desc": "Street art, escalators and the story of the transformation.",
+      "viator": "https://www.viator.com/searchResults/all?text=Medellin%20Comuna%2013%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Medellin%20Comuna%2013%20tour"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Guatapé & El Peñol",
+      "desc": "Climb the giant rock and cruise the lake on a day trip.",
+      "viator": "https://www.viator.com/searchResults/all?text=Guatape%20day%20trip%20from%20Medellin",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Guatape%20day%20trip%20from%20Medellin"
+    },
+    {
+      "icon": "🚡",
+      "title": "Metrocable to Parque Arví",
+      "desc": "Ride the gondola over the barrios into the forest park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Medellin%20metrocable%20Parque%20Arvi%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Medellin%20metrocable%20Parque%20Arvi%20tour"
+    },
+    {
+      "icon": "☕",
+      "title": "Coffee Farm Tour",
+      "desc": "Pick, roast and taste beans on a working coffee farm.",
+      "viator": "https://www.viator.com/searchResults/all?text=Medellin%20coffee%20farm%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Medellin%20coffee%20farm%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE GREAT TURNAROUND",
+      "text": "Once called the world's most violent city, Medellín won awards as the world's most innovative city in 2013."
+    },
+    {
+      "title": "ETERNAL SPRING",
+      "text": "At 1,500 metres on the equator, temperatures sit near 22°C all year."
+    },
+    {
+      "title": "METROCABLES",
+      "text": "Medellín pioneered commuter cable cars, carrying millions a year over the barrios."
+    },
+    {
+      "title": "COMUNA 13",
+      "text": "Outdoor escalators climb the hillside of a neighbourhood once ruled by gangs — now a street-art destination."
+    },
+    {
+      "title": "BOTERO'S HOMETOWN",
+      "text": "Fernando Botero, famous for his 'fat' sculptures, donated dozens of works to the plaza and museum."
+    },
+    {
+      "title": "THE FLOWER FESTIVAL",
+      "text": "August's Feria de las Flores fills the city with parades and farmers carrying giant flower arrangements."
+    },
+    {
+      "title": "A ROCK TO CLIMB",
+      "text": "The Piedra del Peñol near Guatapé rewards 740 steps with a view over a maze of blue-water islands."
+    },
+    {
+      "title": "COFFEE COUNTRY",
+      "text": "The city is the gateway to Colombia's UNESCO-listed Coffee Triangle."
+    },
+    {
+      "title": "ONLY METRO IN COLOMBIA",
+      "text": "Medellín's metro is the country's only one — a point of intense local pride."
+    },
+    {
+      "title": "SALSA CAPITAL",
+      "text": "Thousands of paisas pack the salsa bars of La 70 every weekend."
+    }
+  ],
+  "randomFacts": [
+    "Once called the world's most violent city, Medellín won awards as the world's most innovative city in 2013.",
+    "At 1,500 metres on the equator, temperatures sit near 22°C all year.",
+    "Medellín pioneered commuter cable cars, carrying millions a year over the barrios.",
+    "Outdoor escalators climb the hillside of a neighbourhood once ruled by gangs — now a street-art destination.",
+    "Fernando Botero, famous for his 'fat' sculptures, donated dozens of works to the plaza and museum.",
+    "August's Feria de las Flores fills the city with parades and farmers carrying giant flower arrangements.",
+    "The Piedra del Peñol near Guatapé rewards 740 steps with a view over a maze of blue-water islands.",
+    "The city is the gateway to Colombia's UNESCO-listed Coffee Triangle.",
+    "Medellín's metro is the country's only one — a point of intense local pride.",
+    "Thousands of paisas pack the salsa bars of La 70 every weekend.",
+    "Paisa is what Colombians call people from the Antioquia region.",
+    "Bandeja paisa, the giant local platter, can feed two easily.",
+    "Medellín is a hub for digital nomads, drawn by the climate and cost.",
+    "The city's Christmas lights are famous across Latin America.",
+    "Guatapé's houses are painted with colorful bas-relief 'zócalos'."
+  ],
+  "faq": [
+    {
+      "q": "Where is Medellín located?",
+      "a": "Medellín is in Colombia, in South America."
+    },
+    {
+      "q": "What is the population of Medellín?",
+      "a": "The greater Medellín area is home to about 4,000,000 people."
+    },
+    {
+      "q": "What is Medellín famous for?",
+      "a": "Colombia's 'City of Eternal Spring' turned itself from the world's most dangerous city into a model of urban innovation, strung together by cable cars over green mountains."
+    },
+    {
+      "q": "Is Medellín worth visiting?",
+      "a": "Yes — Medellín was ranked #35 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": 35
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Nairobi",
+  "name": "Nairobi",
+  "region": "Africa",
+  "country": "Kenya",
+  "metro": "5,300,000",
+  "seo": {
+    "title": "Nairobi Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Nairobi travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Nairobi.",
+    "keywords": "Nairobi, Nairobi travel guide, things to do in Nairobi, Nairobi fun facts, where to stay in Nairobi, Famous Cities"
+  },
+  "image": "Nairobi.png",
+  "video": "videos/nairobi.mp4",
+  "youtube": null,
+  "tagline": "The only capital with a safari inside it — lions and giraffes graze at the city's edge, ten minutes from markets, matatu art and nyama choma.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Nairobi",
+    "twitter": "https://twitter.com/search?q=visit%20Nairobi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nairobi"
+  },
+  "overview": [
+    "Nairobi is the only capital on earth with a full national park inside its boundaries — Nairobi National Park's lions, rhinos and giraffes roam against a backdrop of skyscrapers, and the giraffe centre at Karen adds a gentler encounter.",
+    "The city grew from a swampy railway camp ('cool water' in Maasai) into East Africa's economic engine — and its energy is in the streets: the open-air Maasai Market, the art-covered matatu minibuses, and the smoke of nyama choma (roast meat) joints at night.",
+    "Speed's 2025 Africa tour streamed from Nairobi to wild crowds. For travellers it's the gateway — the park at dawn, orphaned elephants at the Sheldrick sanctuary at noon, dinner in the city by night, then out to the Mara or Amboseli."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Nairobi&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Nairobi",
+    "flights": "https://www.skyscanner.net/transport/flights/to/nbo/cheap-flights-to-nairobi.html"
+  },
+  "topThings": [
+    {
+      "icon": "🦁",
+      "title": "National Park Safari",
+      "desc": "Lions at dawn with the skyline behind.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nairobi%20National%20Park%20safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nairobi%20National%20Park%20safari"
+    },
+    {
+      "icon": "🐘",
+      "title": "Elephants & Giraffes",
+      "desc": "Sheldrick orphanage plus the Giraffe Centre.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nairobi%20elephant%20orphanage%20giraffe%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nairobi%20elephant%20orphanage%20giraffe%20tour"
+    },
+    {
+      "icon": "🏡",
+      "title": "Karen Blixen & Crafts",
+      "desc": "The Out of Africa house and bead workshops.",
+      "viator": "https://www.viator.com/searchResults/all?text=Karen%20Blixen%20museum%20tour%20Nairobi",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Karen%20Blixen%20museum%20tour%20Nairobi"
+    },
+    {
+      "icon": "🍛",
+      "title": "Street-Food Walk",
+      "desc": "Nyama choma and market eats with a local.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nairobi%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nairobi%20street%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A SAFARI IN THE CITY",
+      "text": "Nairobi National Park's lions and giraffes graze 7km from downtown — skyline visible behind the zebras."
+    },
+    {
+      "title": "THE RAILWAY SWAMP",
+      "text": "The city began as an 1899 rail depot on Maasai land — 'Enkare Nairobi' means cool water."
+    },
+    {
+      "title": "THE BABY ELEPHANTS",
+      "text": "The Sheldrick Wildlife Trust rears orphaned elephants — visitors watch the mud-bath feedings."
+    },
+    {
+      "title": "FEED A GIRAFFE",
+      "text": "The Giraffe Centre lets you hand-feed Rothschild giraffes — next door to the famous manor."
+    },
+    {
+      "title": "MATATU CULTURE",
+      "text": "Nairobi's minibus taxis are rolling art galleries with DJ sound systems."
+    },
+    {
+      "title": "THE GREEN LUNG",
+      "text": "Karura Forest's waterfalls and trails sit inside the city — saved from developers by Wangari Maathai."
+    },
+    {
+      "title": "KAREN BLIXEN'S FARM",
+      "text": "The Out of Africa author's house is a museum in the suburb named for her."
+    },
+    {
+      "title": "SILICON SAVANNAH",
+      "text": "Mobile money (M-Pesa) was invented here — Nairobi leads East African tech."
+    },
+    {
+      "title": "NYAMA CHOMA NIGHTS",
+      "text": "Roast goat or beef with ugali is the national night out."
+    },
+    {
+      "title": "A MILE-HIGH CITY",
+      "text": "At ~1,795m the climate stays springlike year-round on the equator."
+    }
+  ],
+  "randomFacts": [
+    "Nairobi National Park's lions and giraffes graze 7km from downtown — skyline visible behind the zebras.",
+    "The city began as an 1899 rail depot on Maasai land — 'Enkare Nairobi' means cool water.",
+    "The Sheldrick Wildlife Trust rears orphaned elephants — visitors watch the mud-bath feedings.",
+    "The Giraffe Centre lets you hand-feed Rothschild giraffes — next door to the famous manor.",
+    "Nairobi's minibus taxis are rolling art galleries with DJ sound systems.",
+    "Karura Forest's waterfalls and trails sit inside the city — saved from developers by Wangari Maathai.",
+    "The Out of Africa author's house is a museum in the suburb named for her.",
+    "Mobile money (M-Pesa) was invented here — Nairobi leads East African tech.",
+    "Roast goat or beef with ugali is the national night out.",
+    "At ~1,795m the climate stays springlike year-round on the equator.",
+    "You can watch lions against the skyline at sunrise.",
+    "The Maasai Market moves location by weekday.",
+    "Tusker is the local beer of choice.",
+    "The airport is Africa's flower-export gateway.",
+    "Kibera tours work directly with resident guides."
+  ],
+  "faq": [
+    {
+      "q": "Where is Nairobi located?",
+      "a": "Nairobi is in Kenya, in Africa."
+    },
+    {
+      "q": "What is the population of Nairobi?",
+      "a": "The greater Nairobi area is home to about 5,300,000 people."
+    },
+    {
+      "q": "What is Nairobi famous for?",
+      "a": "Nairobi is famous for the only capital with a safari inside it — Nairobi National Park's lions and giraffes against the skyline."
+    },
+    {
+      "q": "Did IShowSpeed stream from Nairobi?",
+      "a": "Yes — IShowSpeed streamed from Nairobi on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

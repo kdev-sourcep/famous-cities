@@ -1,0 +1,144 @@
+{
+  "slug": "Helsinki",
+  "name": "Helsinki",
+  "region": "Europe",
+  "country": "Finland",
+  "metro": "1,500,000",
+  "seo": {
+    "title": "Helsinki Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Helsinki travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Helsinki.",
+    "keywords": "Helsinki, Helsinki travel guide, things to do in Helsinki, Helsinki fun facts, where to stay in Helsinki, Famous Cities"
+  },
+  "image": "Helsinki.png",
+  "video": "videos/helsinki.mp4",
+  "youtube": null,
+  "tagline": "Finland's design capital where a church is carved into rock, ferries hop to sea fortresses, and sauna is a birthright.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Helsinki",
+    "twitter": "https://twitter.com/search?q=visit%20Helsinki",
+    "wikipedia": "https://en.wikipedia.org/wiki/Helsinki"
+  },
+  "overview": [
+    "Helsinki sits on a Baltic peninsula wrapped in islands, a compact capital that pairs neoclassical Senate Square with Alvar Aalto's modernist lines and a famous design district.",
+    "The city's strangest landmark is carved, not built: Temppeliaukio 'Rock Church' was quarried straight into a granite outcrop, its copper dome ringed by rough stone. The harbour's Market Square sells salmon soup beside the ferry piers, and the Suomenlinna sea fortress sprawls across six islands 15 minutes offshore.",
+    "Speed's 2024 tour streamed from Helsinki. Sauna is not optional culture — Finland counts roughly one sauna per two people, and Helsinki's public ones (Löyly, Allas) sit on the waterfront where you plunge into the Baltic between steams."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Helsinki&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Helsinki",
+    "flights": "https://www.skyscanner.net/transport/flights/to/hel/cheap-flights-to-helsinki.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Suomenlinna Fortress",
+      "desc": "UNESCO sea fortress by ferry.",
+      "viator": "https://www.viator.com/searchResults/all?text=Suomenlinna%20Helsinki%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Suomenlinna%20Helsinki%20tour"
+    },
+    {
+      "icon": "🧖",
+      "title": "Sauna & Sea Dip",
+      "desc": "Löyly or Allas — steam then Baltic plunge.",
+      "viator": "https://www.viator.com/searchResults/all?text=Helsinki%20sauna%20experience",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Helsinki%20sauna%20experience"
+    },
+    {
+      "icon": "🚶",
+      "title": "Design & City Walk",
+      "desc": "Rock Church, Aalto buildings, Design District.",
+      "viator": "https://www.viator.com/searchResults/all?text=Helsinki%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Helsinki%20walking%20tour"
+    },
+    {
+      "icon": "🚢",
+      "title": "Helsinki–Tallinn Day Trip",
+      "desc": "Two capitals in one day by ferry.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tallinn%20day%20trip%20from%20Helsinki",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tallinn%20day%20trip%20from%20Helsinki"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A CHURCH IN ROCK",
+      "text": "Temppeliaukio Church was blasted into solid granite in 1969 — world-class acoustics inside."
+    },
+    {
+      "title": "SAUNA PER TWO PEOPLE",
+      "text": "Finland has ~3.3 million saunas for 5.5 million people — Helsinki offers public ones on the sea."
+    },
+    {
+      "title": "THE WHITE CITY",
+      "text": "Helsinki is nicknamed the White City of the North for its pale neoclassical core."
+    },
+    {
+      "title": "A FORTRESS ISLAND",
+      "text": "Suomenlinna, an 18th-century sea fortress on six islands, is UNESCO-listed."
+    },
+    {
+      "title": "DESIGN CAPITAL",
+      "text": "Marimekko, Iittala and Alvar Aalto all call Helsinki home — the Design District is walkable."
+    },
+    {
+      "title": "KAUPPATORI",
+      "text": "The harbour Market Square sells salmon soup and smoked fish beside the docks."
+    },
+    {
+      "title": "WINTER SWIMMING",
+      "text": "Locals cut ice holes for winter dips — then sauna."
+    },
+    {
+      "title": "TALLINN IS A FERRY AWAY",
+      "text": "Estonia's capital is 2 hours across the Gulf — locals commute."
+    },
+    {
+      "title": "MIDNIGHT SUN SEASON",
+      "text": "June days stretch past 18 hours; December gives you ~5."
+    },
+    {
+      "title": "SILENT DISCO STREETS",
+      "text": "Helsinki ranked world's happiest-city lists — the Finnish quiet is part of it."
+    }
+  ],
+  "randomFacts": [
+    "Temppeliaukio Church was blasted into solid granite in 1969 — world-class acoustics inside.",
+    "Finland has ~3.3 million saunas for 5.5 million people — Helsinki offers public ones on the sea.",
+    "Helsinki is nicknamed the White City of the North for its pale neoclassical core.",
+    "Suomenlinna, an 18th-century sea fortress on six islands, is UNESCO-listed.",
+    "Marimekko, Iittala and Alvar Aalto all call Helsinki home — the Design District is walkable.",
+    "The harbour Market Square sells salmon soup and smoked fish beside the docks.",
+    "Locals cut ice holes for winter dips — then sauna.",
+    "Estonia's capital is 2 hours across the Gulf — locals commute.",
+    "June days stretch past 18 hours; December gives you ~5.",
+    "Helsinki ranked world's happiest-city lists — the Finnish quiet is part of it.",
+    "Finns invented 'sisu' — grit beyond bravery.",
+    "The National Museum's ceiling depicts the Kalevala epic.",
+    "Helsinki trams have a pub tram in summer.",
+    "The city hosted Eurovision in 2007 after Lordi's monster win.",
+    "Reindeer appears on menus — with lingonberries."
+  ],
+  "faq": [
+    {
+      "q": "Where is Helsinki located?",
+      "a": "Helsinki is in Finland, in Europe."
+    },
+    {
+      "q": "What is the population of Helsinki?",
+      "a": "The greater Helsinki area is home to about 1,500,000 people."
+    },
+    {
+      "q": "What is Helsinki famous for?",
+      "a": "Helsinki is famous for Finnish design, the Rock Church carved into granite, harbour markets, sauna culture and Baltic island fortresses."
+    },
+    {
+      "q": "Did IShowSpeed stream from Helsinki?",
+      "a": "Yes — IShowSpeed streamed from Helsinki on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

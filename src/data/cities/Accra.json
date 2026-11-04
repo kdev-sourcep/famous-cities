@@ -1,0 +1,144 @@
+{
+  "slug": "Accra",
+  "name": "Accra",
+  "region": "Africa",
+  "country": "Ghana",
+  "metro": "4,000,000",
+  "seo": {
+    "title": "Accra Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Accra travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Accra.",
+    "keywords": "Accra, Accra travel guide, things to do in Accra, Accra fun facts, where to stay in Accra, Famous Cities"
+  },
+  "image": "Accra.png",
+  "video": "videos/accra.mp4",
+  "youtube": null,
+  "tagline": "Ghana's golden-coast capital — Makola's market maze, Labadi's beach drums, and the city behind the 'Year of Return' diaspora welcome.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Accra",
+    "twitter": "https://twitter.com/search?q=visit%20Accra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Accra"
+  },
+  "overview": [
+    "Accra has become the gateway for the African diaspora's homecoming — the 'Year of Return' (2019) and 'Beyond the Return' drew hundreds of thousands of visitors tracing ancestry and culture to Ghana's coast.",
+    "The city itself rewards days: Makola Market's organised chaos, the fishing canoes and boxing gyms of Jamestown beneath its lighthouse, Independence Square's Black Star Gate, and Labadi Beach's drummers and horses at dusk.",
+    "Speed's 2025 Africa stop streamed from Accra to big crowds. The food is the memory that stays — banku and grilled tilapia, red red (beans and plantain), and the jollof that fuels a friendly war with Lagos."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Accra&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Accra",
+    "flights": "https://www.skyscanner.net/transport/flights/to/acc/cheap-flights-to-accra.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏙️",
+      "title": "Accra City Tour",
+      "desc": "Black Star Square, Jamestown and Makola.",
+      "viator": "https://www.viator.com/searchResults/all?text=Accra%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Accra%20city%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Cape Coast Castles",
+      "desc": "The slave castles day trip west.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cape%20Coast%20Elmina%20castles%20tour%20from%20Accra",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cape%20Coast%20Elmina%20castles%20tour%20from%20Accra"
+    },
+    {
+      "icon": "🍛",
+      "title": "Makola Food Walk",
+      "desc": "Market tastings with a local guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Accra%20food%20market%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Accra%20food%20market%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Labadi Beach Evening",
+      "desc": "Drummers, horses and the Sunday crowd.",
+      "viator": "https://www.viator.com/searchResults/all?text=Labadi%20beach%20Accra",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Labadi%20beach%20Accra"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE YEAR OF RETURN",
+      "text": "2019 marked 400 years since the first enslaved Africans reached Virginia — Ghana invited the diaspora home and they came."
+    },
+    {
+      "title": "BLACK STAR GATE",
+      "text": "Independence Square's monument honours Ghana's 1957 freedom — first in sub-Saharan Africa."
+    },
+    {
+      "title": "MAKOLA'S MAZE",
+      "text": "Makola Market is run largely by women traders — a labyrinth of fabric, food and everything."
+    },
+    {
+      "title": "JAMESTOWN'S LIGHTHOUSE",
+      "text": "The 1930s lighthouse overlooks fishing canoes and Ghana's boxing-gym heartland."
+    },
+    {
+      "title": "THE JOLLOF WAR",
+      "text": "Ghana-vs-Nigeria jollof is West Africa's longest-running delicious dispute."
+    },
+    {
+      "title": "KENTE COUNTRY",
+      "text": "Royal Ashanti kente cloth is woven nearby — every pattern carries a meaning."
+    },
+    {
+      "title": "OXFORD STREET",
+      "text": "Osu's main strip is the centre for restaurants, bars and craft stalls."
+    },
+    {
+      "title": "SLAVE-COAST HISTORY",
+      "text": "Cape Coast and Elmina castles, a day trip west, were the last African ground many ancestors touched."
+    },
+    {
+      "title": "LABADI SUNDAYS",
+      "text": "Labadi Beach fills on weekends with drummers, dancers and horse rides."
+    },
+    {
+      "title": "DU BOIS' HOUSE",
+      "text": "W.E.B. Du Bois spent his final years here — his house is now a memorial library."
+    }
+  ],
+  "randomFacts": [
+    "2019 marked 400 years since the first enslaved Africans reached Virginia — Ghana invited the diaspora home and they came.",
+    "Independence Square's monument honours Ghana's 1957 freedom — first in sub-Saharan Africa.",
+    "Makola Market is run largely by women traders — a labyrinth of fabric, food and everything.",
+    "The 1930s lighthouse overlooks fishing canoes and Ghana's boxing-gym heartland.",
+    "Ghana-vs-Nigeria jollof is West Africa's longest-running delicious dispute.",
+    "Royal Ashanti kente cloth is woven nearby — every pattern carries a meaning.",
+    "Osu's main strip is the centre for restaurants, bars and craft stalls.",
+    "Cape Coast and Elmina castles, a day trip west, were the last African ground many ancestors touched.",
+    "Labadi Beach fills on weekends with drummers, dancers and horse rides.",
+    "W.E.B. Du Bois spent his final years here — his house is now a memorial library.",
+    "Ghanaians greet with 'akwaaba' — welcome.",
+    "Tro-tro minibuses cover the city for pennies.",
+    "Fantasy coffins shaped like cars and fish are built nearby in Teshie.",
+    "Chop bars serve banku and grilled tilapia.",
+    "The presidential seat is called the Flagstaff House."
+  ],
+  "faq": [
+    {
+      "q": "Where is Accra located?",
+      "a": "Accra is in Ghana, in Africa."
+    },
+    {
+      "q": "What is the population of Accra?",
+      "a": "The greater Accra area is home to about 4,000,000 people."
+    },
+    {
+      "q": "What is Accra famous for?",
+      "a": "Accra is famous for Ghana's golden-coast capital — Makola Market, Jamestown lighthouse, Black Star Square and the 'Year of Return' welcome."
+    },
+    {
+      "q": "Did IShowSpeed stream from Accra?",
+      "a": "Yes — IShowSpeed streamed from Accra on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

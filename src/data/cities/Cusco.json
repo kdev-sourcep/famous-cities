@@ -1,0 +1,144 @@
+{
+  "slug": "Cusco",
+  "name": "Cusco",
+  "region": "South America",
+  "country": "Peru",
+  "metro": "450,000",
+  "seo": {
+    "title": "Cusco Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Cusco travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Cusco.",
+    "keywords": "Cusco, Cusco travel guide, things to do in Cusco, Cusco fun facts, where to stay in Cusco, Famous Cities"
+  },
+  "image": "Cusco.png",
+  "video": "videos/cusco.mp4",
+  "youtube": null,
+  "tagline": "The Inca capital sits at 3,400 metres, its Spanish churches built on earthquake-proof Inca walls — and the gateway to Machu Picchu and the Sacred Valley.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Cusco",
+    "twitter": "https://twitter.com/search?q=visit%20Cusco",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cusco"
+  },
+  "overview": [
+    "Cusco was the navel of the Inca Empire — its name means 'centre' in Quechua. When the Spanish conquered it in 1533 they built their churches and palaces directly on Inca foundations, so today colonial arcades rise over walls of perfectly fitted stone.",
+    "The city itself is a wonder: the Plaza de Armas ringed by arcades, the cathedral holding the famous painting of a Last Supper with guinea pig, and the Qorikancha, once the Incas' richest temple of the sun. Above town, the zigzag walls of Sacsayhuamán fit stones weighing over 100 tonnes.",
+    "Almost everyone is passing through — to Machu Picchu by train or the Inca Trail, to the Sacred Valley's markets and ruins, to Rainbow Mountain's striped slopes or Humantay's turquoise lake. At 3,400 metres, take the first day easy and drink the coca tea."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cusco&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Cusco",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cuz/cheap-flights-to-cusco.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏔️",
+      "title": "Machu Picchu Day Trip",
+      "desc": "Train through the valley to the lost city of the Incas.",
+      "viator": "https://www.viator.com/searchResults/all?text=Machu%20Picchu%20day%20trip%20from%20Cusco",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Machu%20Picchu%20day%20trip%20from%20Cusco"
+    },
+    {
+      "icon": "🧵",
+      "title": "Sacred Valley Tour",
+      "desc": "Pisac's market, Ollantaytambo's fortress and the salt terraces.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sacred%20Valley%20tour%20from%20Cusco",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sacred%20Valley%20tour%20from%20Cusco"
+    },
+    {
+      "icon": "🏞️",
+      "title": "Rainbow Mountain",
+      "desc": "Hike to the famous striped peak at 5,000 metres.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rainbow%20Mountain%20tour%20from%20Cusco",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rainbow%20Mountain%20tour%20from%20Cusco"
+    },
+    {
+      "icon": "🧯",
+      "title": "City & Ruins Tour",
+      "desc": "Sacsayhuamán, Qorikancha and the cathedral in one day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cusco%20city%20tour%20ruins",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cusco%20city%20tour%20ruins"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE INCAS' CAPITAL",
+      "text": "Cusco was the capital of Tawantinsuyu, the largest empire in pre-Columbian America."
+    },
+    {
+      "title": "EARTHQUAKE-PROOF STONES",
+      "text": "Inca walls fitted without mortar have survived earthquakes that toppled the Spanish buildings on top."
+    },
+    {
+      "title": "A TEMPLE UNDER A CHURCH",
+      "text": "The Convent of Santo Domingo stands on Qorikancha, the Incas' gold-covered Temple of the Sun."
+    },
+    {
+      "title": "GUINEA PIG FOR SUPPER",
+      "text": "The cathedral holds a famous painting of the Last Supper where Jesus and the disciples eat cuy — guinea pig."
+    },
+    {
+      "title": "A CITY SHAPED LIKE A PUMA",
+      "text": "The Incas supposedly laid out Cusco in the shape of a puma, with Sacsayhuamán as the head."
+    },
+    {
+      "title": "HIGHER THAN THE CITY",
+      "text": "At 3,400 metres, Cusco is higher than most of the Inca sites visitors use it to reach."
+    },
+    {
+      "title": "THE INCA TRAIL",
+      "text": "The 4-day trail to Machu Picchu is so popular that permits sell out months ahead."
+    },
+    {
+      "title": "A RAINBOW MOUNTAIN",
+      "text": "Vinicunca's stripes of mineral colour became world-famous after snow melt revealed them around 2015."
+    },
+    {
+      "title": "STONE OF TWELVE ANGLES",
+      "text": "A famous street stone fits into its wall with twelve angles, without mortar."
+    },
+    {
+      "title": "WORLD HERITAGE TWICE",
+      "text": "The historic centre is UNESCO-listed, and the surrounding valley holds dozens of Inca sites."
+    }
+  ],
+  "randomFacts": [
+    "Cusco was the capital of Tawantinsuyu, the largest empire in pre-Columbian America.",
+    "Inca walls fitted without mortar have survived earthquakes that toppled the Spanish buildings on top.",
+    "The Convent of Santo Domingo stands on Qorikancha, the Incas' gold-covered Temple of the Sun.",
+    "The cathedral holds a famous painting of the Last Supper where Jesus and the disciples eat cuy — guinea pig.",
+    "The Incas supposedly laid out Cusco in the shape of a puma, with Sacsayhuamán as the head.",
+    "At 3,400 metres, Cusco is higher than most of the Inca sites visitors use it to reach.",
+    "The 4-day trail to Machu Picchu is so popular that permits sell out months ahead.",
+    "Vinicunca's stripes of mineral colour became world-famous after snow melt revealed them around 2015.",
+    "A famous street stone fits into its wall with twelve angles, without mortar.",
+    "The historic centre is UNESCO-listed, and the surrounding valley holds dozens of Inca sites.",
+    "Coca tea is the local cure for altitude sickness.",
+    "Cusco's airport code is CUZ.",
+    "Alpaca steaks and soups fill the San Pedro market.",
+    "The Inti Raymi sun festival re-enacts Inca rituals each June.",
+    "Quechua is still spoken daily throughout the valley."
+  ],
+  "faq": [
+    {
+      "q": "Where is Cusco located?",
+      "a": "Cusco is in Peru, in South America."
+    },
+    {
+      "q": "What is the population of Cusco?",
+      "a": "The greater Cusco area is home to about 450,000 people."
+    },
+    {
+      "q": "What is Cusco famous for?",
+      "a": "The Inca capital sits at 3,400 metres, its Spanish churches built on earthquake-proof Inca walls — and the gateway to Machu Picchu and the Sacred Valley."
+    },
+    {
+      "q": "Did IShowSpeed stream from Cusco?",
+      "a": "Yes — IShowSpeed streamed from Cusco and Machu Picchu during his 2025 South America tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

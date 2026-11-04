@@ -4,3 +4,7 @@ mp4 folder/
 .DS_Store
 *.bak*
 index 2.html
+# Astro
+node_modules/
+dist/
+.astro/

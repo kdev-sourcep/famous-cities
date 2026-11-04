@@ -1,0 +1,140 @@
+{
+  "slug": "La-Fortuna",
+  "name": "La Fortuna",
+  "region": "North America",
+  "country": "Costa Rica",
+  "metro": "20,000",
+  "seo": {
+    "title": "La Fortuna Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "La Fortuna travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in La Fortuna.",
+    "keywords": "La Fortuna, La Fortuna travel guide, things to do in La Fortuna, La Fortuna fun facts, where to stay in La Fortuna, Famous Cities"
+  },
+  "image": "La-Fortuna.png",
+  "video": "videos/la-fortuna.mp4",
+  "youtube": null,
+  "tagline": "The adventure capital of Costa Rica sits beneath the perfect cone of Arenal Volcano, ringed by rainforest, hanging bridges and resorts built around natural hot springs.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20La%20Fortuna",
+    "twitter": "https://twitter.com/search?q=visit%20La%20Fortuna",
+    "wikipedia": "https://en.wikipedia.org/wiki/La_Fortuna,_Costa_Rica"
+  },
+  "overview": [
+    "La Fortuna began as a farming town at the foot of a mountain locals thought was dormant — until Arenal erupted without warning in 1968, burying nearby villages. The volcano rumbled and flowed for 42 years before falling quiet again in 2010, and its near-perfect cone still dominates the town.",
+    "The heat never really left. Underground volcanic activity feeds the hot springs resorts that line the road to the national park, from luxury rivers at Tabacón to simpler pools where locals soak. Above the forest, hanging bridge parks like Místico string walkways through the canopy where sloths, toucans and howler monkeys live.",
+    "The town is Costa Rica's adventure hub: whitewater rafting on the Balsa river, rappelling down canyon waterfalls, zip-lining over the jungle and hiking the old lava fields. The 70-metre La Fortuna Waterfall plunges into a jungle pool minutes from town, and vast Lake Arenal draws windsurfers and kayakers."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=La Fortuna&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=La%20Fortuna",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sjo/cheap-flights-to-la%20fortuna.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌋",
+      "title": "Arenal Volcano Hike",
+      "desc": "Walk old lava fields to viewpoints with a naturalist guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Arenal%20Volcano%20hike%20La%20Fortuna",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Arenal%20Volcano%20hike%20La%20Fortuna"
+    },
+    {
+      "icon": "♨️",
+      "title": "Hot Springs Day Pass",
+      "desc": "Soak in volcano-heated rivers and pools at a resort.",
+      "viator": "https://www.viator.com/searchResults/all?text=Arenal%20hot%20springs%20day%20pass",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Arenal%20hot%20springs%20day%20pass"
+    },
+    {
+      "icon": "🌉",
+      "title": "Hanging Bridges Tour",
+      "desc": "Cross canopy walkways for sloths, birds and volcano views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Arenal%20hanging%20bridges%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Arenal%20hanging%20bridges%20tour"
+    },
+    {
+      "icon": "💦",
+      "title": "Waterfall & Rafting Combo",
+      "desc": "Swim under La Fortuna Waterfall and raft the Balsa river.",
+      "viator": "https://www.viator.com/searchResults/all?text=La%20Fortuna%20waterfall%20rafting%20combo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=La%20Fortuna%20waterfall%20rafting%20combo"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "IT ERUPTED IN 1968",
+      "text": "Arenal exploded after centuries asleep, wiping out two villages and staying active for 42 more years."
+    },
+    {
+      "title": "THE NAME MEANS LUCKY",
+      "text": "Locals renamed the town La Fortuna — 'the fortunate one' — because the 1968 eruption flowed away from it."
+    },
+    {
+      "title": "NATURALLY HEATED POOLS",
+      "text": "Arenal's underground heat warms the hot springs resorts to around 38°C without any pumps or heaters."
+    },
+    {
+      "title": "A 70-METRE WATERFALL",
+      "text": "La Fortuna Waterfall drops into a jade pool reached by about 500 jungle steps."
+    },
+    {
+      "title": "SLOTH CAPITAL",
+      "text": "The Bogarín Trail and nearby forests are among the easiest places on Earth to spot sloths in the wild."
+    },
+    {
+      "title": "COSTA RICA'S BIGGEST LAKE",
+      "text": "Lake Arenal, enlarged by a dam, generates a large share of the country's hydroelectric power."
+    },
+    {
+      "title": "BRIDGES IN THE CANOPY",
+      "text": "Hanging bridge trails rise over 40 metres, putting visitors level with monkeys and toucans."
+    },
+    {
+      "title": "HALF THE COUNTRY'S BIRDS",
+      "text": "The Arenal region hosts hundreds of bird species — nearly half of all found in Costa Rica."
+    },
+    {
+      "title": "A YOUNG VOLCANO",
+      "text": "Arenal is geologically young, only about 7,000 years old, which is why its cone is so symmetrical."
+    },
+    {
+      "title": "CHOCOLATE COUNTRY",
+      "text": "The foothills around La Fortuna grow cacao, and farm tours show chocolate made by hand."
+    }
+  ],
+  "randomFacts": [
+    "Arenal exploded after centuries asleep, wiping out two villages and staying active for 42 more years.",
+    "Locals renamed the town La Fortuna — 'the fortunate one' — because the 1968 eruption flowed away from it.",
+    "Arenal's underground heat warms the hot springs resorts to around 38°C without any pumps or heaters.",
+    "La Fortuna Waterfall drops into a jade pool reached by about 500 jungle steps.",
+    "The Bogarín Trail and nearby forests are among the easiest places on Earth to spot sloths in the wild.",
+    "Lake Arenal, enlarged by a dam, generates a large share of the country's hydroelectric power.",
+    "Hanging bridge trails rise over 40 metres, putting visitors level with monkeys and toucans.",
+    "The Arenal region hosts hundreds of bird species — nearly half of all found in Costa Rica.",
+    "Arenal is geologically young, only about 7,000 years old, which is why its cone is so symmetrical.",
+    "The foothills around La Fortuna grow cacao, and farm tours show chocolate made by hand.",
+    "'Pura vida' is Costa Rica's national catchphrase.",
+    "Howler monkey calls can carry 5 kilometres through forest.",
+    "Costa Rica abolished its army in 1948.",
+    "Around 25% of Costa Rica is protected land.",
+    "Arenal National Park has two volcanoes: Arenal and dormant Chato."
+  ],
+  "faq": [
+    {
+      "q": "Where is La Fortuna located?",
+      "a": "La Fortuna is in Costa Rica, in North America."
+    },
+    {
+      "q": "What is the population of La Fortuna?",
+      "a": "The greater La Fortuna area is home to about 20,000 people."
+    },
+    {
+      "q": "What is La Fortuna famous for?",
+      "a": "The adventure capital of Costa Rica sits beneath the perfect cone of Arenal Volcano, ringed by rainforest, hanging bridges and resorts built around natural hot springs."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

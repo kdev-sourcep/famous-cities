@@ -1,0 +1,140 @@
+{
+  "slug": "Valparaiso",
+  "name": "Valparaíso",
+  "region": "South America",
+  "country": "Chile",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Valparaíso Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Valparaíso travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Valparaíso.",
+    "keywords": "Valparaíso, Valparaíso travel guide, things to do in Valparaíso, Valparaíso fun facts, where to stay in Valparaíso, Famous Cities"
+  },
+  "image": "Valparaiso.png",
+  "video": "videos/valparaiso.mp4",
+  "youtube": null,
+  "tagline": "Chile's 'Jewel of the Pacific' climbs 45 hills in a riot of painted houses, rickety funiculars and some of the best street art in South America.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Valpara%C3%ADso",
+    "twitter": "https://twitter.com/search?q=visit%20Valpara%C3%ADso",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valparaíso"
+  },
+  "overview": [
+    "Before the Panama Canal, Valparaíso was the busiest port on South America's Pacific coast. Sailors from everywhere left their mark — colourful zinc-clad houses stacked on 45 hills, historic funicular elevators called ascensores, and a bohemian culture that persists.",
+    "The city is a UNESCO World Heritage Site and an open-air gallery: murals cover staircases, walls and houses across Cerro Alegre and Cerro Concepción, the two postcard hills of cafés, viewpoints and little museums. La Sebastiana, Pablo Neruda's quirky hilltop house-museum, looks over the bay.",
+    "Valpo keeps a working port's grit beneath the paint — fish markets, sailors' bars, harbour tours — and its New Year's Eve fireworks over the bay are the biggest in South America. Neighbouring Viña del Mar supplies the beaches."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Valparaíso&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Valpara%C3%ADso",
+    "flights": "https://www.skyscanner.net/transport/flights/to/scl/cheap-flights-to-valpara%C3%ADso.html"
+  },
+  "topThings": [
+    {
+      "icon": "🎨",
+      "title": "Street Art & Hills Tour",
+      "desc": "Murals, ascensores and viewpoints of the cerros.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valparaiso%20street%20art%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valparaiso%20street%20art%20walking%20tour"
+    },
+    {
+      "icon": "🏠",
+      "title": "Neruda's La Sebastiana",
+      "desc": "The poet's hilltop house plus harbour views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valparaiso%20Neruda%20La%20Sebastiana%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valparaiso%20Neruda%20La%20Sebastiana%20tour"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Harbour Boat Tour",
+      "desc": "See the hills from the water among the seals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valparaiso%20harbour%20boat%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valparaiso%20harbour%20boat%20tour"
+    },
+    {
+      "icon": "🍷",
+      "title": "Casablanca Wine Valley",
+      "desc": "Taste cool-climate wines between Valpo and Santiago.",
+      "viator": "https://www.viator.com/searchResults/all?text=Casablanca%20Valley%20wine%20tour%20Valparaiso",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Casablanca%20Valley%20wine%20tour%20Valparaiso"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "45 HILLS OF COLOR",
+      "text": "The city climbs 45 cerros, each a distinct neighbourhood of painted houses."
+    },
+    {
+      "title": "THE OLDEST FUNICULARS",
+      "text": "Ascensores — hillside elevators — have carried residents uphill since 1883."
+    },
+    {
+      "title": "NERUDA'S HOUSE",
+      "text": "Pablo Neruda's five-storey hideaway La Sebastiana is now a museum of his collections."
+    },
+    {
+      "title": "A UNESCO PORT",
+      "text": "The historic quarter is UNESCO-listed for its intact 19th-century port cityscape."
+    },
+    {
+      "title": "SOUTH AMERICA'S BIGGEST FIREWORKS",
+      "text": "New Year's Eve on the bay draws over a million spectators."
+    },
+    {
+      "title": "STREET ART CAPITAL",
+      "text": "Legal murals turned whole hillsides into South America's most famous street-art destination."
+    },
+    {
+      "title": "A PORT THAT ONCE RULED",
+      "text": "Before the Panama Canal opened in 1914, ships rounding the Horn made Valpo rich."
+    },
+    {
+      "title": "THE JEWEL OF THE PACIFIC",
+      "text": "Chileans call it 'Valpo' — and Pablo Neruda wrote odes to it."
+    },
+    {
+      "title": "GRAFFITI ON EVERYTHING",
+      "text": "Even staircases and bus shelters get painted — the city embraces it."
+    },
+    {
+      "title": "ASCENSOR LEGACY",
+      "text": "Of 30 original funiculars, about a dozen still creak up the hills for a few coins."
+    }
+  ],
+  "randomFacts": [
+    "The city climbs 45 cerros, each a distinct neighbourhood of painted houses.",
+    "Ascensores — hillside elevators — have carried residents uphill since 1883.",
+    "Pablo Neruda's five-storey hideaway La Sebastiana is now a museum of his collections.",
+    "The historic quarter is UNESCO-listed for its intact 19th-century port cityscape.",
+    "New Year's Eve on the bay draws over a million spectators.",
+    "Legal murals turned whole hillsides into South America's most famous street-art destination.",
+    "Before the Panama Canal opened in 1914, ships rounding the Horn made Valpo rich.",
+    "Chileans call it 'Valpo' — and Pablo Neruda wrote odes to it.",
+    "Even staircases and bus shelters get painted — the city embraces it.",
+    "Of 30 original funiculars, about a dozen still creak up the hills for a few coins.",
+    "Valpo means 'Valley of Paradise'.",
+    "The port still hosts Chile's navy headquarters.",
+    "The New Year fireworks launch from barges along the coast.",
+    "Empanadas and chorrillana are the local pub foods.",
+    "Cerro Concepción's Paseo Gervasoni has the classic postcard view."
+  ],
+  "faq": [
+    {
+      "q": "Where is Valparaíso located?",
+      "a": "Valparaíso is in Chile, in South America."
+    },
+    {
+      "q": "What is the population of Valparaíso?",
+      "a": "The greater Valparaíso area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Valparaíso famous for?",
+      "a": "Chile's 'Jewel of the Pacific' climbs 45 hills in a riot of painted houses, rickety funiculars and some of the best street art in South America."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

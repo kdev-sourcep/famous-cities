@@ -1,0 +1,140 @@
+{
+  "slug": "La-Paz",
+  "name": "La Paz",
+  "region": "South America",
+  "country": "Bolivia",
+  "metro": "1,900,000",
+  "seo": {
+    "title": "La Paz Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "La Paz travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in La Paz.",
+    "keywords": "La Paz, La Paz travel guide, things to do in La Paz, La Paz fun facts, where to stay in La Paz, Famous Cities"
+  },
+  "image": "La-Paz.png",
+  "video": "videos/la-paz.mp4",
+  "youtube": null,
+  "tagline": "The world's highest seat of government fills a canyon at 3,600 metres, where cable cars float over brick neighbourhoods, cholita wrestlers perform and the Witches' Market sells llama fetuses for luck.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20La%20Paz",
+    "twitter": "https://twitter.com/search?q=visit%20La%20Paz",
+    "wikipedia": "https://en.wikipedia.org/wiki/La_Paz"
+  },
+  "overview": [
+    "Founded in 1548 in a deep Andean canyon, La Paz is the seat of Bolivia's government and, at over 3,600 metres, the highest capital city on Earth. The valley walls rise so steeply that Mi Teleférico — the world's largest urban cable-car network — became the main public transport.",
+    "The city is as strange as it is spectacular. The Witches' Market sells dried llama fetuses and charms for Pachamama rituals, the Moon Valley's eroded spires look lunar, and Sunday afternoons bring cholita wrestling — indigenous women in bowler hats fighting for the crowd.",
+    "The old centre keeps colonial churches, the curve of Jaén Street's museums and the towering San Francisco basilica. Adventures radiate outward: biking the 'Death Road' down the Yungas, climbing 6,000-metre Huayna Potosí, or crossing to Copacabana and Lake Titicaca."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=La Paz&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=La%20Paz",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lpb/cheap-flights-to-la%20paz.html"
+  },
+  "topThings": [
+    {
+      "icon": "🚵",
+      "title": "Death Road Bike Ride",
+      "desc": "Descend 3,500 metres from the Andes into jungle.",
+      "viator": "https://www.viator.com/searchResults/all?text=La%20Paz%20Death%20Road%20bike%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=La%20Paz%20Death%20Road%20bike%20tour"
+    },
+    {
+      "icon": "🚡",
+      "title": "Cable Car & City Tour",
+      "desc": "Ride Mi Teleférico over the canyon neighbourhoods.",
+      "viator": "https://www.viator.com/searchResults/all?text=La%20Paz%20cable%20car%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=La%20Paz%20cable%20car%20city%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Moon Valley & Witches' Market",
+      "desc": "Lunar clay spires and the city's strangest market.",
+      "viator": "https://www.viator.com/searchResults/all?text=La%20Paz%20Moon%20Valley%20Witches%20Market%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=La%20Paz%20Moon%20Valley%20Witches%20Market%20tour"
+    },
+    {
+      "icon": "🏕️",
+      "title": "Lake Titicaca Day Trip",
+      "desc": "Visit the world's highest navigable lake and its islands.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lake%20Titicaca%20day%20trip%20from%20La%20Paz",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lake%20Titicaca%20day%20trip%20from%20La%20Paz"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE HIGHEST CAPITAL",
+      "text": "La Paz's government quarter sits at 3,640 metres — visitors feel the thin air on arrival."
+    },
+    {
+      "title": "CABLE-CAR COMMUTING",
+      "text": "Mi Teleférico is the world's longest urban cable-car system, with 10 lines strung across the canyon."
+    },
+    {
+      "title": "A MARKET OF MAGIC",
+      "text": "The Witches' Market sells charms, herbs and dried llama fetuses buried under homes for good fortune."
+    },
+    {
+      "title": "THE DEATH ROAD",
+      "text": "The Yungas Road was once called the world's most dangerous — now it's a bucket-list downhill bike ride."
+    },
+    {
+      "title": "WRESTLING CHOLITAS",
+      "text": "Indigenous women in traditional skirts and bowler hats wrestle in a Sunday spectacle."
+    },
+    {
+      "title": "A MOON ON EARTH",
+      "text": "Valle de la Luna's clay spires were said to be named by Neil Armstrong himself."
+    },
+    {
+      "title": "A CITY IN A BOWL",
+      "text": "The canyon setting means El Alto's airport, at 4,000 metres, is one of the world's highest."
+    },
+    {
+      "title": "THE OLDEST STREET",
+      "text": "Calle Jaén preserves colonial houses now turned into small museums."
+    },
+    {
+      "title": "INDIGENOUS PRIDE",
+      "text": "La Paz is a centre of Aymara culture — cholita fashion shows now celebrate the traditional dress."
+    },
+    {
+      "title": "SALAR GATEWAY",
+      "text": "Almost every traveller heading to the Uyuni salt flats passes through La Paz."
+    }
+  ],
+  "randomFacts": [
+    "La Paz's government quarter sits at 3,640 metres — visitors feel the thin air on arrival.",
+    "Mi Teleférico is the world's longest urban cable-car system, with 10 lines strung across the canyon.",
+    "The Witches' Market sells charms, herbs and dried llama fetuses buried under homes for good fortune.",
+    "The Yungas Road was once called the world's most dangerous — now it's a bucket-list downhill bike ride.",
+    "Indigenous women in traditional skirts and bowler hats wrestle in a Sunday spectacle.",
+    "Valle de la Luna's clay spires were said to be named by Neil Armstrong himself.",
+    "The canyon setting means El Alto's airport, at 4,000 metres, is one of the world's highest.",
+    "Calle Jaén preserves colonial houses now turned into small museums.",
+    "La Paz is a centre of Aymara culture — cholita fashion shows now celebrate the traditional dress.",
+    "Almost every traveller heading to the Uyuni salt flats passes through La Paz.",
+    "The airport is the highest international airport in the world.",
+    "Cholita wrestlers perform at El Alto's Multifunctional Centre.",
+    "The cable cars carry over 300,000 passengers a day.",
+    "Salteñas — juicy breakfast empanadas — are the local obsession.",
+    "Altitude sickness is called 'soroche' — coca tea is the remedy."
+  ],
+  "faq": [
+    {
+      "q": "Where is La Paz located?",
+      "a": "La Paz is in Bolivia, in South America."
+    },
+    {
+      "q": "What is the population of La Paz?",
+      "a": "The greater La Paz area is home to about 1,900,000 people."
+    },
+    {
+      "q": "What is La Paz famous for?",
+      "a": "The world's highest seat of government fills a canyon at 3,600 metres, where cable cars float over brick neighbourhoods, cholita wrestlers perform and the Witches' Market sells llama fetuses for luck."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

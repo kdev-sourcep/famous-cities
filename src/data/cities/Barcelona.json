@@ -1,0 +1,140 @@
+{
+  "slug": "Barcelona",
+  "name": "Barcelona",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "4,735,000",
+  "seo": {
+    "title": "Barcelona Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Barcelona travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Barcelona.",
+    "keywords": "Barcelona, Barcelona travel guide, things to do in Barcelona, Barcelona fun facts, where to stay in Barcelona, Famous Cities"
+  },
+  "image": "Barcelona.png",
+  "video": "videos/barcelona.mp4",
+  "youtube": null,
+  "tagline": "Barcelona pairs near-perfect weather and city beaches with Gaudí architecture and colorful, bohemian neighborhoods.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/visitbarcelona/",
+    "twitter": "https://twitter.com/VisitBCN_EN",
+    "wikipedia": "https://en.wikipedia.org/wiki/Barcelona"
+  },
+  "overview": [
+    "Barcelona is an almost ideal European city — near-perfect weather, three miles of beaches within city limits, iconic parks and Gaudí’s surreal architecture in neighborhoods that march to their own beat. Which is exactly why it has also become ground zero for Europe’s overtourism debate, with roughly 12 million visitors a year for a city of 1.6 million.",
+    "The response is now policy, not just protest. Barcelona has raised its tourist tax to among Europe’s highest, capped cruise passengers, banned new hotels in the center — and most dramatically, announced it will phase out all tourist-apartment licenses by late 2028. Practical takeaway for 2026: book legitimate accommodation early and expect it to cost more.",
+    "The Gaudí skyline is nearing completion: the Sagrada Família’s central Tower of Jesus Christ — set to make it the tallest church in the world — is targeted to finish around the centenary of Gaudí’s death, with the full basilica following in the 2030s.",
+    "Meanwhile the superblock program keeps converting streets into pedestrian plazas, bike lanes crisscross the city, and green corridors like Passeig de Sant Joan show what a car-light future looks like. Visit outside the July–August crush, buy skip-the-line tickets for the Sagrada Família and Park Güell well ahead, and save time for the neighborhoods — Gràcia, Poble-sec and Sant Antoni — where locals actually live."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?city=-372490&aid=2243524",
+    "tours": "https://www.viator.com/Barcelona/d5078",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bcn/cheap-flights-to-barcelona.html"
+  },
+  "topThings": [
+    {
+      "icon": "⛪",
+      "title": "Sagrada Família",
+      "desc": "Gaudí's masterpiece, with optional tower access.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sagrada%20Familia%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sagrada%20Familia%20tickets"
+    },
+    {
+      "icon": "🦎",
+      "title": "Park Güell",
+      "desc": "Mosaics, terraces and city views in Gaudí's hilltop park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Park%20Guell%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Park%20Guell%20tickets"
+    },
+    {
+      "icon": "🏠",
+      "title": "Casa Batlló",
+      "desc": "Step inside Gaudí's colorful, dragon-roofed house.",
+      "viator": "https://www.viator.com/searchResults/all?text=Casa%20Batllo%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Casa%20Batllo%20tickets"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Montserrat Day Trip",
+      "desc": "Mountain monastery with spectacular views outside the city.",
+      "viator": "https://www.viator.com/searchResults/all?text=Montserrat%20day%20trip%20from%20Barcelona",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Montserrat%20day%20trip%20from%20Barcelona"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SAGRADA FAMÍLIA HAS BEEN UNDER CONSTRUCTION SINCE 1882",
+      "text": "Antoni Gaudí took over the basilica in 1883 and worked on it for more than 40 years until his death in 1926. Construction has continued ever since, funded largely by visitors' tickets."
+    },
+    {
+      "title": "GAUDÍ'S WORKS ARE A UNESCO WORLD HERITAGE SITE",
+      "text": "Park Güell, Casa Batlló, Casa Milà (La Pedrera), Palau Güell, Casa Vicens and the Nativity façade and crypt of the Sagrada Família are listed together by UNESCO as the \"Works of Antoni Gaudí\"."
+    },
+    {
+      "title": "THE CITY WAS FOUNDED BY THE ROMANS",
+      "text": "Barcelona began as the Roman colony of Barcino more than 2,000 years ago. You can still walk through excavated Roman streets beneath the Barcelona History Museum in Plaça del Rei."
+    },
+    {
+      "title": "CATALAN IS THE CITY'S OWN LANGUAGE",
+      "text": "Barcelona is the capital of Catalonia, and Catalan is co-official alongside Spanish. Most street signs and menus appear in Catalan first."
+    },
+    {
+      "title": "THE BEACHES WERE TRANSFORMED FOR THE 1992 OLYMPICS",
+      "text": "Much of Barcelona's waterfront was industrial until it was redeveloped for the 1992 Summer Olympics, opening the city up to the sea."
+    },
+    {
+      "title": "THE EIXAMPLE IS A PLANNED GRID OF OCTAGONS",
+      "text": "Engineer Ildefons Cerdà designed the Eixample district in 1859. Its blocks have cut-off corners, turning every intersection into a small open square."
+    },
+    {
+      "title": "PARK GÜELL WAS MEANT TO BE A HOUSING ESTATE",
+      "text": "Eusebi Güell planned it as an exclusive residential development, but only two houses were ever built. It later became a public park."
+    },
+    {
+      "title": "LA BOQUERIA IS CENTURIES OLD",
+      "text": "The famous market off La Rambla traces its history back to the Middle Ages, when farmers sold produce outside the old city walls."
+    },
+    {
+      "title": "CAMP NOU IS EUROPE'S LARGEST STADIUM",
+      "text": "FC Barcelona's home ground holds close to 100,000 fans, making it the biggest football stadium in Europe."
+    },
+    {
+      "title": "THE MAGIC FOUNTAIN WAS BUILT FOR A WORLD'S FAIR",
+      "text": "The Magic Fountain of Montjuïc was designed by Carles Buïgas for the 1929 International Exposition and still puts on music-and-light shows today."
+    }
+  ],
+  "randomFacts": [
+    "Barcelona has about 4.5 kilometers of beaches within the city limits.",
+    "The Sagrada Familia has been under construction since 1882 and is expected to be completed in 2026.",
+    "Barcelona is home to 9 UNESCO World Heritage Sites.",
+    "Barcelona's Park Güell was originally intended to be a luxury housing development.",
+    "The city's official language is Catalan, not Spanish.",
+    "Barcelona hosted the 1992 Summer Olympics.",
+    "The famous La Rambla boulevard is 1.2 kilometers long.",
+    "Barcelona's Palau de la Música Catalana and Hospital de Sant Pau are also UNESCO World Heritage Sites.",
+    "The city's Gothic Quarter dates back to the Middle Ages.",
+    "In 1999 Barcelona became the first city to receive the RIBA Royal Gold Medal for architecture.",
+    "The city was founded by the Romans in 15 BC as Barcino.",
+    "Antoni Gaudí's work is a major tourist attraction, with 7 of his buildings in Barcelona.",
+    "Barcelona's port is one of the busiest in the Mediterranean.",
+    "The city has a population of about 1.6 million in the city proper."
+  ],
+  "faq": [
+    {
+      "q": "Where is Barcelona located?",
+      "a": "Barcelona is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Barcelona?",
+      "a": "The greater Barcelona area is home to about 4,735,000 people."
+    },
+    {
+      "q": "What is Barcelona famous for?",
+      "a": "Barcelona pairs near-perfect weather and city beaches with Gaudí architecture and colorful, bohemian neighborhoods."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

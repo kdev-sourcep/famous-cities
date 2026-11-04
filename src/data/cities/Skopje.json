@@ -1,0 +1,144 @@
+{
+  "slug": "Skopje",
+  "name": "Skopje",
+  "region": "Europe",
+  "country": "North Macedonia",
+  "metro": "600,000",
+  "seo": {
+    "title": "Skopje Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Skopje travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Skopje.",
+    "keywords": "Skopje, Skopje travel guide, things to do in Skopje, Skopje fun facts, where to stay in Skopje, Famous Cities"
+  },
+  "image": "Skopje.png",
+  "video": "videos/skopje.mp4",
+  "youtube": null,
+  "tagline": "The statue capital of Europe — a bazaar older than most cities, a river of monuments, and Mother Teresa's hometown.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Skopje",
+    "twitter": "https://twitter.com/search?q=visit%20Skopje",
+    "wikipedia": "https://en.wikipedia.org/wiki/Skopje"
+  },
+  "overview": [
+    "Skopje is the strangest-looking capital in Europe — and deliberately so. The 'Skopje 2014' project filled the centre with hundreds of statues, faux-baroque facades and a fleet of classical buildings, anchored by a giant Alexander the Great fountain over the Vardar river.",
+    "Across the Stone Bridge, the Old Bazaar — one of the Balkans' largest — keeps its Ottoman lanes of goldsmiths, ćevapi grills and tea gardens alive, overlooked by Kale Fortress and the 6th-century walls.",
+    "Speed's 2024 tour streamed from Skopje. Mother Teresa was born here (the house site is a memorial), and Matka Canyon — boat trips to cave lakes and cliff monasteries — sits 15km from downtown."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Skopje&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Skopje",
+    "flights": "https://www.skyscanner.net/transport/flights/to/skp/cheap-flights-to-skopje.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "City & Bazaar Walk",
+      "desc": "Statues, Stone Bridge, Old Bazaar.",
+      "viator": "https://www.viator.com/searchResults/all?text=Skopje%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Skopje%20walking%20tour"
+    },
+    {
+      "icon": "🌊",
+      "title": "Matka Canyon",
+      "desc": "Boat to caves and cliff monasteries.",
+      "viator": "https://www.viator.com/searchResults/all?text=Matka%20Canyon%20tour%20from%20Skopje",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Matka%20Canyon%20tour%20from%20Skopje"
+    },
+    {
+      "icon": "🚡",
+      "title": "Millennium Cross",
+      "desc": "Cable car up Vodno mountain.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vodno%20mountain%20cable%20car",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vodno%20mountain%20cable%20car"
+    },
+    {
+      "icon": "🏞️",
+      "title": "Mavrovo / Ohrid Day Trip",
+      "desc": "Lake Ohrid's UNESCO shores a few hours south.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ohrid%20day%20trip%20from%20Skopje",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ohrid%20day%20trip%20from%20Skopje"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "STATUE CITY",
+      "text": "The Skopje 2014 project added hundreds of statues and neoclassical facades in one go."
+    },
+    {
+      "title": "GIANT ALEXANDER",
+      "text": "The Warrior on a Horse fountain — officially not Alexander, wink — towers 22 metres."
+    },
+    {
+      "title": "MOTHER TERESA'S TOWN",
+      "text": "She was born here in 1910 — a memorial marks the family home site."
+    },
+    {
+      "title": "THE OLD BAZAAR",
+      "text": "Čaršija is among the Balkans' largest Ottoman bazaars — goldsmiths still work there."
+    },
+    {
+      "title": "6TH-CENTURY FORTRESS",
+      "text": "Kale Fortress's walls watched empires from the Romans to the Ottomans."
+    },
+    {
+      "title": "MATKA CANYON",
+      "text": "Cliff monasteries, caves and boat trips 15 minutes from the statues."
+    },
+    {
+      "title": "MILLENNIUM CROSS",
+      "text": "The 66-metre cross on Vodno mountain — reachable by cable car — is visible city-wide."
+    },
+    {
+      "title": "THE 1963 QUAKE",
+      "text": "An earthquake destroyed 80% of the city — it was rebuilt with global help, including a Kenzo Tange master plan."
+    },
+    {
+      "title": "TWO NAMES",
+      "text": "The country resolved its name dispute in 2019: North Macedonia."
+    },
+    {
+      "title": "PAINTED MOSQUE",
+      "text": "Tetovo's Šarena Džamija, an hour away, is decorated inside and out in floral paint."
+    }
+  ],
+  "randomFacts": [
+    "The Skopje 2014 project added hundreds of statues and neoclassical facades in one go.",
+    "The Warrior on a Horse fountain — officially not Alexander, wink — towers 22 metres.",
+    "She was born here in 1910 — a memorial marks the family home site.",
+    "Čaršija is among the Balkans' largest Ottoman bazaars — goldsmiths still work there.",
+    "Kale Fortress's walls watched empires from the Romans to the Ottomans.",
+    "Cliff monasteries, caves and boat trips 15 minutes from the statues.",
+    "The 66-metre cross on Vodno mountain — reachable by cable car — is visible city-wide.",
+    "An earthquake destroyed 80% of the city — it was rebuilt with global help, including a Kenzo Tange master plan.",
+    "The country resolved its name dispute in 2019: North Macedonia.",
+    "Tetovo's Šarena Džamija, an hour away, is decorated inside and out in floral paint.",
+    "The 'London double-decker' buses are a recent affection.",
+    "Tavče gravče — baked beans — is the national dish.",
+    "Bazaar tea gardens serve mountain tea for pennies.",
+    "The Stone Bridge has connected the two worlds since the 15th century.",
+    "Ajvar — red pepper spread — is made by households each autumn."
+  ],
+  "faq": [
+    {
+      "q": "Where is Skopje located?",
+      "a": "Skopje is in North Macedonia, in Europe."
+    },
+    {
+      "q": "What is the population of Skopje?",
+      "a": "The greater Skopje area is home to about 600,000 people."
+    },
+    {
+      "q": "What is Skopje famous for?",
+      "a": "Skopje is famous for the hundreds of statues of the Skopje 2014 project, the Old Bazaar, and Mother Teresa's birthplace."
+    },
+    {
+      "q": "Did IShowSpeed stream from Skopje?",
+      "a": "Yes — IShowSpeed streamed from Skopje on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

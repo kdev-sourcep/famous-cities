@@ -1,0 +1,140 @@
+{
+  "slug": "Cartagena",
+  "name": "Cartagena",
+  "region": "South America",
+  "country": "Colombia",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Cartagena Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Cartagena travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Cartagena.",
+    "keywords": "Cartagena, Cartagena travel guide, things to do in Cartagena, Cartagena fun facts, where to stay in Cartagena, Famous Cities"
+  },
+  "image": "Cartagena.png",
+  "video": "videos/cartagena.mp4",
+  "youtube": null,
+  "tagline": "The Caribbean's best-preserved walled city wraps colonial plazas in bougainvillea, minutes from white-sand islands and Colombia's salsa-coast nightlife.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Cartagena",
+    "twitter": "https://twitter.com/search?q=visit%20Cartagena",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cartagena"
+  },
+  "overview": [
+    "Founded in 1533, Cartagena grew rich as the main Spanish port for Peruvian gold — and rich enough to be raided by pirates, which is why 11 kilometres of walls and the giant San Felipe fortress still ring it. The walled Old Town is a UNESCO World Heritage Site.",
+    "Inside the walls, every street is a postcard: pastel mansions, flower-draped balconies, horse-drawn carriages and plazas where palenqueras sell fruit in bright dresses. The fortress of San Felipe de Barajas, the largest Spanish fort in South America, guards the bay.",
+    "Getsemaní, the former working-class quarter, is now the city's street-art and nightlife heart. Offshore, the Rosario Islands offer day-trip beaches and snorkelling, and evenings belong to salsa clubs, sunset cocktails on the wall, and Gabriel García Márquez's city of magic realism."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cartagena&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Cartagena",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ctg/cheap-flights-to-cartagena.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Walled City Walking Tour",
+      "desc": "Plazas, balconies and fortress tunnels with a local guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cartagena%20walled%20city%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cartagena%20walled%20city%20walking%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Rosario Islands Day Trip",
+      "desc": "Beaches, snorkelling and lunch on the coral islands.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rosario%20Islands%20day%20trip%20from%20Cartagena",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rosario%20Islands%20day%20trip%20from%20Cartagena"
+    },
+    {
+      "icon": "💃",
+      "title": "Salsa Night",
+      "desc": "Learn the steps then hit the clubs of Getsemaní.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cartagena%20salsa%20class%20Getsemani",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cartagena%20salsa%20class%20Getsemani"
+    },
+    {
+      "icon": "🍔",
+      "title": "Street Food Tour",
+      "desc": "Fruit, arepas and ceviche through Getsemaní.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cartagena%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cartagena%20street%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "PIRATE-PROOF",
+      "text": "The walls and fortress took over 200 years to build after repeated attacks by pirates, including Francis Drake."
+    },
+    {
+      "title": "THE LARGEST SPANISH FORT",
+      "text": "San Felipe de Barajas is the biggest colonial military fortress Spain ever built in the Americas."
+    },
+    {
+      "title": "GABO'S CITY",
+      "text": "Gabriel García Márquez set novels here and kept a house in the Old Town — magic realism in real life."
+    },
+    {
+      "title": "THE PALENQUERAS",
+      "text": "The fruit sellers in bright dresses descend from San Basilio de Palenque, the Americas' first free African town."
+    },
+    {
+      "title": "WALLS YOU CAN WALK",
+      "text": "The 11-kilometre city wall is intact enough to stroll — Café del Mar sits on top of it at sunset."
+    },
+    {
+      "title": "AN ISLAND ESCAPE",
+      "text": "The Rosario Islands' coral park is an hour offshore by boat."
+    },
+    {
+      "title": "A CONVENT TURNED HOTEL",
+      "text": "The Sofitel Santa Clara was a 17th-century convent with crypts still beneath the bar."
+    },
+    {
+      "title": "THE CLOCK TOWER",
+      "text": "The Torre del Reloj, built in 1601, is the city's symbol and the old walled city's gateway."
+    },
+    {
+      "title": "EMERALD MARKETS",
+      "text": "Cartagena is a centre for Colombian emeralds — some of the finest in the world."
+    },
+    {
+      "title": "A SUNKEN TREASURE",
+      "text": "The Spanish galleon San José, sunk in 1708 with treasure worth billions, lies off the coast."
+    }
+  ],
+  "randomFacts": [
+    "The walls and fortress took over 200 years to build after repeated attacks by pirates, including Francis Drake.",
+    "San Felipe de Barajas is the biggest colonial military fortress Spain ever built in the Americas.",
+    "Gabriel García Márquez set novels here and kept a house in the Old Town — magic realism in real life.",
+    "The fruit sellers in bright dresses descend from San Basilio de Palenque, the Americas' first free African town.",
+    "The 11-kilometre city wall is intact enough to stroll — Café del Mar sits on top of it at sunset.",
+    "The Rosario Islands' coral park is an hour offshore by boat.",
+    "The Sofitel Santa Clara was a 17th-century convent with crypts still beneath the bar.",
+    "The Torre del Reloj, built in 1601, is the city's symbol and the old walled city's gateway.",
+    "Cartagena is a centre for Colombian emeralds — some of the finest in the world.",
+    "The Spanish galleon San José, sunk in 1708 with treasure worth billions, lies off the coast.",
+    "Cartagena's carnival-style streets host the Miss Colombia pageant.",
+    "The walled city is officially called the 'Corralito de Piedra'.",
+    "Ceviche and coconut rice are the coastal staples.",
+    "Street performers dance champeta in the plazas.",
+    "The city hosted scenes of the film The Mission."
+  ],
+  "faq": [
+    {
+      "q": "Where is Cartagena located?",
+      "a": "Cartagena is in Colombia, in South America."
+    },
+    {
+      "q": "What is the population of Cartagena?",
+      "a": "The greater Cartagena area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Cartagena famous for?",
+      "a": "The Caribbean's best-preserved walled city wraps colonial plazas in bougainvillea, minutes from white-sand islands and Colombia's salsa-coast nightlife."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "Cordoba",
+  "name": "Córdoba",
+  "region": "South America",
+  "country": "Argentina",
+  "metro": "1,600,000",
+  "seo": {
+    "title": "Córdoba Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Córdoba travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Córdoba.",
+    "keywords": "Córdoba, Córdoba travel guide, things to do in Córdoba, Córdoba fun facts, where to stay in Córdoba, Famous Cities"
+  },
+  "image": "Cordoba.png",
+  "video": "videos/cordoba.mp4",
+  "youtube": null,
+  "tagline": "Argentina's second city pairs a UNESCO Jesuit quarter and colonial centre with the country's best empanadas and a student-fuelled nightlife in the Sierras' foothills.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20C%C3%B3rdoba",
+    "twitter": "https://twitter.com/search?q=visit%20C%C3%B3rdoba",
+    "wikipedia": "https://en.wikipedia.org/wiki/Córdoba,_Argentina"
+  },
+  "overview": [
+    "Founded in 1573, Córdoba is one of South America's oldest colonial cities and home to the continent's fourth-oldest university. The Jesuit Block and estancias around the city are a UNESCO World Heritage Site, marking where the order ran its schools and ranches.",
+    "The centre still wears its history: the cathedral on Plaza San Martín, the Jesuit college next door, and cobbled blocks that fill with students from the university. At night the city turns on — Córdoba is famous for its bars, clubs and cuarteto, the frenetic local dance music born here.",
+    "The Sierras de Córdoba begin at the city's edge. Weekend escapes reach the German-style village of Villa General Belgrano — home of Argentina's Oktoberfest — the mountain resorts of the Punilla valley, and lake beaches an hour away."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Córdoba&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=C%C3%B3rdoba",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cor/cheap-flights-to-c%C3%B3rdoba.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Jesuit Block & City Tour",
+      "desc": "UNESCO quarter, cathedral and the old university.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cordoba%20city%20tour%20Jesuit%20Block",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cordoba%20city%20tour%20Jesuit%20Block"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Sierras Day Trip",
+      "desc": "Villa General Belgrano, mountain towns and viewpoints.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cordoba%20Sierras%20day%20trip",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cordoba%20Sierras%20day%20trip"
+    },
+    {
+      "icon": "🍕",
+      "title": "Empanada Cooking Class",
+      "desc": "Make the famous cordobesa empanada yourself.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cordoba%20empanada%20cooking%20class",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cordoba%20empanada%20cooking%20class"
+    },
+    {
+      "icon": "🎶",
+      "title": "Cuarteto Night Out",
+      "desc": "Dance to the city's own music in its home clubs.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cordoba%20cuarteto%20night%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cordoba%20cuarteto%20night%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ARGENTINA'S OLDEST UNIVERSITY",
+      "text": "The National University of Córdoba was founded by Jesuits in 1613."
+    },
+    {
+      "title": "A UNESCO JESUIT TOWN",
+      "text": "The Jesuit Block and six rural estancias form a UNESCO World Heritage Site."
+    },
+    {
+      "title": "CUARTETO COUNTRY",
+      "text": "Córdoba invented cuarteto, the piano-and-brass dance music every Argentine wedding plays."
+    },
+    {
+      "title": "EMPANADA CAPITAL",
+      "text": "Cordobesa empanadas — baked with beef, potato and egg — are widely rated Argentina's best."
+    },
+    {
+      "title": "OKTOBERFEST IN THE ANDES",
+      "text": "Villa General Belgrano, a German-settled village nearby, hosts a famous October beer festival."
+    },
+    {
+      "title": "A CITY OF STUDENTS",
+      "text": "One in ten residents is a university student — the city runs on bars and cafés."
+    },
+    {
+      "title": "THE RINGING TOWER",
+      "text": "The cathedral's towers blend Indigenous, Baroque and neoclassical styles over 200 years of building."
+    },
+    {
+      "title": "A RESISTANCE CITY",
+      "text": "The Cordobazo of 1969, a worker-student uprising, became a landmark in Argentine history."
+    },
+    {
+      "title": "CHE GUEVARA'S BOYHOOD",
+      "text": "Che spent his teenage years in nearby Alta Gracia — his house is a museum."
+    },
+    {
+      "title": "MOUNTAIN ESCAPES",
+      "text": "Sierra resorts like Carlos Paz are 40 minutes away — the city's escape valve."
+    }
+  ],
+  "randomFacts": [
+    "The National University of Córdoba was founded by Jesuits in 1613.",
+    "The Jesuit Block and six rural estancias form a UNESCO World Heritage Site.",
+    "Córdoba invented cuarteto, the piano-and-brass dance music every Argentine wedding plays.",
+    "Cordobesa empanadas — baked with beef, potato and egg — are widely rated Argentina's best.",
+    "Villa General Belgrano, a German-settled village nearby, hosts a famous October beer festival.",
+    "One in ten residents is a university student — the city runs on bars and cafés.",
+    "The cathedral's towers blend Indigenous, Baroque and neoclassical styles over 200 years of building.",
+    "The Cordobazo of 1969, a worker-student uprising, became a landmark in Argentine history.",
+    "Che spent his teenage years in nearby Alta Gracia — his house is a museum.",
+    "Sierra resorts like Carlos Paz are 40 minutes away — the city's escape valve.",
+    "Córdoba's cathedral has a carved angel playing a traditional instrument.",
+    "The city counts more university students per capita than Buenos Aires.",
+    "Alfajores cordobeses come filled with fruit jam, not dulce de leche.",
+    "Kempes stadium is named for the city's World Cup-winning striker.",
+    "Fernet con coca — fernet and cola — is the city's religion in a glass."
+  ],
+  "faq": [
+    {
+      "q": "Where is Córdoba located?",
+      "a": "Córdoba is in Argentina, in South America."
+    },
+    {
+      "q": "What is the population of Córdoba?",
+      "a": "The greater Córdoba area is home to about 1,600,000 people."
+    },
+    {
+      "q": "What is Córdoba famous for?",
+      "a": "Argentina's second city pairs a UNESCO Jesuit quarter and colonial centre with the country's best empanadas and a student-fuelled nightlife in the Sierras' foothills."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

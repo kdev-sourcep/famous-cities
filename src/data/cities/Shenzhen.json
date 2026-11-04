@@ -1,0 +1,144 @@
+{
+  "slug": "Shenzhen",
+  "name": "Shenzhen",
+  "region": "Asia",
+  "country": "China",
+  "metro": "17,500,000",
+  "seo": {
+    "title": "Shenzhen Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Shenzhen travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Shenzhen.",
+    "keywords": "Shenzhen, Shenzhen travel guide, things to do in Shenzhen, Shenzhen fun facts, where to stay in Shenzhen, Famous Cities"
+  },
+  "image": "Shenzhen.png",
+  "video": "videos/shenzhen.mp4",
+  "youtube": null,
+  "tagline": "China's 'instant city' went from fishing villages to a 17-million tech metropolis in forty years — gadget megamarkets, drone shows and theme parks beside Hong Kong.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Shenzhen",
+    "twitter": "https://twitter.com/search?q=visit%20Shenzhen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shenzhen"
+  },
+  "overview": [
+    "Shenzhen is the city China built in a hurry. A sleepy border county of fishing villages until 1980, it became the country's first Special Economic Zone and exploded into a metropolis of some 17 million — home to the companies behind the phones, drones and gadgets in your pocket, from Huawei and Tencent to DJI.",
+    "The city rewards the curious: Huaqiangbei is the world's largest electronics market, a multi-block maze where anything with a circuit can be bought, built or fixed. Around it are design museums, the Ping An tower's observation deck and a string of beaches on the Dapeng Peninsula.",
+    "Speed visited on his 2025 China tour, drawn by the gadget markets and the city's drone-light spectacles. Between OCT Loft's art district and malls the size of towns, this is the future arriving early."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Shenzhen&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Shenzhen",
+    "flights": "https://www.skyscanner.net/transport/flights/to/szx/cheap-flights-to-shenzhen.html"
+  },
+  "topThings": [
+    {
+      "icon": "🔌",
+      "title": "Huaqiangbei Tech Market",
+      "desc": "The world's largest electronics maze.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shenzhen%20Huaqiangbei%20electronics%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shenzhen%20Huaqiangbei%20electronics%20tour"
+    },
+    {
+      "icon": "🏙️",
+      "title": "Ping An Sky Deck",
+      "desc": "116 floors up over the megacity.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ping%20An%20Finance%20Centre%20observation%20deck",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ping%20An%20Finance%20Centre%20observation%20deck"
+    },
+    {
+      "icon": "🎨",
+      "title": "OCT Loft Art Walk",
+      "desc": "Murals, cafés and design studios.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shenzhen%20OCT%20Loft%20art%20district%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shenzhen%20OCT%20Loft%20art%20district%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Dapeng Beach Day",
+      "desc": "Coastline and fortress villages east of town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dapeng%20Peninsula%20day%20trip",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dapeng%20Peninsula%20day%20trip"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "AN INSTANT MEGACITY",
+      "text": "Shenzhen grew from ~30,000 people in 1980 to over 17 million — the fastest city growth ever recorded."
+    },
+    {
+      "title": "SILICON VALLEY OF HARDWARE",
+      "text": "Huaqiangbei market is the world's biggest electronics bazaar — prototypes get built there in days."
+    },
+    {
+      "title": "DRONE CAPITAL",
+      "text": "DJI, the world's dominant drone maker, is headquartered in Shenzhen."
+    },
+    {
+      "title": "130 LANDMARKS IN ONE PARK",
+      "text": "Window of the World squeezes replicas of 130 global icons into a single theme park."
+    },
+    {
+      "title": "HONG KONG'S NEIGHBOUR",
+      "text": "The Hong Kong border is minutes away by metro or high-speed rail."
+    },
+    {
+      "title": "A CITY OF TWENTYSOMETHINGS",
+      "text": "One of China's youngest populations built it — almost everyone migrated here."
+    },
+    {
+      "title": "SKY-BRIDGE TOWERS",
+      "text": "Tencent's twin headquarters are linked by sky bridges holding gyms and running tracks."
+    },
+    {
+      "title": "OCT LOFT",
+      "text": "A former factory zone turned arts district of murals, cafés and design shops."
+    },
+    {
+      "title": "CITY BEACHES",
+      "text": "Dameisha and Xiaomeisha beaches sit inside the city on the South China Sea."
+    },
+    {
+      "title": "AN URBAN RAINFOREST",
+      "text": "Mangrove reserves inside the megacity protect migratory birds on the flyway."
+    }
+  ],
+  "randomFacts": [
+    "Shenzhen grew from ~30,000 people in 1980 to over 17 million — the fastest city growth ever recorded.",
+    "Huaqiangbei market is the world's biggest electronics bazaar — prototypes get built there in days.",
+    "DJI, the world's dominant drone maker, is headquartered in Shenzhen.",
+    "Window of the World squeezes replicas of 130 global icons into a single theme park.",
+    "The Hong Kong border is minutes away by metro or high-speed rail.",
+    "One of China's youngest populations built it — almost everyone migrated here.",
+    "Tencent's twin headquarters are linked by sky bridges holding gyms and running tracks.",
+    "A former factory zone turned arts district of murals, cafés and design shops.",
+    "Dameisha and Xiaomeisha beaches sit inside the city on the South China Sea.",
+    "Mangrove reserves inside the megacity protect migratory birds on the flyway.",
+    "Shenzhen means 'deep drain' — named for a paddy ditch.",
+    "You can cross to Hong Kong on a metro train.",
+    "The city hosts one of China's biggest esports arenas.",
+    "Robots serve drinks in some mall cafés.",
+    "More skyscrapers rose here in a decade than almost any city ever."
+  ],
+  "faq": [
+    {
+      "q": "Where is Shenzhen located?",
+      "a": "Shenzhen is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Shenzhen?",
+      "a": "The greater Shenzhen area is home to about 17,500,000 people."
+    },
+    {
+      "q": "What is Shenzhen famous for?",
+      "a": "Shenzhen is famous for China's ‘instant city’ — a 40-year-old tech megacity famous for the Huaqiangbei electronics markets, drone shows and its skyline beside Hong Kong."
+    },
+    {
+      "q": "Did IShowSpeed stream from Shenzhen?",
+      "a": "Yes — IShowSpeed streamed from Shenzhen during his 2025 China tour, drawn by its electronics megamarkets and drone shows. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

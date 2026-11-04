@@ -1,0 +1,144 @@
+{
+  "slug": "Queenstown",
+  "name": "Queenstown",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "metro": "50,000",
+  "seo": {
+    "title": "Queenstown Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Queenstown travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Queenstown.",
+    "keywords": "Queenstown, Queenstown travel guide, things to do in Queenstown, Queenstown fun facts, where to stay in Queenstown, Famous Cities"
+  },
+  "image": "Queenstown.png",
+  "video": "videos/queenstown.mp4",
+  "youtube": null,
+  "tagline": "The adventure capital of the world — birthplace of bungee, ringed by The Remarkables and the blue fjord-country lake.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Queenstown",
+    "twitter": "https://twitter.com/search?q=visit%20Queenstown",
+    "wikipedia": "https://en.wikipedia.org/wiki/Queenstown,_New_Zealand"
+  },
+  "overview": [
+    "Queenstown is scenery so extreme it looks rendered — The Remarkables' serrated range rises straight out of Lake Wakatipu's cold blue water, and the little resort town at its base invented the commercial bungee jump.",
+    "The adventure menu is absurd: bungy at the original Kawarau Bridge, jet boats through Shotover Canyon, skydives, luge tracks, and four ski fields in winter. The Skyline gondola climbs to the world's most photogenic buffet over the lake.",
+    "Speed's 2024 tour streamed from Queenstown — the scenery did half the work. Beyond the thrills, Milford Sound's fjords and Glenorchy's 'Middle-earth' valleys make it the natural base for the South Island's greatest hits."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Queenstown&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Queenstown",
+    "flights": "https://www.skyscanner.net/transport/flights/to/zqn/cheap-flights-to-queenstown.html"
+  },
+  "topThings": [
+    {
+      "icon": "🪂",
+      "title": "Bungy Jump",
+      "desc": "The original Kawarau Bridge leap.",
+      "viator": "https://www.viator.com/searchResults/all?text=Queenstown%20bungee%20jump",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Queenstown%20bungee%20jump"
+    },
+    {
+      "icon": "🚤",
+      "title": "Shotover Jet",
+      "desc": "Canyon jet-boat ride at speed.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shotover%20jet%20boat%20Queenstown",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shotover%20jet%20boat%20Queenstown"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Milford Sound",
+      "desc": "The fjord cruise day trip.",
+      "viator": "https://www.viator.com/searchResults/all?text=Milford%20Sound%20tour%20from%20Queenstown",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Milford%20Sound%20tour%20from%20Queenstown"
+    },
+    {
+      "icon": "🚠",
+      "title": "Skyline & Luge",
+      "desc": "Gondola views plus luge tracks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Queenstown%20gondola%20luge",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Queenstown%20gondola%20luge"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "BUNGY'S BIRTHPLACE",
+      "text": "AJ Hackett launched the world's first commercial bungee at Kawarau Bridge in 1988."
+    },
+    {
+      "title": "THE REMARKABLES",
+      "text": "The jagged range is one of only two ranges worldwide to run exactly north–south."
+    },
+    {
+      "title": "ADVENTURE CAPITAL",
+      "text": "Bungy, jet boat, skydive, luge, rafting — the menu is unmatched."
+    },
+    {
+      "title": "A FJORD DAY TRIP",
+      "text": "Milford Sound — Rudyard Kipling's 'eighth wonder' — is a day's round trip."
+    },
+    {
+      "title": "SKYLINE GONDOLA",
+      "text": "The steepest gondola in the Southern Hemisphere climbs Bob's Peak."
+    },
+    {
+      "title": "FOUR SKI FIELDS",
+      "text": "Coronet Peak, The Remarkables, Cardrona and Treble Cone serve the winter."
+    },
+    {
+      "title": "MIDDLE-EARTH",
+      "text": "Glenorchy and Paradise nearby filmed as Isengard and Lothlórien country."
+    },
+    {
+      "title": "THE FERGBURGER",
+      "text": "The legendary burger joint draws queues around the block at all hours."
+    },
+    {
+      "title": "GOLD RUSH TOWN",
+      "text": "The 1862 gold rush built the town — Arrowtown's mining lanes survive."
+    },
+    {
+      "title": "A LIVING LAKE",
+      "text": "Wakatipu's water level rises and falls ~20cm on a 26-minute cycle — a Māori legend explains the giant's heartbeat."
+    }
+  ],
+  "randomFacts": [
+    "AJ Hackett launched the world's first commercial bungee at Kawarau Bridge in 1988.",
+    "The jagged range is one of only two ranges worldwide to run exactly north–south.",
+    "Bungy, jet boat, skydive, luge, rafting — the menu is unmatched.",
+    "Milford Sound — Rudyard Kipling's 'eighth wonder' — is a day's round trip.",
+    "The steepest gondola in the Southern Hemisphere climbs Bob's Peak.",
+    "Coronet Peak, The Remarkables, Cardrona and Treble Cone serve the winter.",
+    "Glenorchy and Paradise nearby filmed as Isengard and Lothlórien country.",
+    "The legendary burger joint draws queues around the block at all hours.",
+    "The 1862 gold rush built the town — Arrowtown's mining lanes survive.",
+    "Wakatipu's water level rises and falls ~20cm on a 26-minute cycle — a Māori legend explains the giant's heartbeat.",
+    "Fergburger's queue is part of the ritual.",
+    "Jet boats skim 10cm of water at speed.",
+    "Winter flips the town into ski-resort mode.",
+    "The lake's 'heartbeat' rise is a standing wave (seiche).",
+    "Arrowtown in autumn is a postcard gold."
+  ],
+  "faq": [
+    {
+      "q": "Where is Queenstown located?",
+      "a": "Queenstown is in New Zealand, in Oceania."
+    },
+    {
+      "q": "What is the population of Queenstown?",
+      "a": "The greater Queenstown area is home to about 50,000 people."
+    },
+    {
+      "q": "What is Queenstown famous for?",
+      "a": "Queenstown is famous for the adventure capital of the world — bungee's birthplace, ski fields, and the Remarkables over Lake Wakatipu."
+    },
+    {
+      "q": "Did IShowSpeed stream from Queenstown?",
+      "a": "Yes — IShowSpeed streamed from Queenstown on his late-2024 Australia &amp; New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

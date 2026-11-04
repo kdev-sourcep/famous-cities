@@ -1,0 +1,148 @@
+{
+  "slug": "Amsterdam",
+  "name": "Amsterdam",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "2,500,000",
+  "seo": {
+    "title": "Amsterdam Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Amsterdam travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Amsterdam.",
+    "keywords": "Amsterdam, Amsterdam travel guide, things to do in Amsterdam, Amsterdam fun facts, where to stay in Amsterdam, Famous Cities"
+  },
+  "image": "Amsterdam.png",
+  "video": "videos/amsterdam.mp4",
+  "youtube": null,
+  "tagline": "Canals, gabled houses and bikes everywhere—Amsterdam packs Golden Age history, world-class museums and a relaxed spirit into a compact city. It is ranked #34 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Amsterdam",
+    "twitter": "https://twitter.com/search?q=visit%20Amsterdam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Amsterdam"
+  },
+  "overview": [
+    "Amsterdam began as a small fishing village around a dam on the Amstel river in the 13th century—which is where its name comes from. During the 17th-century Dutch Golden Age it became one of the richest ports in the world, and merchants built the elegant canal houses that still line the water today. The 17th-century canal ring was added to the UNESCO World Heritage list in 2010.",
+    "The city's museums are among the best anywhere. The Rijksmuseum holds Rembrandt's The Night Watch, the Van Gogh Museum has the largest collection of the artist's work, and the Anne Frank House preserves the secret annex where Anne wrote her diary. Book tickets ahead—they sell out quickly.",
+    "The best way to see Amsterdam is to do as the locals do: hop on a bike or a canal boat. Explore the Jordaan's narrow streets and cafés, picnic in Vondelpark, and take the free ferry behind Central Station across the IJ to the creative NDSM area. The city has been working to manage overtourism, with limits on new hotels and campaigns encouraging visitors to respect local neighborhoods."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Amsterdam&aid=2243524",
+    "tours": "https://www.viator.com/Amsterdam/d525",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ams/cheap-flights-to-amsterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "🖼️",
+      "title": "Rijksmuseum",
+      "desc": "Rembrandt's Night Watch and Dutch Golden Age treasures.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rijksmuseum%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rijksmuseum%20tickets"
+    },
+    {
+      "icon": "🌻",
+      "title": "Van Gogh Museum",
+      "desc": "The world's largest collection of Van Gogh's work.",
+      "viator": "https://www.viator.com/searchResults/all?text=Van%20Gogh%20Museum%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Van%20Gogh%20Museum%20tickets"
+    },
+    {
+      "icon": "🚤",
+      "title": "Canal Cruise",
+      "desc": "See the UNESCO-listed canal ring from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Amsterdam%20canal%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Amsterdam%20canal%20cruise"
+    },
+    {
+      "icon": "🌬️",
+      "title": "Zaanse Schans Windmills",
+      "desc": "Day trip to classic Dutch windmills and villages.",
+      "viator": "https://www.viator.com/searchResults/all?text=Zaanse%20Schans%20day%20trip",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Zaanse%20Schans%20day%20trip"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "NEARLY ONE BIKE FOR EVERY RESIDENT",
+      "text": "Amsterdam has roughly as many bicycles as people—by some estimates even more. Thousands of bikes are fished out of the canals every year."
+    },
+    {
+      "title": "MORE THAN 100 KILOMETRES OF CANALS",
+      "text": "The city has 165 canals and around 1,500 bridges, more than Venice."
+    },
+    {
+      "title": "THE CITY STANDS ON WOODEN POLES",
+      "text": "Much of Amsterdam is built on wooden piles driven into the soft ground. The Royal Palace on Dam Square alone rests on 13,659 of them."
+    },
+    {
+      "title": "NAMED AFTER A DAM",
+      "text": "The name comes from a dam built on the Amstel river around the 13th century—\"Amstel-dam\". Dam Square marks the spot today."
+    },
+    {
+      "title": "THE CANAL RING IS A UNESCO SITE",
+      "text": "The 17th-century ring of canals around the old centre was added to the UNESCO World Heritage list in 2010."
+    },
+    {
+      "title": "THE HOUSES LEAN ON PURPOSE",
+      "text": "Many canal houses tilt forward slightly. Goods were hoisted up to the top floors with hooks on the gables, and the lean kept loads from banging into the windows."
+    },
+    {
+      "title": "BIRTHPLACE OF THE STOCK MARKET",
+      "text": "In the early 1600s, shares of the Dutch East India Company were traded in Amsterdam, which is widely considered the world's first modern stock exchange."
+    },
+    {
+      "title": "THE CAPITAL WITHOUT THE GOVERNMENT",
+      "text": "Amsterdam is the capital of the Netherlands, but the parliament and government sit in The Hague."
+    },
+    {
+      "title": "THE XXX IS NOT WHAT YOU THINK",
+      "text": "The three X's on Amsterdam's coat of arms are St. Andrew's crosses. You will see them on flags, buildings and the city's bollards."
+    },
+    {
+      "title": "THE NIGHT WATCH IS HERE",
+      "text": "Rembrandt's huge masterpiece hangs in the Rijksmuseum, where restorers have worked on it in public view so visitors can watch."
+    }
+  ],
+  "randomFacts": [
+    "Amsterdam has roughly as many bicycles as people—by some estimates even more. Thousands of bikes are fished out of the canals every year.",
+    "The city has 165 canals and around 1,500 bridges, more than Venice.",
+    "Much of Amsterdam is built on wooden piles driven into the soft ground. The Royal Palace on Dam Square alone rests on 13,659 of them.",
+    "The name comes from a dam built on the Amstel river around the 13th century—\"Amstel-dam\". Dam Square marks the spot today.",
+    "The 17th-century ring of canals around the old centre was added to the UNESCO World Heritage list in 2010.",
+    "Many canal houses tilt forward slightly. Goods were hoisted up to the top floors with hooks on the gables, and the lean kept loads from banging into the windows.",
+    "In the early 1600s, shares of the Dutch East India Company were traded in Amsterdam, which is widely considered the world's first modern stock exchange.",
+    "Amsterdam is the capital of the Netherlands, but the parliament and government sit in The Hague.",
+    "The three X's on Amsterdam's coat of arms are St. Andrew's crosses. You will see them on flags, buildings and the city's bollards.",
+    "Rembrandt's huge masterpiece hangs in the Rijksmuseum, where restorers have worked on it in public view so visitors can watch.",
+    "Amsterdam has around 2,500 houseboats.",
+    "Schiphol Airport is built on a drained lake bed, below sea level.",
+    "Tulips originally came to the Netherlands via the Ottoman Empire.",
+    "The Anne Frank House welcomes over a million visitors a year.",
+    "Free ferries cross the IJ river behind Central Station day and night."
+  ],
+  "faq": [
+    {
+      "q": "Where is Amsterdam located?",
+      "a": "Amsterdam is in the Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Amsterdam?",
+      "a": "The greater Amsterdam area is home to about 2,500,000 people."
+    },
+    {
+      "q": "What is Amsterdam famous for?",
+      "a": "Canals, gabled houses and bikes everywhere—Amsterdam packs Golden Age history, world-class museums and a relaxed spirit into a compact city."
+    },
+    {
+      "q": "Is Amsterdam worth visiting?",
+      "a": "Yes — Amsterdam was ranked #34 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Amsterdam?",
+      "a": "Yes — IShowSpeed streamed from Amsterdam during his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 34
+}

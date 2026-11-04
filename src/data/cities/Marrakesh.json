@@ -1,0 +1,144 @@
+{
+  "slug": "Marrakesh",
+  "name": "Marrakesh",
+  "region": "Africa",
+  "country": "Morocco",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Marrakesh Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Marrakesh travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Marrakesh.",
+    "keywords": "Marrakesh, Marrakesh travel guide, things to do in Marrakesh, Marrakesh fun facts, where to stay in Marrakesh, Famous Cities"
+  },
+  "image": "Marrakesh.png",
+  "video": "videos/marrakesh.mp4",
+  "youtube": null,
+  "tagline": "The red city — where Jemaa el-Fnaa's storytellers and snake charmers fill the square and the medina's souks run for miles.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Marrakesh",
+    "twitter": "https://twitter.com/search?q=visit%20Marrakesh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Marrakesh"
+  },
+  "overview": [
+    "Marrakesh has performed the same evening miracle for 900 years: as the sun drops, Jemaa el-Fnaa square fills with drummers, storytellers, snake charmers and a hundred grill stalls — the world's oldest nightly street theatre.",
+    "Behind it, the medina's souks run for miles through copper, leather and carpet quarter lanes; the 12th-century Koutoubia minaret guides you home; and the Bahia Palace and Ben Youssef Madrasa hold Morocco's most dazzling tilework. Yves Saint Laurent's Majorelle Garden keeps its famous cobalt blue.",
+    "Speed's 2025 Africa tour streamed from Marrakesh. The Atlas Mountains rise an hour south — and riads (courtyard guesthouses) hidden behind blank medina walls are the place to stay."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Marrakesh&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Marrakesh",
+    "flights": "https://www.skyscanner.net/transport/flights/to/rak/cheap-flights-to-marrakesh.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Medina & Souks Tour",
+      "desc": "Bahia, Ben Youssef and the markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Marrakesh%20medina%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Marrakesh%20medina%20tour"
+    },
+    {
+      "icon": "🌄",
+      "title": "Atlas Mountains Day",
+      "desc": "Berber villages and valleys.",
+      "viator": "https://www.viator.com/searchResults/all?text=Atlas%20Mountains%20day%20trip%20Marrakesh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Atlas%20Mountains%20day%20trip%20Marrakesh"
+    },
+    {
+      "icon": "🐪",
+      "title": "Agafay Desert Sunset",
+      "desc": "Camel ride and dinner in the stone desert.",
+      "viator": "https://www.viator.com/searchResults/all?text=Agafay%20desert%20tour%20Marrakesh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Agafay%20desert%20tour%20Marrakesh"
+    },
+    {
+      "icon": "🌿",
+      "title": "Majorelle & City",
+      "desc": "The blue garden plus city highlights.",
+      "viator": "https://www.viator.com/searchResults/all?text=Marrakesh%20Majorelle%20garden%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Marrakesh%20Majorelle%20garden%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE SQUARE",
+      "text": "Jemaa el-Fnaa's nightly chaos of food stalls and storytellers is UNESCO-listed intangible heritage."
+    },
+    {
+      "title": "THE RED CITY",
+      "text": "Medina walls and buildings were ordered clay-pink in the 12th century — the colour is law."
+    },
+    {
+      "title": "THE KOUTOUBIA",
+      "text": "The 77m minaret has guided travellers for 800 years — no building may exceed it."
+    },
+    {
+      "title": "THE SOUKS",
+      "text": "The medina's covered markets are the largest traditional souks in Morocco."
+    },
+    {
+      "title": "MAJORELLE BLUE",
+      "text": "Yves Saint Laurent saved the painter's cobalt garden in 1980 — it's now the famous villa blue."
+    },
+    {
+      "title": "BEN YOUSSEF",
+      "text": "The 14th-century madrasa's courtyard is among Islam's finest architecture."
+    },
+    {
+      "title": "RIADS",
+      "text": "Blank medina walls hide courtyard palaces — the classic Marrakesh stay."
+    },
+    {
+      "title": "ATLAS GATEWAY",
+      "text": "The High Atlas — with 4,167m Toubkal — rises an hour south."
+    },
+    {
+      "title": "THE TANNERIES",
+      "text": "Leather is still dyed in medieval stone pits — viewed from balconies with mint sprigs."
+    },
+    {
+      "title": "AGDAL & ORANGE TREES",
+      "text": "The city was founded as an oasis — gardens and palms still thread it."
+    }
+  ],
+  "randomFacts": [
+    "Jemaa el-Fnaa's nightly chaos of food stalls and storytellers is UNESCO-listed intangible heritage.",
+    "Medina walls and buildings were ordered clay-pink in the 12th century — the colour is law.",
+    "The 77m minaret has guided travellers for 800 years — no building may exceed it.",
+    "The medina's covered markets are the largest traditional souks in Morocco.",
+    "Yves Saint Laurent saved the painter's cobalt garden in 1980 — it's now the famous villa blue.",
+    "The 14th-century madrasa's courtyard is among Islam's finest architecture.",
+    "Blank medina walls hide courtyard palaces — the classic Marrakesh stay.",
+    "The High Atlas — with 4,167m Toubkal — rises an hour south.",
+    "Leather is still dyed in medieval stone pits — viewed from balconies with mint sprigs.",
+    "The city was founded as an oasis — gardens and palms still thread it.",
+    "Mint tea is poured from a height for foam.",
+    "Marrakesh's Medina lanes genuinely require getting lost.",
+    "Jemaa el-Fnaa's orange-juice carts are the cheapest vitamin hit.",
+    "Haggling starts around a third of the first price.",
+    "The hammam scrub is a local ritual."
+  ],
+  "faq": [
+    {
+      "q": "Where is Marrakesh located?",
+      "a": "Marrakesh is in Morocco, in Africa."
+    },
+    {
+      "q": "What is the population of Marrakesh?",
+      "a": "The greater Marrakesh area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Marrakesh famous for?",
+      "a": "Marrakesh is famous for the Jemaa el-Fnaa square's storytellers and food stalls, the medina souks, and the Majorelle garden."
+    },
+    {
+      "q": "Did IShowSpeed stream from Marrakesh?",
+      "a": "Yes — IShowSpeed streamed from Marrakesh on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 24
+}

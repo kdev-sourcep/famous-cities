@@ -1,0 +1,134 @@
+{
+  "slug": "Dubai",
+  "name": "Dubai",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "metro": "6,595,000",
+  "seo": {
+    "title": "Dubai Travel Guide 2026: Skip the Lines & Hidden Costs Explained | Famous Cities",
+    "description": "Planning a trip to Dubai? Avoid the tourist traps: compare prices across top booking platforms, find the best times to visit the Burj Khalifa, and read 10 things you must know before you go.",
+    "keywords": "Dubai, Dubai travel guide, things to do in Dubai, Dubai fun facts, where to stay in Dubai, Famous Cities"
+  },
+  "image": "Dubai.png",
+  "video": "videos/dubai.mp4",
+  "youtube": null,
+  "tagline": "An alluring blend of over-the-top experiences, Arab heritage and luxury shopping, Dubai is the world’s favorite luxury stopover.",
+  "highlights": [
+    "location",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/visitdubai/",
+    "twitter": "https://twitter.com/visitdubai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dubai"
+  },
+  "overview": [
+    "Dubai is a city of superlatives: you can ride the elevator to the top of the world’s tallest building, dive 60 metres into Deep Dive Dubai — the world’s deepest swimming pool — and watch the world’s richest horse race, all inside one of the planet’s safest cities.",
+    "That firehose of only-here experiences is no accident. The city reinvented itself through the 2010s and 2020s, growing from a playground for a handful of ultra-rich Emiratis into an international tourism and business hub — and the bet paid off: Dubai welcomed a record 18.7 million visitors in 2024, well past its pre-2019 peak, and its remote-work visa has made it a magnet for digital nomads and entrepreneurs.",
+    "The most visited mall on the planet anchors it all. It would be a mistake to focus on the “mall” part of the Dubai Mall, however; like the city itself, it is an attempt to capture every human experience and repackage it for consumption — with an Olympic-sized ice rink, a giant indoor aquarium, 1,200 shops and a direct walkway to the Burj Khalifa. The nature-themed Cityland Mall and the Mohammed Bin Rashid Library on the Creek have since joined the list.",
+    "The Burj Khalifa’s crown looks safe for a while yet: the Dubai Creek Tower, once designed by Santiago Calatrava to eclipse it, has been paused and redesigned more than once, so treat any “next tallest building” claims as aspirational for now.",
+    "The Museum of the Future, opened in 2022, has already settled in as a permanent landmark — National Geographic called the steel-and-glass torus one of the most beautiful museums in the world. The AURA Skypool, the world’s highest 360-degree infinity pool, remains one of the city’s hardest reservations to get, and the 795-room Atlantis The Royal, with restaurants from celebrity chefs like José Andrés, is now the Palm’s flagship ultra-luxury resort. One honest caveat: Ain Dubai, the giant observation wheel on Bluewaters Island, has been closed since 2022 for enhancements — check its status before promising anyone a ride."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?city=-782931&aid=2243524",
+    "tours": "https://www.viator.com/Dubai/d5074",
+    "flights": "https://www.skyscanner.net/transport/flights/to/dxb/cheap-flights-to-dubai.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏙️",
+      "title": "Burj Khalifa: At the Top",
+      "desc": "Ride to the observation decks of the world's tallest building.",
+      "viator": "https://www.viator.com/searchResults/all?text=Burj%20Khalifa%20At%20the%20Top",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Burj%20Khalifa%20At%20the%20Top"
+    },
+    {
+      "icon": "🐪",
+      "title": "Desert Safari",
+      "desc": "Dune bashing, camel rides and a dinner under the stars.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dubai%20desert%20safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dubai%20desert%20safari"
+    },
+    {
+      "icon": "🖼️",
+      "title": "Dubai Frame",
+      "desc": "A giant picture frame with views of old and new Dubai.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dubai%20Frame",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dubai%20Frame"
+    },
+    {
+      "icon": "⛵",
+      "title": "Dhow Dinner Cruise",
+      "desc": "Dinner on a traditional wooden boat along Dubai Marina.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dubai%20Marina%20dhow%20dinner%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dubai%20Marina%20dhow%20dinner%20cruise"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE WORLD'S TALLEST BUILDING IN DUBAI, UAE",
+      "text": "The Burj Khalifa stands at 828 meters (2,717 feet) tall, making it the tallest building in the world. It took 6 years to build and opened in 2010. The tower has 163 floors and holds multiple world records including the highest observation deck, highest restaurant, and highest mosque."
+    },
+    {
+      "title": "DUBAI WAS MOSTLY A DESERT 25 YEARS AGO",
+      "text": "It all started with Sheikh Rashid who was concerned about the future of Dubai once the oil runs out. Sheikh Mohammed is the man who turned Dubai into the Global City we know today."
+    },
+    {
+      "title": "DUBAI THE YOUNG CITY",
+      "text": "In the early 1700s, Dubai was just a small fishing and pearl-diving village. By the end of the 18th century, about 1,200 people were living there compared to today, with now a population of 3.3 million. Before the discovery of oil, pearls, and gold were highly sought after trading items back then"
+    },
+    {
+      "title": "DUBAI CUISINE TRULY COSMOPOLITAN",
+      "text": "Being a trading center for centuries has meant that food from all over the world has influenced the Dubai cuisine. Along with traditional Arabic food, you will find spices from India, ingredients from Persia, and eastern Mediterranean influences. Join a <a href=\"https://www.getyourguide.com/dubai-l173/private-delicious-dubai-food-tour-the-10-tastings-t96201/\"> food tour</a> to taste different cuisines and learn foodie facts about Dubai. For an authentic start to the day, join a <a href=\"https://www.getyourguide.com/dubai-l173/dubai-dunes-5-hour-sunset-dinner-safari-t108694/\">traditional Emirati breakfast experience</a>. If you feel like an adventurous and romantic evening, a dinner at a Bedouin camp is the real deal."
+    },
+    {
+      "title": "LARGEST MALL IN THE WORLD",
+      "text": "The Dubai Mall is part of the Burj Khalifa complex, the tallest man-made structure ever built. At over 12 million square feet (equivalent in size to more than 50 soccer fields), the <a href=\"https://www.thedubaimall.com/en\">Dubai Mall</a> is the largest shopping mall in the world based on total area but about the same size as the West Edmonton Mall if based on leasable space. The mall contains more than 1,200 shops including the world’s largest candy store, an ice rink, a SEGA game center (featuring a 3D bowling game), a 5 star luxury hotel, 22 cinema screens plus 120 restaurants and cafes. The mall also contains one of the <a href=\"https://www.touropia.com/largest-aquariums-in-the-world/\">largest aquariums</a> in the world."
+    },
+    {
+      "title": "LARGEST SUSPENDED AQUARIUM",
+      "text": "The Dubai Aquarium Tank, with a capacity of 10 million litres, is the largest suspended aquarium in the world! It is situated at the ground level of the Dubai Mall. It has the most extensive collection of Sand Tiger Sharks in the world. The aquarium houses more than 33,000 aquatic animals from over 200 species."
+    },
+    {
+      "title": "WORLD'S BIGGEST PICTURE FRAME",
+      "text": "Dubai boasts of having the biggest picture frame in the world. The Dubai Frame, which is 492 feet tall, towers above the city’s skyline and is a famous tourist hotspot."
+    },
+    {
+      "title": "THE DUBAI POLICE ARE EXTREMELY FANCY",
+      "text": "The Dubai Police has way more pizzazz than any police force in the world. They have a range of supercars such as the exotic Bugatti, Ferrari, Bentley, Lamborghini, Camaro, Mercedes and many more at their disposal. The fastest of them, the Veyron can go up to an astonishing 407 kilometres per hour! These cars are used for patrolling heritage sites and tourist areas. So if you find an exotic fleet of cars saying ‘POLICE’ whizzing past you, don’t be surprised!"
+    }
+  ],
+  "randomFacts": [
+    "Dubai has the world's tallest building, the Burj Khalifa at 828 meters.",
+    "The Dubai police force drives supercars including Bugattis and Ferraris.",
+    "Dubai has no income tax for residents.",
+    "The Dubai Mall is the world's largest shopping mall by total area.",
+    "Dubai was just a fishing village 50 years ago.",
+    "The Dubai Frame is the world's largest picture frame at 492 feet tall.",
+    "Dubai has the world's largest suspended aquarium with 10 million liters.",
+    "Almost 90% of Dubai's population are expatriates.",
+    "Dubai has no permanent rivers, but has an artificial canal system.",
+    "The Palm Jumeirah is the world's largest artificial island.",
+    "Dubai's metro system is the longest driverless metro network in the world.",
+    "Gold can be bought from vending machines in Dubai.",
+    "Dubai has more than 70 shopping centers.",
+    "The temperature in Dubai can reach 50°C (122°F) in summer.",
+    "Dubai International Airport is the world's busiest for international passengers."
+  ],
+  "faq": [
+    {
+      "q": "Where is Dubai located?",
+      "a": "Dubai is in the United Arab Emirates, in the Middle East."
+    },
+    {
+      "q": "What is the population of Dubai?",
+      "a": "The greater Dubai area is home to about 4,735,000 people."
+    },
+    {
+      "q": "What is Dubai famous for?",
+      "a": "Dubai is famous for the Burj Khalifa — the world’s tallest building — the colossal Dubai Mall, the Palm Jumeirah, and record-breaking landmarks like the Museum of the Future."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Harare",
+  "name": "Harare",
+  "region": "Africa",
+  "country": "Zimbabwe",
+  "metro": "3,000,000",
+  "seo": {
+    "title": "Harare Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Harare travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Harare.",
+    "keywords": "Harare, Harare travel guide, things to do in Harare, Harare fun facts, where to stay in Harare, Famous Cities"
+  },
+  "image": "Harare.png",
+  "video": "videos/harare.mp4",
+  "youtube": null,
+  "tagline": "The sunshine city of jacarandas — gateway to Victoria Falls, Great Zimbabwe's medieval ruins and the Eastern Highlands' tea country.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Harare",
+    "twitter": "https://twitter.com/search?q=visit%20Harare",
+    "wikipedia": "https://en.wikipedia.org/wiki/Harare"
+  },
+  "overview": [
+    "Harare is the 'sunshine city' — an upland capital of jacaranda-lined avenues that turn purple each October, built on a plateau that keeps the climate mild year-round.",
+    "The city's sights centre on the National Gallery's sculpture collection (Zimbabwe's stone sculptors are world-famous), the Mbare market's energy, and the granite kopjes rising through the suburbs. The balancing rocks — the symbol on the old banknotes — stand at the city's edge.",
+    "Speed's 2025 Africa tour streamed from Harare. Zimbabwe's real icons surround it: Victoria Falls up the road, Great Zimbabwe's 11th-century stone city (the country's namesake) to the south, and the Eastern Highlands' misty tea estates to the east."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Harare&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Harare",
+    "flights": "https://www.skyscanner.net/transport/flights/to/hre/cheap-flights-to-harare.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌊",
+      "title": "Victoria Falls",
+      "desc": "The falls plus the falls town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Victoria%20Falls%20tour%20Zimbabwe",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Victoria%20Falls%20tour%20Zimbabwe"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Great Zimbabwe",
+      "desc": "The medieval stone city day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Great%20Zimbabwe%20ruins%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Great%20Zimbabwe%20ruins%20tour"
+    },
+    {
+      "icon": "🏙️",
+      "title": "City & Sculpture",
+      "desc": "National Gallery, markets, kopjes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Harare%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Harare%20city%20tour"
+    },
+    {
+      "icon": "🦁",
+      "title": "Hwange Extension",
+      "desc": "Elephant herds on the pans.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hwange%20National%20Park%20safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hwange%20National%20Park%20safari"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "JACARANDA CITY",
+      "text": "October turns the avenues purple — Harare's famous seasonal show."
+    },
+    {
+      "title": "GREAT ZIMBABWE",
+      "text": "The medieval stone city gave the country its name — 'houses of stone'."
+    },
+    {
+      "title": "THE SUNSHINE CITY",
+      "text": "The 1,480m altitude keeps the climate mild and bright."
+    },
+    {
+      "title": "BALANCING ROCKS",
+      "text": "The granite formations so famous they appeared on the currency."
+    },
+    {
+      "title": "STONE SCULPTURE",
+      "text": "Zimbabwe's Shona sculptors are collected worldwide — the National Gallery shows why."
+    },
+    {
+      "title": "MBARE MARKET",
+      "text": "The country's oldest township market is a sensory overload."
+    },
+    {
+      "title": "THE SMOKING THUNDER",
+      "text": "Victoria Falls — one of the world's largest — is a flight or drive northwest."
+    },
+    {
+      "title": "EASTERN HIGHLANDS",
+      "text": "Tea estates, misty forests and trout streams cool the eastern border."
+    },
+    {
+      "title": "A LION & ELEPHANT COUNTRY",
+      "text": "Hwange's massive elephant herds are a top safari extension."
+    },
+    {
+      "title": "KOPJES IN THE CITY",
+      "text": "Granite whaleback hills rise right through the suburbs."
+    }
+  ],
+  "randomFacts": [
+    "October turns the avenues purple — Harare's famous seasonal show.",
+    "The medieval stone city gave the country its name — 'houses of stone'.",
+    "The 1,480m altitude keeps the climate mild and bright.",
+    "The granite formations so famous they appeared on the currency.",
+    "Zimbabwe's Shona sculptors are collected worldwide — the National Gallery shows why.",
+    "The country's oldest township market is a sensory overload.",
+    "Victoria Falls — one of the world's largest — is a flight or drive northwest.",
+    "Tea estates, misty forests and trout streams cool the eastern border.",
+    "Hwange's massive elephant herds are a top safari extension.",
+    "Granite whaleback hills rise right through the suburbs.",
+    "Jacaranda season (Oct–Nov) is the photo month.",
+    "Sadza — maize meal — is the staple.",
+    "The balancing rocks sit at Epworth's edge.",
+    "Shona sculpture pieces start small enough to carry.",
+    "The Borrowdale market row is the expat strip."
+  ],
+  "faq": [
+    {
+      "q": "Where is Harare located?",
+      "a": "Harare is in Zimbabwe, in Africa."
+    },
+    {
+      "q": "What is the population of Harare?",
+      "a": "The greater Harare area is home to about 3,000,000 people."
+    },
+    {
+      "q": "What is Harare famous for?",
+      "a": "Harare is famous for the jacaranda capital — gateway to Victoria Falls, Great Zimbabwe's ruins and the Eastern Highlands."
+    },
+    {
+      "q": "Did IShowSpeed stream from Harare?",
+      "a": "Yes — IShowSpeed streamed from Harare on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

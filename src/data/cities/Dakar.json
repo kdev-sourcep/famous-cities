@@ -1,0 +1,144 @@
+{
+  "slug": "Dakar",
+  "name": "Dakar",
+  "region": "Africa",
+  "country": "Senegal",
+  "metro": "4,000,000",
+  "seo": {
+    "title": "Dakar Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Dakar travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Dakar.",
+    "keywords": "Dakar, Dakar travel guide, things to do in Dakar, Dakar fun facts, where to stay in Dakar, Famous Cities"
+  },
+  "image": "Dakar.png",
+  "video": "videos/dakar.mp4",
+  "youtube": null,
+  "tagline": "The westernmost tip of Africa — a surf-and-music capital on a peninsula, facing the slave-trade island of Gorée.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Dakar",
+    "twitter": "https://twitter.com/search?q=visit%20Dakar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dakar"
+  },
+  "overview": [
+    "Dakar is Africa's westernmost city — a peninsula capital that points into the Atlantic, where the 49-metre African Renaissance Monument (taller than the Statue of Liberty) watches over surf breaks and fishing beaches.",
+    "Twenty minutes offshore lies Gorée Island — the pastel colonial island that became a UNESCO memorial to the Atlantic slave trade, visited by Mandela and Obama. The city's own heart is the Marché Sandaga chaos and the mbalax music clubs that made Youssou N'Dour a global star.",
+    "Speed's 2025 Africa tour streamed from Dakar to Senegalese crowds — the country's teranga (hospitality) is famous across the continent."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Dakar&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Dakar",
+    "flights": "https://www.skyscanner.net/transport/flights/to/dkr/cheap-flights-to-dakar.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏝️",
+      "title": "Gorée Island",
+      "desc": "The slave-trade memorial island.",
+      "viator": "https://www.viator.com/searchResults/all?text=Goree%20Island%20tour%20from%20Dakar",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Goree%20Island%20tour%20from%20Dakar"
+    },
+    {
+      "icon": "🏛️",
+      "title": "City & Monument",
+      "desc": "Renaissance Monument, markets, mosque.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dakar%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dakar%20city%20tour"
+    },
+    {
+      "icon": "🌸",
+      "title": "Pink Lake Day",
+      "desc": "Lake Retba's rosy water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lake%20Retba%20pink%20lake%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lake%20Retba%20pink%20lake%20tour"
+    },
+    {
+      "icon": "🎶",
+      "title": "Mbalax Night",
+      "desc": "Live Senegalese music with locals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dakar%20music%20nightlife",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dakar%20music%20nightlife"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE WESTERN EDGE",
+      "text": "Cap-Vert peninsula is mainland Africa's westernmost point."
+    },
+    {
+      "title": "AFRICAN RENAISSANCE",
+      "text": "The 49m bronze family monument — taller than the Statue of Liberty — crowns a volcanic hill."
+    },
+    {
+      "title": "GORÉE ISLAND",
+      "text": "The House of Slaves' 'Door of No Return' is the Atlantic slave trade's most visited memorial."
+    },
+    {
+      "title": "MBALAX",
+      "text": "Senegal's drum-driven music — Youssou N'Dour's genre — owns the city's nights."
+    },
+    {
+      "title": "TERANGA",
+      "text": "'Hospitality' is so central to Wolof identity it names the national character."
+    },
+    {
+      "title": "THE PINK LAKE",
+      "text": "Lake Retba's salt-heavy water turns pink — an hour north."
+    },
+    {
+      "title": "THE FISHING CITY",
+      "text": "Colourful pirogues still land fish on city beaches each evening."
+    },
+    {
+      "title": "DAKAR RALLY",
+      "text": "The Paris-Dakar rally was named for its finish here — it moved to South America, then Saudi."
+    },
+    {
+      "title": "SANDAGA",
+      "text": "The colonial-era market is one of West Africa's biggest."
+    },
+    {
+      "title": "A CITY OF SUFI",
+      "text": "The Mouride and Tidjane brotherhoods shape the city's religious culture — Touba's grand mosque is a pilgrimage."
+    }
+  ],
+  "randomFacts": [
+    "Cap-Vert peninsula is mainland Africa's westernmost point.",
+    "The 49m bronze family monument — taller than the Statue of Liberty — crowns a volcanic hill.",
+    "The House of Slaves' 'Door of No Return' is the Atlantic slave trade's most visited memorial.",
+    "Senegal's drum-driven music — Youssou N'Dour's genre — owns the city's nights.",
+    "'Hospitality' is so central to Wolof identity it names the national character.",
+    "Lake Retba's salt-heavy water turns pink — an hour north.",
+    "Colourful pirogues still land fish on city beaches each evening.",
+    "The Paris-Dakar rally was named for its finish here — it moved to South America, then Saudi.",
+    "The colonial-era market is one of West Africa's biggest.",
+    "The Mouride and Tidjane brotherhoods shape the city's religious culture — Touba's grand mosque is a pilgrimage.",
+    "Thieboudienne — fish, rice and vegetables — is the national dish.",
+    "Pirogue boat taxis cross to island beaches.",
+    "The Renaissance Monument's interior has a viewing deck.",
+    "Surf season runs November to May.",
+    "Dakar's fashion week draws Africa's designers."
+  ],
+  "faq": [
+    {
+      "q": "Where is Dakar located?",
+      "a": "Dakar is in Senegal, in Africa."
+    },
+    {
+      "q": "What is the population of Dakar?",
+      "a": "The greater Dakar area is home to about 4,000,000 people."
+    },
+    {
+      "q": "What is Dakar famous for?",
+      "a": "Dakar is famous for the westernmost point of Africa, the African Renaissance Monument, Gorée Island and mbalax music."
+    },
+    {
+      "q": "Did IShowSpeed stream from Dakar?",
+      "a": "Yes — IShowSpeed streamed from Dakar on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

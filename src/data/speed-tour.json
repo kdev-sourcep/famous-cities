@@ -1,0 +1,177 @@
+{
+  "title": "IShowSpeed’s World Tour",
+  "intro": "Darren “IShowSpeed” Watkins Jr. is one of the biggest livestreamers on the planet — and since 2024 he’s been turning entire countries into his stage, streaming IRL adventures to millions of viewers in real time. Below is every leg of his travels, with our full travel guides linked for the cities he streamed from.",
+  "legs": [
+    {
+      "title": "Europe Tour (2024)",
+      "text": "Speed’s first massive international run — a sweep across Western Europe, the Nordics and the Balkans that included the famous Oslo crowd incident and dozens of chaotic street streams.",
+      "cities": [
+        "LONDON",
+        "Paris",
+        "Amsterdam",
+        "Munich",
+        "Oslo",
+        "Stockholm",
+        "Copenhagen",
+        "Helsinki",
+        "Tallinn",
+        "Riga",
+        "Vilnius",
+        "Warsaw",
+        "Budapest",
+        "Bucharest",
+        "Belgrade",
+        "Sofia",
+        "Sarajevo",
+        "Skopje",
+        "Tirana"
+      ],
+      "videos": [
+        {
+          "id": "yB2Fe0880gs",
+          "params": "list=PL7yUo_QnzVZ1mnvajKyIR20bMz9I476Oy",
+          "title": "Speed in Europe"
+        }
+      ]
+    },
+    {
+      "title": "Southeast Asia Tour (2024)",
+      "text": "The elephant ride, the tuk-tuk crash, the Manny Pacquiao boxing session — this leg produced some of his most-clipped moments ever.",
+      "cities": [
+        "Bangkok",
+        "Singapore",
+        "Manila",
+        "Kuala-Lumpur",
+        "Jakarta",
+        "Hanoi",
+        "Phnom-Penh"
+      ],
+      "videos": [
+        {
+          "id": "8Z-5l40luGc",
+          "params": "",
+          "title": "Speed IRL stream in Thailand — Pattaya"
+        }
+      ]
+    },
+    {
+      "title": "Australia & New Zealand (2024)",
+      "text": "Speed headed down under in late 2024, packing out malls and landmarks across Australia and New Zealand.",
+      "cities": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth",
+        "Adelaide",
+        "Auckland",
+        "Queenstown"
+      ],
+      "videos": [
+        {
+          "id": "C8Gqmu4p49s",
+          "params": "",
+          "title": "Speed IRL stream in Australia"
+        },
+        {
+          "id": "eFz30QfDvwg",
+          "params": "",
+          "title": "Speed IRL stream in New Zealand"
+        }
+      ]
+    },
+    {
+      "title": "South America Tour (2025)",
+      "text": "Massive crowds met Speed across South America — football culture in Buenos Aires and Rio, and a trek up to Machu Picchu.",
+      "cities": [
+        "Buenos-Aires",
+        "Rio-de-Janeiro",
+        "Lima",
+        "Cusco",
+        "Bogota",
+        "Santiago"
+      ],
+      "videos": [
+        {
+          "id": "VT3CtCEh8HQ",
+          "params": "start=1979",
+          "title": "Speed in South America"
+        }
+      ]
+    },
+    {
+      "title": "China & Mongolia Tour (2025)",
+      "text": "The Great Wall backflip, kung-fu training at the Shaolin Temple, and the Chongqing drone show that broke the internet.",
+      "cities": [
+        "Beijing",
+        "Shanghai",
+        "Hong-Kong",
+        "Shenzhen",
+        "Chongqing",
+        "Changsha",
+        "Zhengzhou",
+        "Ulaanbaatar"
+      ],
+      "videos": [
+        {
+          "id": "fK85SQzm0Z0",
+          "params": "list=PLPw_exBR8r3AOE-2xMRRnNnOBrCXbUkGE",
+          "title": "Speed in China"
+        },
+        {
+          "id": "3z1vpiBPQD8",
+          "params": "",
+          "title": "Speed in China & Mongolia"
+        }
+      ]
+    },
+    {
+      "title": "Africa Tour (2025)",
+      "text": "Speed’s longest tour yet — around twenty countries in about a month, from souks to safaris.",
+      "cities": [
+        "Cape-Town",
+        "Cairo",
+        "Marrakesh",
+        "Nairobi",
+        "Lagos",
+        "Accra",
+        "Dakar",
+        "Addis-Ababa",
+        "Luanda",
+        "Maputo",
+        "Windhoek",
+        "Gaborone",
+        "Lusaka",
+        "Harare"
+      ],
+      "videos": [
+        {
+          "id": "5hTAg2ThHAo",
+          "params": "start=3785",
+          "title": "Speed in Africa"
+        }
+      ]
+    },
+    {
+      "title": "Japan & Korea (2023–2024)",
+      "text": "Before the mega-tours, Speed’s Asia trips — sumo stables in Tokyo and chaos in Seoul — proved the format worked.",
+      "cities": [
+        "Tokyo",
+        "Seoul",
+        "Osaka"
+      ],
+      "videos": [
+        {
+          "id": "D9XRVAqLD-8",
+          "params": "",
+          "title": "Speed — Life in Japan"
+        },
+        {
+          "id": "s7abxsByIJ8",
+          "params": "",
+          "title": "Speed IRL stream in South Korea"
+        }
+      ]
+    }
+  ],
+  "outro": "Planning a trip in his footsteps? Every linked city has our full guide: fun facts, maps, ranked hotels and bookable tours. <a href=\"/cities.html\">Browse all city guides →</a>"
+}

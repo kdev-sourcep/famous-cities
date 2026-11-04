@@ -1,0 +1,144 @@
+{
+  "slug": "Copenhagen",
+  "name": "Copenhagen",
+  "region": "Europe",
+  "country": "Denmark",
+  "metro": "2,100,000",
+  "seo": {
+    "title": "Copenhagen Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Copenhagen travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Copenhagen.",
+    "keywords": "Copenhagen, Copenhagen travel guide, things to do in Copenhagen, Copenhagen fun facts, where to stay in Copenhagen, Famous Cities"
+  },
+  "image": "Copenhagen.png",
+  "video": "videos/copenhagen.mp4",
+  "youtube": null,
+  "tagline": "Nyhavn's colored houses, Tivoli's 1843 amusement park and the world's best restaurants — all reached by bicycle.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Copenhagen",
+    "twitter": "https://twitter.com/search?q=visit%20Copenhagen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Copenhagen"
+  },
+  "overview": [
+    "Copenhagen is the template for the livable city: more bicycles than people, harbour water clean enough to swim in, and a food scene that produced Noma and a wave of New Nordic restaurants.",
+    "The postcard is Nyhavn — the 17th-century canal of painted townhouses where Hans Christian Andersen wrote his tales. Tivoli Gardens, the 1843 amusement park in the city centre, inspired Walt Disney; the Little Mermaid sits modestly on her rock; and freetown Christiania keeps its anarchist commune vibe going after 50 years.",
+    "Speed's 2024 tour streamed from Copenhagen. The city also runs Amager Bakke — a power plant with a ski slope on its roof — and the Round Tower's spiral ramp, climbed by horse-drawn carriages for centuries."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Copenhagen&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Copenhagen",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cph/cheap-flights-to-copenhagen.html"
+  },
+  "topThings": [
+    {
+      "icon": "🚢",
+      "title": "Canal & Nyhavn Cruise",
+      "desc": "The coloured harbour from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Copenhagen%20canal%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Copenhagen%20canal%20tour"
+    },
+    {
+      "icon": "🎢",
+      "title": "Tivoli Gardens",
+      "desc": "The 1843 amusement park, day or night.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tivoli%20Gardens%20Copenhagen%20ticket",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tivoli%20Gardens%20Copenhagen%20ticket"
+    },
+    {
+      "icon": "🚴",
+      "title": "Bike & City Tour",
+      "desc": "Ride like a local past the landmarks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Copenhagen%20bike%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Copenhagen%20bike%20tour"
+    },
+    {
+      "icon": "🍽️",
+      "title": "Nordic Food Tour",
+      "desc": "Smørrebrød, Torvehallerne market and craft beer.",
+      "viator": "https://www.viator.com/searchResults/all?text=Copenhagen%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Copenhagen%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "MORE BIKES THAN PEOPLE",
+      "text": "Cycles outnumber residents; nearly half of commutes happen on two wheels."
+    },
+    {
+      "title": "THE LITTLE MERMAID",
+      "text": "Edvard Eriksen's 1913 statue of Andersen's heroine is famously small — 1.25 metres."
+    },
+    {
+      "title": "DISNEY'S INSPIRATION",
+      "text": "Walt Disney visited Tivoli Gardens and borrowed the magic for Disneyland."
+    },
+    {
+      "title": "THE COLORED CANAL",
+      "text": "Nyhavn's 17th-century townhouses once housed sailors and Hans Christian Andersen."
+    },
+    {
+      "title": "A SKI SLOPE ON A POWER PLANT",
+      "text": "CopenHill is a waste-to-energy plant you can ski down."
+    },
+    {
+      "title": "NEW NORDIC BIRTHPLACE",
+      "text": "Noma's manifesto reinvented Nordic cuisine — the influence is still everywhere."
+    },
+    {
+      "title": "THE FREETOWN",
+      "text": "Christiania, a car-free anarchist commune since 1971, is Europe's strangest neighbourhood."
+    },
+    {
+      "title": "SWIM-IN HARBOUR",
+      "text": "The harbour bath at Islands Brygge sits inside the city — the water passed swim tests in 2002."
+    },
+    {
+      "title": "THE ROUND TOWER",
+      "text": "The 17th-century observatory is climbed by a spiral ramp, not stairs."
+    },
+    {
+      "title": "HYGGE CENTRAL",
+      "text": "The Danish art of cozy contentment is exported worldwide — Copenhagen runs on it."
+    }
+  ],
+  "randomFacts": [
+    "Cycles outnumber residents; nearly half of commutes happen on two wheels.",
+    "Edvard Eriksen's 1913 statue of Andersen's heroine is famously small — 1.25 metres.",
+    "Walt Disney visited Tivoli Gardens and borrowed the magic for Disneyland.",
+    "Nyhavn's 17th-century townhouses once housed sailors and Hans Christian Andersen.",
+    "CopenHill is a waste-to-energy plant you can ski down.",
+    "Noma's manifesto reinvented Nordic cuisine — the influence is still everywhere.",
+    "Christiania, a car-free anarchist commune since 1971, is Europe's strangest neighbourhood.",
+    "The harbour bath at Islands Brygge sits inside the city — the water passed swim tests in 2002.",
+    "The 17th-century observatory is climbed by a spiral ramp, not stairs.",
+    "The Danish art of cozy contentment is exported worldwide — Copenhagen runs on it.",
+    "Copenhagen's airport repeatedly ranks among the world's best.",
+    "Smørrebrød open sandwiches are the lunch religion.",
+    "The Little Mermaid has lost her head twice to vandals.",
+    "Harbour water quality is tested daily in season.",
+    "Bakken, the world's oldest amusement park (1583), is just north of the city."
+  ],
+  "faq": [
+    {
+      "q": "Where is Copenhagen located?",
+      "a": "Copenhagen is in Denmark, in Europe."
+    },
+    {
+      "q": "What is the population of Copenhagen?",
+      "a": "The greater Copenhagen area is home to about 2,100,000 people."
+    },
+    {
+      "q": "What is Copenhagen famous for?",
+      "a": "Copenhagen is famous for Nyhavn's colorful harbor, Tivoli Gardens, the Little Mermaid, world-leading restaurants and cycling culture."
+    },
+    {
+      "q": "Did IShowSpeed stream from Copenhagen?",
+      "a": "Yes — IShowSpeed streamed from Copenhagen on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 13
+}

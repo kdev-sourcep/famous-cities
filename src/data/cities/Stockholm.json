@@ -1,0 +1,144 @@
+{
+  "slug": "Stockholm",
+  "name": "Stockholm",
+  "region": "Europe",
+  "country": "Sweden",
+  "metro": "2,400,000",
+  "seo": {
+    "title": "Stockholm Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Stockholm travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Stockholm.",
+    "keywords": "Stockholm, Stockholm travel guide, things to do in Stockholm, Stockholm fun facts, where to stay in Stockholm, Famous Cities"
+  },
+  "image": "Stockholm.png",
+  "video": "videos/stockholm.mp4",
+  "youtube": null,
+  "tagline": "Fourteen islands stitched by 57 bridges — a medieval old town, a salvaged 17th-century warship, and Scandinavia's design capital.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Stockholm",
+    "twitter": "https://twitter.com/search?q=visit%20Stockholm",
+    "wikipedia": "https://en.wikipedia.org/wiki/Stockholm"
+  },
+  "overview": [
+    "Stockholm spreads across 14 islands where Lake Mälaren meets the Baltic, stitched together by 57 bridges. Water is everywhere — locals swim off the city quays and take ferries like buses.",
+    "Gamla Stan, the medieval old town, hides 13th-century lanes beneath golden gables, while Djurgården island holds the big museums: the Vasa warship (salvaged 333 years after sinking on its maiden voyage), ABBA The Museum, and the open-air Skansen.",
+    "Speed's 2024 tour streamed from Stockholm — the Swedish crowds were among the trip's most energetic. Beyond the centre, the archipelago's 30,000 islands stretch to the horizon by boat."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Stockholm&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Stockholm",
+    "flights": "https://www.skyscanner.net/transport/flights/to/arn/cheap-flights-to-stockholm.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Gamla Stan & Royal Walk",
+      "desc": "Medieval lanes and the Royal Palace.",
+      "viator": "https://www.viator.com/searchResults/all?text=Stockholm%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Stockholm%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "🏺",
+      "title": "Vasa & Museums",
+      "desc": "The salvaged warship plus Djurgården.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vasa%20Museum%20Stockholm%20ticket",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vasa%20Museum%20Stockholm%20ticket"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Archipelago Cruise",
+      "desc": "Islands, summer houses and seals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Stockholm%20archipelago%20boat%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Stockholm%20archipelago%20boat%20tour"
+    },
+    {
+      "icon": "🎤",
+      "title": "ABBA Museum",
+      "desc": "Sing along in the pop shrine.",
+      "viator": "https://www.viator.com/searchResults/all?text=ABBA%20Museum%20Stockholm%20ticket",
+      "getyourguide": "https://www.getyourguide.com/s/?q=ABBA%20Museum%20Stockholm%20ticket"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "14 ISLANDS, 57 BRIDGES",
+      "text": "The city is built where lake meets sea across 14 connected islands."
+    },
+    {
+      "title": "THE UNSINKABLE THAT SANK",
+      "text": "The Vasa warship sank 20 minutes into its 1628 maiden voyage — raised intact in 1961."
+    },
+    {
+      "title": "A CITY OF SWIMMERS",
+      "text": "Clean water means locals swim off downtown docks all summer."
+    },
+    {
+      "title": "ABBA LAND",
+      "text": "ABBA The Museum lets you perform as the fifth member on a hologram stage."
+    },
+    {
+      "title": "THE NOBEL BANQUET",
+      "text": "The Blue Hall hosts the Nobel dinner each December — and it's actually red-brick-free... it's blue."
+    },
+    {
+      "title": "METRO AS ART",
+      "text": "Stockholm's subway is called the world's longest art gallery — 90+ decorated stations."
+    },
+    {
+      "title": "FICA CULTURE",
+      "text": "Swedish fika — coffee and a cinnamon bun — is a daily institution, not a snack."
+    },
+    {
+      "title": "A ROYAL PARADE GROUND",
+      "text": "Drottningholm Palace, the royals' home, is a UNESCO-listed day trip."
+    },
+    {
+      "title": "30,000 ISLANDS",
+      "text": "The Stockholm archipelago is the Baltic's largest — summer cottages and seals."
+    },
+    {
+      "title": "MIDSUMMER MADNESS",
+      "text": "June's Midsummer brings near-24-hour light and maypole dancing."
+    }
+  ],
+  "randomFacts": [
+    "The city is built where lake meets sea across 14 connected islands.",
+    "The Vasa warship sank 20 minutes into its 1628 maiden voyage — raised intact in 1961.",
+    "Clean water means locals swim off downtown docks all summer.",
+    "ABBA The Museum lets you perform as the fifth member on a hologram stage.",
+    "The Blue Hall hosts the Nobel dinner each December — and it's actually red-brick-free... it's blue.",
+    "Stockholm's subway is called the world's longest art gallery — 90+ decorated stations.",
+    "Swedish fika — coffee and a cinnamon bun — is a daily institution, not a snack.",
+    "Drottningholm Palace, the royals' home, is a UNESCO-listed day trip.",
+    "The Stockholm archipelago is the Baltic's largest — summer cottages and seals.",
+    "June's Midsummer brings near-24-hour light and maypole dancing.",
+    "Stockholm syndrome was named after a 1973 bank robbery here.",
+    "The city hall's gold room glitters with 18 million mosaic tiles.",
+    "Locals say 'lagom' — just the right amount.",
+    "Ice skating rinks pop up free in winter parks.",
+    "The tunnelbana art starts underground — don't skip the stations."
+  ],
+  "faq": [
+    {
+      "q": "Where is Stockholm located?",
+      "a": "Stockholm is in Sweden, in Europe."
+    },
+    {
+      "q": "What is the population of Stockholm?",
+      "a": "The greater Stockholm area is home to about 2,400,000 people."
+    },
+    {
+      "q": "What is Stockholm famous for?",
+      "a": "Stockholm is famous for a capital built on 14 islands, the Vasa warship museum, Gamla Stan's medieval lanes and Swedish design."
+    },
+    {
+      "q": "Did IShowSpeed stream from Stockholm?",
+      "a": "Yes — IShowSpeed streamed from Stockholm on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

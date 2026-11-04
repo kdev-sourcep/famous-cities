@@ -16,7 +16,7 @@
     var shown = rec.filter(function (r) { return r.u !== file; });
     if (!shown.length) return;
 
-    var header = document.querySelector(".u-header");
+    var header = document.querySelector(".site-header");
     if (!header || !header.parentNode) return;
 
     var inBlog = /\/blog\//.test(location.pathname);

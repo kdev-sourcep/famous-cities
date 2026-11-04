@@ -1,0 +1,144 @@
+{
+  "slug": "Adelaide",
+  "name": "Adelaide",
+  "region": "Oceania",
+  "country": "Australia",
+  "metro": "1,400,000",
+  "seo": {
+    "title": "Adelaide Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Adelaide travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Adelaide.",
+    "keywords": "Adelaide, Adelaide travel guide, things to do in Adelaide, Adelaide fun facts, where to stay in Adelaide, Famous Cities"
+  },
+  "image": "Adelaide.png",
+  "video": "videos/adelaide.mp4",
+  "youtube": null,
+  "tagline": "Australia's festival city — ringed by wine valleys, famous for the Fringe, and home to the country's best market.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Adelaide",
+    "twitter": "https://twitter.com/search?q=visit%20Adelaide",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adelaide"
+  },
+  "overview": [
+    "Adelaide is the quiet overachiever: the '20-minute city' was designed in a ring of parklands, its Festival and Fringe make it one of the world's great arts cities each March, and three world-class wine regions start within an hour's drive.",
+    "The Central Market is the city's soul — 70+ stalls of cheese, smallgoods and produce under one 1869 roof, feeding a food culture that punches far above Adelaide's size. The oval's roofline — the restored Adelaide Oval with its climb — crowns the park edge.",
+    "Speed's 2024 tour streamed from Adelaide. The Barossa and McLaren Vale valleys put shiraz tastings within a lunch hour, and Kangaroo Island — Australia's Galápagos — is the weekend escape."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Adelaide&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Adelaide",
+    "flights": "https://www.skyscanner.net/transport/flights/to/adl/cheap-flights-to-adelaide.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍷",
+      "title": "Barossa Wine Day",
+      "desc": "Shiraz tastings in the famous valley.",
+      "viator": "https://www.viator.com/searchResults/all?text=Barossa%20Valley%20wine%20tour%20Adelaide",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Barossa%20Valley%20wine%20tour%20Adelaide"
+    },
+    {
+      "icon": "🦘",
+      "title": "Kangaroo Island",
+      "desc": "Sea lions, Remarkable Rocks, wild roos.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kangaroo%20Island%20tour%20Adelaide",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kangaroo%20Island%20tour%20Adelaide"
+    },
+    {
+      "icon": "🏙️",
+      "title": "City & Market Walk",
+      "desc": "Central Market and the parklands.",
+      "viator": "https://www.viator.com/searchResults/all?text=Adelaide%20Central%20Market%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Adelaide%20Central%20Market%20tour"
+    },
+    {
+      "icon": "🚋",
+      "title": "Glenelg & Coast",
+      "desc": "Heritage tram to the beach.",
+      "viator": "https://www.viator.com/searchResults/all?text=Adelaide%20Glenelg%20tram",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Adelaide%20Glenelg%20tram"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE 20-MINUTE CITY",
+      "text": "The planned 1836 grid is ringed by parklands — everything's close."
+    },
+    {
+      "title": "THE FRINGE",
+      "text": "Adelaide Fringe is the world's second-largest arts festival after Edinburgh."
+    },
+    {
+      "title": "THREE WINE VALLEYS",
+      "text": "Barossa, McLaren Vale and Adelaide Hills all start within an hour."
+    },
+    {
+      "title": "THE CENTRAL MARKET",
+      "text": "The 1869 market is one of the Southern Hemisphere's largest fresh produce markets."
+    },
+    {
+      "title": "A ROO ON THE RANGE",
+      "text": "Kangaroo Island's wildlife was declared a sanctuary — 'Australia's Galápagos'."
+    },
+    {
+      "title": "THE OVAL CLIMB",
+      "text": "Adelaide Oval's roofline is climbable — even during matches at twilight."
+    },
+    {
+      "title": "THE FREE SETTLERS",
+      "text": "South Australia was founded without convicts — the 'free colony'."
+    },
+    {
+      "title": "A CITY OF CHURCHES",
+      "text": "The nickname survives — plus the state's firsts in women's suffrage."
+    },
+    {
+      "title": "GLENELG TRAM",
+      "text": "The heritage tram runs from the city to the beach at Glenelg."
+    },
+    {
+      "title": "MAD MARCH",
+      "text": "Fringe + Festival + WOMADelaide converge in a single festival season."
+    }
+  ],
+  "randomFacts": [
+    "The planned 1836 grid is ringed by parklands — everything's close.",
+    "Adelaide Fringe is the world's second-largest arts festival after Edinburgh.",
+    "Barossa, McLaren Vale and Adelaide Hills all start within an hour.",
+    "The 1869 market is one of the Southern Hemisphere's largest fresh produce markets.",
+    "Kangaroo Island's wildlife was declared a sanctuary — 'Australia's Galápagos'.",
+    "Adelaide Oval's roofline is climbable — even during matches at twilight.",
+    "South Australia was founded without convicts — the 'free colony'.",
+    "The nickname survives — plus the state's firsts in women's suffrage.",
+    "The heritage tram runs from the city to the beach at Glenelg.",
+    "Fringe + Festival + WOMADelaide converge in a single festival season.",
+    "A pie floater — pie in pea soup — is the late-night classic.",
+    "The state's wineries produce ~half of Australia's wine.",
+    "Haigh's has made chocolate here since 1915.",
+    "The Rundle Mall pigs are the city's selfie statues.",
+    "St Peter's Cathedral's twin spires took 25 years."
+  ],
+  "faq": [
+    {
+      "q": "Where is Adelaide located?",
+      "a": "Adelaide is in Australia, in Oceania."
+    },
+    {
+      "q": "What is the population of Adelaide?",
+      "a": "The greater Adelaide area is home to about 1,400,000 people."
+    },
+    {
+      "q": "What is Adelaide famous for?",
+      "a": "Adelaide is famous for the festival city — Adelaide Fringe, the Barossa and McLaren Vale wine regions, and the Central Market."
+    },
+    {
+      "q": "Did IShowSpeed stream from Adelaide?",
+      "a": "Yes — IShowSpeed streamed from Adelaide on his late-2024 Australia &amp; New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 29
+}

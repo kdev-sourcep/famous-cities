@@ -1,0 +1,140 @@
+{
+  "slug": "Sucre",
+  "name": "Sucre",
+  "region": "South America",
+  "country": "Bolivia",
+  "metro": "300,000",
+  "seo": {
+    "title": "Sucre Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Sucre travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Sucre.",
+    "keywords": "Sucre, Sucre travel guide, things to do in Sucre, Sucre fun facts, where to stay in Sucre, Famous Cities"
+  },
+  "image": "Sucre.png",
+  "video": "videos/sucre.mp4",
+  "youtube": null,
+  "tagline": "Bolivia's whitewashed constitutional capital is a UNESCO colonial jewel where independence was declared, dinosaur footprints climb a cliff and the altitude is mercifully kind.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Sucre",
+    "twitter": "https://twitter.com/search?q=visit%20Sucre",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sucre"
+  },
+  "overview": [
+    "Sucre is where Bolivia became Bolivia: independence was declared in 1825 in the Casa de la Libertad. Named for revolutionary Antonio José de Sucre, the city of whitewashed buildings and red tile roofs is the country's constitutional capital — though the government sits in La Paz.",
+    "The whole colonial centre is a UNESCO World Heritage Site, built with silver wealth from nearby Potosí. The cathedral towers over Plaza 25 de Mayo, convents hide quiet courtyards, and the markets sell weavings from the surrounding Quechua villages.",
+    "On the city edge, the Cal Orck'o cliff displays over 5,000 dinosaur footprints tilting up a cement quarry wall — the largest collection of tracks ever found. Sucre's gentle 2,800-metre altitude and springlike climate make it Bolivia's favourite place to linger and learn Spanish."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Sucre&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Sucre",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sre/cheap-flights-to-sucre.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Historic Centre Tour",
+      "desc": "Casa de la Libertad, cathedral and convent courtyards.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sucre%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sucre%20walking%20tour"
+    },
+    {
+      "icon": "🦕",
+      "title": "Cal Orck'o Dinosaur Tracks",
+      "desc": "See the 5,000-footprint cliff at the cement quarry.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sucre%20dinosaur%20footprints%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sucre%20dinosaur%20footprints%20tour"
+    },
+    {
+      "icon": "🏪",
+      "title": "Tarabuco Sunday Market",
+      "desc": "Traditional weavings and mountain-village culture.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tarabuco%20market%20tour%20from%20Sucre",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tarabuco%20market%20tour%20from%20Sucre"
+    },
+    {
+      "icon": "🌶️",
+      "title": "Cooking & Chocolate Class",
+      "desc": "Learn Bolivian dishes and taste the city's chocolate.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sucre%20cooking%20class",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sucre%20cooking%20class"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WHERE BOLIVIA WAS BORN",
+      "text": "Independence was proclaimed at the Casa de la Libertad in 1825."
+    },
+    {
+      "title": "THE WHITE CITY",
+      "text": "Colonial law required buildings to be whitewashed — the tradition that earned the nickname survives today."
+    },
+    {
+      "title": "TWO CAPITALS",
+      "text": "Sucre is the constitutional capital; La Paz holds the government. Bolivia refuses to choose."
+    },
+    {
+      "title": "A WALL OF DINOSAUR TRACKS",
+      "text": "Cal Orck'o's near-vertical cliff shows over 5,000 footprints from at least 8 dinosaur species."
+    },
+    {
+      "title": "SILVER PAID FOR IT",
+      "text": "Sucre's churches and convents were built with fortunes from Potosí's silver mountain."
+    },
+    {
+      "title": "A GENTLE ALTITUDE",
+      "text": "At 2,810 metres, Sucre is kinder to visitors than La Paz — and the climate is famously mild."
+    },
+    {
+      "title": "THE TEXTILE MARKETS",
+      "text": "Tarabuco's Sunday market brings weavers in traditional dress from mountain villages."
+    },
+    {
+      "title": "A CASTLE THAT ISN'T",
+      "text": "The pink Castillo de la Glorieta was a prince's folly, mixing architectural styles freely."
+    },
+    {
+      "title": "STUDENT CITY",
+      "text": "Sucre's university, founded in 1624, is one of the oldest in the Americas."
+    },
+    {
+      "title": "HOME OF THE NEW BOLIVIANO",
+      "text": "The capital prints its money? No — but the coin and currency museum explains Bolivia's minting history."
+    }
+  ],
+  "randomFacts": [
+    "Independence was proclaimed at the Casa de la Libertad in 1825.",
+    "Colonial law required buildings to be whitewashed — the tradition that earned the nickname survives today.",
+    "Sucre is the constitutional capital; La Paz holds the government. Bolivia refuses to choose.",
+    "Cal Orck'o's near-vertical cliff shows over 5,000 footprints from at least 8 dinosaur species.",
+    "Sucre's churches and convents were built with fortunes from Potosí's silver mountain.",
+    "At 2,810 metres, Sucre is kinder to visitors than La Paz — and the climate is famously mild.",
+    "Tarabuco's Sunday market brings weavers in traditional dress from mountain villages.",
+    "The pink Castillo de la Glorieta was a prince's folly, mixing architectural styles freely.",
+    "Sucre's university, founded in 1624, is one of the oldest in the Americas.",
+    "The capital prints its money? No — but the coin and currency museum explains Bolivia's minting history.",
+    "Sucre was originally called La Plata, then Chuquisaca.",
+    "The climate is springlike all year — locals call it eternal spring.",
+    "Sunday market at Tarabuco is a 90-minute bus ride away.",
+    "The cemetery is among the most beautiful in South America.",
+    "Chocolate shops line the plaza — Sucre is Bolivia's chocolate capital."
+  ],
+  "faq": [
+    {
+      "q": "Where is Sucre located?",
+      "a": "Sucre is in Bolivia, in South America."
+    },
+    {
+      "q": "What is the population of Sucre?",
+      "a": "The greater Sucre area is home to about 300,000 people."
+    },
+    {
+      "q": "What is Sucre famous for?",
+      "a": "Bolivia's whitewashed constitutional capital is a UNESCO colonial jewel where independence was declared, dinosaur footprints climb a cliff and the altitude is mercifully kind."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

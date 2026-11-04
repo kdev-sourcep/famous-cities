@@ -1,0 +1,144 @@
+{
+  "slug": "Budapest",
+  "name": "Budapest",
+  "region": "Europe",
+  "country": "Hungary",
+  "metro": "3,000,000",
+  "seo": {
+    "title": "Budapest Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Budapest travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Budapest.",
+    "keywords": "Budapest, Budapest travel guide, things to do in Budapest, Budapest fun facts, where to stay in Budapest, Famous Cities"
+  },
+  "image": "Budapest.png",
+  "video": "videos/budapest.mp4",
+  "youtube": null,
+  "tagline": "The Pearl of the Danube — thermal bath palaces, ruin bars in crumbling mansions, and the most photographed parliament in Europe.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Budapest",
+    "twitter": "https://twitter.com/search?q=visit%20Budapest",
+    "wikipedia": "https://en.wikipedia.org/wiki/Budapest"
+  },
+  "overview": [
+    "Budapest is two cities — hilly Buda and flat Pest — stitched across the Danube by the Chain Bridge. Castle Hill's Fisherman's Bastion gives the fairy-tale view, while the Parliament's neo-Gothic facade lights up the river at night like a wedding cake.",
+    "The city sits on 120 thermal springs, and bathing is a way of life: Széchenyi's yellow palace hosts chess players in steaming outdoor pools even in snow. After dark, the Jewish Quarter's 'ruin bars' — pubs built inside crumbling pre-war buildings — made Budapest's nightlife famous.",
+    "Speed's 2024 tour streamed from Budapest. Prices remain some of Europe's friendliest — a thermal bath, a chimney cake and a river cruise cost less than dinner in Paris."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Budapest&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Budapest",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bud/cheap-flights-to-budapest.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Castle Hill Walk",
+      "desc": "Fisherman's Bastion and Matthias Church.",
+      "viator": "https://www.viator.com/searchResults/all?text=Budapest%20castle%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Budapest%20castle%20tour"
+    },
+    {
+      "icon": "♨️",
+      "title": "Széchenyi Baths",
+      "desc": "Europe's biggest thermal bath ticket.",
+      "viator": "https://www.viator.com/searchResults/all?text=Szechenyi%20Baths%20Budapest%20entry",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Szechenyi%20Baths%20Budapest%20entry"
+    },
+    {
+      "icon": "🚢",
+      "title": "Danube Night Cruise",
+      "desc": "Parliament lit up from the river.",
+      "viator": "https://www.viator.com/searchResults/all?text=Budapest%20night%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Budapest%20night%20cruise"
+    },
+    {
+      "icon": "🍻",
+      "title": "Ruin Bar Crawl",
+      "desc": "Szimpla Kert and the Jewish Quarter scene.",
+      "viator": "https://www.viator.com/searchResults/all?text=Budapest%20ruin%20bar%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Budapest%20ruin%20bar%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "TWO CITIES, ONE RIVER",
+      "text": "Buda and Pest united only in 1873 — the Chain Bridge sealed the bond in 1849."
+    },
+    {
+      "title": "THE BATH CITY",
+      "text": "120+ thermal springs feed 15 public baths — Széchenyi is the largest in Europe."
+    },
+    {
+      "title": "CHESS IN THE POOL",
+      "text": "Regulars play chess on floating boards in Széchenyi's steaming outdoor pool."
+    },
+    {
+      "title": "RUIN BARS",
+      "text": "Szimpla Kert pioneered bars inside derelict buildings — now a worldwide trend."
+    },
+    {
+      "title": "THE PARLIAMENT",
+      "text": "The 268-metre Gothic parliament took 17 years and 40 million bricks."
+    },
+    {
+      "title": "THE SHOES MEMORIAL",
+      "text": "Iron shoes on the Danube bank honour Jews shot into the river in 1944."
+    },
+    {
+      "title": "A FISHERMAN'S BASTION",
+      "text": "The seven turrets represent the seven Magyar tribes — it was never a fort, just a viewpoint."
+    },
+    {
+      "title": "CHIMNEY CAKES",
+      "text": "Kürtőskalács — dough spirals roasted over coals — perfume the winter markets."
+    },
+    {
+      "title": "A HILL OF CAVES",
+      "text": "Buda's limestone hides a thermal cave system open to tours."
+    },
+    {
+      "title": "EUROPE'S OLDEST METRO",
+      "text": "The M1 line (1896) is the continent's oldest underground railway."
+    }
+  ],
+  "randomFacts": [
+    "Buda and Pest united only in 1873 — the Chain Bridge sealed the bond in 1849.",
+    "120+ thermal springs feed 15 public baths — Széchenyi is the largest in Europe.",
+    "Regulars play chess on floating boards in Széchenyi's steaming outdoor pool.",
+    "Szimpla Kert pioneered bars inside derelict buildings — now a worldwide trend.",
+    "The 268-metre Gothic parliament took 17 years and 40 million bricks.",
+    "Iron shoes on the Danube bank honour Jews shot into the river in 1944.",
+    "The seven turrets represent the seven Magyar tribes — it was never a fort, just a viewpoint.",
+    "Kürtőskalács — dough spirals roasted over coals — perfume the winter markets.",
+    "Buda's limestone hides a thermal cave system open to tours.",
+    "The M1 line (1896) is the continent's oldest underground railway.",
+    "Széchenyi outdoor pools stay open in snow.",
+    "The New York Café claims 'world's most beautiful cafe' status.",
+    "Unicum is the herbal bitter locals swear cures everything.",
+    "Tram 2 is the 'scenic' line along the river.",
+    "Fisherman's Bastion charges nothing for most views."
+  ],
+  "faq": [
+    {
+      "q": "Where is Budapest located?",
+      "a": "Budapest is in Hungary, in Europe."
+    },
+    {
+      "q": "What is the population of Budapest?",
+      "a": "The greater Budapest area is home to about 3,000,000 people."
+    },
+    {
+      "q": "What is Budapest famous for?",
+      "a": "Budapest is famous for the Danube-split twin city, ruin bars in old palaces, thermal baths like Széchenyi and the Parliament's Gothic facade."
+    },
+    {
+      "q": "Did IShowSpeed stream from Budapest?",
+      "a": "Yes — IShowSpeed streamed from Budapest on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

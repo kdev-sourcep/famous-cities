@@ -1,0 +1,144 @@
+{
+  "slug": "Edinburgh",
+  "name": "Edinburgh",
+  "region": "Europe",
+  "country": "Scotland",
+  "metro": "900,000",
+  "seo": {
+    "title": "Edinburgh Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Edinburgh travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Edinburgh.",
+    "keywords": "Edinburgh, Edinburgh travel guide, things to do in Edinburgh, Edinburgh fun facts, where to stay in Edinburgh, Famous Cities"
+  },
+  "image": "Edinburgh.png",
+  "video": "videos/edinburgh.mp4",
+  "youtube": null,
+  "tagline": "Scotland's storybook capital stacks a hilltop castle, medieval Old Town and Georgian New Town between an extinct volcano and the sea. It is ranked #3 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Edinburgh",
+    "twitter": "https://twitter.com/search?q=visit%20Edinburgh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Edinburgh"
+  },
+  "overview": [
+    "Edinburgh's Old Town grew around the Royal Mile, the street running from Edinburgh Castle down to the Palace of Holyroodhouse. Beneath the city lies a warren of vaults and closes, and above it rises Arthur's Seat, an extinct volcano you can hike for views over the whole city.",
+    "The elegant New Town, built from the 1760s, is a UNESCO World Heritage Site together with the medieval Old Town. Princes Street Gardens separates the two, while the Scott Monument and Calton Hill's monuments give Edinburgh its distinctive skyline.",
+    "Every August the city becomes the world's biggest arts festival: the Edinburgh Festival Fringe fills hundreds of venues with comedy, theatre and music. The rest of the year, cosy pubs, whisky bars, museums and ghost tours keep visitors busy whatever the weather."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Edinburgh&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Edinburgh",
+    "flights": "https://www.skyscanner.net/transport/flights/to/edi/cheap-flights-to-edinburgh.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Edinburgh Castle",
+      "desc": "Skip-the-line entry to Scotland's most famous fortress.",
+      "viator": "https://www.viator.com/searchResults/all?text=Edinburgh%20Castle%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Edinburgh%20Castle%20tickets"
+    },
+    {
+      "icon": "🥃",
+      "title": "Scotch Whisky Experience",
+      "desc": "Taste and learn about Scotland's national drink.",
+      "viator": "https://www.viator.com/searchResults/all?text=Scotch%20whisky%20tasting%20Edinburgh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Scotch%20whisky%20tasting%20Edinburgh"
+    },
+    {
+      "icon": "👻",
+      "title": "Underground Vaults Tour",
+      "desc": "Ghost stories in the city's hidden closes and vaults.",
+      "viator": "https://www.viator.com/searchResults/all?text=Edinburgh%20underground%20vaults%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Edinburgh%20underground%20vaults%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Highlands Day Trip",
+      "desc": "Loch Ness, Glencoe and Highland scenery in one day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Scottish%20Highlands%20day%20trip%20from%20Edinburgh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Scottish%20Highlands%20day%20trip%20from%20Edinburgh"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A CASTLE ON VOLCANIC ROCK",
+      "text": "Edinburgh Castle sits on Castle Rock, the plug of a volcano that erupted around 340 million years ago."
+    },
+    {
+      "title": "YOU CAN HIKE AN EXTINCT VOLCANO",
+      "text": "Arthur's Seat, in Holyrood Park, is an extinct volcano with panoramic views over the city."
+    },
+    {
+      "title": "THE WORLD'S LARGEST ARTS FESTIVAL",
+      "text": "Every August the Edinburgh Festival Fringe hosts thousands of shows, making it the biggest arts festival in the world."
+    },
+    {
+      "title": "J.K. ROWLING WROTE HERE",
+      "text": "Much of the first Harry Potter book was written in Edinburgh cafes, and local landmarks inspired places in the books."
+    },
+    {
+      "title": "A TOWN BENEATH THE TOWN",
+      "text": "Below the Royal Mile lies a network of hidden closes and vaults, some of which can be visited on guided ghost tours."
+    },
+    {
+      "title": "THE WORLD'S FIRST FIRE BRIGADE",
+      "text": "Edinburgh formed the world's first municipal fire service in 1824."
+    },
+    {
+      "title": "A DOG WHO WOULDN'T LEAVE",
+      "text": "Greyfriars Bobby, a terrier, famously guarded his owner's grave for 14 years. His statue sits near the kirkyard."
+    },
+    {
+      "title": "THE STONE OF DESTINY",
+      "text": "The ancient coronation stone of Scottish kings was kept at Edinburgh Castle for centuries and was used in King Charles III's coronation."
+    },
+    {
+      "title": "NEW TOWN ISN'T NEW",
+      "text": "The Georgian-era New Town dates to the 1760s and, with the medieval Old Town, forms a UNESCO World Heritage Site."
+    },
+    {
+      "title": "THE ONE O'CLOCK GUN",
+      "text": "A cannon fires from the castle at 1pm almost every day, a tradition since 1861 that helped ships set their clocks."
+    }
+  ],
+  "randomFacts": [
+    "Edinburgh Castle sits on Castle Rock, the plug of a volcano that erupted around 340 million years ago.",
+    "Arthur's Seat, in Holyrood Park, is an extinct volcano with panoramic views over the city.",
+    "Every August the Edinburgh Festival Fringe hosts thousands of shows, making it the biggest arts festival in the world.",
+    "Much of the first Harry Potter book was written in Edinburgh cafes, and local landmarks inspired places in the books.",
+    "Below the Royal Mile lies a network of hidden closes and vaults, some of which can be visited on guided ghost tours.",
+    "Edinburgh formed the world's first municipal fire service in 1824.",
+    "Greyfriars Bobby, a terrier, famously guarded his owner's grave for 14 years. His statue sits near the kirkyard.",
+    "The ancient coronation stone of Scottish kings was kept at Edinburgh Castle for centuries and was used in King Charles III's coronation.",
+    "The Georgian-era New Town dates to the 1760s and, with the medieval Old Town, forms a UNESCO World Heritage Site.",
+    "A cannon fires from the castle at 1pm almost every day, a tradition since 1861 that helped ships set their clocks.",
+    "Edinburgh was named the first UNESCO City of Literature in 2004.",
+    "The Fringe sells millions of tickets each August.",
+    "The Royal Mile is actually about 1.1 miles long.",
+    "Haggis, neeps and tatties is the classic Scottish dish to try.",
+    "Dolly the sheep, the first cloned mammal, is displayed in the National Museum of Scotland."
+  ],
+  "faq": [
+    {
+      "q": "Where is Edinburgh located?",
+      "a": "Edinburgh is in Scotland, in Europe."
+    },
+    {
+      "q": "What is the population of Edinburgh?",
+      "a": "The greater Edinburgh area is home to about 900,000 people."
+    },
+    {
+      "q": "What is Edinburgh famous for?",
+      "a": "Scotland's storybook capital stacks a hilltop castle, medieval Old Town and Georgian New Town between an extinct volcano and the sea."
+    },
+    {
+      "q": "Is Edinburgh worth visiting?",
+      "a": "Yes — Edinburgh was ranked #3 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": 3
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Cairo",
+  "name": "Cairo",
+  "region": "Africa",
+  "country": "Egypt",
+  "metro": "21,000,000",
+  "seo": {
+    "title": "Cairo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Cairo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Cairo.",
+    "keywords": "Cairo, Cairo travel guide, things to do in Cairo, Cairo fun facts, where to stay in Cairo, Famous Cities"
+  },
+  "image": "Cairo.png",
+  "video": "videos/cairo.mp4",
+  "youtube": null,
+  "tagline": "The mother of the world — 21 million people beside the only surviving Wonder of the Ancient World.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Cairo",
+    "twitter": "https://twitter.com/search?q=visit%20Cairo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cairo"
+  },
+  "overview": [
+    "Cairo — 'the mother of the world' to Egyptians — is Africa's largest metro area and the only city on earth that can see an ancient Wonder from its edge: the Pyramids of Giza rise directly out of the city's western suburbs.",
+    "The new Grand Egyptian Museum at Giza (the world's largest museum devoted to one civilisation) houses the complete Tutankhamun collection; downtown, the old Egyptian Museum, Khan el-Khalili's medieval bazaar and the Citadel of Saladin layer 5,000 years into one skyline.",
+    "Speed's 2025 Africa tour streamed from Cairo to enormous crowds. The pyramids, the Nile feluccas at sunset and the cacophony of a city of 21 million make it travel's greatest sensory overload."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cairo&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Cairo",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cai/cheap-flights-to-cairo.html"
+  },
+  "topThings": [
+    {
+      "icon": "🐫",
+      "title": "Pyramids & Sphinx",
+      "desc": "The last Wonder plus camel views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Pyramids%20of%20Giza%20tour%20Cairo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Pyramids%20of%20Giza%20tour%20Cairo"
+    },
+    {
+      "icon": "🏺",
+      "title": "Grand Egyptian Museum",
+      "desc": "Tutankhamun's complete treasure.",
+      "viator": "https://www.viator.com/searchResults/all?text=Grand%20Egyptian%20Museum%20ticket",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Grand%20Egyptian%20Museum%20ticket"
+    },
+    {
+      "icon": "⛵",
+      "title": "Nile Felucca",
+      "desc": "A sail on the river at sunset.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nile%20felucca%20ride%20Cairo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nile%20felucca%20ride%20Cairo"
+    },
+    {
+      "icon": "🕌",
+      "title": "Islamic Cairo & Bazaar",
+      "desc": "Citadel, mosques and Khan el-Khalili.",
+      "viator": "https://www.viator.com/searchResults/all?text=Islamic%20Cairo%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Islamic%20Cairo%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE LAST WONDER",
+      "text": "The Great Pyramid of Giza is the only Ancient Wonder still standing — and it's visible from the suburbs."
+    },
+    {
+      "title": "THE GRAND EGYPTIAN MUSEUM",
+      "text": "The new GEM is the world's largest museum for a single civilisation — the complete Tutankhamun collection is inside."
+    },
+    {
+      "title": "4,500 YEARS",
+      "text": "The Great Pyramid was the world's tallest building for 3,800 years."
+    },
+    {
+      "title": "MOTHER OF THE WORLD",
+      "text": "Egyptians call the city 'Umm al-Dunya' — mother of the world."
+    },
+    {
+      "title": "A CITY OF A THOUSAND MINARETS",
+      "text": "The medieval skyline earned the poetic nickname."
+    },
+    {
+      "title": "KHAN EL-KHALILI",
+      "text": "The 14th-century bazaar's lanes still sell gold, spices and lanterns."
+    },
+    {
+      "title": "THE CITADEL",
+      "text": "Saladin's 12th-century fortress crowns the city — the Muhammad Ali mosque's alabaster dome on top."
+    },
+    {
+      "title": "NILE ISLANDS",
+      "text": "Zamalek island holds embassies, cafés and the opera — felucca sails drift past."
+    },
+    {
+      "title": "COPTIC CAIRO",
+      "text": "The old Christian quarter holds churches built over the Roman Babylon fortress."
+    },
+    {
+      "title": "TAHRIR SQUARE",
+      "text": "The 2011 revolution's heart remains the symbolic centre."
+    }
+  ],
+  "randomFacts": [
+    "The Great Pyramid of Giza is the only Ancient Wonder still standing — and it's visible from the suburbs.",
+    "The new GEM is the world's largest museum for a single civilisation — the complete Tutankhamun collection is inside.",
+    "The Great Pyramid was the world's tallest building for 3,800 years.",
+    "Egyptians call the city 'Umm al-Dunya' — mother of the world.",
+    "The medieval skyline earned the poetic nickname.",
+    "The 14th-century bazaar's lanes still sell gold, spices and lanterns.",
+    "Saladin's 12th-century fortress crowns the city — the Muhammad Ali mosque's alabaster dome on top.",
+    "Zamalek island holds embassies, cafés and the opera — felucca sails drift past.",
+    "The old Christian quarter holds churches built over the Roman Babylon fortress.",
+    "The 2011 revolution's heart remains the symbolic centre.",
+    "Felucca sunset sails on the Nile cost a few dollars.",
+    "Koshary — rice-lentil-pasta with hot sauce — is the street staple.",
+    "The pyramids' sound-and-light show still runs nightly.",
+    "Cairo traffic runs on horn language.",
+    "Mango juice stands beat any café."
+  ],
+  "faq": [
+    {
+      "q": "Where is Cairo located?",
+      "a": "Cairo is in Egypt, in Africa."
+    },
+    {
+      "q": "What is the population of Cairo?",
+      "a": "The greater Cairo area is home to about 21,000,000 people."
+    },
+    {
+      "q": "What is Cairo famous for?",
+      "a": "Cairo is famous for the Pyramids of Giza, the Sphinx, the Egyptian Museum's Tutankhamun treasures, and Khan el-Khalili bazaar."
+    },
+    {
+      "q": "Did IShowSpeed stream from Cairo?",
+      "a": "Yes — IShowSpeed streamed from Cairo on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 42
+}

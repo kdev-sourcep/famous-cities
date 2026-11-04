@@ -1,0 +1,144 @@
+{
+  "slug": "Auckland",
+  "name": "Auckland",
+  "region": "Oceania",
+  "country": "New Zealand",
+  "metro": "1,700,000",
+  "seo": {
+    "title": "Auckland Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Auckland travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Auckland.",
+    "keywords": "Auckland, Auckland travel guide, things to do in Auckland, Auckland fun facts, where to stay in Auckland, Famous Cities"
+  },
+  "image": "Auckland.png",
+  "video": "videos/auckland.mp4",
+  "youtube": null,
+  "tagline": "The City of Sails — a harbour metropolis spread across 53 volcanic cones, with island vineyards, black-sand surf beaches and Māori heartland culture.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Auckland",
+    "twitter": "https://twitter.com/search?q=visit%20Auckland",
+    "wikipedia": "https://en.wikipedia.org/wiki/Auckland"
+  },
+  "overview": [
+    "Auckland spreads across a narrow isthmus between two harbours, dotted with 53 extinct volcanic cones that serve as the city's hilltop parks — Maungawhau/Mount Eden's crater rim gives the classic skyline view.",
+    "The harbour is the lifestyle: more boats per capita than almost anywhere, ferries to Waiheke Island's vineyards, and black-sand surf at Piha on the wild west coast. The Sky Tower's bungee looms over the Viaduct's restaurant strip.",
+    "Speed's late-2024 stream in Auckland drew the biggest crowds of his New Zealand leg — fitting for a city where the All Blacks' Eden Park is a national shrine and the haka echoes at every test."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Auckland&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Auckland",
+    "flights": "https://www.skyscanner.net/transport/flights/to/akl/cheap-flights-to-auckland.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏙️",
+      "title": "Sky Tower & City",
+      "desc": "The Southern Hemisphere's tallest tower.",
+      "viator": "https://www.viator.com/searchResults/all?text=Auckland%20Sky%20Tower%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Auckland%20Sky%20Tower%20tickets"
+    },
+    {
+      "icon": "🍷",
+      "title": "Waiheke Wine Day",
+      "desc": "Vineyard ferries and tastings on the island.",
+      "viator": "https://www.viator.com/searchResults/all?text=Waiheke%20Island%20wine%20tour%20from%20Auckland",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Waiheke%20Island%20wine%20tour%20from%20Auckland"
+    },
+    {
+      "icon": "🌊",
+      "title": "Piha & West Coast",
+      "desc": "Black-sand beaches and rainforest walks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Piha%20beach%20day%20trip%20Auckland",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Piha%20beach%20day%20trip%20Auckland"
+    },
+    {
+      "icon": "🦻",
+      "title": "Hobbiton & Glowworms",
+      "desc": "The Shire plus the Waitomo caves in one day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hobbiton%20Waitomo%20tour%20from%20Auckland",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hobbiton%20Waitomo%20tour%20from%20Auckland"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE CITY OF SAILS",
+      "text": "Auckland has more boats per capita than almost any city on earth."
+    },
+    {
+      "title": "53 VOLCANOES",
+      "text": "The city is built on 53 extinct cones — Mount Eden's crater rim is a public park."
+    },
+    {
+      "title": "TWO HARBOURS",
+      "text": "A narrow isthmus holds the Tasman Sea and Pacific within minutes of each other."
+    },
+    {
+      "title": "THE TALLEST TOWER DOWN UNDER",
+      "text": "At 328m the Sky Tower is the Southern Hemisphere's tallest — with a bungee off it."
+    },
+    {
+      "title": "PACIFICA CAPITAL",
+      "text": "Auckland is the world's largest Polynesian city — the Pasifika Festival is the biggest of its kind."
+    },
+    {
+      "title": "A WINE ISLAND",
+      "text": "Waiheke's vineyards are a 35-minute ferry from downtown."
+    },
+    {
+      "title": "BLACK-SAND COAST",
+      "text": "Piha's iron-sand surf beach sits 40 minutes from the centre."
+    },
+    {
+      "title": "THE HAKA'S STAGE",
+      "text": "The All Blacks perform the haka at Eden Park — the national shrine."
+    },
+    {
+      "title": "A DESIRED PLACE",
+      "text": "The Māori name Tāmaki Makaurau means 'Tāmaki desired by many'."
+    },
+    {
+      "title": "GLOWWORMS NEARBY",
+      "text": "Waitomo's glowworm cave rivers are a day trip south."
+    }
+  ],
+  "randomFacts": [
+    "Auckland has more boats per capita than almost any city on earth.",
+    "The city is built on 53 extinct cones — Mount Eden's crater rim is a public park.",
+    "A narrow isthmus holds the Tasman Sea and Pacific within minutes of each other.",
+    "At 328m the Sky Tower is the Southern Hemisphere's tallest — with a bungee off it.",
+    "Auckland is the world's largest Polynesian city — the Pasifika Festival is the biggest of its kind.",
+    "Waiheke's vineyards are a 35-minute ferry from downtown.",
+    "Piha's iron-sand surf beach sits 40 minutes from the centre.",
+    "The All Blacks perform the haka at Eden Park — the national shrine.",
+    "The Māori name Tāmaki Makaurau means 'Tāmaki desired by many'.",
+    "Waitomo's glowworm cave rivers are a day trip south.",
+    "Rangitoto island only erupted about 600 years ago.",
+    "The America's Cup has been won and lost on this harbour.",
+    "Fish and chips on Mission Bay beach is the local ritual.",
+    "Locals call Aucklanders 'Jafas' — ask them what it means.",
+    "One Tree Hill's single famous tree had to be replanted as a grove."
+  ],
+  "faq": [
+    {
+      "q": "Where is Auckland located?",
+      "a": "Auckland is in New Zealand, in Oceania."
+    },
+    {
+      "q": "What is the population of Auckland?",
+      "a": "The greater Auckland area is home to about 1,700,000 people."
+    },
+    {
+      "q": "What is Auckland famous for?",
+      "a": "Auckland is famous for New Zealand's largest city — the Sky Tower, harbours, volcanic cones, Waiheke's wineries and black-sand beaches."
+    },
+    {
+      "q": "Did IShowSpeed stream from Auckland?",
+      "a": "Yes — IShowSpeed streamed from Auckland on his late-2024 Australia &amp; New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 48
+}

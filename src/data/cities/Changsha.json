@@ -1,0 +1,144 @@
+{
+  "slug": "Changsha",
+  "name": "Changsha",
+  "region": "Asia",
+  "country": "China",
+  "metro": "10,000,000",
+  "seo": {
+    "title": "Changsha Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Changsha travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Changsha.",
+    "keywords": "Changsha, Changsha travel guide, things to do in Changsha, Changsha fun facts, where to stay in Changsha, Famous Cities"
+  },
+  "image": "Changsha.png",
+  "video": "videos/changsha.mp4",
+  "youtube": null,
+  "tagline": "China's late-night food capital — Mao's home province's neon city, famous for stinky tofu, a river-island park and snack streets that run till dawn.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Changsha",
+    "twitter": "https://twitter.com/search?q=visit%20Changsha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Changsha"
+  },
+  "overview": [
+    "Changsha is the capital of Hunan — the province that gave China Chairman Mao and its most aggressive cuisine. The city wears both proudly: a giant statue of young Mao anchors Orange Isle in the Xiang River, and the night markets keep the chili flowing until sunrise.",
+    "Chinese foodies rate Changsha's snack streets among the country's best — stinky tofu, crayfish and sugar-oil rice cakes along Pozi Street and Taiping Old Street. The serious side lives at the Hunan Museum, where the Mawangdui tombs hold a 2,100-year-old marquise preserved so well her skin was still soft.",
+    "Speed's 2025 China tour ended here amid chaotic crowds — and produced the viral story of the 'braised goose uncle,' a vendor who followed Speed across the trip and became a national celebrity overnight."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Changsha&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Changsha",
+    "flights": "https://www.skyscanner.net/transport/flights/to/csx/cheap-flights-to-changsha.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍜",
+      "title": "Night Food-Street Tour",
+      "desc": "Stinky tofu, crayfish and the snack lanes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Changsha%20street%20food%20night%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Changsha%20street%20food%20night%20tour"
+    },
+    {
+      "icon": "🍊",
+      "title": "Orange Isle & Mao Statue",
+      "desc": "The river-island park and young-Mao monument.",
+      "viator": "https://www.viator.com/searchResults/all?text=Changsha%20Orange%20Isle%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Changsha%20Orange%20Isle%20tour"
+    },
+    {
+      "icon": "🏺",
+      "title": "Hunan Museum & Mawangdui",
+      "desc": "Meet the best-preserved ancient body on earth.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hunan%20Museum%20Mawangdui%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hunan%20Museum%20Mawangdui%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Shaoshan Day Trip",
+      "desc": "Mao's home village in the Hunan hills.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shaoshan%20day%20trip%20from%20Changsha",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shaoshan%20day%20trip%20from%20Changsha"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE SNACK-STREET CITY",
+      "text": "Pozi Street and Taiping Old Street run on stinky tofu and crayfish until 3 a.m."
+    },
+    {
+      "title": "MAO'S GIANT HEAD",
+      "text": "A 32-metre statue of young Mao Zedong anchors Orange Isle in the Xiang River."
+    },
+    {
+      "title": "THE 2,100-YEAR-OLD LADY",
+      "text": "Lady Dai of Mawangdui was preserved so well that her joints still moved — the museum's star."
+    },
+    {
+      "title": "CHINA'S MEDIA CAPITAL",
+      "text": "Hunan TV, headquartered here, produces the country's most-watched entertainment shows."
+    },
+    {
+      "title": "THE STINKIEST TOFU",
+      "text": "Changsha's black stinky tofu is brine-fermented — then deep-fried crisp outside."
+    },
+    {
+      "title": "OUT-SPICYING SICHUAN",
+      "text": "Hunan cuisine may out-chili Sichuan — Mao claimed chilies helped the revolution think."
+    },
+    {
+      "title": "FIREWORKS CITY",
+      "text": "Changsha and neighbouring Liuyang produce most of the world's fireworks."
+    },
+    {
+      "title": "A 3,000-YEAR NAME",
+      "text": "Unlike most Chinese cities, Changsha has kept the same name for three millennia."
+    },
+    {
+      "title": "THE GOOSE UNCLE",
+      "text": "During Speed's 2025 visit, a vendor chasing him with braised goose became a folk hero."
+    },
+    {
+      "title": "AN ISLAND PARK",
+      "text": "Orange Isle is a 5-km island of lawns and citrus in the river's centre."
+    }
+  ],
+  "randomFacts": [
+    "Pozi Street and Taiping Old Street run on stinky tofu and crayfish until 3 a.m.",
+    "A 32-metre statue of young Mao Zedong anchors Orange Isle in the Xiang River.",
+    "Lady Dai of Mawangdui was preserved so well that her joints still moved — the museum's star.",
+    "Hunan TV, headquartered here, produces the country's most-watched entertainment shows.",
+    "Changsha's black stinky tofu is brine-fermented — then deep-fried crisp outside.",
+    "Hunan cuisine may out-chili Sichuan — Mao claimed chilies helped the revolution think.",
+    "Changsha and neighbouring Liuyang produce most of the world's fireworks.",
+    "Unlike most Chinese cities, Changsha has kept the same name for three millennia.",
+    "During Speed's 2025 visit, a vendor chasing him with braised goose became a folk hero.",
+    "Orange Isle is a 5-km island of lawns and citrus in the river's centre.",
+    "Supper here is a 1 a.m. institution.",
+    "Mao worked in a Changsha library before the revolution.",
+    "Stinky tofu smells awful, locals promise it tastes great.",
+    "The Hunan Museum's Lady Dai rivals mummies for preservation.",
+    "Fireworks testing lights the suburbs at random hours."
+  ],
+  "faq": [
+    {
+      "q": "Where is Changsha located?",
+      "a": "Changsha is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Changsha?",
+      "a": "The greater Changsha area is home to about 10,000,000 people."
+    },
+    {
+      "q": "What is Changsha famous for?",
+      "a": "Changsha is famous for Hunan's neon food capital — stinky-tofu snack streets, the young-Mao statue on Orange Isle, and the Mawangdui tombs."
+    },
+    {
+      "q": "Did IShowSpeed stream from Changsha?",
+      "a": "Yes — IShowSpeed ended his 2025 China tour in Changsha, where the braised-goose vendor moment went viral. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

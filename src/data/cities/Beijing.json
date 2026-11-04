@@ -1,0 +1,148 @@
+{
+  "slug": "Beijing",
+  "name": "Beijing",
+  "region": "Asia",
+  "country": "China",
+  "metro": "21,500,000",
+  "seo": {
+    "title": "Beijing Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Beijing travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Beijing.",
+    "keywords": "Beijing, Beijing travel guide, things to do in Beijing, Beijing fun facts, where to stay in Beijing, Famous Cities"
+  },
+  "image": "Beijing.png",
+  "video": "videos/beijing.mp4",
+  "youtube": null,
+  "tagline": "China's imperial capital holds the Forbidden City, the Temple of Heaven and centuries-old hutong alleyways, with the Great Wall climbing the mountains just beyond the city. It is ranked #30 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Beijing",
+    "twitter": "https://twitter.com/search?q=visit%20Beijing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Beijing"
+  },
+  "overview": [
+    "Beijing has been China's capital for much of the last 700 years, and the Ming-era monuments still dominate. The Forbidden City, home to 24 emperors, is the largest palace complex on Earth, facing the vast expanse of Tiananmen Square.",
+    "The city's soul lives in its hutongs, the narrow lanes of courtyard homes radiating from the old centre. Around Houhai's lakes, rickshaws, teahouses and snack stalls keep the neighbourhood feel alive, while the 798 Art District and Sanlitun show Beijing's modern side.",
+    "The Great Wall is the day trip everyone comes for. The restored Mutianyu section, about 90 minutes away, winds over forested ridges with far fewer crowds than Badaling. Back in the city, order Peking duck, roasted to a crackle and wrapped in pancakes, a dish perfected for the imperial court."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Beijing&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Beijing",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bjs/cheap-flights-to-beijing.html"
+  },
+  "topThings": [
+    {
+      "icon": "🧱",
+      "title": "Great Wall at Mutianyu",
+      "desc": "Walk restored ramparts over forested ridges, with a toboggan ride down.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mutianyu%20Great%20Wall%20tour%20from%20Beijing",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mutianyu%20Great%20Wall%20tour%20from%20Beijing"
+    },
+    {
+      "icon": "🏯",
+      "title": "Forbidden City Tour",
+      "desc": "Explore the imperial palace with a guide and skip the confusion.",
+      "viator": "https://www.viator.com/searchResults/all?text=Forbidden%20City%20guided%20tour%20Beijing",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Forbidden%20City%20guided%20tour%20Beijing"
+    },
+    {
+      "icon": "🦆",
+      "title": "Peking Duck Dinner",
+      "desc": "Taste the city's signature roast duck at a classic restaurant.",
+      "viator": "https://www.viator.com/searchResults/all?text=Peking%20duck%20dinner%20Beijing",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Peking%20duck%20dinner%20Beijing"
+    },
+    {
+      "icon": "🛴",
+      "title": "Hutong Rickshaw Tour",
+      "desc": "Weave the old alleyways and courtyard homes by rickshaw.",
+      "viator": "https://www.viator.com/searchResults/all?text=Beijing%20hutong%20rickshaw%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Beijing%20hutong%20rickshaw%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "HOME TO 24 EMPERORS",
+      "text": "The Forbidden City was the imperial palace for the Ming and Qing dynasties from 1420 until 1912."
+    },
+    {
+      "title": "THE GREAT WALL NEXT DOOR",
+      "text": "The Mutianyu section of the Great Wall lies in the mountains about 70 kilometres from the city centre."
+    },
+    {
+      "title": "SEVEN UNESCO SITES",
+      "text": "Beijing has seven UNESCO World Heritage Sites, including the Forbidden City, Temple of Heaven and Summer Palace."
+    },
+    {
+      "title": "FIRST DOUBLE OLYMPIC CITY",
+      "text": "Beijing is the first city to host both the Summer Olympics, in 2008, and the Winter Olympics, in 2022."
+    },
+    {
+      "title": "A SQUARE FOR A MILLION",
+      "text": "Tiananmen Square is one of the largest public squares in the world, built to hold a million people."
+    },
+    {
+      "title": "ANCIENT ALLEYWAYS",
+      "text": "Some hutong lanes date back more than 700 years, though many have been lost to redevelopment."
+    },
+    {
+      "title": "PEKING DUCK",
+      "text": "The city's signature dish has been roasted in Beijing for around 600 years, first served to emperors."
+    },
+    {
+      "title": "3,000 YEARS OLD",
+      "text": "A settlement has stood on this site for over three millennia, and the city has been a capital under five dynasties."
+    },
+    {
+      "title": "THE BIRD'S NEST",
+      "text": "The lattice-steel National Stadium, nicknamed the Bird's Nest, held the opening ceremonies of both Olympic Games."
+    },
+    {
+      "title": "TEMPLE OF HEAVEN",
+      "text": "The circular Hall of Prayer for Good Harvests was built entirely without nails."
+    }
+  ],
+  "randomFacts": [
+    "The Forbidden City was the imperial palace for the Ming and Qing dynasties from 1420 until 1912.",
+    "The Mutianyu section of the Great Wall lies in the mountains about 70 kilometres from the city centre.",
+    "Beijing has seven UNESCO World Heritage Sites, including the Forbidden City, Temple of Heaven and Summer Palace.",
+    "Beijing is the first city to host both the Summer Olympics, in 2008, and the Winter Olympics, in 2022.",
+    "Tiananmen Square is one of the largest public squares in the world, built to hold a million people.",
+    "Some hutong lanes date back more than 700 years, though many have been lost to redevelopment.",
+    "The city's signature dish has been roasted in Beijing for around 600 years, first served to emperors.",
+    "A settlement has stood on this site for over three millennia, and the city has been a capital under five dynasties.",
+    "The lattice-steel National Stadium, nicknamed the Bird's Nest, held the opening ceremonies of both Olympic Games.",
+    "The circular Hall of Prayer for Good Harvests was built entirely without nails.",
+    "Beijing means 'northern capital' — its counterpart Nanjing is the 'southern capital'.",
+    "The Forbidden City is said to contain 9,999 and a half rooms.",
+    "Jianbing, a savoury crepe, is the city's favourite breakfast on the go.",
+    "The Beijing Subway is one of the busiest in the world, with billions of rides a year.",
+    "Ritan Park's name means 'Temple of the Sun'."
+  ],
+  "faq": [
+    {
+      "q": "Where is Beijing located?",
+      "a": "Beijing is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Beijing?",
+      "a": "The greater Beijing area is home to about 21,500,000 people."
+    },
+    {
+      "q": "What is Beijing famous for?",
+      "a": "China's imperial capital holds the Forbidden City, the Temple of Heaven and centuries-old hutong alleyways, with the Great Wall climbing the mountains just beyond the city."
+    },
+    {
+      "q": "Is Beijing worth visiting?",
+      "a": "Yes — Beijing was ranked #30 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Beijing?",
+      "a": "Yes — IShowSpeed streamed from Beijing on his 2025 China tour, including his viral Great Wall backflip. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 30
+}

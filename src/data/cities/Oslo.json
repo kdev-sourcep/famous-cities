@@ -1,0 +1,144 @@
+{
+  "slug": "Oslo",
+  "name": "Oslo",
+  "region": "Europe",
+  "country": "Norway",
+  "metro": "1,500,000",
+  "seo": {
+    "title": "Oslo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Oslo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Oslo.",
+    "keywords": "Oslo, Oslo travel guide, things to do in Oslo, Oslo fun facts, where to stay in Oslo, Famous Cities"
+  },
+  "image": "Oslo.png",
+  "video": "videos/oslo.mp4",
+  "youtube": null,
+  "tagline": "The fjord-side capital where you can swim off the Opera House, metro to a ski jump, and meet the crowds that famously mobbed Speed.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Oslo",
+    "twitter": "https://twitter.com/search?q=visit%20Oslo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Oslo"
+  },
+  "overview": [
+    "Oslo wraps a compact Nordic capital around the head of its own fjord. The Opera House's marble roof is a public slope you can walk on, the Munch museum holds The Scream, and the medieval Akershus fortress guards the harbour's mouth.",
+    "The city runs outdoors in every season: ferries to island beaches in summer, the metro to Nordmarka forest's ski jumps in winter, floating saunas on the harbour year-round. Vigeland Park's 200 granite sculptures stay open all night.",
+    "Speed's 2024 Europe stop became infamous — a crowd of fans mobbed him in the city centre in one of the tour's most-watched moments. Oslo has forgiven him; the fjord swims remain peaceful."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Oslo&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Oslo",
+    "flights": "https://www.skyscanner.net/transport/flights/to/osl/cheap-flights-to-oslo.html"
+  },
+  "topThings": [
+    {
+      "icon": "🛴",
+      "title": "Fjord Sightseeing Cruise",
+      "desc": "Islands and harbour views from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Oslo%20fjord%20sightseeing%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Oslo%20fjord%20sightseeing%20cruise"
+    },
+    {
+      "icon": "🧘",
+      "title": "Floating Sauna & Dip",
+      "desc": "Steam, then plunge into the Oslofjord.",
+      "viator": "https://www.viator.com/searchResults/all?text=Oslo%20fjord%20sauna%20experience",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Oslo%20fjord%20sauna%20experience"
+    },
+    {
+      "icon": "🚶",
+      "title": "Vigeland & City Walk",
+      "desc": "The sculpture park and city highlights.",
+      "viator": "https://www.viator.com/searchResults/all?text=Oslo%20walking%20tour%20Vigeland",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Oslo%20walking%20tour%20Vigeland"
+    },
+    {
+      "icon": "🏰",
+      "title": "Viking & Museums Day",
+      "desc": "Akershus, Munch and the Fram polar ship.",
+      "viator": "https://www.viator.com/searchResults/all?text=Oslo%20museum%20pass%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Oslo%20museum%20pass%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A WALKABLE ROOF",
+      "text": "The Opera House's sloping marble roof is a public plaza — walk up it and sit on the roof."
+    },
+    {
+      "title": "THE SCREAM'S HOME",
+      "text": "The Munch museum holds one version of The Scream; the National Museum has another."
+    },
+    {
+      "title": "THE MOBBING",
+      "text": "Speed's 2024 Oslo stream was swarmed by fans — one of his most-watched clips ever."
+    },
+    {
+      "title": "A FOREST METRO",
+      "text": "The metro climbs straight into Nordmarka wilderness — skis in winter, hikes in summer."
+    },
+    {
+      "title": "300-YEAR NAME CHANGE",
+      "text": "Oslo was called Christiania for three centuries before reclaiming its Norse name in 1925."
+    },
+    {
+      "title": "SAUNA ON THE FJORD",
+      "text": "Floating wood-fired saunas let you steam, then plunge into the harbour."
+    },
+    {
+      "title": "NOBEL CITY",
+      "text": "The Peace Prize is awarded in Oslo each December — the only Nobel given outside Sweden."
+    },
+    {
+      "title": "A PARK OF PEOPLE",
+      "text": "Vigeland Park holds 200+ sculptures by one artist — free, around the clock."
+    },
+    {
+      "title": "VIKING SHIPS",
+      "text": "The Viking Ship collection holds three of the world's best-preserved Viking vessels."
+    },
+    {
+      "title": "ALMOST-MIDNIGHT SUN",
+      "text": "June nights barely darken — locals grill on the fjord at 11 p.m."
+    }
+  ],
+  "randomFacts": [
+    "The Opera House's sloping marble roof is a public plaza — walk up it and sit on the roof.",
+    "The Munch museum holds one version of The Scream; the National Museum has another.",
+    "Speed's 2024 Oslo stream was swarmed by fans — one of his most-watched clips ever.",
+    "The metro climbs straight into Nordmarka wilderness — skis in winter, hikes in summer.",
+    "Oslo was called Christiania for three centuries before reclaiming its Norse name in 1925.",
+    "Floating wood-fired saunas let you steam, then plunge into the harbour.",
+    "The Peace Prize is awarded in Oslo each December — the only Nobel given outside Sweden.",
+    "Vigeland Park holds 200+ sculptures by one artist — free, around the clock.",
+    "The Viking Ship collection holds three of the world's best-preserved Viking vessels.",
+    "June nights barely darken — locals grill on the fjord at 11 p.m.",
+    "The city replaced a harbour highway with a promenade.",
+    "Akershus fortress has guarded the harbour since 1299.",
+    "Disposable grills on the grass are a national habit.",
+    "The Holmenkollen ski jump is a metro ride away.",
+    "Locals swim in the fjord year-round — cold but proud."
+  ],
+  "faq": [
+    {
+      "q": "Where is Oslo located?",
+      "a": "Oslo is in Norway, in Europe."
+    },
+    {
+      "q": "What is the population of Oslo?",
+      "a": "The greater Oslo area is home to about 1,500,000 people."
+    },
+    {
+      "q": "What is Oslo famous for?",
+      "a": "Oslo is famous for Norway's fjord capital — the walkable Opera House roof, The Scream at Munch, floating saunas, and the crowd that famously mobbed Speed."
+    },
+    {
+      "q": "Did IShowSpeed stream from Oslo?",
+      "a": "Yes — IShowSpeed streamed from Oslo on his 2024 Europe tour, where a fan crowd famously mobbed him. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

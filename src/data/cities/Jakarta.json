@@ -1,0 +1,144 @@
+{
+  "slug": "Jakarta",
+  "name": "Jakarta",
+  "region": "Asia",
+  "country": "Indonesia",
+  "metro": "32,000,000",
+  "seo": {
+    "title": "Jakarta Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Jakarta travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Jakarta.",
+    "keywords": "Jakarta, Jakarta travel guide, things to do in Jakarta, Jakarta fun facts, where to stay in Jakarta, Famous Cities"
+  },
+  "image": "Jakarta.png",
+  "video": "videos/jakarta.mp4",
+  "youtube": null,
+  "tagline": "A megacity of 32 million on a sinking coast — Dutch colonial squares, giant malls, and the street food of 17,000 islands in one bowl.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Jakarta",
+    "twitter": "https://twitter.com/search?q=visit%20Jakarta",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jakarta"
+  },
+  "overview": [
+    "Jakarta is Southeast Asia's biggest urban sprawl — the wider metro holds around 32 million people, making it one of the largest urban areas on earth. It's chaotic, hot and gridlocked — and Indonesia's beating heart of culture and money.",
+    "The past survives at Kota Tua, the old Dutch East Indies quarter of faded colonial facades around Fatahillah Square, while the National Monument's gold-flame obelisk towers over Merdeka Square. Sunda Kelapa port still takes wooden phinisi schooners as it has for 500 years.",
+    "Speed's 2024 Southeast Asia tour streamed from Jakarta to enormous crowds — Indonesia is one of his biggest fanbases. The city's hidden gift is food: warteg rice stalls and padang feasts gather the cuisine of an archipelago of 17,000 islands."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Jakarta&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Jakarta",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cgk/cheap-flights-to-jakarta.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Kota Tua & Old Town",
+      "desc": "Dutch facades, museums and the port.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jakarta%20old%20town%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jakarta%20old%20town%20tour"
+    },
+    {
+      "icon": "🍜",
+      "title": "Street Food Tour",
+      "desc": "Warteg stalls and night markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jakarta%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jakarta%20street%20food%20tour"
+    },
+    {
+      "icon": "🏝️",
+      "title": "Thousand Islands Day",
+      "desc": "Snorkel Pulau Seribu reefs offshore.",
+      "viator": "https://www.viator.com/searchResults/all?text=Pulau%20Seribu%20day%20trip%20from%20Jakarta",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Pulau%20Seribu%20day%20trip%20from%20Jakarta"
+    },
+    {
+      "icon": "🌆",
+      "title": "City & Monas",
+      "desc": "Landmarks, markets and the monument.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jakarta%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jakarta%20city%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ONE OF EARTH'S BIGGEST",
+      "text": "Greater Jakarta holds ~32 million — among the world's largest urban areas."
+    },
+    {
+      "title": "A SINKING CAPITAL",
+      "text": "The city sinks up to 25cm a year in places — Indonesia is moving the capital to Nusantara."
+    },
+    {
+      "title": "17,000 ISLANDS ON A PLATE",
+      "text": "Padang, Javanese, Betawi and more — the city tastes like the whole archipelago."
+    },
+    {
+      "title": "KOTA TUA",
+      "text": "The old Dutch quarter's facades and Fatahillah Square recall Batavia's colonial era."
+    },
+    {
+      "title": "MONAS",
+      "text": "The National Monument's gold-flame top rises 132m over Merdeka Square."
+    },
+    {
+      "title": "SAILING PORT",
+      "text": "Sunda Kelapa's wooden phinisi ships have loaded cargo for 500+ years."
+    },
+    {
+      "title": "MALL CAPITAL",
+      "text": "Over 170 malls — including some of Asia's largest — define middle-class life."
+    },
+    {
+      "title": "THOUSAND ISLANDS",
+      "text": "Pulau Seribu's reef islands sit an hour offshore — the city's beach escape."
+    },
+    {
+      "title": "BETAWI CULTURE",
+      "text": "The native Betawi culture blends Malay, Chinese, Arab and colonial roots."
+    },
+    {
+      "title": "CRAZY TRAFFIC",
+      "text": "Motorcycle rivers and legendary jams shape the city's rhythm — and its ojek taxis."
+    }
+  ],
+  "randomFacts": [
+    "Greater Jakarta holds ~32 million — among the world's largest urban areas.",
+    "The city sinks up to 25cm a year in places — Indonesia is moving the capital to Nusantara.",
+    "Padang, Javanese, Betawi and more — the city tastes like the whole archipelago.",
+    "The old Dutch quarter's facades and Fatahillah Square recall Batavia's colonial era.",
+    "The National Monument's gold-flame top rises 132m over Merdeka Square.",
+    "Sunda Kelapa's wooden phinisi ships have loaded cargo for 500+ years.",
+    "Over 170 malls — including some of Asia's largest — define middle-class life.",
+    "Pulau Seribu's reef islands sit an hour offshore — the city's beach escape.",
+    "The native Betawi culture blends Malay, Chinese, Arab and colonial roots.",
+    "Motorcycle rivers and legendary jams shape the city's rhythm — and its ojek taxis.",
+    "Street food carts serve nasi goreng at 2 a.m.",
+    "Bajaj orange three-wheelers rattle the old town.",
+    "Padang restaurants stack a dozen dishes on the table.",
+    "The old port still unloads timber by hand.",
+    "Es teh manis — sweet iced tea — is the default drink."
+  ],
+  "faq": [
+    {
+      "q": "Where is Jakarta located?",
+      "a": "Jakarta is in Indonesia, in Asia."
+    },
+    {
+      "q": "What is the population of Jakarta?",
+      "a": "The greater Jakarta area is home to about 32,000,000 people."
+    },
+    {
+      "q": "What is Jakarta famous for?",
+      "a": "Jakarta is famous for Southeast Asia's megacity — the old Dutch quarter Kota Tua, 170+ malls, and street food from 17,000 islands."
+    },
+    {
+      "q": "Did IShowSpeed stream from Jakarta?",
+      "a": "Yes — IShowSpeed streamed from Jakarta on his 2024–25 Asia tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

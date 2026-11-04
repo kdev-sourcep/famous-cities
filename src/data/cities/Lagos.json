@@ -1,0 +1,144 @@
+{
+  "slug": "Lagos",
+  "name": "Lagos",
+  "region": "Africa",
+  "country": "Nigeria",
+  "metro": "16,000,000",
+  "seo": {
+    "title": "Lagos Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Lagos travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Lagos.",
+    "keywords": "Lagos, Lagos travel guide, things to do in Lagos, Lagos fun facts, where to stay in Lagos, Famous Cities"
+  },
+  "image": "Lagos.png",
+  "video": "videos/lagos.mp4",
+  "youtube": null,
+  "tagline": "Africa's biggest city — an island-and-lagoon megacity running on hustle, Afrobeats, jollof rice and traffic locals call 'go-slow'.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Lagos",
+    "twitter": "https://twitter.com/search?q=visit%20Lagos",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lagos"
+  },
+  "overview": [
+    "Lagos is Africa's largest city and its loudest — an estimated 16-plus million people spread across islands, lagoons and mainland suburbs linked by causeways and the famous 'go-slow' traffic jams.",
+    "The city runs on hustle and sound: Afrobeats was born here, Nollywood turns out thousands of films a year, and the markets — Balogun's fabric maze, the Lekki craft market — sell everything. At night the mainland's live-music bars and Victoria Island's clubs compete for the crowd.",
+    "Speed's 2025 Africa stop streamed from Lagos to ecstatic crowds — one of the biggest turnouts of the trip. Visitors get Kalakuta (Fela Kuti's house-museum), Africa's longest canopy walkway at Lekki Conservation Centre, and boat escapes to Tarkwa Bay."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Lagos&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Lagos",
+    "flights": "https://www.skyscanner.net/transport/flights/to/los/cheap-flights-to-lagos.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏙️",
+      "title": "City & Culture Tour",
+      "desc": "Markets, art and the islands.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lagos%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lagos%20city%20tour"
+    },
+    {
+      "icon": "🌴",
+      "title": "Lekki Canopy Walk",
+      "desc": "Africa's longest boardwalk plus craft market.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lekki%20Conservation%20Centre%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lekki%20Conservation%20Centre%20tour"
+    },
+    {
+      "icon": "🎵",
+      "title": "Afrobeat Heritage",
+      "desc": "Kalakuta museum and the music story.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lagos%20Fela%20Kuti%20Kalakuta%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lagos%20Fela%20Kuti%20Kalakuta%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Tarkwa Bay Escape",
+      "desc": "A boat ride to the calmer beach island.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tarkwa%20Bay%20boat%20trip%20Lagos",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tarkwa%20Bay%20boat%20trip%20Lagos"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "AFRICA'S BIGGEST CITY",
+      "text": "Estimates pass 16 million — the continent's largest urban area, still growing fast."
+    },
+    {
+      "title": "AFROBEATS' BIRTHPLACE",
+      "text": "Fela Kuti's Lagos Shrine invented Afrobeat; today's Afrobeats stars took it global."
+    },
+    {
+      "title": "THE CITY OF ISLANDS",
+      "text": "Victoria Island, Ikoyi and Lagos Island connect by bridges over the lagoon."
+    },
+    {
+      "title": "NOLLYWOOD'S ENGINE",
+      "text": "Nigeria's film industry — one of the world's largest by output — is headquartered here."
+    },
+    {
+      "title": "THE GO-SLOW",
+      "text": "Traffic jams are so famous they have a local name — pack snacks for the commute."
+    },
+    {
+      "title": "FELA'S HOUSE",
+      "text": "The Kalakuta Republic Museum preserves the musician's home and stage."
+    },
+    {
+      "title": "A CANOPY WALK",
+      "text": "Lekki Conservation Centre's 401-metre boardwalk is Africa's longest canopy walkway."
+    },
+    {
+      "title": "THE JOLLOF WAR",
+      "text": "Lagos claims the best jollof rice — a proud feud with Accra."
+    },
+    {
+      "title": "THE FLOATING SCHOOL",
+      "text": "Makoko's stilt village on the lagoon built a famous floating school."
+    },
+    {
+      "title": "DANFO YELLOW",
+      "text": "The battered yellow danfo buses are the city's veins — packed, loud, ever-present."
+    }
+  ],
+  "randomFacts": [
+    "Estimates pass 16 million — the continent's largest urban area, still growing fast.",
+    "Fela Kuti's Lagos Shrine invented Afrobeat; today's Afrobeats stars took it global.",
+    "Victoria Island, Ikoyi and Lagos Island connect by bridges over the lagoon.",
+    "Nigeria's film industry — one of the world's largest by output — is headquartered here.",
+    "Traffic jams are so famous they have a local name — pack snacks for the commute.",
+    "The Kalakuta Republic Museum preserves the musician's home and stage.",
+    "Lekki Conservation Centre's 401-metre boardwalk is Africa's longest canopy walkway.",
+    "Lagos claims the best jollof rice — a proud feud with Accra.",
+    "Makoko's stilt village on the lagoon built a famous floating school.",
+    "The battered yellow danfo buses are the city's veins — packed, loud, ever-present.",
+    "'Eko' is the local name for Lagos.",
+    "Okada motorbike taxis dodge the go-slows.",
+    "Suya — spicy grilled meat — is the late-night staple.",
+    "The Third Mainland Bridge is among Africa's longest.",
+    "'Owambe' parties can take over whole streets."
+  ],
+  "faq": [
+    {
+      "q": "Where is Lagos located?",
+      "a": "Lagos is in Nigeria, in Africa."
+    },
+    {
+      "q": "What is the population of Lagos?",
+      "a": "The greater Lagos area is home to about 16,000,000 people."
+    },
+    {
+      "q": "What is Lagos famous for?",
+      "a": "Lagos is famous for Africa's biggest city — the home of Afrobeats and Nollywood, island markets and Victoria Island nightlife."
+    },
+    {
+      "q": "Did IShowSpeed stream from Lagos?",
+      "a": "Yes — IShowSpeed streamed from Lagos on his 2025 Africa tour — one of the biggest turnouts of the trip. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 47
+}

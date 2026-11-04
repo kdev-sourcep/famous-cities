@@ -1,0 +1,144 @@
+{
+  "slug": "Bucharest",
+  "name": "Bucharest",
+  "region": "Europe",
+  "country": "Romania",
+  "metro": "2,300,000",
+  "seo": {
+    "title": "Bucharest Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Bucharest travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Bucharest.",
+    "keywords": "Bucharest, Bucharest travel guide, things to do in Bucharest, Bucharest fun facts, where to stay in Bucharest, Famous Cities"
+  },
+  "image": "Bucharest.png",
+  "video": "videos/bucharest.mp4",
+  "youtube": null,
+  "tagline": "Little Paris gone wild — the world's heaviest building, a buzzing old town of bars, and the gateway to Dracula's castles.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Bucharest",
+    "twitter": "https://twitter.com/search?q=visit%20Bucharest",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bucharest"
+  },
+  "overview": [
+    "Bucharest earned the name 'Little Paris' for its belle-époque boulevards — then communism bulldozed a quarter of the centre for the Palace of the Parliament, the world's heaviest building and second-largest administrative building after the Pentagon.",
+    "Today's city is a layered mix: Lipscani old town's cobbled lanes now thrum with bars and cafés, the Romanian Athenaeum hosts world-class concerts under a frescoed dome, and parks like Herăstrău wrap the city's lakes.",
+    "Speed's 2024 tour streamed from Bucharest. It's also the natural launchpad for Transylvania — Bran (the 'Dracula' castle), Brașov's medieval square and Peleș Castle's carved fantasy are all reachable day trips."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Bucharest&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Bucharest",
+    "flights": "https://www.skyscanner.net/transport/flights/to/otp/cheap-flights-to-bucharest.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Palace of Parliament",
+      "desc": "The megalomaniac megastructure tour.",
+      "viator": "https://www.viator.com/searchResults/all?text=Palace%20of%20Parliament%20Bucharest%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Palace%20of%20Parliament%20Bucharest%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Dracula & Transylvania",
+      "desc": "Bran and Peleș castles in one day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dracula%20castle%20day%20trip%20from%20Bucharest",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dracula%20castle%20day%20trip%20from%20Bucharest"
+    },
+    {
+      "icon": "🚶",
+      "title": "Old Town Walk",
+      "desc": "Lipscani's lanes and hidden churches.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bucharest%20old%20town%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bucharest%20old%20town%20tour"
+    },
+    {
+      "icon": "🍻",
+      "title": "Old Town Night Out",
+      "desc": "The bar quarter after dark.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bucharest%20pub%20crawl",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bucharest%20pub%20crawl"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WORLD'S HEAVIEST BUILDING",
+      "text": "The Palace of the Parliament weighs ~4 million tonnes — and reportedly sinks a few millimetres yearly."
+    },
+    {
+      "title": "LITTLE PARIS",
+      "text": "Interwar Bucharest copied Parisian boulevards — its own Arcul de Triumf still stands."
+    },
+    {
+      "title": "A QUARTER DEMOLISHED",
+      "text": "Ceaușescu's Civic Centre razed thousands of homes, churches and synagogues for the palace."
+    },
+    {
+      "title": "THE ATHENAEUM",
+      "text": "The 1888 concert hall's dome fresco tells Romanian history in a circle."
+    },
+    {
+      "title": "DRACULA'S GATEWAY",
+      "text": "Bran Castle — the tourist 'Dracula castle' — is a 3-hour day trip."
+    },
+    {
+      "title": "VILLAGE MUSEUM",
+      "text": "Herăstrău Park hosts 270 relocated historic peasant houses and churches."
+    },
+    {
+      "title": "REVOLUTION SQUARE",
+      "text": "Ceaușescu's final speech, interrupted by the crowd, happened here in December 1989."
+    },
+    {
+      "title": "CARTURESTI CARUSEL",
+      "text": "A restored 19th-century building became Instagram's favourite bookstore."
+    },
+    {
+      "title": "MIGRATION CHURCHES",
+      "text": "Communist planners famously moved entire churches on rails to hide them."
+    },
+    {
+      "title": "PALINKA & MITITEI",
+      "text": "Plum brandy and skinless grilled sausages fuel the night scene."
+    }
+  ],
+  "randomFacts": [
+    "The Palace of the Parliament weighs ~4 million tonnes — and reportedly sinks a few millimetres yearly.",
+    "Interwar Bucharest copied Parisian boulevards — its own Arcul de Triumf still stands.",
+    "Ceaușescu's Civic Centre razed thousands of homes, churches and synagogues for the palace.",
+    "The 1888 concert hall's dome fresco tells Romanian history in a circle.",
+    "Bran Castle — the tourist 'Dracula castle' — is a 3-hour day trip.",
+    "Herăstrău Park hosts 270 relocated historic peasant houses and churches.",
+    "Ceaușescu's final speech, interrupted by the crowd, happened here in December 1989.",
+    "A restored 19th-century building became Instagram's favourite bookstore.",
+    "Communist planners famously moved entire churches on rails to hide them.",
+    "Plum brandy and skinless grilled sausages fuel the night scene.",
+    "The palace's crystal chandeliers weigh tonnes each.",
+    "Locals call it București — 'city of joy' by folk etymology.",
+    "The old town bars are cheap by any EU standard.",
+    "Peleș Castle beats Bran for beauty — see both.",
+    "Carturesti's white spiral staircase is the photo spot."
+  ],
+  "faq": [
+    {
+      "q": "Where is Bucharest located?",
+      "a": "Bucharest is in Romania, in Europe."
+    },
+    {
+      "q": "What is the population of Bucharest?",
+      "a": "The greater Bucharest area is home to about 2,300,000 people."
+    },
+    {
+      "q": "What is Bucharest famous for?",
+      "a": "Bucharest is famous for the world's heaviest building (Palace of the Parliament), a reborn Old Town, and the gateway to Transylvania."
+    },
+    {
+      "q": "Did IShowSpeed stream from Bucharest?",
+      "a": "Yes — IShowSpeed streamed from Bucharest on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

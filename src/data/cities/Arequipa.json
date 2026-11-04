@@ -1,0 +1,140 @@
+{
+  "slug": "Arequipa",
+  "name": "Arequipa",
+  "region": "South America",
+  "country": "Peru",
+  "metro": "1,100,000",
+  "seo": {
+    "title": "Arequipa Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Arequipa travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Arequipa.",
+    "keywords": "Arequipa, Arequipa travel guide, things to do in Arequipa, Arequipa fun facts, where to stay in Arequipa, Famous Cities"
+  },
+  "image": "Arequipa.png",
+  "video": "videos/arequipa.mp4",
+  "youtube": null,
+  "tagline": "Peru's 'White City' glows with buildings of volcanic stone beneath three volcanoes, hiding the walled city-within-a-city of Santa Catalina Monastery and serving the country's spiciest food.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Arequipa",
+    "twitter": "https://twitter.com/search?q=visit%20Arequipa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Arequipa"
+  },
+  "overview": [
+    "Arequipa was founded in 1540 in a valley ringed by volcanoes — snowcapped Misti looms over the skyline. Its buildings are carved from white sillar volcanic stone, giving the 'White City' its nickname and the centre its UNESCO listing.",
+    "The city's heart is Santa Catalina Monastery, a walled 16th-century convent of painted lanes, cloisters and plazas — a city within a city that hid nuns for centuries. The Plaza de Armas, cathedral and Juanita the Ice Maiden mummy at the Santuarios Andinos museum fill the historic core.",
+    "Arequipa is also Peru's spicy kitchen: rocoto relleno, chupe de camarones and adobo come with cold chicha or a pisco sour. Beyond the city, Colca Canyon — twice as deep as the Grand Canyon — hosts Andean condors rising on the morning thermals."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Arequipa&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Arequipa",
+    "flights": "https://www.skyscanner.net/transport/flights/to/aqp/cheap-flights-to-arequipa.html"
+  },
+  "topThings": [
+    {
+      "icon": "⛰️",
+      "title": "Colca Canyon Tour",
+      "desc": "Watch condors soar over one of the world's deepest canyons.",
+      "viator": "https://www.viator.com/searchResults/all?text=Colca%20Canyon%20tour%20from%20Arequipa",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Colca%20Canyon%20tour%20from%20Arequipa"
+    },
+    {
+      "icon": "🏰",
+      "title": "Santa Catalina Monastery",
+      "desc": "Explore the walled convent city with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Santa%20Catalina%20Monastery%20tour%20Arequipa",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Santa%20Catalina%20Monastery%20tour%20Arequipa"
+    },
+    {
+      "icon": "🏔️",
+      "title": "City & Volcano Viewpoints",
+      "desc": "Plaza, cathedral and the Yanahuara arches.",
+      "viator": "https://www.viator.com/searchResults/all?text=Arequipa%20city%20tour%20viewpoints",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Arequipa%20city%20tour%20viewpoints"
+    },
+    {
+      "icon": "🍔",
+      "title": "Arequipeña Food Tour",
+      "desc": "Rocoto relleno, adobo and queso helado tastings.",
+      "viator": "https://www.viator.com/searchResults/all?text=Arequipa%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Arequipa%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE WHITE CITY",
+      "text": "Buildings are carved from white volcanic sillar stone that glows at sunset."
+    },
+    {
+      "title": "A CITY INSIDE A CITY",
+      "text": "Santa Catalina Monastery walled off a 20,000-square-metre labyrinth of lanes, plazas and cloisters."
+    },
+    {
+      "title": "UNDER THREE VOLCANOES",
+      "text": "Misti, Chachani and Pichu Pichu ring the skyline — Misti is considered active."
+    },
+    {
+      "title": "A CANYON DEEPER THAN THE GRAND",
+      "text": "Colca Canyon drops over 3,000 metres — twice as deep as the Grand Canyon."
+    },
+    {
+      "title": "CONDORS ON THE WIND",
+      "text": "The condors of Colca Canyon, with 3-metre wingspans, ride the morning thermals."
+    },
+    {
+      "title": "THE ICE MAIDEN",
+      "text": "Juanita, a 500-year-old Inca sacrifice mummy found near-perfect on a volcano, rests in the museum."
+    },
+    {
+      "title": "PERU'S SPICY KITCHEN",
+      "text": "Arequipeño food is Peru's most regional cuisine — rocoto relleno peppers are the signature dish."
+    },
+    {
+      "title": "AN EARTHQUAKE CITY",
+      "text": "Arequipa has rebuilt itself repeatedly after earthquakes — 2001's badly damaged the cathedral."
+    },
+    {
+      "title": "A PRESIDENT'S CITY",
+      "text": "Arequipa has produced several Peruvian presidents and calls itself Peru's 'second capital'."
+    },
+    {
+      "title": "SILLAR QUARRIES",
+      "text": "The white stone is still cut by hand in the Añashuayco quarries you can visit."
+    }
+  ],
+  "randomFacts": [
+    "Buildings are carved from white volcanic sillar stone that glows at sunset.",
+    "Santa Catalina Monastery walled off a 20,000-square-metre labyrinth of lanes, plazas and cloisters.",
+    "Misti, Chachani and Pichu Pichu ring the skyline — Misti is considered active.",
+    "Colca Canyon drops over 3,000 metres — twice as deep as the Grand Canyon.",
+    "The condors of Colca Canyon, with 3-metre wingspans, ride the morning thermals.",
+    "Juanita, a 500-year-old Inca sacrifice mummy found near-perfect on a volcano, rests in the museum.",
+    "Arequipeño food is Peru's most regional cuisine — rocoto relleno peppers are the signature dish.",
+    "Arequipa has rebuilt itself repeatedly after earthquakes — 2001's badly damaged the cathedral.",
+    "Arequipa has produced several Peruvian presidents and calls itself Peru's 'second capital'.",
+    "The white stone is still cut by hand in the Añashuayco quarries you can visit.",
+    "Arequipeños are famously proud — they once jokingly printed their own passports.",
+    "The city's name may come from 'ari que pay', Quechua for 'yes, stay'.",
+    "Chicha de guiñapo, fermented black corn beer, is the local brew.",
+    "Queso helado, 'frozen cheese' dessert, is sold on street corners.",
+    "The city hosts a major anniversary festival every August."
+  ],
+  "faq": [
+    {
+      "q": "Where is Arequipa located?",
+      "a": "Arequipa is in Peru, in South America."
+    },
+    {
+      "q": "What is the population of Arequipa?",
+      "a": "The greater Arequipa area is home to about 1,100,000 people."
+    },
+    {
+      "q": "What is Arequipa famous for?",
+      "a": "Peru's 'White City' glows with buildings of volcanic stone beneath three volcanoes, hiding the walled city-within-a-city of Santa Catalina Monastery and serving the country's spiciest food."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

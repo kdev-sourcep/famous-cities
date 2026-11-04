@@ -1,0 +1,144 @@
+{
+  "slug": "Warsaw",
+  "name": "Warsaw",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "3,000,000",
+  "seo": {
+    "title": "Warsaw Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Warsaw travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Warsaw.",
+    "keywords": "Warsaw, Warsaw travel guide, things to do in Warsaw, Warsaw fun facts, where to stay in Warsaw, Famous Cities"
+  },
+  "image": "Warsaw.png",
+  "video": "videos/warsaw.mp4",
+  "youtube": null,
+  "tagline": "The city that rebuilt itself from rubble — a UNESCO-listed 'new' Old Town, neon museums, Vistula beaches and Europe's best pierogi prices.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Warsaw",
+    "twitter": "https://twitter.com/search?q=visit%20Warsaw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Warsaw"
+  },
+  "overview": [
+    "Warsaw was 85% destroyed in World War II — then rebuilt brick by brick from paintings and memory. The Old Town is so convincing it earned UNESCO status despite being younger than most of its visitors' grandparents.",
+    "The city balances that history with restless reinvention: the Palace of Culture (Stalin's gift) still towers over a skyline of new glass towers, the Neon Museum glows with communist-era signage, and the Vistula's wild left bank turns into beaches and bars each summer.",
+    "Speed's 2024 Europe tour streamed the Old Town to the usual fan crowds. Today's visitors find one of Europe's best-value capitals — serious museums, food and nightlife at prices that make Paris weep."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Warsaw&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Warsaw",
+    "flights": "https://www.skyscanner.net/transport/flights/to/waw/cheap-flights-to-warsaw.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Old Town Walk",
+      "desc": "Castle Square, the walls and the mermaid.",
+      "viator": "https://www.viator.com/searchResults/all?text=Warsaw%20Old%20Town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Warsaw%20Old%20Town%20walking%20tour"
+    },
+    {
+      "icon": "📚",
+      "title": "Uprising & History",
+      "desc": "The 1944 story at its interactive museum.",
+      "viator": "https://www.viator.com/searchResults/all?text=Warsaw%20Uprising%20Museum%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Warsaw%20Uprising%20Museum%20tour"
+    },
+    {
+      "icon": "🥟",
+      "title": "Pierogi Cooking Class",
+      "desc": "Fold Poland's famous dumplings yourself.",
+      "viator": "https://www.viator.com/searchResults/all?text=Warsaw%20pierogi%20cooking%20class",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Warsaw%20pierogi%20cooking%20class"
+    },
+    {
+      "icon": "🏰",
+      "title": "Łazienki & Wilanów",
+      "desc": "The palace-on-water and the Polish Versailles.",
+      "viator": "https://www.viator.com/searchResults/all?text=Warsaw%20palaces%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Warsaw%20palaces%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "REBUILT FROM PAINTINGS",
+      "text": "The Old Town was reconstructed using Canaletto's 18th-century cityscapes — a 'new' town that earned UNESCO status."
+    },
+    {
+      "title": "STALIN'S GIFT",
+      "text": "The 237-metre Palace of Culture and Science is still Poland's most argued-about building."
+    },
+    {
+      "title": "A RIVER LEFT WILD",
+      "text": "The Vistula's left bank is protected wilderness — beaches, bonfires and bar barges."
+    },
+    {
+      "title": "THE UPRISING CITY",
+      "text": "The 1944 Warsaw Uprising lasted 63 days — every August 1 the city stops for a minute of silence."
+    },
+    {
+      "title": "CHOPIN'S HEART",
+      "text": "His heart is sealed inside a Holy Cross Church pillar — smuggled home after his Paris death."
+    },
+    {
+      "title": "NEON REBORN",
+      "text": "The Neon Museum rescues the glowing signage of the communist era."
+    },
+    {
+      "title": "POLAND'S PHOENIX",
+      "text": "85% of the city was destroyed by 1945 — reconstruction took decades."
+    },
+    {
+      "title": "PIEROGI PERFECTION",
+      "text": "Milk-bar pierogi and zapiekanka street pizzas fuel the city around the clock."
+    },
+    {
+      "title": "THE PALM TREE",
+      "text": "An artificial palm stands on Jerusalem Avenue — a permanent art installation."
+    },
+    {
+      "title": "MERMAID CAPITAL",
+      "text": "A sword-and-shield mermaid guards the city — she's the municipal symbol."
+    }
+  ],
+  "randomFacts": [
+    "The Old Town was reconstructed using Canaletto's 18th-century cityscapes — a 'new' town that earned UNESCO status.",
+    "The 237-metre Palace of Culture and Science is still Poland's most argued-about building.",
+    "The Vistula's left bank is protected wilderness — beaches, bonfires and bar barges.",
+    "The 1944 Warsaw Uprising lasted 63 days — every August 1 the city stops for a minute of silence.",
+    "His heart is sealed inside a Holy Cross Church pillar — smuggled home after his Paris death.",
+    "The Neon Museum rescues the glowing signage of the communist era.",
+    "85% of the city was destroyed by 1945 — reconstruction took decades.",
+    "Milk-bar pierogi and zapiekanka street pizzas fuel the city around the clock.",
+    "An artificial palm stands on Jerusalem Avenue — a permanent art installation.",
+    "A sword-and-shield mermaid guards the city — she's the municipal symbol.",
+    "The Old Town's buildings are all post-war copies — and it works.",
+    "Locals picnic on the Vistula's wild beaches all summer.",
+    "Pierogi ruskie means 'Russian-style' — it's cheese and potato.",
+    "The Praga district survived the war mostly intact.",
+    "Zapiekanka on Plac Zbawiciela is the 2 a.m. classic."
+  ],
+  "faq": [
+    {
+      "q": "Where is Warsaw located?",
+      "a": "Warsaw is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Warsaw?",
+      "a": "The greater Warsaw area is home to about 3,000,000 people."
+    },
+    {
+      "q": "What is Warsaw famous for?",
+      "a": "Warsaw is famous for Poland's phoenix capital — an Old Town rebuilt from rubble, the Palace of Culture, wild Vistula beaches and pierogi."
+    },
+    {
+      "q": "Did IShowSpeed stream from Warsaw?",
+      "a": "Yes — IShowSpeed streamed from Warsaw on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

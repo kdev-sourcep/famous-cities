@@ -1,0 +1,148 @@
+{
+  "slug": "Hong-Kong",
+  "name": "Hong Kong",
+  "region": "Asia",
+  "country": "China",
+  "metro": "7,500,000",
+  "seo": {
+    "title": "Hong Kong Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Hong Kong travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Hong Kong.",
+    "keywords": "Hong Kong, Hong Kong travel guide, things to do in Hong Kong, Hong Kong fun facts, where to stay in Hong Kong, Famous Cities"
+  },
+  "image": "Hong-Kong.png",
+  "video": "videos/hong-kong.mp4",
+  "youtube": null,
+  "tagline": "A wall of skyscrapers between green peaks and a glittering harbour, Hong Kong packs dim sum halls, double-decker trams, neon markets and island escapes into one compact city. It is ranked #15 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Hong%20Kong",
+    "twitter": "https://twitter.com/search?q=visit%20Hong%20Kong",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hong_Kong"
+  },
+  "overview": [
+    "Hong Kong was a scatter of fishing villages until it became a British colony in 1841. It returned to China in 1997 under the 'one country, two systems' framework, and that East-meets-West mix still defines it, from Cantonese temples to British-style pubs.",
+    "The classic view is from Victoria Peak, reached by the historic Peak Tram. Down below, the Star Ferry has crossed Victoria Harbour since 1888, and the Tsim Sha Tsui promenade faces the famous skyline. On Lantau Island, the Ngong Ping 360 cable car climbs to the giant Tian Tan Buddha.",
+    "Food is a sport here: morning dim sum, roast goose, egg tarts and late-night wonton noodles. Markets like Temple Street and the Ladies' Market glow after dark, and a third of the territory is country park, with hikes like the Dragon's Back minutes from the towers."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Hong Kong&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Hong%20Kong",
+    "flights": "https://www.skyscanner.net/transport/flights/to/hkg/cheap-flights-to-hong%20kong.html"
+  },
+  "topThings": [
+    {
+      "icon": "🚡",
+      "title": "Victoria Peak & Peak Tram",
+      "desc": "Ride the historic tram to the city's most famous view.",
+      "viator": "https://www.viator.com/searchResults/all?text=Victoria%20Peak%20tram%20tickets%20Hong%20Kong",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Victoria%20Peak%20tram%20tickets%20Hong%20Kong"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Victoria Harbour Cruise",
+      "desc": "Sail past the skyline at sunset or during the light show.",
+      "viator": "https://www.viator.com/searchResults/all?text=Victoria%20Harbour%20cruise%20Hong%20Kong",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Victoria%20Harbour%20cruise%20Hong%20Kong"
+    },
+    {
+      "icon": "🙏",
+      "title": "Lantau Island & Big Buddha",
+      "desc": "Ngong Ping cable car, Tian Tan Buddha and Tai O village.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lantau%20Island%20Big%20Buddha%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lantau%20Island%20Big%20Buddha%20tour"
+    },
+    {
+      "icon": "🧟",
+      "title": "Dim Sum Food Tour",
+      "desc": "Morning tea, dumplings and markets with a local guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hong%20Kong%20dim%20sum%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hong%20Kong%20dim%20sum%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "MORE SKYSCRAPERS THAN ANYWHERE",
+      "text": "Hong Kong has more buildings over 150 metres tall than any other city in the world."
+    },
+    {
+      "title": "THE STAR FERRY",
+      "text": "The green-and-white Star Ferry has crossed Victoria Harbour since 1888 and still costs pocket change."
+    },
+    {
+      "title": "DING DING TRAMS",
+      "text": "Hong Kong's double-decker trams have run since 1904 and form the largest double-decker tram fleet in service."
+    },
+    {
+      "title": "A GIANT BUDDHA",
+      "text": "The Tian Tan Buddha on Lantau Island is about 34 metres tall and is reached by climbing 268 steps."
+    },
+    {
+      "title": "THE LONGEST ESCALATOR",
+      "text": "The Central–Mid-Levels escalator system is the world's longest outdoor covered escalator network."
+    },
+    {
+      "title": "FENG SHUI TOWERS",
+      "text": "Several skyscrapers have holes, called 'dragon gates', so dragons can pass from the hills to the sea."
+    },
+    {
+      "title": "MOSTLY GREEN",
+      "text": "Despite the dense skyline, roughly 40 percent of Hong Kong's land is protected country park."
+    },
+    {
+      "title": "A HANDOVER CITY",
+      "text": "Hong Kong was British for 156 years before returning to China on 1 July 1997."
+    },
+    {
+      "title": "OCTOPUS CARD",
+      "text": "Launched in 1997, the Octopus card was one of the world's first contactless payment cards."
+    },
+    {
+      "title": "KUNG FU CAPITAL",
+      "text": "Hong Kong cinema made stars of Bruce Lee and Jackie Chan and shaped action movies worldwide."
+    }
+  ],
+  "randomFacts": [
+    "Hong Kong has more buildings over 150 metres tall than any other city in the world.",
+    "The green-and-white Star Ferry has crossed Victoria Harbour since 1888 and still costs pocket change.",
+    "Hong Kong's double-decker trams have run since 1904 and form the largest double-decker tram fleet in service.",
+    "The Tian Tan Buddha on Lantau Island is about 34 metres tall and is reached by climbing 268 steps.",
+    "The Central–Mid-Levels escalator system is the world's longest outdoor covered escalator network.",
+    "Several skyscrapers have holes, called 'dragon gates', so dragons can pass from the hills to the sea.",
+    "Despite the dense skyline, roughly 40 percent of Hong Kong's land is protected country park.",
+    "Hong Kong was British for 156 years before returning to China on 1 July 1997.",
+    "Launched in 1997, the Octopus card was one of the world's first contactless payment cards.",
+    "Hong Kong cinema made stars of Bruce Lee and Jackie Chan and shaped action movies worldwide.",
+    "'Hong Kong' means 'fragrant harbour' in Cantonese.",
+    "The city hosts one of the world's largest Chinese New Year fireworks shows.",
+    "Locals eat out more often than almost anywhere else on Earth.",
+    "The Symphony of Lights is the world's largest permanent light and sound show.",
+    "Hong Kong International Airport is built almost entirely on reclaimed land."
+  ],
+  "faq": [
+    {
+      "q": "Where is Hong Kong located?",
+      "a": "Hong Kong is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Hong Kong?",
+      "a": "The greater Hong Kong area is home to about 7,500,000 people."
+    },
+    {
+      "q": "What is Hong Kong famous for?",
+      "a": "A wall of skyscrapers between green peaks and a glittering harbour, Hong Kong packs dim sum halls, double-decker trams, neon markets and island escapes into one compact city."
+    },
+    {
+      "q": "Is Hong Kong worth visiting?",
+      "a": "Yes — Hong Kong was ranked #15 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Hong Kong?",
+      "a": "Yes — IShowSpeed streamed from Hong Kong during his 2025 China tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 15
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Maputo",
+  "name": "Maputo",
+  "region": "Africa",
+  "country": "Mozambique",
+  "metro": "1,700,000",
+  "seo": {
+    "title": "Maputo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Maputo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Maputo.",
+    "keywords": "Maputo, Maputo travel guide, things to do in Maputo, Maputo fun facts, where to stay in Maputo, Famous Cities"
+  },
+  "image": "Maputo.png",
+  "video": "videos/maputo.mp4",
+  "youtube": null,
+  "tagline": "An Indian Ocean capital of flame trees and iron architecture — seafood, marrabenta music and the gateway to Mozambique's islands.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Maputo",
+    "twitter": "https://twitter.com/search?q=visit%20Maputo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maputo"
+  },
+  "overview": [
+    "Maputo is Africa's most unexpectedly graceful capital — jacaranda and flame trees shading wide Portuguese boulevards, a fortress on the bay, and the famous Central Market's iron dome designed by the Eiffel workshop (as was the city's Iron House).",
+    "The city's pleasures are elemental: grilled prawns the size of hands at the fish market, marrabenta music drifting from bars, and ferry crossings to Catembe across the bay beneath Africa's longest suspension bridge.",
+    "Speed's 2025 Africa tour streamed from Maputo. It's the launchpad for Mozambique's legendary Indian Ocean destinations — the Bazaruto and Quirimbas island archipelagos offshore."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Maputo&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Maputo",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mpm/cheap-flights-to-maputo.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏙️",
+      "title": "City & Market Tour",
+      "desc": "Eiffel dome, fortress, Baixa streets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maputo%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maputo%20city%20tour"
+    },
+    {
+      "icon": "🦐",
+      "title": "Seafood & Fish Market",
+      "desc": "Prawn feast by the bay.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maputo%20fish%20market%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maputo%20fish%20market%20food%20tour"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Catembe Crossing",
+      "desc": "The ferry under Africa's longest bridge.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maputo%20Catembe%20ferry",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maputo%20Catembe%20ferry"
+    },
+    {
+      "icon": "🏝️",
+      "title": "Island Extension",
+      "desc": "Bazaruto or Inhaca island trip.",
+      "viator": "https://www.viator.com/searchResults/all?text=Inhaca%20island%20trip%20Maputo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Inhaca%20island%20trip%20Maputo"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "EIFFEL'S BUILDINGS",
+      "text": "The Iron House and Central Market's dome were designed by Gustave Eiffel's workshop."
+    },
+    {
+      "title": "THE SEAFOOD CAPITAL",
+      "text": "Grilled LM prawns — giant tiger prawns in peri-peri — are the signature meal."
+    },
+    {
+      "title": "THE LONGEST BRIDGE",
+      "text": "The Maputo–Katembe suspension bridge (2018) is Africa's longest."
+    },
+    {
+      "title": "MARRABENTA",
+      "text": "The city's danceable guitar music is the national sound."
+    },
+    {
+      "title": "FLAME-TREE CITY",
+      "text": "Jacarandas and flame trees colour the wide boulevards seasonally."
+    },
+    {
+      "title": "FORTRESS ON THE BAY",
+      "text": "The 18th-century fort guards the harbour mouth."
+    },
+    {
+      "title": "RAILWAY PALACE",
+      "text": "Maputo's CFM station — also Eiffel-linked — ranks among the world's most beautiful stations."
+    },
+    {
+      "title": "BAIXA",
+      "text": "The downtown grid's art-deco and colonial facades survived the civil war."
+    },
+    {
+      "title": "ISLAND GATEWAY",
+      "text": "Bazaruto and Quirimbas archipelagos hold Africa's best island escapes."
+    },
+    {
+      "title": "A CITY REBORN",
+      "text": "Post-1992 peace rebuilt a city that had been hollowed by war."
+    }
+  ],
+  "randomFacts": [
+    "The Iron House and Central Market's dome were designed by Gustave Eiffel's workshop.",
+    "Grilled LM prawns — giant tiger prawns in peri-peri — are the signature meal.",
+    "The Maputo–Katembe suspension bridge (2018) is Africa's longest.",
+    "The city's danceable guitar music is the national sound.",
+    "Jacarandas and flame trees colour the wide boulevards seasonally.",
+    "The 18th-century fort guards the harbour mouth.",
+    "Maputo's CFM station — also Eiffel-linked — ranks among the world's most beautiful stations.",
+    "The downtown grid's art-deco and colonial facades survived the civil war.",
+    "Bazaruto and Quirimbas archipelagos hold Africa's best island escapes.",
+    "Post-1992 peace rebuilt a city that had been hollowed by war.",
+    "Peri-peri chicken is the street food king.",
+    "Catembe ferry gives the skyline view for cents.",
+    "Cashew trees line the avenues — the nut is local.",
+    "Marracuene's riverside is the beach escape.",
+    "The fish market restaurant row is the evening scene."
+  ],
+  "faq": [
+    {
+      "q": "Where is Maputo located?",
+      "a": "Maputo is in Mozambique, in Africa."
+    },
+    {
+      "q": "What is the population of Maputo?",
+      "a": "The greater Maputo area is home to about 1,700,000 people."
+    },
+    {
+      "q": "What is Maputo famous for?",
+      "a": "Maputo is famous for the iron-domed Central Market, Eiffel-designed buildings, Indian Ocean seafood and the gateway to Mozambique's islands."
+    },
+    {
+      "q": "Did IShowSpeed stream from Maputo?",
+      "a": "Yes — IShowSpeed streamed from Maputo on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

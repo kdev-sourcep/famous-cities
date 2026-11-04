@@ -1,0 +1,145 @@
+{
+  "slug": "New-York",
+  "name": "New York",
+  "region": "North America",
+  "country": "USA",
+  "metro": "19,294,236",
+  "seo": {
+    "title": "New York Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "New York travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in New York.",
+    "keywords": "New York, New York travel guide, things to do in New York, New York fun facts, where to stay in New York, Famous Cities"
+  },
+  "image": "NewYork.png",
+  "video": "videos/new-york.mp4",
+  "youtube": null,
+  "tagline": "New York remains America’s magnetic giant — and it keeps reinventing itself. It is ranked #5 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "people",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/visitnewyorkcity/",
+    "twitter": "https://twitter.com/nyvisit?lang=en",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_York_City"
+  },
+  "overview": [
+    "New York is back at full tilt — over 64 million visitors a year and climbing — and it is still inventing new ways to see itself. The headline change for 2026: congestion pricing is live south of 60th Street, the first scheme of its kind in the US, which means slightly lighter Midtown traffic and a real funding stream for subway upgrades.",
+    "The gateways got the makeover first. LaGuardia’s rebuilt terminals are genuinely pleasant now, Newark’s Terminal A is open, and JFK’s $19-billion rebuild is delivering the new Terminal One in phases through the decade. On the ground, Moynihan Train Hall and Grand Central Madison have finally made train travel feel modern.",
+    "New perches keep joining the classics: SUMMIT One Vanderbilt’s mirrored glass rooms above Grand Central compete with the Empire State Building, Top of the Rock and Edge at Hudson Yards for skyline views. Down low, Little Island floats on the Hudson and the High Line keeps redefining what a park can be.",
+    "And the culture never paused: Broadway runs full seasons, the Met is renovating its modern wing while staying open, and the Museum of Broadway has joined Lincoln Center, MoMA and a hundred smaller rooms worth your time. Book timed tickets for the big observation decks — in peak season, the lines are the real congestion."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?city=-2140479&aid=2243524",
+    "tours": "https://www.viator.com/New-York-City/d5071",
+    "flights": "https://www.skyscanner.net/transport/flights/to/nyc/cheap-flights-to-new-york.html"
+  },
+  "topThings": [
+    {
+      "icon": "🗽",
+      "title": "Statue of Liberty & Ellis Island",
+      "desc": "Ferry to Lady Liberty and the immigration museum.",
+      "viator": "https://www.viator.com/searchResults/all?text=Statue%20of%20Liberty%20Ellis%20Island",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Statue%20of%20Liberty%20Ellis%20Island"
+    },
+    {
+      "icon": "🏢",
+      "title": "Empire State Building",
+      "desc": "Classic Manhattan views from the 86th-floor observatory.",
+      "viator": "https://www.viator.com/searchResults/all?text=Empire%20State%20Building%20observatory",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Empire%20State%20Building%20observatory"
+    },
+    {
+      "icon": "🎭",
+      "title": "Broadway Show Tickets",
+      "desc": "Catch a hit musical in the Theater District.",
+      "viator": "https://www.viator.com/searchResults/all?text=Broadway%20show%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Broadway%20show%20tickets"
+    },
+    {
+      "icon": "🕊️",
+      "title": "9/11 Memorial & Museum",
+      "desc": "A moving tribute at the World Trade Center site.",
+      "viator": "https://www.viator.com/searchResults/all?text=9/11%20Memorial%20Museum",
+      "getyourguide": "https://www.getyourguide.com/s/?q=9/11%20Memorial%20Museum"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE CITY'S ORIGINAL NAME WAS NEW AMSTERDAM",
+      "text": "Yes, these New York facts are starting right at the beginning! Did you know that New York was, at first, not New York at all? The original name was New Amsterdam as <a href=\"https://www.bbc.com/travel/article/20191118-whats-left-of-new-yorks-dutch-past\">Dutch settlers</a> were the first to arrive in the area around 1624. But in 1664, the English took over and renamed the city in the Duke of York’s honor. Not only that, some of the most iconic<a href=\"https://theplanetd.com/new-york-city-itinerary/\">New York places </a> had original Dutch names. Wall Street was Waal Straat, Harlem was Haarlem, and <a href=\"https://theplanetd.com/things-to-do-in-brooklyn-new-york/\"></a> <a href=\"https://theplanetd.com/things-to-do-in-brooklyn-new-york/\">Brooklyn</a>  was Breukelen"
+    },
+    {
+      "title": "NEW YORK IS A GREEN CITY",
+      "text": "New York City has more than 8 million trees, making it one of the greenest cities in the US. The density of trees per square mile is impressive, contributing to cleaner air and a more beautiful urban environment."
+    },
+    {
+      "title": "THE FIRST PIZZERIA IN THE USA OPENED IN NEW YORK",
+      "text": "One of our favorite fun facts about New York has to be about food. The first pizzeria in the US opened in New York City in 1905, as certified by the Pizza Hall of Fame. Lombardi’s Pizza on 32 Spring Street is still going strong and it is now one of around 1,600 pizzerias in the city. New Yorkers have noted that when the price of subway tickets goes up, pizza does too. They call it “the pizza principle.” Now, if someone could convince Lombardi’s to revert back to their 1905 pricing of 5 cents a slice, there would be some very happy subway riders."
+    },
+    {
+      "title": "NEW YORKERS SPEAK MORE THAN 800 LANGUAGES",
+      "text": "No list of interesting facts about New York is complete without mentioning the city’s diverse population. As a collective, the city’s citizens speak around 800 languages. Almost half of New York households speak more than one language and one-third are born overseas. And because New York has the biggest population of any US city, 1 in 38 people in the United States are New Yorkers."
+    },
+    {
+      "title": "GRAND CENTRAL TERMINAL HAS A WHISPERING GALLERY",
+      "text": "New York's famous Grand Central Terminal has an unbelievable architectural marvel at play. If one person stands in one corner of the tiled wall and another stands on the opposite side, they can whisper to each other."
+    },
+    {
+      "title": "TOPLESS FREEDOM",
+      "text": "Though you might not see many locals strolling around the city in only their pants and shoes, they could if they wanted to. And that goes for people of all genders. You might be wondering what the laws on toplessness are like elsewhere in the US. They are a little fuzzy. In many states, women’s breasts fall under the umbrella term “private parts” so men can be topless in certain places that women cannot. And in some states, there are  <a href=\"https://www.bbc.com/news/world-us-canada-50592811\">particular cities</a>  where it is illegal. But topless freedom is legal in the City of Dreams. So in New York, the old shop window sign should say, “no shirt? No problem!”"
+    },
+    {
+      "title": "NO HONKING IT IS LEGALLY ILLEGAL",
+      "text": "We promise these facts about New York are 100% true, but we understand why this one sounds made up. Because if you have ever sat in the back of a yellow taxi cab in traffic, you know New Yorkers honk their horns. But unless it is an emergency situation, drivers are not allowed to make excessive noise. That law also includes car alarms and the NYPD can issue fines of up to $350 for offenders."
+    },
+    {
+      "title": "LIGHTNING STRIKES THE EMPIRE STATE BUILDING A LOT",
+      "text": "Lightning strikes seem like an uncommon occurrence. But one of the fun facts about New York is that lightning hits the Empire State Building around 25 times per year! We are very thankful that modern engineers know how to absorb and deflect such a massive amount of energy from tall buildings."
+    },
+    {
+      "title": "TIMES SQUARE NOT ALWAYS TIMES SQUARE",
+      "text": "Before naming itself after the New York Times newspaper, it was Long Acre Square. Not very exciting? Nope, the name originated in a London district and was a simple residential neighborhood. But the street lights and billboards transformed into the chaotic place that it is today."
+    },
+    {
+      "title": "THE STATUE OF LIBERTY A GIFT FROM FRANCE",
+      "text": "If you didn't think we would include the Statue of Liberty because it was talked about earlier, think again. It's somewhat ironic that Lady Liberty is an iconic symbol of freedom and the American Dream when she started her life in Paris. French sculptors Bartholdi and Eiffel built her to celebrate the friendship between the US and France. You likely recognize the latter sculptor's name from another French structure!"
+    }
+  ],
+  "randomFacts": [
+    "New York City has 8.4 million people, speaking over 800 languages.",
+    "The Statue of Liberty was a gift from France and arrived in 350 pieces.",
+    "Times Square was originally called Long Acre Square.",
+    "The Empire State Building gets struck by lightning about 25 times per year.",
+    "New York's subway system has 472 stations, more than any other in the world.",
+    "Central Park is larger than the principality of Monaco.",
+    "The pizza slice was invented in New York City in 1905.",
+    "New York City was the first capital of the United States.",
+    "The New York Public Library is the second largest library in the US.",
+    "One World Trade Center is the tallest building in the Western Hemisphere.",
+    "New York City's Chinatown is the largest in the Western Hemisphere.",
+    "The Brooklyn Bridge was the world's first steel-wire suspension bridge.",
+    "New York City hosts the Thanksgiving Day Parade, started in 1924.",
+    "Grand Central Terminal has 44 platforms and 67 tracks.",
+    "The New York Stock Exchange is the largest stock exchange in the world."
+  ],
+  "faq": [
+    {
+      "q": "Where is New York located?",
+      "a": "New York is in the United States, in North America."
+    },
+    {
+      "q": "What is the population of New York?",
+      "a": "The greater New York area is home to about 4,735,000 people."
+    },
+    {
+      "q": "What is New York famous for?",
+      "a": "New York is famous for the Statue of Liberty, Times Square, Central Park, the Empire State Building, and Broadway."
+    },
+    {
+      "q": "Is New York worth visiting?",
+      "a": "Yes — New York was ranked #5 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": 5
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Zhengzhou",
+  "name": "Zhengzhou",
+  "region": "Asia",
+  "country": "China",
+  "metro": "12,000,000",
+  "seo": {
+    "title": "Zhengzhou Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Zhengzhou travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Zhengzhou.",
+    "keywords": "Zhengzhou, Zhengzhou travel guide, things to do in Zhengzhou, Zhengzhou fun facts, where to stay in Zhengzhou, Famous Cities"
+  },
+  "image": "Zhengzhou.png",
+  "video": "videos/zhengzhou.mp4",
+  "youtube": null,
+  "tagline": "China's central crossroads — the rail hub nearest the Shaolin Temple, where monks perfected kung fu 1,500 years ago.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Zhengzhou",
+    "twitter": "https://twitter.com/search?q=visit%20Zhengzhou",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zhengzhou"
+  },
+  "overview": [
+    "Zhengzhou is the crossroads of China — the country's biggest rail junction, where north-south and east-west high-speed lines cross. It's a modern 12-million-person metropolis that few foreigners knew before Speed's 2025 stream.",
+    "The city's claim to fame is 80km away: the Shaolin Temple on Mount Song, where Buddhist monks have trained in kung fu since the 6th century — the world's most famous martial-arts monastery, and the site of Speed's legendary training session that went viral across platforms.",
+    "Zhengzhou itself is one of China's ancient capitals — the Shang dynasty built city walls here 3,600 years ago, and the Henan Museum holds bronzes and jades from the Yellow River's earliest civilisations."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Zhengzhou&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Zhengzhou",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cgo/cheap-flights-to-zhengzhou.html"
+  },
+  "topThings": [
+    {
+      "icon": "🥋",
+      "title": "Shaolin Temple Day",
+      "desc": "Kung fu birthplace and pagoda forest.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shaolin%20Temple%20tour%20from%20Zhengzhou",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shaolin%20Temple%20tour%20from%20Zhengzhou"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Henan Museum",
+      "desc": "Bronzes and jades from the cradle.",
+      "viator": "https://www.viator.com/searchResults/all?text=Henan%20Museum%20visit",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Henan%20Museum%20visit"
+    },
+    {
+      "icon": "🌊",
+      "title": "Yellow River Scenic",
+      "desc": "The giant emperors and the cradle river.",
+      "viator": "https://www.viator.com/searchResults/all?text=Yellow%20River%20scenic%20area%20Zhengzhou",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Yellow%20River%20scenic%20area%20Zhengzhou"
+    },
+    {
+      "icon": "🚄",
+      "title": "Luoyang / Kaifeng",
+      "desc": "Ancient capitals by bullet train.",
+      "viator": "https://www.viator.com/searchResults/all?text=Luoyang%20Longmen%20day%20trip%20from%20Zhengzhou",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Luoyang%20Longmen%20day%20trip%20from%20Zhengzhou"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SHAOLIN'S GATEWAY",
+      "text": "The Shaolin Temple — birthplace of kung fu — sits in the city's Mount Song range."
+    },
+    {
+      "title": "SPEED TRAINED THERE",
+      "text": "Speed's Shaolin kung-fu training stream was among the most-watched moments of his China tour."
+    },
+    {
+      "title": "CHINA'S RAIL CROSSROADS",
+      "text": "The country's two busiest high-speed lines intersect here — you can reach anywhere."
+    },
+    {
+      "title": "3,600 YEARS OLD",
+      "text": "Shang dynasty walls and bronzes make it one of China's earliest capital sites."
+    },
+    {
+      "title": "HENAN'S CRADLE",
+      "text": "The province around it is the heartland of Chinese civilisation — 'central plains' culture."
+    },
+    {
+      "title": "THE PAGODA FOREST",
+      "text": "Shaolin's forest of 240+ tomb pagodas honour great monks — China's largest."
+    },
+    {
+      "title": "THE TOWER OF ERQI",
+      "text": "The twin-spired February 7th Memorial Tower is the city landmark."
+    },
+    {
+      "title": "IPhone CITY",
+      "text": "Foxconn's Zhengzhou plant — nicknamed 'iPhone City' — assembles much of the world's iPhones."
+    },
+    {
+      "title": "YELLOW RIVER",
+      "text": "The cradle-river flows just north — scenic areas and the giant emperors statue stand there."
+    },
+    {
+      "title": "KUNG FU SHOWS",
+      "text": "Shaolin monks perform daily — the tourism town around the temple is built for it."
+    }
+  ],
+  "randomFacts": [
+    "The Shaolin Temple — birthplace of kung fu — sits in the city's Mount Song range.",
+    "Speed's Shaolin kung-fu training stream was among the most-watched moments of his China tour.",
+    "The country's two busiest high-speed lines intersect here — you can reach anywhere.",
+    "Shang dynasty walls and bronzes make it one of China's earliest capital sites.",
+    "The province around it is the heartland of Chinese civilisation — 'central plains' culture.",
+    "Shaolin's forest of 240+ tomb pagodas honour great monks — China's largest.",
+    "The twin-spired February 7th Memorial Tower is the city landmark.",
+    "Foxconn's Zhengzhou plant — nicknamed 'iPhone City' — assembles much of the world's iPhones.",
+    "The cradle-river flows just north — scenic areas and the giant emperors statue stand there.",
+    "Shaolin monks perform daily — the tourism town around the temple is built for it.",
+    "The giant Emperors Yan and Huang statue near the Yellow River is 106m tall.",
+    "Shaolin means 'young forest' — after Mount Song's woods.",
+    "Hulatang — spicy pepper soup — is the Henan breakfast.",
+    "Zhengzhou sprawls in flat grid blocks — easy to navigate.",
+    "Martial arts schools near Shaolin train thousands of kids."
+  ],
+  "faq": [
+    {
+      "q": "Where is Zhengzhou located?",
+      "a": "Zhengzhou is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Zhengzhou?",
+      "a": "The greater Zhengzhou area is home to about 12,000,000 people."
+    },
+    {
+      "q": "What is Zhengzhou famous for?",
+      "a": "Zhengzhou is famous for the gateway to the Shaolin Temple, China's central rail hub, and one of the country's ancient capitals."
+    },
+    {
+      "q": "Did IShowSpeed stream from Zhengzhou?",
+      "a": "Yes — IShowSpeed streamed from Zhengzhou on his 2025 China tour, including the famous Shaolin kung-fu training session nearby. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

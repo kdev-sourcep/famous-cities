@@ -1,0 +1,144 @@
+{
+  "slug": "Tirana",
+  "name": "Tirana",
+  "region": "Europe",
+  "country": "Albania",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Tirana Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Tirana travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Tirana.",
+    "keywords": "Tirana, Tirana travel guide, things to do in Tirana, Tirana fun facts, where to stay in Tirana, Famous Cities"
+  },
+  "image": "Tirana.png",
+  "video": "videos/tirana.mp4",
+  "youtube": null,
+  "tagline": "Europe's most surprising comeback — a once-grey communist capital painted in rainbows, ringed by bunkers and mountains.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Tirana",
+    "twitter": "https://twitter.com/search?q=visit%20Tirana",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tirana"
+  },
+  "overview": [
+    "Tirana spent 45 years sealed inside Europe's most paranoid dictatorship — then exploded into colour. Mayor-turned-painter Edi Rama had the drab communist blocks painted in bold patterns, and the city has been repainting itself ever since.",
+    "The symbols of isolation are now the attractions: Bunk'Art turns the regime's giant nuclear bunkers into museums, Skanderbeg Square was repaved as a stone pedestrian plain, and the Pyramid — a mausoleum for the dictator — was rebuilt as a climbable tech hub.",
+    "Speed's 2024 tour streamed from Tirana. From the centre, the Dajti Express cable car climbs a mountain in 15 minutes, and the Albanian Riviera's beaches are a few hours south."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Tirana&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Tirana",
+    "flights": "https://www.skyscanner.net/transport/flights/to/tia/cheap-flights-to-tirana.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "City & Bunk'Art Tour",
+      "desc": "Skanderbeg Square, Pyramid and the bunkers.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tirana%20Bunk%27Art%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tirana%20Bunk%27Art%20tour"
+    },
+    {
+      "icon": "🚡",
+      "title": "Dajti Cable Car",
+      "desc": "Mountain views 15 minutes up.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dajti%20Express%20Tirana",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dajti%20Express%20Tirana"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Berat or Kruja Day Trip",
+      "desc": "Ottoman castle towns an hour away.",
+      "viator": "https://www.viator.com/searchResults/all?text=Berat%20Kruja%20day%20trip%20from%20Tirana",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Berat%20Kruja%20day%20trip%20from%20Tirana"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Riviera Adventure",
+      "desc": "Ksamil beaches and the Llogara pass.",
+      "viator": "https://www.viator.com/searchResults/all?text=Albanian%20Riviera%20trip%20from%20Tirana",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Albanian%20Riviera%20trip%20from%20Tirana"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE PAINTED CITY",
+      "text": "Post-2000 the mayor had drab blocks painted in bright patterns — the city has been colorful ever since."
+    },
+    {
+      "title": "750,000 BUNKERS",
+      "text": "Albania's regime built a bunker for every few citizens — Tirana's biggest are now museums."
+    },
+    {
+      "title": "THE PYRAMID REBORN",
+      "text": "The dictator's abandoned mausoleum reopened as a climbable tech and youth centre."
+    },
+    {
+      "title": "BUNK'ART",
+      "text": "Cold War nuclear bunkers under the outskirts are now history-and-art museums."
+    },
+    {
+      "title": "SKANDERBEG SQUARE",
+      "text": "The huge pedestrian plaza was repaved with stones from every Albanian district."
+    },
+    {
+      "title": "DAJTI EXPRESS",
+      "text": "A cable car climbs 1,613m Dajti mountain from the city edge — longest in the Balkans."
+    },
+    {
+      "title": "COFFEE NATION",
+      "text": "Albanians drink more café coffee per capita than almost any European nation."
+    },
+    {
+      "title": "BESA",
+      "text": "The Albanian code of honour — besa, the given word — sheltered Jews through WWII."
+    },
+    {
+      "title": "THE ISOLATED DECADES",
+      "text": "For 45 years Albania was Europe's most closed country — the transformation is the story."
+    },
+    {
+      "title": "RIVIERA GATEWAY",
+      "text": "Ksamil and the Albanian Riviera's turquoise beaches are a few hours' drive south."
+    }
+  ],
+  "randomFacts": [
+    "Post-2000 the mayor had drab blocks painted in bright patterns — the city has been colorful ever since.",
+    "Albania's regime built a bunker for every few citizens — Tirana's biggest are now museums.",
+    "The dictator's abandoned mausoleum reopened as a climbable tech and youth centre.",
+    "Cold War nuclear bunkers under the outskirts are now history-and-art museums.",
+    "The huge pedestrian plaza was repaved with stones from every Albanian district.",
+    "A cable car climbs 1,613m Dajti mountain from the city edge — longest in the Balkans.",
+    "Albanians drink more café coffee per capita than almost any European nation.",
+    "The Albanian code of honour — besa, the given word — sheltered Jews through WWII.",
+    "For 45 years Albania was Europe's most closed country — the transformation is the story.",
+    "Ksamil and the Albanian Riviera's turquoise beaches are a few hours' drive south.",
+    "Traffic lights were only introduced in the 1990s.",
+    "The Bunk'Art tunnels go five storeys under a hill.",
+    "Raki is the welcome drink — often homemade.",
+    "The Pyramid's exterior steps are now a hangout.",
+    "Byrek pastry is the breakfast standard."
+  ],
+  "faq": [
+    {
+      "q": "Where is Tirana located?",
+      "a": "Tirana is in Albania, in Europe."
+    },
+    {
+      "q": "What is the population of Tirana?",
+      "a": "The greater Tirana area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Tirana famous for?",
+      "a": "Tirana is famous for the rainbow-painted communist-era centre, Bunk'Art's giant bunkers, and the Dajti mountain cable car."
+    },
+    {
+      "q": "Did IShowSpeed stream from Tirana?",
+      "a": "Yes — IShowSpeed streamed from Tirana on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Hanoi",
+  "name": "Hanoi",
+  "region": "Asia",
+  "country": "Vietnam",
+  "metro": "8,000,000",
+  "seo": {
+    "title": "Hanoi Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Hanoi travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Hanoi.",
+    "keywords": "Hanoi, Hanoi travel guide, things to do in Hanoi, Hanoi fun facts, where to stay in Hanoi, Famous Cities"
+  },
+  "image": "Hanoi.png",
+  "video": "videos/hanoi.mp4",
+  "youtube": null,
+  "tagline": "A thousand years of history inside a scooter swarm — the Old Quarter's guild streets, Hoan Kiem's legendary turtle, and a train that squeezes through homes.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Hanoi",
+    "twitter": "https://twitter.com/search?q=visit%20Hanoi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanoi"
+  },
+  "overview": [
+    "Hanoi has been Vietnam's capital for most of a thousand years, and it layers every era: the 36 guild streets of the Old Quarter, French-colonial boulevards, Soviet-era blocks and the incense-hazed temples of Hoan Kiem lake.",
+    "The city's famous images are real: scooters flowing like water, cafes spilling onto sidewalks, and the train that squeezes twice daily through Train Street's narrow homes while cafés pull back their tables. Dawn belongs to tai chi and street-side pho by the lake.",
+    "Speed's 2024 stream captured the signature chaos — scooter swarms, street food and walls of fans. Beyond the centre, the Ho Chi Minh Mausoleum complex and the Temple of Literature hold the country's founding memory."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Hanoi&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Hanoi",
+    "flights": "https://www.skyscanner.net/transport/flights/to/han/cheap-flights-to-hanoi.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍲",
+      "title": "Old Quarter Food Tour",
+      "desc": "Pho, bun cha and egg coffee with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hanoi%20Old%20Quarter%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hanoi%20Old%20Quarter%20food%20tour"
+    },
+    {
+      "icon": "🚆",
+      "title": "Train Street & Landmarks",
+      "desc": "The alley train plus the city's icons.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hanoi%20city%20tour%20Train%20Street",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hanoi%20city%20tour%20Train%20Street"
+    },
+    {
+      "icon": "🚢",
+      "title": "Ha Long Bay Day Cruise",
+      "desc": "Karst islands a few hours from town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ha%20Long%20Bay%20cruise%20from%20Hanoi",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ha%20Long%20Bay%20cruise%20from%20Hanoi"
+    },
+    {
+      "icon": "🎭",
+      "title": "Water Puppet Show",
+      "desc": "The 1,000-year-old puppet theatre.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hanoi%20water%20puppet%20show%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hanoi%20water%20puppet%20show%20tickets"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A THOUSAND-YEAR CAPITAL",
+      "text": "Hanoi was founded in 1010 — it celebrated its millennium in 2010."
+    },
+    {
+      "title": "36 GUILD STREETS",
+      "text": "Old Quarter lanes were each named for a trade — Silk Street, Silver Street, Bamboo Street."
+    },
+    {
+      "title": "TRAIN STREET",
+      "text": "A railway squeezes through a 2-metre alley — cafés pull tables back twice a day."
+    },
+    {
+      "title": "THE RETURNED SWORD",
+      "text": "Hoan Kiem means 'Lake of the Returned Sword' — a legendary turtle reclaimed a hero's blade."
+    },
+    {
+      "title": "PHO'S BIRTHPLACE",
+      "text": "Vietnam's national dish was born on these streets — breakfast pho remains a religion."
+    },
+    {
+      "title": "EIFFEL'S BRIDGE",
+      "text": "Long Bien Bridge was designed by Gustave Eiffel's firm and survived the war."
+    },
+    {
+      "title": "WATER PUPPETS",
+      "text": "Thang Long theatre keeps up a 1,000-year-old art performed in flooded rice paddies."
+    },
+    {
+      "title": "A SCOOTER OCEAN",
+      "text": "Motorbikes vastly outnumber cars — crossing the road is a learned faith."
+    },
+    {
+      "title": "THE FIRST UNIVERSITY",
+      "text": "Van Mieu, Vietnam's first university (1070), still holds its stone doctorate stelae on tortoises."
+    },
+    {
+      "title": "EGG COFFEE",
+      "text": "Hanoi invented coffee whisked with egg yolk — born when milk was scarce."
+    }
+  ],
+  "randomFacts": [
+    "Hanoi was founded in 1010 — it celebrated its millennium in 2010.",
+    "Old Quarter lanes were each named for a trade — Silk Street, Silver Street, Bamboo Street.",
+    "A railway squeezes through a 2-metre alley — cafés pull tables back twice a day.",
+    "Hoan Kiem means 'Lake of the Returned Sword' — a legendary turtle reclaimed a hero's blade.",
+    "Vietnam's national dish was born on these streets — breakfast pho remains a religion.",
+    "Long Bien Bridge was designed by Gustave Eiffel's firm and survived the war.",
+    "Thang Long theatre keeps up a 1,000-year-old art performed in flooded rice paddies.",
+    "Motorbikes vastly outnumber cars — crossing the road is a learned faith.",
+    "Van Mieu, Vietnam's first university (1070), still holds its stone doctorate stelae on tortoises.",
+    "Hanoi invented coffee whisked with egg yolk — born when milk was scarce.",
+    "Cross the road slowly — scooters flow around you.",
+    "Egg coffee tastes like tiramisu in a cup.",
+    "Bia hoi is possibly the world's cheapest fresh draft beer.",
+    "Street names in the Old Quarter literally say what's sold.",
+    "Lotus ponds ring the city — the national flower."
+  ],
+  "faq": [
+    {
+      "q": "Where is Hanoi located?",
+      "a": "Hanoi is in Vietnam, in Asia."
+    },
+    {
+      "q": "What is the population of Hanoi?",
+      "a": "The greater Hanoi area is home to about 8,000,000 people."
+    },
+    {
+      "q": "What is Hanoi famous for?",
+      "a": "Hanoi is famous for Vietnam's thousand-year capital — the Old Quarter, Train Street, Hoan Kiem lake and the birthplace of pho."
+    },
+    {
+      "q": "Did IShowSpeed stream from Hanoi?",
+      "a": "Yes — IShowSpeed streamed from Hanoi on his 2024 Southeast Asia tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 25
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "Rio-de-Janeiro",
+  "name": "Rio de Janeiro",
+  "region": "South America",
+  "country": "Brazil",
+  "metro": "13,000,000",
+  "seo": {
+    "title": "Rio de Janeiro Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Rio de Janeiro travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Rio de Janeiro.",
+    "keywords": "Rio de Janeiro, Rio de Janeiro travel guide, things to do in Rio de Janeiro, Rio de Janeiro fun facts, where to stay in Rio de Janeiro, Famous Cities"
+  },
+  "image": "Rio-de-Janeiro.png",
+  "video": "videos/rio-de-janeiro.mp4",
+  "youtube": null,
+  "tagline": "Brazil's postcard city wraps golden beaches, jungle-covered peaks and samba around two of the world's most famous viewpoints: Christ the Redeemer and Sugarloaf Mountain. It is ranked #12 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Rio%20de%20Janeiro",
+    "twitter": "https://twitter.com/search?q=visit%20Rio%20de%20Janeiro",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rio_de_Janeiro"
+  },
+  "overview": [
+    "Founded by the Portuguese in 1565 where Guanabara Bay meets the Atlantic, Rio served as Brazil's capital for nearly two centuries. The city squeezed between ocean and granite peaks grew into one of the most dramatic urban settings on Earth, celebrated in bossa nova and samba.",
+    "The icons live up to the hype. The 38-metre Christ the Redeemer statue spreads its arms over the city from Corcovado Mountain, and the cable car up Sugarloaf delivers the classic panorama of bay, beaches and forested hills. Down at sea level, Copacabana and Ipanema run for kilometres along a mosaic promenade.",
+    "Carnival turns the city upside down each February or March, but the rhythm runs all year in the samba clubs of Lapa and the street parties called blocos. Between the forest trails of Tijuca, the murals of Olympic Boulevard and a caipirinha at sunset on Arpoador rock, Rio rewards long stays."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Rio de Janeiro&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Rio%20de%20Janeiro",
+    "flights": "https://www.skyscanner.net/transport/flights/to/rio/cheap-flights-to-rio%20de%20janeiro.html"
+  },
+  "topThings": [
+    {
+      "icon": "✝️",
+      "title": "Christ Redeemer + Sugarloaf",
+      "desc": "The two icons with skip-the-line access.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rio%20Christ%20the%20Redeemer%20Sugarloaf%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rio%20Christ%20the%20Redeemer%20Sugarloaf%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Copacabana & Ipanema",
+      "desc": "Bike or walk the famous beaches with a local.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rio%20beaches%20tour%20Copacabana%20Ipanema",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rio%20beaches%20tour%20Copacabana%20Ipanema"
+    },
+    {
+      "icon": "🎿",
+      "title": "Hang Gliding over the City",
+      "desc": "Fly from the Tijuca ramp onto São Conrado beach.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rio%20hang%20gliding%20experience",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rio%20hang%20gliding%20experience"
+    },
+    {
+      "icon": "🎶",
+      "title": "Samba Night in Lapa",
+      "desc": "Live samba clubs and the Lapa arches after dark.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rio%20Lapa%20samba%20night%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rio%20Lapa%20samba%20night%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A NEW WONDER OF THE WORLD",
+      "text": "Christ the Redeemer was voted one of the New Seven Wonders of the World in 2007."
+    },
+    {
+      "title": "AN URBAN RAINFOREST",
+      "text": "Tijuca National Park is one of the largest urban forests on Earth, replanted by hand in the 1800s."
+    },
+    {
+      "title": "THE WORLD'S BIGGEST PARTY",
+      "text": "Rio's Carnival draws around 2 million people a day onto the streets."
+    },
+    {
+      "title": "THE GIRL FROM IPANEMA",
+      "text": "The bossa nova classic was inspired by a teenager walking past a Veloso bar in 1962."
+    },
+    {
+      "title": "A FLOATING RUNWAY",
+      "text": "The city's name means 'January River' — explorers mistook the bay for a river mouth in 1502."
+    },
+    {
+      "title": "COFFEE WITH A VIEW",
+      "text": "Pão de Açúcar's cable car opened in 1912, one of the oldest in the world still running."
+    },
+    {
+      "title": "THE MARACANÃ",
+      "text": "The Maracanã stadium once held nearly 200,000 fans for the 1950 World Cup final."
+    },
+    {
+      "title": "MOSAIC PRIO DE JANEIRONADES",
+      "text": "Copacabana's wave-pattern pavement was designed in the 1930s and copied to Ipanema."
+    },
+    {
+      "title": "SAMBA SCHOOLS",
+      "text": "Carnival's parades are run by samba schools that prepare their shows all year."
+    },
+    {
+      "title": "HANG GLIDING CITY",
+      "text": "Rio is one of the only big cities where you can hang-glide from a forested ramp onto a beach."
+    }
+  ],
+  "randomFacts": [
+    "Christ the Redeemer was voted one of the New Seven Wonders of the World in 2007.",
+    "Tijuca National Park is one of the largest urban forests on Earth, replanted by hand in the 1800s.",
+    "Rio's Carnival draws around 2 million people a day onto the streets.",
+    "The bossa nova classic was inspired by a teenager walking past a Veloso bar in 1962.",
+    "The city's name means 'January River' — explorers mistook the bay for a river mouth in 1502.",
+    "Pão de Açúcar's cable car opened in 1912, one of the oldest in the world still running.",
+    "The Maracanã stadium once held nearly 200,000 fans for the 1950 World Cup final.",
+    "Copacabana's wave-pattern pavement was designed in the 1930s and copied to Ipanema.",
+    "Carnival's parades are run by samba schools that prepare their shows all year.",
+    "Rio is one of the only big cities where you can hang-glide from a forested ramp onto a beach.",
+    "Carioca is the word for a Rio local.",
+    "The Maracanã hosted two World Cup finals.",
+    "Rio has over 100 kilometres of beaches.",
+    "The Botanical Garden's avenue of royal palms dates to 1808.",
+    "Feijoada, the black-bean stew, is the national dish served Saturday."
+  ],
+  "faq": [
+    {
+      "q": "Where is Rio de Janeiro located?",
+      "a": "Rio de Janeiro is in Brazil, in South America."
+    },
+    {
+      "q": "What is the population of Rio de Janeiro?",
+      "a": "The greater Rio de Janeiro area is home to about 13,000,000 people."
+    },
+    {
+      "q": "What is Rio de Janeiro famous for?",
+      "a": "Brazil's postcard city wraps golden beaches, jungle-covered peaks and samba around two of the world's most famous viewpoints: Christ the Redeemer and Sugarloaf Mountain."
+    },
+    {
+      "q": "Is Rio de Janeiro worth visiting?",
+      "a": "Yes — Rio de Janeiro was ranked #12 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Rio de Janeiro?",
+      "a": "Yes — IShowSpeed streamed from Rio de Janeiro on his 2025 South America tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 12
+}

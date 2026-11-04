@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Europe",
+    "cities": [
+      "LONDON",
+      "Paris",
+      "Edinburgh",
+      "Barcelona",
+      "Rome",
+      "Madrid",
+      "Amsterdam",
+      "Lisbon",
+      "Istanbul",
+      "Oslo",
+      "Warsaw",
+      "Munich",
+      "Stockholm",
+      "Copenhagen",
+      "Helsinki",
+      "Tallinn",
+      "Riga",
+      "Vilnius",
+      "Budapest",
+      "Bucharest",
+      "Belgrade",
+      "Sofia",
+      "Sarajevo",
+      "Skopje",
+      "Tirana"
+    ]
+  },
+  {
+    "name": "Asia",
+    "cities": [
+      "Shanghai",
+      "Hong-Kong",
+      "Beijing",
+      "Tokyo",
+      "Seoul",
+      "Singapore",
+      "Bangkok",
+      "Shenzhen",
+      "Chongqing",
+      "Changsha",
+      "Manila",
+      "Kuala-Lumpur",
+      "Hanoi",
+      "Osaka",
+      "Jakarta",
+      "Phnom-Penh",
+      "Zhengzhou",
+      "Ulaanbaatar"
+    ]
+  },
+  {
+    "name": "Middle East",
+    "cities": [
+      "Dubai",
+      "Abu-Dhabi",
+      "Doha",
+      "Riyadh"
+    ]
+  },
+  {
+    "name": "Africa",
+    "cities": [
+      "Cape-Town",
+      "Nairobi",
+      "Lagos",
+      "Accra",
+      "Cairo",
+      "Marrakesh",
+      "Dakar",
+      "Addis-Ababa",
+      "Luanda",
+      "Maputo",
+      "Windhoek",
+      "Gaborone",
+      "Lusaka",
+      "Harare"
+    ]
+  },
+  {
+    "name": "North America",
+    "cities": [
+      "New-York",
+      "Las-Vegas",
+      "Mexico-City",
+      "Tamarindo",
+      "La-Fortuna",
+      "Manuel-Antonio",
+      "Santa-Teresa",
+      "Nosara"
+    ]
+  },
+  {
+    "name": "South America",
+    "cities": [
+      "Buenos-Aires",
+      "Rio-de-Janeiro",
+      "Medellin",
+      "Lima",
+      "Bogota",
+      "Cartagena",
+      "La-Paz",
+      "Cusco",
+      "Sucre",
+      "Arequipa",
+      "Bariloche",
+      "Cajamarca",
+      "Cordoba",
+      "Cuenca",
+      "Valparaiso",
+      "Santiago"
+    ]
+  },
+  {
+    "name": "Oceania",
+    "cities": [
+      "Melbourne",
+      "Sydney",
+      "Auckland",
+      "Brisbane",
+      "Perth",
+      "Adelaide",
+      "Queenstown"
+    ]
+  }
+]

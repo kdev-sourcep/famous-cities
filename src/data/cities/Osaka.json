@@ -1,0 +1,144 @@
+{
+  "slug": "Osaka",
+  "name": "Osaka",
+  "region": "Asia",
+  "country": "Japan",
+  "metro": "19,000,000",
+  "seo": {
+    "title": "Osaka Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Osaka travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Osaka.",
+    "keywords": "Osaka, Osaka travel guide, things to do in Osaka, Osaka fun facts, where to stay in Osaka, Famous Cities"
+  },
+  "image": "Osaka.png",
+  "video": "videos/osaka.mp4",
+  "youtube": null,
+  "tagline": "Japan's kitchen — where Dotonbori's giant neon crab guards a canyon of street food and the castle looms over the nation's funniest city.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Osaka",
+    "twitter": "https://twitter.com/search?q=visit%20Osaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Osaka"
+  },
+  "overview": [
+    "Osaka runs on eating. The city's motto is kuidaore — 'eat until you drop' — and Dotonbori delivers: a canal-side canyon of giant neon signs (the running Glico man, a mechanical crab) above takoyaki stands and ramen counters that stay loud past midnight.",
+    "Osaka Castle's reconstructed keep rises over moats and plum groves where Tokugawa history played out; Shinsekai's retro district surrounds the Tsutenkaku tower like a living Showa-era postcard; and Universal Studios Japan draws the theme-park crowds.",
+    "Speed streamed from Osaka on his Japan leg, mobbed through the Dotonbori crowds. Kyoto's temples are 15 minutes by bullet train — but Osaka's grub-first culture is the experience."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Osaka&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Osaka",
+    "flights": "https://www.skyscanner.net/transport/flights/to/kix/cheap-flights-to-osaka.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍡",
+      "title": "Dotonbori Food Crawl",
+      "desc": "Takoyaki, ramen and neon canyon.",
+      "viator": "https://www.viator.com/searchResults/all?text=Osaka%20Dotonbori%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Osaka%20Dotonbori%20food%20tour"
+    },
+    {
+      "icon": "🏯",
+      "title": "Osaka Castle & City",
+      "desc": "The keep, moats and city views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Osaka%20castle%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Osaka%20castle%20tour"
+    },
+    {
+      "icon": "🎢",
+      "title": "Universal Studios Japan",
+      "desc": "Nintendo World and the full park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Universal%20Studios%20Japan%20ticket",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Universal%20Studios%20Japan%20ticket"
+    },
+    {
+      "icon": "🚄",
+      "title": "Kyoto or Nara Day Trip",
+      "desc": "Temples 15–40 minutes away.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kyoto%20day%20trip%20from%20Osaka",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kyoto%20day%20trip%20from%20Osaka"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "KUIDAORE CITY",
+      "text": "Osaka's motto is 'eat until you drop' — the food obsession is the identity."
+    },
+    {
+      "title": "THE GIANT CRAB",
+      "text": "Dotonbori's mechanical king crab sign has waved its claws since the 1960s."
+    },
+    {
+      "title": "GLICO MAN",
+      "text": "The running-man billboard has lit the canal since 1935 — Osaka's unofficial mascot."
+    },
+    {
+      "title": "TAKOYAKI HOME",
+      "text": "Octopus balls were invented here — vendors flip them with tattoo speed."
+    },
+    {
+      "title": "OSAKA CASTLE",
+      "text": "Toyotomi Hideyoshi's 16th-century fortress — rebuilt, it anchors the skyline."
+    },
+    {
+      "title": "JAPAN'S KITCHEN",
+      "text": "The nickname dates to the Edo period, when Osaka was the nation's rice-trading hub."
+    },
+    {
+      "title": "COMEDY CAPITAL",
+      "text": "Manzai stand-up comedy was born here — Osaka produces Japan's biggest comedians."
+    },
+    {
+      "title": "SHINSEKAI",
+      "text": "The 'New World' district preserves 1912 nostalgia under the Tsutenkaku tower."
+    },
+    {
+      "title": "USJ",
+      "text": "Universal Studios Japan holds the Nintendo World land that opened to fan frenzy."
+    },
+    {
+      "title": "KUSHIKATSU RULE",
+      "text": "Fried skewer restaurants warn: no double-dipping in the shared sauce."
+    }
+  ],
+  "randomFacts": [
+    "Osaka's motto is 'eat until you drop' — the food obsession is the identity.",
+    "Dotonbori's mechanical king crab sign has waved its claws since the 1960s.",
+    "The running-man billboard has lit the canal since 1935 — Osaka's unofficial mascot.",
+    "Octopus balls were invented here — vendors flip them with tattoo speed.",
+    "Toyotomi Hideyoshi's 16th-century fortress — rebuilt, it anchors the skyline.",
+    "The nickname dates to the Edo period, when Osaka was the nation's rice-trading hub.",
+    "Manzai stand-up comedy was born here — Osaka produces Japan's biggest comedians.",
+    "The 'New World' district preserves 1912 nostalgia under the Tsutenkaku tower.",
+    "Universal Studios Japan holds the Nintendo World land that opened to fan frenzy.",
+    "Fried skewer restaurants warn: no double-dipping in the shared sauce.",
+    "Osaka's street food signs are famously giant and mechanical.",
+    "Kushikatsu sauce is communal — the sign literally forbids double dips.",
+    "The metro day-pass is cheaper than two rides.",
+    "Osakans are stereotyped as blunt, funny and deal-loving.",
+    "Kuromon market is the food crawl locals actually use."
+  ],
+  "faq": [
+    {
+      "q": "Where is Osaka located?",
+      "a": "Osaka is in Japan, in Asia."
+    },
+    {
+      "q": "What is the population of Osaka?",
+      "a": "The greater Osaka area is home to about 19,000,000 people."
+    },
+    {
+      "q": "What is Osaka famous for?",
+      "a": "Osaka is famous for Japan's kitchen — Dotonbori's neon food strip, takoyaki, Osaka Castle and the country's loudest comedy culture."
+    },
+    {
+      "q": "Did IShowSpeed stream from Osaka?",
+      "a": "Yes — IShowSpeed streamed from Osaka on his Japan tour, mobbed through the Dotonbori crowds. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 39
+}

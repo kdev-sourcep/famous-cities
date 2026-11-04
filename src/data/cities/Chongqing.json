@@ -1,0 +1,144 @@
+{
+  "slug": "Chongqing",
+  "name": "Chongqing",
+  "region": "Asia",
+  "country": "China",
+  "metro": "16,000,000",
+  "seo": {
+    "title": "Chongqing Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Chongqing travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Chongqing.",
+    "keywords": "Chongqing, Chongqing travel guide, things to do in Chongqing, Chongqing fun facts, where to stay in Chongqing, Famous Cities"
+  },
+  "image": "Chongqing.png",
+  "video": "videos/chongqing.mp4",
+  "youtube": null,
+  "tagline": "China's cyberpunk mountain city stacks trains through buildings, cliffside neon old towns and the world's spiciest hotpot above the meeting of two rivers.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Chongqing",
+    "twitter": "https://twitter.com/search?q=visit%20Chongqing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chongqing"
+  },
+  "overview": [
+    "Chongqing might be the world's most vertical city. Built on steep ridges where the Yangtze and Jialing rivers meet, its skyline folds over itself: metro trains drive through apartment blocks, roads sit atop other roads, and staircases double as streets.",
+    "At night it becomes the internet's 'cyberpunk capital' — Hongya Cave's stacked timber facades glowing over the river, neon bridges, and the mass drone shows over the skyline that went viral when Speed streamed from here on his 2025 China tour.",
+    "The food is its own adventure: Chongqing invented the numbing-spicy hotpot, and locals judge restaurants by how vicious the chili-oil broth gets. When you need air, the Dazu rock carvings and Yangtze cruises to the Three Gorges leave from the region."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Chongqing&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Chongqing",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ckg/cheap-flights-to-chongqing.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌃",
+      "title": "Night Skyline & Drones",
+      "desc": "Cyberpunk views over the two rivers.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chongqing%20night%20tour%20drone%20show",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chongqing%20night%20tour%20drone%20show"
+    },
+    {
+      "icon": "🔥",
+      "title": "Hongya Cave & Hotpot",
+      "desc": "The glowing timber town plus a mala dinner.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chongqing%20Hongya%20Cave%20hotpot%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chongqing%20Hongya%20Cave%20hotpot%20tour"
+    },
+    {
+      "icon": "🚇",
+      "title": "Liziba & City Walk",
+      "desc": "The train-through-building and hillside lanes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chongqing%20city%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chongqing%20city%20walking%20tour"
+    },
+    {
+      "icon": "🏿",
+      "title": "Dazu Rock Carvings",
+      "desc": "UNESCO cliff carvings a day trip out.",
+      "viator": "https://www.viator.com/searchResults/all?text=Dazu%20Rock%20Carvings%20tour%20from%20Chongqing",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Dazu%20Rock%20Carvings%20tour%20from%20Chongqing"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A TRAIN THROUGH A BUILDING",
+      "text": "Liziba station's Line 2 monorail drives through the 8th floor of an apartment block — residents barely hear it."
+    },
+    {
+      "title": "THE CYBERPUNK OLD TOWN",
+      "text": "Hongya Cave's 11-storey timber facade glows over the Jialing River like a film set."
+    },
+    {
+      "title": "32 MILLION STRONG",
+      "text": "Chongqing municipality covers an area the size of Austria — the largest city government on earth."
+    },
+    {
+      "title": "HOTPOT'S HOMETOWN",
+      "text": "The mala hotpot — chili oil plus numbing Sichuan pepper — was born on these docks."
+    },
+    {
+      "title": "A WARTIME CAPITAL",
+      "text": "Chongqing was China's capital during WWII — and the most heavily bombed city in Chinese history."
+    },
+    {
+      "title": "DRONE SHOW CITY",
+      "text": "Its nightly mass drone-light shows became a signature spectacle — and a viral Speed stream."
+    },
+    {
+      "title": "THE '8D' CITY",
+      "text": "Elevation changes are so extreme that a ground floor on one street can be a roof on another."
+    },
+    {
+      "title": "BREAKFAST NOODLES",
+      "text": "Xiaomian — fiery breakfast noodles — is the city's morning ritual."
+    },
+    {
+      "title": "TWO RIVERS MEET",
+      "text": "The Yangtze and Jialing converge at Chaotianmen, the city's compass point."
+    },
+    {
+      "title": "A BRIDGE FOREST",
+      "text": "Dozens of bridges and the Yangtze cableway cross the rivers — the cable car still runs as an icon."
+    }
+  ],
+  "randomFacts": [
+    "Liziba station's Line 2 monorail drives through the 8th floor of an apartment block — residents barely hear it.",
+    "Hongya Cave's 11-storey timber facade glows over the Jialing River like a film set.",
+    "Chongqing municipality covers an area the size of Austria — the largest city government on earth.",
+    "The mala hotpot — chili oil plus numbing Sichuan pepper — was born on these docks.",
+    "Chongqing was China's capital during WWII — and the most heavily bombed city in Chinese history.",
+    "Its nightly mass drone-light shows became a signature spectacle — and a viral Speed stream.",
+    "Elevation changes are so extreme that a ground floor on one street can be a roof on another.",
+    "Xiaomian — fiery breakfast noodles — is the city's morning ritual.",
+    "The Yangtze and Jialing converge at Chaotianmen, the city's compass point.",
+    "Dozens of bridges and the Yangtze cableway cross the rivers — the cable car still runs as an icon.",
+    "Locals joke the city has no flat street.",
+    "Hotpot here can top 40,000 Scoville heat.",
+    "'八D' or '8D city' is locals' own nickname.",
+    "Foggy days earned it the name 'fog capital'.",
+    "Some buildings' main entrances are on the 10th floor."
+  ],
+  "faq": [
+    {
+      "q": "Where is Chongqing located?",
+      "a": "Chongqing is in China, in Asia."
+    },
+    {
+      "q": "What is the population of Chongqing?",
+      "a": "The greater Chongqing area is home to about 16,000,000 people."
+    },
+    {
+      "q": "What is Chongqing famous for?",
+      "a": "Chongqing is famous for China's cyberpunk mountain city — trains through buildings, Hongya Cave's glowing facades, drone shows and numbing hotpot."
+    },
+    {
+      "q": "Did IShowSpeed stream from Chongqing?",
+      "a": "Yes — IShowSpeed streamed from Chongqing on his 2025 China tour, including the viral skyline drone show. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Mexico-City",
+  "name": "Mexico City",
+  "region": "North America",
+  "country": "Mexico",
+  "metro": "22,000,000",
+  "seo": {
+    "title": "Mexico City Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Mexico City travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Mexico City.",
+    "keywords": "Mexico City, Mexico City travel guide, things to do in Mexico City, Mexico City fun facts, where to stay in Mexico City, Famous Cities"
+  },
+  "image": "Mexico-City.png",
+  "video": "videos/mexico-city.mp4",
+  "youtube": null,
+  "tagline": "One of the world's largest cities layers Aztec ruins, grand colonial squares, floating gardens and what many call the planet's best street food. It is ranked #7 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Mexico%20City",
+    "twitter": "https://twitter.com/search?q=visit%20Mexico%20City",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mexico_City"
+  },
+  "overview": [
+    "Mexico City was founded as Tenochtitlan in 1325, the island capital of the Aztec Empire. After the Spanish conquest in 1521 the city was rebuilt on the ruins — the Metropolitan Cathedral stands beside the excavated Templo Mayor on the vast Zócalo square.",
+    "The city is packed with world-class museums. The National Museum of Anthropology tells Mexico's story, the blue Casa Azul was Frida Kahlo's home, and the Palacio de Bellas Artes holds murals by Rivera and Orozco. The leafy neighborhoods of Roma and Condesa are full of cafes, galleries and restaurants.",
+    "Food here is legendary, from tacos al pastor on street corners to high-end tasting menus. Ride a colorful trajinera boat through the canals of Xochimilco, day-trip to the pyramids of Teotihuacan, and catch lucha libre wrestling at Arena México."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Mexico City&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Mexico%20City",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mex/cheap-flights-to-mexico%20city.html"
+  },
+  "topThings": [
+    {
+      "icon": "🔺",
+      "title": "Teotihuacan Pyramids",
+      "desc": "Walk the Avenue of the Dead at Mexico's most famous ruins.",
+      "viator": "https://www.viator.com/searchResults/all?text=Teotihuacan%20tour%20from%20Mexico%20City",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Teotihuacan%20tour%20from%20Mexico%20City"
+    },
+    {
+      "icon": "🎨",
+      "title": "Frida Kahlo Museum",
+      "desc": "Visit the Blue House in Coyoacán — tickets sell out fast.",
+      "viator": "https://www.viator.com/searchResults/all?text=Frida%20Kahlo%20Museum%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Frida%20Kahlo%20Museum%20tickets"
+    },
+    {
+      "icon": "🛶",
+      "title": "Xochimilco Boat Ride",
+      "desc": "Float the canals on a colorful trajinera.",
+      "viator": "https://www.viator.com/searchResults/all?text=Xochimilco%20boat%20tour%20Mexico%20City",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Xochimilco%20boat%20tour%20Mexico%20City"
+    },
+    {
+      "icon": "🌮",
+      "title": "Street Food Tour",
+      "desc": "Tacos, tamales and markets with a local guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mexico%20City%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mexico%20City%20street%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "BUILT ON A LAKE",
+      "text": "The Aztec capital Tenochtitlan stood on an island in Lake Texcoco. The modern city is slowly sinking on the soft lakebed soil."
+    },
+    {
+      "title": "PYRAMIDS NEXT DOOR",
+      "text": "Teotihuacan, with its Pyramid of the Sun and Pyramid of the Moon, lies about an hour outside the city and predates the Aztecs."
+    },
+    {
+      "title": "MUSEUMS GALORE",
+      "text": "Mexico City has well over 150 museums, among the most of any city in the world."
+    },
+    {
+      "title": "NORTH AMERICA'S OLDEST UNIVERSITY",
+      "text": "The Royal and Pontifical University of Mexico was founded in 1551, more than 80 years before Harvard."
+    },
+    {
+      "title": "FLOATING GARDENS",
+      "text": "The canals and chinampas of Xochimilco are a UNESCO World Heritage Site, still used to grow flowers and vegetables."
+    },
+    {
+      "title": "ONE OF THE WORLD'S BIGGEST CITIES",
+      "text": "Greater Mexico City is home to more than 20 million people, making it one of the largest urban areas on Earth."
+    },
+    {
+      "title": "THE PALACE OF FINE ARTS",
+      "text": "The Palacio de Bellas Artes has a marble exterior and a famous stained-glass stage curtain."
+    },
+    {
+      "title": "A REAL ROYAL CASTLE",
+      "text": "Chapultepec Castle is the only castle in the Americas to have housed reigning monarchs."
+    },
+    {
+      "title": "A GIANT MAIN SQUARE",
+      "text": "The Zócalo is one of the largest city squares in the world."
+    },
+    {
+      "title": "HIGH ALTITUDE",
+      "text": "At about 2,240 metres above sea level, Mexico City sits higher than most capitals — some visitors feel the altitude."
+    }
+  ],
+  "randomFacts": [
+    "The Aztec capital Tenochtitlan stood on an island in Lake Texcoco. The modern city is slowly sinking on the soft lakebed soil.",
+    "Teotihuacan, with its Pyramid of the Sun and Pyramid of the Moon, lies about an hour outside the city and predates the Aztecs.",
+    "Mexico City has well over 150 museums, among the most of any city in the world.",
+    "The Royal and Pontifical University of Mexico was founded in 1551, more than 80 years before Harvard.",
+    "The canals and chinampas of Xochimilco are a UNESCO World Heritage Site, still used to grow flowers and vegetables.",
+    "Greater Mexico City is home to more than 20 million people, making it one of the largest urban areas on Earth.",
+    "The Palacio de Bellas Artes has a marble exterior and a famous stained-glass stage curtain.",
+    "Chapultepec Castle is the only castle in the Americas to have housed reigning monarchs.",
+    "The Zócalo is one of the largest city squares in the world.",
+    "At about 2,240 metres above sea level, Mexico City sits higher than most capitals — some visitors feel the altitude.",
+    "The city's official name is Ciudad de México, often shortened to CDMX.",
+    "The Angel of Independence is the city's most famous monument.",
+    "Chapultepec Park is one of the largest city parks in the Americas.",
+    "Tacos al pastor arrived with Lebanese immigrants.",
+    "The city hosts one of the world's biggest Day of the Dead celebrations."
+  ],
+  "faq": [
+    {
+      "q": "Where is Mexico City located?",
+      "a": "Mexico City is in Mexico, in North America."
+    },
+    {
+      "q": "What is the population of Mexico City?",
+      "a": "The greater Mexico City area is home to about 22,000,000 people."
+    },
+    {
+      "q": "What is Mexico City famous for?",
+      "a": "One of the world's largest cities layers Aztec ruins, grand colonial squares, floating gardens and what many call the planet's best street food."
+    },
+    {
+      "q": "Is Mexico City worth visiting?",
+      "a": "Yes — Mexico City was ranked #7 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": 7
+}

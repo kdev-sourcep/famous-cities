@@ -1,0 +1,148 @@
+{
+  "slug": "Buenos-Aires",
+  "name": "Buenos Aires",
+  "region": "South America",
+  "country": "Argentina",
+  "metro": "15,500,000",
+  "seo": {
+    "title": "Buenos Aires Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Buenos Aires travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Buenos Aires.",
+    "keywords": "Buenos Aires, Buenos Aires travel guide, things to do in Buenos Aires, Buenos Aires fun facts, where to stay in Buenos Aires, Famous Cities"
+  },
+  "image": "Buenos-Aires.png",
+  "video": "videos/buenos-aires.mp4",
+  "youtube": null,
+  "tagline": "Argentina's capital moves to the rhythm of tango — grand Parisian-style avenues, steakhouse parrillas, colourful La Boca and late-night café culture in South America's most European city. It is ranked #43 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Buenos%20Aires",
+    "twitter": "https://twitter.com/search?q=visit%20Buenos%20Aires",
+    "wikipedia": "https://en.wikipedia.org/wiki/Buenos_Aires"
+  },
+  "overview": [
+    "Buenos Aires was founded twice by the Spanish, first in 1536 and again in 1580, before booming on beef and grain exports in the late 1800s. Waves of Italian and Spanish immigrants shaped the Porteño identity you hear today in the city's lilting Spanish and taste in its pizzerias.",
+    "The city is a patchwork of barrios. La Boca's Caminito street blazes with painted tin houses and tango dancers, San Telmo fills with antique stalls on Sundays, and Recoleta's cemetery, where Eva Perón rests, is a marble city in itself. Palermo's parks and Soho streets hold the cafés, steakhouses and bars that run until dawn.",
+    "Tango was born in the working-class ports of Buenos Aires and Montevideo, and you can still catch a milonga where locals dance until 4am. For a day out, the Tigre delta's island waterways sit an hour north by train, and a ferry crosses the Río de la Plata to Colonia del Sacramento in Uruguay."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Buenos Aires&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Buenos%20Aires",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bue/cheap-flights-to-buenos%20aires.html"
+  },
+  "topThings": [
+    {
+      "icon": "💃",
+      "title": "Tango Show & Dinner",
+      "desc": "Watch world-class dancers at a classic tango house.",
+      "viator": "https://www.viator.com/searchResults/all?text=Buenos%20Aires%20tango%20show%20dinner",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20tango%20show%20dinner"
+    },
+    {
+      "icon": "🥩",
+      "title": "Asado BBQ Experience",
+      "desc": "Learn the art of Argentine grilling with wine.",
+      "viator": "https://www.viator.com/searchResults/all?text=Buenos%20Aires%20asado%20experience",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20asado%20experience"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Recoleta & La Boca Tour",
+      "desc": "Cemetery, colourful Caminito and San Telmo in one trip.",
+      "viator": "https://www.viator.com/searchResults/all?text=Buenos%20Aires%20city%20tour%20La%20Boca%20Recoleta",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Buenos%20Aires%20city%20tour%20La%20Boca%20Recoleta"
+    },
+    {
+      "icon": "⛵",
+      "title": "Tigre Delta Day Trip",
+      "desc": "Boat through island waterways an hour from the city.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tigre%20Delta%20day%20trip%20from%20Buenos%20Aires",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tigre%20Delta%20day%20trip%20from%20Buenos%20Aires"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE PARIS OF SOUTH AMERICA",
+      "text": "Buenos Aires earned its nickname from its grand boulevards, Beaux-Arts buildings and café culture."
+    },
+    {
+      "title": "BIRTHPLACE OF TANGO",
+      "text": "Tango emerged in the port districts of Buenos Aires in the late 1800s and is now UNESCO-listed heritage."
+    },
+    {
+      "title": "A CEMETERY THAT'S A CITY",
+      "text": "Recoleta Cemetery holds over 4,800 vaults, including Eva Perón's, laid out like a miniature city."
+    },
+    {
+      "title": "THE WIDEST AVENUE",
+      "text": "Avenida 9 de Julio is often called the widest avenue in the world, with up to 14 lanes of traffic."
+    },
+    {
+      "title": "MORE BOOKSHOPS PER CAPITA",
+      "text": "Buenos Aires has more bookshops per person than any other city, including the El Ateneo Grand Splendid theatre-turned-bookstore."
+    },
+    {
+      "title": "IT'S MOSTLY ITALIAN",
+      "text": "Around two-thirds of Porteños have Italian ancestry, shaping the local accent, food and hand gestures."
+    },
+    {
+      "title": "A PINK PRESIDENTIAL PALACE",
+      "text": "The Casa Rosada's pink walls are said to have been mixed with cow's blood in the 1800s."
+    },
+    {
+      "title": "THE OBELISK",
+      "text": "The 67-metre Obelisco, built in 1936, is the city's symbol and the centre of every celebration."
+    },
+    {
+      "title": "FOOTBALL FEVER",
+      "text": "The Boca Juniors–River Plate Superclásico is regularly called the fiercest derby in world football."
+    },
+    {
+      "title": "DINNER AT MIDNIGHT",
+      "text": "Porteños famously eat late — restaurants fill around 10pm and milongas get going well after midnight."
+    }
+  ],
+  "randomFacts": [
+    "Buenos Aires earned its nickname from its grand boulevards, Beaux-Arts buildings and café culture.",
+    "Tango emerged in the port districts of Buenos Aires in the late 1800s and is now UNESCO-listed heritage.",
+    "Recoleta Cemetery holds over 4,800 vaults, including Eva Perón's, laid out like a miniature city.",
+    "Avenida 9 de Julio is often called the widest avenue in the world, with up to 14 lanes of traffic.",
+    "Buenos Aires has more bookshops per person than any other city, including the El Ateneo Grand Splendid theatre-turned-bookstore.",
+    "Around two-thirds of Porteños have Italian ancestry, shaping the local accent, food and hand gestures.",
+    "The Casa Rosada's pink walls are said to have been mixed with cow's blood in the 1800s.",
+    "The 67-metre Obelisco, built in 1936, is the city's symbol and the centre of every celebration.",
+    "The Boca Juniors–River Plate Superclásico is regularly called the fiercest derby in world football.",
+    "Porteños famously eat late — restaurants fill around 10pm and milongas get going well after midnight.",
+    "Buenos Aires means 'fair winds' or 'good airs' in Spanish.",
+    "The city has its own dialect, Lunfardo, born in the port bars.",
+    "Polo and pato, a sport played on horseback, are national obsessions.",
+    "The Teatro Colón is considered one of the best opera houses in the world for acoustics.",
+    "Argentines eat more beef per person than almost any nation."
+  ],
+  "faq": [
+    {
+      "q": "Where is Buenos Aires located?",
+      "a": "Buenos Aires is in Argentina, in South America."
+    },
+    {
+      "q": "What is the population of Buenos Aires?",
+      "a": "The greater Buenos Aires area is home to about 15,500,000 people."
+    },
+    {
+      "q": "What is Buenos Aires famous for?",
+      "a": "Argentina's capital moves to the rhythm of tango — grand Parisian-style avenues, steakhouse parrillas, colourful La Boca and late-night café culture in South America's most European city."
+    },
+    {
+      "q": "Is Buenos Aires worth visiting?",
+      "a": "Yes — Buenos Aires was ranked #43 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Buenos Aires?",
+      "a": "Yes — IShowSpeed streamed from Buenos Aires on his 2025 South America tour, drawing huge crowds of fans. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 43
+}

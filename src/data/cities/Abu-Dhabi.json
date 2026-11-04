@@ -1,0 +1,140 @@
+{
+  "slug": "Abu-Dhabi",
+  "name": "Abu Dhabi",
+  "region": "Middle East",
+  "country": "United Arab Emirates",
+  "metro": "1,500,000",
+  "seo": {
+    "title": "Abu Dhabi Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Abu Dhabi travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Abu Dhabi.",
+    "keywords": "Abu Dhabi, Abu Dhabi travel guide, things to do in Abu Dhabi, Abu Dhabi fun facts, where to stay in Abu Dhabi, Famous Cities"
+  },
+  "image": "Abu-Dhabi.png",
+  "video": "videos/abu-dhabi.mp4",
+  "youtube": null,
+  "tagline": "The UAE's capital trades Dubai's flash for grand landmarks: the white-marble Sheikh Zayed Grand Mosque, the Louvre Abu Dhabi's floating dome and the presidential palace of Qasr Al Watan.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Abu%20Dhabi",
+    "twitter": "https://twitter.com/search?q=visit%20Abu%20Dhabi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abu_Dhabi"
+  },
+  "overview": [
+    "Abu Dhabi was a modest pearling and fishing settlement until oil wealth transformed it after the 1960s. As capital of the seven-emirate federation, it grew into a city of wide boulevards, Corniche beaches and island districts planned on a monumental scale.",
+    "Its landmarks are among the Gulf's most striking. The Sheikh Zayed Grand Mosque, built from gleaming white marble with 82 domes and over a thousand columns, is one of the world's largest mosques. On Saadiyat Island, the Louvre Abu Dhabi's silvery dome filters light into 'rain' over galleries bridging East and West, and the gold-domed Emirates Palace and the presidential palace Qasr Al Watan show off the city's ceremonial side.",
+    "For thrills, Yas Island packs in Ferrari World, home of the world's fastest roller coaster, Warner Bros. World and the Yas Marina Formula 1 circuit. Quieter escapes include kayaking the city's mangroves and desert safaris into the golden dunes towards the Empty Quarter."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Abu Dhabi&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Abu%20Dhabi",
+    "flights": "https://www.skyscanner.net/transport/flights/to/auh/cheap-flights-to-abu%20dhabi.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Grand Mosque & City Tour",
+      "desc": "The Sheikh Zayed Grand Mosque plus the city's landmarks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Abu%20Dhabi%20city%20tour%20Sheikh%20Zayed%20Mosque",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Abu%20Dhabi%20city%20tour%20Sheikh%20Zayed%20Mosque"
+    },
+    {
+      "icon": "🎨",
+      "title": "Louvre Abu Dhabi",
+      "desc": "Skip-the-line entry to the dome museum on Saadiyat.",
+      "viator": "https://www.viator.com/searchResults/all?text=Louvre%20Abu%20Dhabi%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Louvre%20Abu%20Dhabi%20tickets"
+    },
+    {
+      "icon": "🏎️",
+      "title": "Ferrari World",
+      "desc": "Ride Formula Rossa on Yas Island.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ferrari%20World%20Abu%20Dhabi%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ferrari%20World%20Abu%20Dhabi%20tickets"
+    },
+    {
+      "icon": "🐪",
+      "title": "Desert Safari & BBQ",
+      "desc": "Dune bashing, camels and a sunset dinner in the sands.",
+      "viator": "https://www.viator.com/searchResults/all?text=Abu%20Dhabi%20desert%20safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Abu%20Dhabi%20desert%20safari"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE CAPITAL, NOT DUBAI",
+      "text": "Abu Dhabi, not Dubai, is the capital of the United Arab Emirates and the largest of its seven emirates."
+    },
+    {
+      "title": "A GRAND MOSQUE",
+      "text": "The Sheikh Zayed Grand Mosque can hold over 40,000 worshippers and contains one of the world's largest hand-knotted carpets."
+    },
+    {
+      "title": "THE LOUVRE OF THE DESERT",
+      "text": "The Louvre Abu Dhabi, opened in 2017, was the first universal museum in the Arab world, topped by a 180-metre dome."
+    },
+    {
+      "title": "THE WORLD'S FASTEST COASTER",
+      "text": "Ferrari World's Formula Rossa launches riders to 240 km/h, making it the fastest roller coaster on Earth."
+    },
+    {
+      "title": "A PALACE YOU CAN VISIT",
+      "text": "Qasr Al Watan, the working presidential palace, opened its great halls and library to visitors in 2019."
+    },
+    {
+      "title": "FALCONS GET THEIR OWN HOSPITAL",
+      "text": "The Abu Dhabi Falcon Hospital is the largest of its kind, treating the UAE's national bird."
+    },
+    {
+      "title": "A MAN-MADE MANGROVE",
+      "text": "The city's Eastern Mangrove park is a protected habitat for flamingos, herons and turtles minutes from downtown."
+    },
+    {
+      "title": "SEVEN STARS?",
+      "text": "The Emirates Palace hotel reportedly cost around $3 billion to build and has its own gold-dispensing ATM."
+    },
+    {
+      "title": "OIL MADE IT",
+      "text": "Before oil was found in 1958, Abu Dhabi survived on pearl diving, fishing and camel herding."
+    },
+    {
+      "title": "AN F1 FINALE",
+      "text": "The Abu Dhabi Grand Prix at Yas Marina has hosted season-deciding Formula 1 title battles under floodlights."
+    }
+  ],
+  "randomFacts": [
+    "Abu Dhabi, not Dubai, is the capital of the United Arab Emirates and the largest of its seven emirates.",
+    "The Sheikh Zayed Grand Mosque can hold over 40,000 worshippers and contains one of the world's largest hand-knotted carpets.",
+    "The Louvre Abu Dhabi, opened in 2017, was the first universal museum in the Arab world, topped by a 180-metre dome.",
+    "Ferrari World's Formula Rossa launches riders to 240 km/h, making it the fastest roller coaster on Earth.",
+    "Qasr Al Watan, the working presidential palace, opened its great halls and library to visitors in 2019.",
+    "The Abu Dhabi Falcon Hospital is the largest of its kind, treating the UAE's national bird.",
+    "The city's Eastern Mangrove park is a protected habitat for flamingos, herons and turtles minutes from downtown.",
+    "The Emirates Palace hotel reportedly cost around $3 billion to build and has its own gold-dispensing ATM.",
+    "Before oil was found in 1958, Abu Dhabi survived on pearl diving, fishing and camel herding.",
+    "The Abu Dhabi Grand Prix at Yas Marina has hosted season-deciding Formula 1 title battles under floodlights.",
+    "The Corniche beachfront promenade stretches about 8 kilometres.",
+    "Sir Bani Yas island has a wildlife reserve with giraffes, cheetahs and oryx.",
+    "Abu Dhabi means 'father of the gazelle' in Arabic.",
+    "The Etihad Towers featured in the film Furious 7.",
+    "The city sits on an island connected to the mainland by bridges."
+  ],
+  "faq": [
+    {
+      "q": "Where is Abu Dhabi located?",
+      "a": "Abu Dhabi is in the United Arab Emirates, in the Middle East."
+    },
+    {
+      "q": "What is the population of Abu Dhabi?",
+      "a": "The greater Abu Dhabi area is home to about 1,500,000 people."
+    },
+    {
+      "q": "What is Abu Dhabi famous for?",
+      "a": "The UAE's capital trades Dubai's flash for grand landmarks: the white-marble Sheikh Zayed Grand Mosque, the Louvre Abu Dhabi's floating dome and the presidential palace of Qasr Al Watan."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

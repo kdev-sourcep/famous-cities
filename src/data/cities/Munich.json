@@ -1,0 +1,144 @@
+{
+  "slug": "Munich",
+  "name": "Munich",
+  "region": "Europe",
+  "country": "Germany",
+  "metro": "6,000,000",
+  "seo": {
+    "title": "Munich Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Munich travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Munich.",
+    "keywords": "Munich, Munich travel guide, things to do in Munich, Munich fun facts, where to stay in Munich, Famous Cities"
+  },
+  "image": "Munich.png",
+  "video": "videos/munich.mp4",
+  "youtube": null,
+  "tagline": "Bavaria's capital pairs beer-hall tradition with big tech and art museums — where Oktoberfest meets a surf wave on the Eisbach.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Munich",
+    "twitter": "https://twitter.com/search?q=visit%20Munich",
+    "wikipedia": "https://en.wikipedia.org/wiki/Munich"
+  },
+  "overview": [
+    "Munich runs on two speeds: lederhosen-and-lager tradition and a modern powerhouse of BMWs, tech jobs and world-class museums. The Marienplatz's glockenspiel still chimes over a Gothic New Town Hall while the Viktualienmarkt feeds the city a few steps away.",
+    "The English Garden is the city's green heart — bigger than Central Park, home to a Chinese Tower beer garden and the Eisbach wave, where surfers ride a standing river wave in wetsuits all year. Museum Island Munich isn't a thing — but the Kunstareal quarter packs the Old, New and Modern Pinakothek into a walkable grid.",
+    "Speed's 2024 Europe tour streamed from Munich to huge German crowds. Every autumn the city hosts Oktoberfest — 6 million visitors, 7 million litres of beer and 250 years of tradition in one tent city."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Munich&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Munich",
+    "flights": "https://www.skyscanner.net/transport/flights/to/muc/cheap-flights-to-munich.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍔",
+      "title": "Oktoberfest / Beer Hall Tour",
+      "desc": "Tents, beer and Bavarian food culture.",
+      "viator": "https://www.viator.com/searchResults/all?text=Munich%20beer%20tour%20Oktoberfest",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Munich%20beer%20tour%20Oktoberfest"
+    },
+    {
+      "icon": "🏰",
+      "title": "Neuschwanstein Day Trip",
+      "desc": "The fairy-tale castle in the Alps.",
+      "viator": "https://www.viator.com/searchResults/all?text=Neuschwanstein%20castle%20tour%20from%20Munich",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Neuschwanstein%20castle%20tour%20from%20Munich"
+    },
+    {
+      "icon": "🚶",
+      "title": "Old Town Walk",
+      "desc": "Marienplatz, glockenspiel and beer halls.",
+      "viator": "https://www.viator.com/searchResults/all?text=Munich%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Munich%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Bavarian Alps",
+      "desc": "Zugspitze or lakes a short ride south.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bavarian%20Alps%20day%20trip%20from%20Munich",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bavarian%20Alps%20day%20trip%20from%20Munich"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE WORLD'S BIGGEST FEST",
+      "text": "Oktoberfest draws about 6 million visitors who drink some 7 million litres of beer."
+    },
+    {
+      "title": "RIVER SURFING",
+      "text": "Surfers ride the Eisbach's standing wave at the English Garden's edge — illegal until 2010, now iconic."
+    },
+    {
+      "title": "A PARK BIGGER THAN CENTRAL PARK",
+      "text": "The English Garden covers 375 hectares — one of the world's largest urban parks."
+    },
+    {
+      "title": "GLOCKENSPIEL CLOCK",
+      "text": "The New Town Hall's glockenspiel re-enacts a 1568 royal wedding twice daily."
+    },
+    {
+      "title": "BMW CITY",
+      "text": "The BMW Welt and museum sit by the Olympic Park — the company's HQ towers over them."
+    },
+    {
+      "title": "OKTOBERFEST IS IN SEPTEMBER",
+      "text": "Most of the festival happens in late September — only its finale spills into October."
+    },
+    {
+      "title": "THE WHITE SAUSAGE RULE",
+      "text": "Locals say Weisswurst must never hear noon church bells — eat it before midday."
+    },
+    {
+      "title": "A CITY OF BEER GARDENS",
+      "text": "Munich counts over 100 beer gardens; the Hirschgarten seats 8,000."
+    },
+    {
+      "title": "OLYMPIC LEGACY",
+      "text": "The 1972 Olympic Park's tent-roof stadium still hosts concerts and a roof climb."
+    },
+    {
+      "title": "FOOTBALL ROYALTY",
+      "text": "Bayern Munich, Germany's most successful club, plays at the glowing Allianz Arena."
+    }
+  ],
+  "randomFacts": [
+    "Oktoberfest draws about 6 million visitors who drink some 7 million litres of beer.",
+    "Surfers ride the Eisbach's standing wave at the English Garden's edge — illegal until 2010, now iconic.",
+    "The English Garden covers 375 hectares — one of the world's largest urban parks.",
+    "The New Town Hall's glockenspiel re-enacts a 1568 royal wedding twice daily.",
+    "The BMW Welt and museum sit by the Olympic Park — the company's HQ towers over them.",
+    "Most of the festival happens in late September — only its finale spills into October.",
+    "Locals say Weisswurst must never hear noon church bells — eat it before midday.",
+    "Munich counts over 100 beer gardens; the Hirschgarten seats 8,000.",
+    "The 1972 Olympic Park's tent-roof stadium still hosts concerts and a roof climb.",
+    "Bayern Munich, Germany's most successful club, plays at the glowing Allianz Arena.",
+    "Beer gardens let you bring your own food — just buy the beer.",
+    "The Deutsches Museum is the world's largest science museum.",
+    "Surf the Eisbach at your own risk — it is genuinely fast.",
+    "Munich's official city color debate: yellow or blue? Both.",
+    "Hofbräuhaus has brewed and served since 1589."
+  ],
+  "faq": [
+    {
+      "q": "Where is Munich located?",
+      "a": "Munich is in Germany, in Europe."
+    },
+    {
+      "q": "What is the population of Munich?",
+      "a": "The greater Munich area is home to about 6,000,000 people."
+    },
+    {
+      "q": "What is Munich famous for?",
+      "a": "Munich is famous for Oktoberfest, beer gardens, BMW and Bayern Munich, and the English Garden where surfers ride a river wave."
+    },
+    {
+      "q": "Did IShowSpeed stream from Munich?",
+      "a": "Yes — IShowSpeed streamed from Munich on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

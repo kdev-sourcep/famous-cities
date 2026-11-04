@@ -1,0 +1,140 @@
+{
+  "slug": "Las-Vegas",
+  "name": "Las Vegas",
+  "region": "North America",
+  "country": "USA",
+  "metro": "2,300,000",
+  "seo": {
+    "title": "Las Vegas Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Las Vegas travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Las Vegas.",
+    "keywords": "Las Vegas, Las Vegas travel guide, things to do in Las Vegas, Las Vegas fun facts, where to stay in Las Vegas, Famous Cities"
+  },
+  "image": "Las-Vegas.png",
+  "video": "videos/las-vegas.mp4",
+  "youtube": null,
+  "tagline": "The Entertainment Capital of the World pairs neon-lit casinos, world-class shows and celebrity restaurants with easy trips to desert canyons and the Hoover Dam.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Las%20Vegas",
+    "twitter": "https://twitter.com/search?q=visit%20Las%20Vegas",
+    "wikipedia": "https://en.wikipedia.org/wiki/Las_Vegas"
+  },
+  "overview": [
+    "Las Vegas was founded in 1905 as a railroad town in the Nevada desert. It boomed after Nevada legalised gambling in 1931 and thousands of workers arrived to build the nearby Hoover Dam. Today the famous Strip is lined with themed mega-resorts—from a pyramid and a medieval castle to replicas of Paris and Venice.",
+    "Vegas is about far more than casinos. The city is packed with Cirque du Soleil productions, headline concerts and magic shows, while the Sphere's giant LED exterior lights up the skyline. Watch the free Bellagio fountain show, then head downtown to Fremont Street, where the original casinos sit beneath a huge video canopy.",
+    "Some of the best experiences are just outside the city. Red Rock Canyon is about 30 minutes away, the Hoover Dam and Lake Mead are under an hour's drive, and day trips run to the Grand Canyon. With around 300 sunny days a year, it is easy to combine city nights with desert adventures."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Las Vegas&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Las%20Vegas",
+    "flights": "https://www.skyscanner.net/transport/flights/to/las/cheap-flights-to-las%20vegas.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏜️",
+      "title": "Grand Canyon Day Trip",
+      "desc": "See one of the world's great natural wonders.",
+      "viator": "https://www.viator.com/searchResults/all?text=Grand%20Canyon%20day%20trip%20from%20Las%20Vegas",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Grand%20Canyon%20day%20trip%20from%20Las%20Vegas"
+    },
+    {
+      "icon": "💧",
+      "title": "Hoover Dam Tour",
+      "desc": "Explore the engineering marvel on the Arizona–Nevada border.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hoover%20Dam%20tour%20from%20Las%20Vegas",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hoover%20Dam%20tour%20from%20Las%20Vegas"
+    },
+    {
+      "icon": "🎪",
+      "title": "Cirque du Soleil Show",
+      "desc": "World-famous acrobatics in a Strip theater.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cirque%20du%20Soleil%20Las%20Vegas%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cirque%20du%20Soleil%20Las%20Vegas%20tickets"
+    },
+    {
+      "icon": "🎡",
+      "title": "High Roller Wheel",
+      "desc": "Views over the Strip from a giant observation wheel.",
+      "viator": "https://www.viator.com/searchResults/all?text=High%20Roller%20Las%20Vegas%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=High%20Roller%20Las%20Vegas%20tickets"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "MOST OF THE STRIP ISN'T IN LAS VEGAS",
+      "text": "Most of the famous Las Vegas Strip actually lies outside the city limits, in the unincorporated towns of Paradise and Winchester."
+    },
+    {
+      "title": "FOUNDED IN 1905",
+      "text": "The city began with a land auction on 15 May 1905, when the railroad arrived in the desert valley."
+    },
+    {
+      "title": "HOME OF THE WORLD'S LARGEST SPHERE",
+      "text": "The Sphere, which opened in 2023, is the largest spherical building in the world, and its exterior is covered in programmable LED panels."
+    },
+    {
+      "title": "A BEAM YOU CAN SEE FROM SPACE",
+      "text": "The Luxor Sky Beam, shining from the top of the Luxor's pyramid, is said to be one of the most powerful beams of light in the world."
+    },
+    {
+      "title": "THE BELLAGIO FOUNTAINS ARE FREE",
+      "text": "More than 1,200 water nozzles shoot water into the air in time to music, and the shows are free to watch."
+    },
+    {
+      "title": "THE HOOVER DAM IS NEARBY",
+      "text": "Built between 1931 and 1936, the Hoover Dam created Lake Mead, the largest reservoir in the United States by capacity."
+    },
+    {
+      "title": "THE WEDDING CAPITAL OF THE WORLD",
+      "text": "Tens of thousands of couples get married in Las Vegas every year, from quick chapel ceremonies to drive-through weddings."
+    },
+    {
+      "title": "A MUSEUM FOR OLD NEON SIGNS",
+      "text": "The Neon Museum's \"Neon Boneyard\" preserves giant signs from classic casinos that have since closed."
+    },
+    {
+      "title": "A RECORD-BREAKING WHEEL",
+      "text": "The High Roller observation wheel was the tallest in the world when it opened in 2014."
+    },
+    {
+      "title": "THE FAMOUS WELCOME SIGN",
+      "text": "The \"Welcome to Fabulous Las Vegas\" sign was designed by Betty Willis in 1959—and she never copyrighted it."
+    }
+  ],
+  "randomFacts": [
+    "Most of the famous Las Vegas Strip actually lies outside the city limits, in the unincorporated towns of Paradise and Winchester.",
+    "The city began with a land auction on 15 May 1905, when the railroad arrived in the desert valley.",
+    "The Sphere, which opened in 2023, is the largest spherical building in the world, and its exterior is covered in programmable LED panels.",
+    "The Luxor Sky Beam, shining from the top of the Luxor's pyramid, is said to be one of the most powerful beams of light in the world.",
+    "More than 1,200 water nozzles shoot water into the air in time to music, and the shows are free to watch.",
+    "Built between 1931 and 1936, the Hoover Dam created Lake Mead, the largest reservoir in the United States by capacity.",
+    "Tens of thousands of couples get married in Las Vegas every year, from quick chapel ceremonies to drive-through weddings.",
+    "The Neon Museum's \"Neon Boneyard\" preserves giant signs from classic casinos that have since closed.",
+    "The High Roller observation wheel was the tallest in the world when it opened in 2014.",
+    "The \"Welcome to Fabulous Las Vegas\" sign was designed by Betty Willis in 1959—and she never copyrighted it.",
+    "\"Las Vegas\" means \"the meadows\" in Spanish.",
+    "Las Vegas has around 150,000 hotel rooms.",
+    "Elvis Presley performed more than 600 shows in Las Vegas.",
+    "The city gets around 300 sunny days a year.",
+    "The Fremont Street Experience canopy is one of the largest video screens in the world."
+  ],
+  "faq": [
+    {
+      "q": "Where is Las Vegas located?",
+      "a": "Las Vegas is in the United States, in North America."
+    },
+    {
+      "q": "What is the population of Las Vegas?",
+      "a": "The greater Las Vegas area is home to about 2,300,000 people."
+    },
+    {
+      "q": "What is Las Vegas famous for?",
+      "a": "The Entertainment Capital of the World pairs neon-lit casinos, world-class shows and celebrity restaurants with easy trips to desert canyons and the Hoover Dam."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

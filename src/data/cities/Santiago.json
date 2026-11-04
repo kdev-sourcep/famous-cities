@@ -1,0 +1,144 @@
+{
+  "slug": "Santiago",
+  "name": "Santiago",
+  "region": "South America",
+  "country": "Chile",
+  "metro": "7,000,000",
+  "seo": {
+    "title": "Santiago Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Santiago travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Santiago.",
+    "keywords": "Santiago, Santiago travel guide, things to do in Santiago, Santiago fun facts, where to stay in Santiago, Famous Cities"
+  },
+  "image": "Santiago.png",
+  "video": "videos/santiago.mp4",
+  "youtube": null,
+  "tagline": "The Andes rise 3,000 metres straight out of the suburbs — a modern capital ringed by vineyards and ski slopes.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Santiago",
+    "twitter": "https://twitter.com/search?q=visit%20Santiago",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santiago"
+  },
+  "overview": [
+    "Santiago sits in a bowl of mountains — the snow-capped Andes wall the east so steeply that ski resorts operate 40 minutes from downtown. The city is Chile's powerhouse: a third of the country lives here.",
+    "The centre balances grit and grace: the colonial Plaza de Armas and cathedral, La Moneda palace (bombed in the 1973 coup, now peaceful), and the bohemian Lastarria quarter of cafés and street art. Cerro San Cristóbal's hilltop Virgin overlooks it all — ride the funicular or cable car for the panorama.",
+    "Speed's 2025 South America tour streamed from Santiago to huge Chilean crowds. The city's other superpower is location — the Maipo and Colchagua wine valleys, Valparaíso's port and the Andes are all day trips."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Santiago&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Santiago",
+    "flights": "https://www.skyscanner.net/transport/flights/to/scl/cheap-flights-to-santiago.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏔️",
+      "title": "Andes Day Trip",
+      "desc": "Valle Nevado views or Farellones snow.",
+      "viator": "https://www.viator.com/searchResults/all?text=Andes%20day%20trip%20from%20Santiago",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Andes%20day%20trip%20from%20Santiago"
+    },
+    {
+      "icon": "🍷",
+      "title": "Wine Valley Tour",
+      "desc": "Maipo or Colchagua tastings.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maipo%20valley%20wine%20tour%20Santiago",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maipo%20valley%20wine%20tour%20Santiago"
+    },
+    {
+      "icon": "🚡",
+      "title": "San Cristóbal & City",
+      "desc": "Hill views, Lastarria and La Moneda.",
+      "viator": "https://www.viator.com/searchResults/all?text=Santiago%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Santiago%20city%20tour"
+    },
+    {
+      "icon": "🌊",
+      "title": "Valparaíso & Viña",
+      "desc": "The painted port city on the coast.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valparaiso%20day%20trip%20from%20Santiago",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valparaiso%20day%20trip%20from%20Santiago"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ANDES ON THE SKYLINE",
+      "text": "3,000m peaks rise over the eastern suburbs — a backdrop no other big city matches."
+    },
+    {
+      "title": "A THIRD OF CHILE",
+      "text": "Roughly 7 million of Chile's 19 million live in Greater Santiago."
+    },
+    {
+      "title": "SKI IN THE MORNING",
+      "text": "Valle Nevado and Portillo resorts are under two hours from downtown."
+    },
+    {
+      "title": "SAN CRISTÓBAL",
+      "text": "The 22m Virgin statue crowns a hill twice Eiffel's height — funicular up."
+    },
+    {
+      "title": "LA MONEDA",
+      "text": "The presidential palace survived the 1973 coup's bombing — its changing of the guard remains."
+    },
+    {
+      "title": "WINE COUNTRY",
+      "text": "Maipo, Colchagua and Casablanca valleys put world-class reds within an hour."
+    },
+    {
+      "title": "THE POET'S CITY",
+      "text": "Neruda's Santiago house, La Chascona, is a ship-shaped museum in Bellavista."
+    },
+    {
+      "title": "TALLEST IN SOUTH AMERICA",
+      "text": "The Gran Torre Santiago — 300m — is the continent's tallest building."
+    },
+    {
+      "title": "THE SMOG TRAP",
+      "text": "The mountain bowl traps winter smog — crisp blue-sky days follow wind or rain."
+    },
+    {
+      "title": "EMPANADA CAPITAL",
+      "text": "Pino-filled baked empanadas are the city's hand-meal."
+    }
+  ],
+  "randomFacts": [
+    "3,000m peaks rise over the eastern suburbs — a backdrop no other big city matches.",
+    "Roughly 7 million of Chile's 19 million live in Greater Santiago.",
+    "Valle Nevado and Portillo resorts are under two hours from downtown.",
+    "The 22m Virgin statue crowns a hill twice Eiffel's height — funicular up.",
+    "The presidential palace survived the 1973 coup's bombing — its changing of the guard remains.",
+    "Maipo, Colchagua and Casablanca valleys put world-class reds within an hour.",
+    "Neruda's Santiago house, La Chascona, is a ship-shaped museum in Bellavista.",
+    "The Gran Torre Santiago — 300m — is the continent's tallest building.",
+    "The mountain bowl traps winter smog — crisp blue-sky days follow wind or rain.",
+    "Pino-filled baked empanadas are the city's hand-meal.",
+    "The Costanera tower's Sky deck is the continent's highest viewpoint.",
+    "Lastarria's ice-cream shops fight over flavours nightly.",
+    "Chilean wine punches far above its price point.",
+    "The cable car to San Cristóbal crosses the whole park.",
+    "Completo hot dogs — avocado, mayo, tomato — are a national pillar."
+  ],
+  "faq": [
+    {
+      "q": "Where is Santiago located?",
+      "a": "Santiago is in Chile, in South America."
+    },
+    {
+      "q": "What is the population of Santiago?",
+      "a": "The greater Santiago area is home to about 7,000,000 people."
+    },
+    {
+      "q": "What is Santiago famous for?",
+      "a": "Santiago is famous for the Andes rising over a modern capital — Cerro San Cristóbal's views, the Lastarria district and wine valleys at the gates."
+    },
+    {
+      "q": "Did IShowSpeed stream from Santiago?",
+      "a": "Yes — IShowSpeed streamed from Santiago on his 2025 South America tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

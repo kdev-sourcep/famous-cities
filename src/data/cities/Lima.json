@@ -1,0 +1,148 @@
+{
+  "slug": "Lima",
+  "name": "Lima",
+  "region": "South America",
+  "country": "Peru",
+  "metro": "11,000,000",
+  "seo": {
+    "title": "Lima Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Lima travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Lima.",
+    "keywords": "Lima, Lima travel guide, things to do in Lima, Lima fun facts, where to stay in Lima, Famous Cities"
+  },
+  "image": "Lima.png",
+  "video": "videos/lima.mp4",
+  "youtube": null,
+  "tagline": "South America's food capital layers pre-Inca pyramids, colonial balconies and cliff-top neighbourhoods over a Pacific coastline where surfers ride below the high-rises. It is ranked #36 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Lima",
+    "twitter": "https://twitter.com/search?q=visit%20Lima",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lima"
+  },
+  "overview": [
+    "Founded in 1535 as the seat of Spanish power in South America, Lima was the richest city in the Americas for two centuries. The colonial centre, with its wooden balconies and the vast Plaza Mayor, is a UNESCO World Heritage Site.",
+    "Modern Lima runs on food. It is the only city with two restaurants in the world's top 10, and ceviche — raw fish cured in lime and chilli — is a national obsession. Miraflores' cliff-top promenade looks down on surfers, paragliders and the 1,500-year-old adobe pyramid of Huaca Pucllana right in the neighbourhood.",
+    "Boho Barranco fills with street art, craft-beer bars and the Bridge of Sighs, while Callao's port districts have become a gallery scene in their own right. Day trips reach the ancient ruins of Caral — the oldest city in the Americas — or the desert oases and penguin islands of the coast."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Lima&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Lima",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lim/cheap-flights-to-lima.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍶",
+      "title": "Peruvian Food Tour",
+      "desc": "Ceviche, pisco and market tastings with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lima%20food%20tour%20ceviche",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lima%20food%20tour%20ceviche"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Historic Centre Walking Tour",
+      "desc": "Plaza Mayor, catacombs and colonial balconies.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lima%20historic%20centre%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lima%20historic%20centre%20walking%20tour"
+    },
+    {
+      "icon": "🐎",
+      "title": "Paracas & Huacachina Day Trip",
+      "desc": "Penguin islands and the desert oasis dunes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Paracas%20Huacachina%20day%20trip%20from%20Lima",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Paracas%20Huacachina%20day%20trip%20from%20Lima"
+    },
+    {
+      "icon": "🏄",
+      "title": "Surf or Paraglide Miraflores",
+      "desc": "Ride the Pacific below the cliff-top promenade.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lima%20Miraflores%20surfing%20paragliding",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lima%20Miraflores%20surfing%20paragliding"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE GASTRONOMY CAPITAL",
+      "text": "Lima is home to two of the world's top ten restaurants and is widely called South America's food capital."
+    },
+    {
+      "title": "A PYRAMID DOWNTOWN",
+      "text": "The 1,500-year-old adobe pyramid of Huaca Pucllana sits surrounded by Miraflores apartment blocks."
+    },
+    {
+      "title": "THE CITY OF KINGS",
+      "text": "Founded in 1535, Lima was the capital of Spanish South America for nearly 300 years."
+    },
+    {
+      "title": "IT ALMOST NEVER RAINS",
+      "text": "Lima is one of the driest capitals on Earth — a grey coastal fog called garúa provides most of its moisture."
+    },
+    {
+      "title": "CEVICHE MASTERS",
+      "text": "Peru's national dish is protected by law, and Lima's cevicherías serve it at lunchtime only, the traditional way."
+    },
+    {
+      "title": "THE OLDEST CITY IN THE AMERICAS",
+      "text": "Caral, about three hours north, is a 5,000-year-old city as old as the pyramids of Egypt."
+    },
+    {
+      "title": "A BRIDGE OF SIGHS",
+      "text": "Barranco's wooden Bridge of Sighs is said to grant a wish if you cross it holding your breath."
+    },
+    {
+      "title": "PENGUINS NEARBY",
+      "text": "The Palomino Islands off the coast host sea lions and Humboldt penguins."
+    },
+    {
+      "title": "CHINOS AND CRIOLLOS",
+      "text": "Lima's Chinatown is one of the oldest in the Americas, born of 19th-century migration."
+    },
+    {
+      "title": "A MIRACLE PAINTING",
+      "text": "The city's Lord of Miracles procession is one of the largest Catholic processions in the world."
+    }
+  ],
+  "randomFacts": [
+    "Lima is home to two of the world's top ten restaurants and is widely called South America's food capital.",
+    "The 1,500-year-old adobe pyramid of Huaca Pucllana sits surrounded by Miraflores apartment blocks.",
+    "Founded in 1535, Lima was the capital of Spanish South America for nearly 300 years.",
+    "Lima is one of the driest capitals on Earth — a grey coastal fog called garúa provides most of its moisture.",
+    "Peru's national dish is protected by law, and Lima's cevicherías serve it at lunchtime only, the traditional way.",
+    "Caral, about three hours north, is a 5,000-year-old city as old as the pyramids of Egypt.",
+    "Barranco's wooden Bridge of Sighs is said to grant a wish if you cross it holding your breath.",
+    "The Palomino Islands off the coast host sea lions and Humboldt penguins.",
+    "Lima's Chinatown is one of the oldest in the Americas, born of 19th-century migration.",
+    "The city's Lord of Miracles procession is one of the largest Catholic processions in the world.",
+    "Limeños call the grey winter sky 'panza de burro' — donkey belly.",
+    "Pisco sour is the national cocktail, invented in Lima.",
+    "The Gran Hotel Bolivar invented the cathedral-sized pisco sour.",
+    "Barranco's murals are repainted constantly — the street art never repeats.",
+    "Lima hosted the 2019 Pan American Games."
+  ],
+  "faq": [
+    {
+      "q": "Where is Lima located?",
+      "a": "Lima is in Peru, in South America."
+    },
+    {
+      "q": "What is the population of Lima?",
+      "a": "The greater Lima area is home to about 11,000,000 people."
+    },
+    {
+      "q": "What is Lima famous for?",
+      "a": "South America's food capital layers pre-Inca pyramids, colonial balconies and cliff-top neighbourhoods over a Pacific coastline where surfers ride below the high-rises."
+    },
+    {
+      "q": "Is Lima worth visiting?",
+      "a": "Yes — Lima was ranked #36 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Lima?",
+      "a": "Yes — IShowSpeed streamed from Lima during his 2025 South America tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 36
+}

@@ -1,0 +1,148 @@
+{
+  "slug": "Sydney",
+  "name": "Sydney",
+  "region": "Oceania",
+  "country": "Australia",
+  "metro": "5,300,000",
+  "seo": {
+    "title": "Sydney Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Sydney travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Sydney.",
+    "keywords": "Sydney, Sydney travel guide, things to do in Sydney, Sydney fun facts, where to stay in Sydney, Famous Cities"
+  },
+  "image": "Sydney.png",
+  "video": "videos/sydney.mp4",
+  "youtube": null,
+  "tagline": "Australia's largest city wraps a glittering harbour around the Opera House and Harbour Bridge, with famous beaches minutes from downtown. It is ranked #21 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Sydney",
+    "twitter": "https://twitter.com/search?q=visit%20Sydney",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sydney"
+  },
+  "overview": [
+    "Sydney began in 1788 as a British penal colony at Sydney Cove. The Rocks district preserves the old convict-era streets, while the skyline is now defined by the Opera House's white sails and the steel arch of the Harbour Bridge, opened in 1932.",
+    "The harbour is the city's heart. Ferries cross to Manly and Watsons Bay past waterfront mansions and hidden coves. For the full view, climb the Harbour Bridge's arch — one of the world's most famous bridge climbs — or take in the skyline from the Royal Botanic Garden at Mrs Macquarie's Chair.",
+    "Life here revolves around the coast. Bondi Beach is a bus ride from the centre, and the Bondi to Coogee coastal walk passes cliff pools and surf beaches. West of the city, the Blue Mountains' cliffs and eucalyptus valleys make an easy day trip."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Sydney&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Sydney",
+    "flights": "https://www.skyscanner.net/transport/flights/to/syd/cheap-flights-to-sydney.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌉",
+      "title": "Harbour Bridge Climb",
+      "desc": "Climb the arch for the city's most famous view.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sydney%20Harbour%20Bridge%20climb",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sydney%20Harbour%20Bridge%20climb"
+    },
+    {
+      "icon": "🎭",
+      "title": "Opera House Tour",
+      "desc": "Go behind the sails on a guided tour.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sydney%20Opera%20House%20tour%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sydney%20Opera%20House%20tour%20tickets"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Harbour Cruise",
+      "desc": "See the skyline, Opera House and bays from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sydney%20Harbour%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sydney%20Harbour%20cruise"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Blue Mountains Day Trip",
+      "desc": "Cliffs, waterfalls and the Three Sisters lookout.",
+      "viator": "https://www.viator.com/searchResults/all?text=Blue%20Mountains%20day%20trip%20from%20Sydney",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Blue%20Mountains%20day%20trip%20from%20Sydney"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE OPERA HOUSE WAS ALMOST SCRAPPED",
+      "text": "Jørn Utzon's design won the competition in 1957, but he quit mid-project and never saw the finished building."
+    },
+    {
+      "title": "IT'S NOT THE CAPITAL",
+      "text": "Sydney is Australia's largest city, but the capital is Canberra — chosen as a compromise between Sydney and Melbourne."
+    },
+    {
+      "title": "THE COATHANGER",
+      "text": "Locals call the 1932 Harbour Bridge 'the Coathanger', and its arch can be climbed legally on guided tours."
+    },
+    {
+      "title": "OVER 100 BEACHES",
+      "text": "Sydney has more than 100 beaches, including famous surf spots like Bondi and Manly."
+    },
+    {
+      "title": "THE FIRST FLEET",
+      "text": "The First Fleet of British ships arrived at Sydney Cove in January 1788 to establish the penal colony."
+    },
+    {
+      "title": "A HISTORIC GARDEN",
+      "text": "The Royal Botanic Garden opened in 1816 on the site of the colony's first farm."
+    },
+    {
+      "title": "NEW YEAR'S SPECTACLE",
+      "text": "Sydney's New Year's Eve fireworks over the harbour are among the first big displays of each new year."
+    },
+    {
+      "title": "A GREAT NATURAL HARBOUR",
+      "text": "Sydney Harbour, also called Port Jackson, is often described as the largest natural harbour in the world."
+    },
+    {
+      "title": "OLYMPIC HOST",
+      "text": "Sydney hosted the 2000 Summer Olympics, widely remembered as one of the best Games ever."
+    },
+    {
+      "title": "WHY THE BLUE MOUNTAINS ARE BLUE",
+      "text": "The mountains west of Sydney look blue because eucalyptus oil droplets in the air scatter the light."
+    }
+  ],
+  "randomFacts": [
+    "Jørn Utzon's design won the competition in 1957, but he quit mid-project and never saw the finished building.",
+    "Sydney is Australia's largest city, but the capital is Canberra — chosen as a compromise between Sydney and Melbourne.",
+    "Locals call the 1932 Harbour Bridge 'the Coathanger', and its arch can be climbed legally on guided tours.",
+    "Sydney has more than 100 beaches, including famous surf spots like Bondi and Manly.",
+    "The First Fleet of British ships arrived at Sydney Cove in January 1788 to establish the penal colony.",
+    "The Royal Botanic Garden opened in 1816 on the site of the colony's first farm.",
+    "Sydney's New Year's Eve fireworks over the harbour are among the first big displays of each new year.",
+    "Sydney Harbour, also called Port Jackson, is often described as the largest natural harbour in the world.",
+    "Sydney hosted the 2000 Summer Olympics, widely remembered as one of the best Games ever.",
+    "The mountains west of Sydney look blue because eucalyptus oil droplets in the air scatter the light.",
+    "The Opera House roof is covered with more than one million tiles.",
+    "Sydney Fish Market is among the largest fish markets in the southern hemisphere.",
+    "The Manly ferry crossing takes about 30 minutes.",
+    "Bondi Beach hosted beach volleyball at the 2000 Olympics.",
+    "Sydney's Luna Park has been grinning at visitors since 1935."
+  ],
+  "faq": [
+    {
+      "q": "Where is Sydney located?",
+      "a": "Sydney is in Australia, in Oceania."
+    },
+    {
+      "q": "What is the population of Sydney?",
+      "a": "The greater Sydney area is home to about 5,300,000 people."
+    },
+    {
+      "q": "What is Sydney famous for?",
+      "a": "Australia's largest city wraps a glittering harbour around the Opera House and Harbour Bridge, with famous beaches minutes from downtown."
+    },
+    {
+      "q": "Is Sydney worth visiting?",
+      "a": "Yes — Sydney was ranked #21 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Sydney?",
+      "a": "Yes — IShowSpeed streamed from Sydney on his late-2024 Australia and New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 21
+}

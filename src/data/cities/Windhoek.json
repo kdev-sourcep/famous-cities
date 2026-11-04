@@ -1,0 +1,144 @@
+{
+  "slug": "Windhoek",
+  "name": "Windhoek",
+  "region": "Africa",
+  "country": "Namibia",
+  "metro": "430,000",
+  "seo": {
+    "title": "Windhoek Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Windhoek travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Windhoek.",
+    "keywords": "Windhoek, Windhoek travel guide, things to do in Windhoek, Windhoek fun facts, where to stay in Windhoek, Famous Cities"
+  },
+  "image": "Windhoek.png",
+  "video": "videos/windhoek.mp4",
+  "youtube": null,
+  "tagline": "The safari gateway — a small German-influenced capital between deserts, the starting line for the world's most famous dunes.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Windhoek",
+    "twitter": "https://twitter.com/search?q=visit%20Windhoek",
+    "wikipedia": "https://en.wikipedia.org/wiki/Windhoek"
+  },
+  "overview": [
+    "Windhoek is the calm before the wild — a small, orderly capital in the highlands where most travellers land before heading to the Namib Desert's giant dunes and Etosha's salt-pan wildlife.",
+    "The city itself mixes its German-colonial past (the Christuskirche's sandstone spire, the Alte Feste fort, beer-and-bratwurst eateries) with a modern African downtown around Independence Avenue. Joe's Beerhouse — the legendary game-meat beer hall — is the institution.",
+    "Speed's 2025 Africa tour streamed from Windhoek. The reason to come is what surrounds it: Sossusvlei's 300m red dunes, Etosha's wildlife and the Skeleton Coast are all reachable from here."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Windhoek&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Windhoek",
+    "flights": "https://www.skyscanner.net/transport/flights/to/wdh/cheap-flights-to-windhoek.html"
+  },
+  "topThings": [
+    {
+      "icon": "🦒",
+      "title": "Sossusvlei Dunes",
+      "desc": "Deadvlei's white clay and red dunes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sossusvlei%20tour%20from%20Windhoek",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sossusvlei%20tour%20from%20Windhoek"
+    },
+    {
+      "icon": "🦁",
+      "title": "Etosha Safari",
+      "desc": "The salt-pan's elephants and lions.",
+      "viator": "https://www.viator.com/searchResults/all?text=Etosha%20National%20Park%20safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Etosha%20National%20Park%20safari"
+    },
+    {
+      "icon": "🍺",
+      "title": "Joe's & City Tour",
+      "desc": "The beerhouse plus landmarks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Windhoek%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Windhoek%20city%20tour"
+    },
+    {
+      "icon": "🌊",
+      "title": "Swakopmund & Skeleton",
+      "desc": "German beach town and the shipwreck coast.",
+      "viator": "https://www.viator.com/searchResults/all?text=Swakopmund%20day%20trip%20Windhoek",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Swakopmund%20day%20trip%20Windhoek"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE SAFARI GATEWAY",
+      "text": "Nearly every Namibia trip routes through Windhoek."
+    },
+    {
+      "title": "SOSSUSVLEI",
+      "text": "The world's tallest dunes — 300m red giants — are a day's drive west."
+    },
+    {
+      "title": "GERMAN ECHOES",
+      "text": "Christuskirche, Alte Feste and bratwurst culture recall the colonial era."
+    },
+    {
+      "title": "JOE'S BEERHOUSE",
+      "text": "The famous beer hall serves oryx, kudu and crocodile under fairy lights."
+    },
+    {
+      "title": "ETOSHA'S DOOR",
+      "text": "The salt-pan park — Africa's great game viewing — is north of the city."
+    },
+    {
+      "title": "THE QUIVER TREES",
+      "text": "Aloe 'trees' the San people used for arrow quivers dot the region."
+    },
+    {
+      "title": "THE SMALLEST BIG CAPITAL",
+      "text": "Windhoek's metro is ~430,000 — small, clean, easy."
+    },
+    {
+      "title": "SKELETON COAST",
+      "text": "The fog-bound shipwreck coast lies beyond Swakopmund."
+    },
+    {
+      "title": "DAMARA & HERERO",
+      "text": "The Herero women's Victorian-dress tradition is a living heritage."
+    },
+    {
+      "title": "A CITY OF WIND",
+      "text": "'Windhoek' means windy corner — the highland breeze is real."
+    }
+  ],
+  "randomFacts": [
+    "Nearly every Namibia trip routes through Windhoek.",
+    "The world's tallest dunes — 300m red giants — are a day's drive west.",
+    "Christuskirche, Alte Feste and bratwurst culture recall the colonial era.",
+    "The famous beer hall serves oryx, kudu and crocodile under fairy lights.",
+    "The salt-pan park — Africa's great game viewing — is north of the city.",
+    "Aloe 'trees' the San people used for arrow quivers dot the region.",
+    "Windhoek's metro is ~430,000 — small, clean, easy.",
+    "The fog-bound shipwreck coast lies beyond Swakopmund.",
+    "The Herero women's Victorian-dress tradition is a living heritage.",
+    "'Windhoek' means windy corner — the highland breeze is real.",
+    "Braai (barbecue) is a national art form.",
+    "The Christuskirche was built 1910 — the landmark photo.",
+    "Game meat is on most menus — try oryx.",
+    "The Tintenpalast (ink palace) parliament is a real name.",
+    "Dirt roads mean most trips need a 4x4."
+  ],
+  "faq": [
+    {
+      "q": "Where is Windhoek located?",
+      "a": "Windhoek is in Namibia, in Africa."
+    },
+    {
+      "q": "What is the population of Windhoek?",
+      "a": "The greater Windhoek area is home to about 430,000 people."
+    },
+    {
+      "q": "What is Windhoek famous for?",
+      "a": "Windhoek is famous for the gateway to the Namib's dunes — Christuskirche, German-Namibian heritage, and the safari start point."
+    },
+    {
+      "q": "Did IShowSpeed stream from Windhoek?",
+      "a": "Yes — IShowSpeed streamed from Windhoek on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

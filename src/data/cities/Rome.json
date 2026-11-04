@@ -1,0 +1,140 @@
+{
+  "slug": "Rome",
+  "name": "Rome",
+  "region": "Europe",
+  "country": "Italy",
+  "metro": "4,300,000",
+  "seo": {
+    "title": "Rome Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Rome travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Rome.",
+    "keywords": "Rome, Rome travel guide, things to do in Rome, Rome fun facts, where to stay in Rome, Famous Cities"
+  },
+  "image": "Rome.png",
+  "video": "videos/rome.mp4",
+  "youtube": null,
+  "tagline": "The Eternal City layers nearly 3,000 years of history, from ancient ruins to Baroque fountains, into one walkable, food-obsessed capital.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Rome",
+    "twitter": "https://twitter.com/search?q=visit%20Rome",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rome"
+  },
+  "overview": [
+    "According to legend, Rome was founded in 753 BC by Romulus, and it grew into the capital of an empire that stretched from Britain to the Middle East. Today the Colosseum, the Roman Forum and the Pantheon stand side by side with Renaissance palazzi, Baroque churches and busy neighborhoods where everyday life carries on among the monuments. The entire historic centre is a UNESCO World Heritage Site.",
+    "The city also surrounds Vatican City, the world's smallest independent state, home to St. Peter's Basilica, the Vatican Museums and Michelangelo's ceiling in the Sistine Chapel. Few places on earth pack so much art and architecture into such a small area—it is often said that you cannot dig a hole in Rome without finding something ancient.",
+    "Beyond the headline sights, Rome rewards slow exploration. Trastevere's ivy-covered lanes fill with diners every evening, Monti mixes vintage shops with wine bars, and Testaccio is the place for classic Roman dishes like cacio e pepe, carbonara and supplì. Spend a morning at Campo de' Fiori market, toss a coin into the Trevi Fountain, and finish the day watching the sunset from the Gianicolo hill."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Rome&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Rome",
+    "flights": "https://www.skyscanner.net/transport/flights/to/rom/cheap-flights-to-rome.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Colosseum & Roman Forum",
+      "desc": "Walk where gladiators fought and senators ruled.",
+      "viator": "https://www.viator.com/searchResults/all?text=Colosseum%20Roman%20Forum%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Colosseum%20Roman%20Forum%20tour"
+    },
+    {
+      "icon": "🎨",
+      "title": "Vatican Museums & Sistine Chapel",
+      "desc": "See Michelangelo's ceiling and St. Peter's Basilica.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vatican%20Museums%20Sistine%20Chapel",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vatican%20Museums%20Sistine%20Chapel"
+    },
+    {
+      "icon": "🍝",
+      "title": "Trastevere Food Tour",
+      "desc": "Taste pasta, supplì and gelato in Rome's foodie neighborhood.",
+      "viator": "https://www.viator.com/searchResults/all?text=Trastevere%20food%20tour%20Rome",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Trastevere%20food%20tour%20Rome"
+    },
+    {
+      "icon": "🖼️",
+      "title": "Borghese Gallery",
+      "desc": "Bernini and Caravaggio masterpieces in a villa park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Borghese%20Gallery%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Borghese%20Gallery%20tickets"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ROME HAS A COUNTRY INSIDE IT",
+      "text": "Vatican City, the world's smallest independent country, sits entirely within Rome. It covers just 44 hectares—smaller than many city parks."
+    },
+    {
+      "title": "THE TREVI FOUNTAIN RAISES MONEY FOR CHARITY",
+      "text": "Tradition says tossing a coin over your shoulder means you will return to Rome. Visitors throw in more than a million euros a year, which is collected and donated to the Catholic charity Caritas."
+    },
+    {
+      "title": "THE PANTHEON'S DOME IS NEARLY 2,000 YEARS OLD",
+      "text": "Rebuilt under Emperor Hadrian around AD 126, the Pantheon still has the largest unreinforced concrete dome in the world. Its only light comes through the open oculus at the top."
+    },
+    {
+      "title": "THE COLOSSEUM HELD AROUND 50,000 PEOPLE",
+      "text": "Opened in AD 80, the amphitheatre hosted gladiator fights and public spectacles. Spectators entered through 80 numbered arches, letting the crowd fill and empty quickly."
+    },
+    {
+      "title": "ROME HAS MORE THAN 900 CHURCHES",
+      "text": "From tiny chapels to the grand papal basilicas, churches are everywhere in Rome—and many hold masterpieces by Caravaggio, Bernini and Michelangelo that you can see for free."
+    },
+    {
+      "title": "YOU CAN DRINK FROM THE STREET FOUNTAINS",
+      "text": "Rome has more than 2,000 small drinking fountains called nasoni (\"big noses\"). Block the spout with your finger and the water shoots up from a hole on top, like a drinking fountain."
+    },
+    {
+      "title": "JULIUS CAESAR WAS KILLED WHERE CATS NOW LIVE",
+      "text": "Caesar was assassinated in 44 BC near the ruins at Largo di Torre Argentina. Today the site is home to a famous cat sanctuary."
+    },
+    {
+      "title": "SPQR IS STILL EVERYWHERE",
+      "text": "The ancient motto \"Senatus Populusque Romanus\"—the Senate and People of Rome—still appears on manhole covers, buildings and city property across Rome."
+    },
+    {
+      "title": "ROME WAS BUILT ON SEVEN HILLS",
+      "text": "The ancient city grew up on the Palatine, Capitoline, Aventine, Caelian, Esquiline, Quirinal and Viminal hills along the River Tiber."
+    },
+    {
+      "title": "THE MOUTH OF TRUTH BITES LIARS",
+      "text": "Legend says the Bocca della Verità, a marble mask in the portico of Santa Maria in Cosmedin, will bite off the hand of anyone who tells a lie. It was made famous by the 1953 film Roman Holiday."
+    }
+  ],
+  "randomFacts": [
+    "Vatican City, the world's smallest independent country, sits entirely within Rome. It covers just 44 hectares—smaller than many city parks.",
+    "Tradition says tossing a coin over your shoulder means you will return to Rome. Visitors throw in more than a million euros a year, which is collected and donated to the Catholic charity Caritas.",
+    "Rebuilt under Emperor Hadrian around AD 126, the Pantheon still has the largest unreinforced concrete dome in the world. Its only light comes through the open oculus at the top.",
+    "Opened in AD 80, the amphitheatre hosted gladiator fights and public spectacles. Spectators entered through 80 numbered arches, letting the crowd fill and empty quickly.",
+    "From tiny chapels to the grand papal basilicas, churches are everywhere in Rome—and many hold masterpieces by Caravaggio, Bernini and Michelangelo that you can see for free.",
+    "Rome has more than 2,000 small drinking fountains called nasoni (\"big noses\"). Block the spout with your finger and the water shoots up from a hole on top, like a drinking fountain.",
+    "Caesar was assassinated in 44 BC near the ruins at Largo di Torre Argentina. Today the site is home to a famous cat sanctuary.",
+    "The ancient motto \"Senatus Populusque Romanus\"—the Senate and People of Rome—still appears on manhole covers, buildings and city property across Rome.",
+    "The ancient city grew up on the Palatine, Capitoline, Aventine, Caelian, Esquiline, Quirinal and Viminal hills along the River Tiber.",
+    "Legend says the Bocca della Verità, a marble mask in the portico of Santa Maria in Cosmedin, will bite off the hand of anyone who tells a lie. It was made famous by the 1953 film Roman Holiday.",
+    "Rome has been the capital of Italy since 1871.",
+    "The Spanish Steps have 135 steps.",
+    "Rome's metro has just three lines because digging keeps uncovering ancient ruins.",
+    "Trajan's Market is often called the world's oldest shopping mall.",
+    "The Circus Maximus chariot-racing stadium could hold an estimated 150,000 spectators."
+  ],
+  "faq": [
+    {
+      "q": "Where is Rome located?",
+      "a": "Rome is in Italy, in Europe."
+    },
+    {
+      "q": "What is the population of Rome?",
+      "a": "The greater Rome area is home to about 4,300,000 people."
+    },
+    {
+      "q": "What is Rome famous for?",
+      "a": "The Eternal City layers nearly 3,000 years of history, from ancient ruins to Baroque fountains, into one walkable, food-obsessed capital."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

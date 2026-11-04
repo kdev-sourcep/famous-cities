@@ -1,0 +1,144 @@
+{
+  "slug": "Vilnius",
+  "name": "Vilnius",
+  "region": "Europe",
+  "country": "Lithuania",
+  "metro": "700,000",
+  "seo": {
+    "title": "Vilnius Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Vilnius travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Vilnius.",
+    "keywords": "Vilnius, Vilnius travel guide, things to do in Vilnius, Vilnius fun facts, where to stay in Vilnius, Famous Cities"
+  },
+  "image": "Vilnius.png",
+  "video": "videos/vilnius.mp4",
+  "youtube": null,
+  "tagline": "A baroque old town that launches hot-air balloons from its centre — home to Užupis, a self-declared republic with its own constitution.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Vilnius",
+    "twitter": "https://twitter.com/search?q=visit%20Vilnius",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vilnius"
+  },
+  "overview": [
+    "Vilnius is the Baltic capital that feels like a secret: one of Europe's largest baroque old towns, crowned by Gediminas Tower on its forested hill and crowned in turn by hot-air balloons drifting over the rooftops — one of few capitals that let them launch downtown.",
+    "Across the river sits Užupis — 'the republic beyond the river' — a district that declared itself independent on April Fools' Day 1997. It has its own flag, anthem and constitution (Article 12: 'a dog has the right to be a dog'). The angel statue watches over cafés and artists' studios.",
+    "Speed's 2024 tour streamed from Vilnius. The city also anchors the 'geographical centre of Europe' marker a short drive north — and its pink-soup šaltibarščia (cold beet soup) is a summer icon."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Vilnius&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Vilnius",
+    "flights": "https://www.skyscanner.net/transport/flights/to/vno/cheap-flights-to-vilnius.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Old Town & Užupis",
+      "desc": "Baroque lanes plus the republic.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vilnius%20old%20town%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vilnius%20old%20town%20tour"
+    },
+    {
+      "icon": "🏈",
+      "title": "Hot-Air Balloon",
+      "desc": "Fly over the old town at dawn.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vilnius%20hot%20air%20balloon%20flight",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vilnius%20hot%20air%20balloon%20flight"
+    },
+    {
+      "icon": "🏰",
+      "title": "Trakai Castle",
+      "desc": "The island castle 30 minutes away.",
+      "viator": "https://www.viator.com/searchResults/all?text=Trakai%20castle%20day%20trip%20from%20Vilnius",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Trakai%20castle%20day%20trip%20from%20Vilnius"
+    },
+    {
+      "icon": "🍛",
+      "title": "Food & Beer Tour",
+      "desc": "Cepelinai, pink soup and craft beer.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vilnius%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vilnius%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A REPUBLIC INSIDE",
+      "text": "Užupis declared independence in 1997 — with a constitution guaranteeing dogs' rights."
+    },
+    {
+      "title": "BALLOONS OVER THE OLD TOWN",
+      "text": "Vilnius is among the only European capitals allowing balloons to launch in the centre."
+    },
+    {
+      "title": "BAROQUE HEAVEN",
+      "text": "The old town is one of Northern Europe's largest — 1,200+ buildings of baroque and gothic."
+    },
+    {
+      "title": "THE TOWER ON THE HILL",
+      "text": "Gediminas Tower, all that remains of the upper castle, flies the flag the freedom marchers raised."
+    },
+    {
+      "title": "CENTRE OF EUROPE",
+      "text": "A marker 26km north claims the geographic midpoint of the continent."
+    },
+    {
+      "title": "PINK SOUP",
+      "text": "Šaltibarščia — cold beet-buttermilk soup — is electric pink and beloved."
+    },
+    {
+      "title": "THE GATE OF DAWN",
+      "text": "The 16th-century gate houses a revered Madonna icon — pilgrims kneel in the street."
+    },
+    {
+      "title": "A HILL OF CROSSES FAR",
+      "text": "The Hill of Crosses — 200,000 crosses — is a pilgrimage site up north."
+    },
+    {
+      "title": "JEWISH JERUSALEM",
+      "text": "Vilnius was once called 'the Jerusalem of Lithuania' for its scholarly Jewish community."
+    },
+    {
+      "title": "CEPELINAI",
+      "text": "The national dish — potato zeppelins stuffed with meat — is named for airship shape."
+    }
+  ],
+  "randomFacts": [
+    "Užupis declared independence in 1997 — with a constitution guaranteeing dogs' rights.",
+    "Vilnius is among the only European capitals allowing balloons to launch in the centre.",
+    "The old town is one of Northern Europe's largest — 1,200+ buildings of baroque and gothic.",
+    "Gediminas Tower, all that remains of the upper castle, flies the flag the freedom marchers raised.",
+    "A marker 26km north claims the geographic midpoint of the continent.",
+    "Šaltibarščia — cold beet-buttermilk soup — is electric pink and beloved.",
+    "The 16th-century gate houses a revered Madonna icon — pilgrims kneel in the street.",
+    "The Hill of Crosses — 200,000 crosses — is a pilgrimage site up north.",
+    "Vilnius was once called 'the Jerusalem of Lithuania' for its scholarly Jewish community.",
+    "The national dish — potato zeppelins stuffed with meat — is named for airship shape.",
+    "Užupis Independence Day is April 1 — half joke, half sincere.",
+    "The constitution hangs publicly in 40+ languages.",
+    "Basketball is practically the national religion.",
+    "Kibinai pastries came with deported Karaite Tatars.",
+    "The TV tower has a rotating restaurant and a tragic 1991 history."
+  ],
+  "faq": [
+    {
+      "q": "Where is Vilnius located?",
+      "a": "Vilnius is in Lithuania, in Europe."
+    },
+    {
+      "q": "What is the population of Vilnius?",
+      "a": "The greater Vilnius area is home to about 700,000 people."
+    },
+    {
+      "q": "What is Vilnius famous for?",
+      "a": "Vilnius is famous for a baroque old town, the Užupis 'republic' artists' quarter with its own constitution, and hot air balloons over the centre."
+    },
+    {
+      "q": "Did IShowSpeed stream from Vilnius?",
+      "a": "Yes — IShowSpeed streamed from Vilnius on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

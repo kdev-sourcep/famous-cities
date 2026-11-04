@@ -1,0 +1,144 @@
+{
+  "slug": "Tallinn",
+  "name": "Tallinn",
+  "region": "Europe",
+  "country": "Estonia",
+  "metro": "450,000",
+  "seo": {
+    "title": "Tallinn Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Tallinn travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Tallinn.",
+    "keywords": "Tallinn, Tallinn travel guide, things to do in Tallinn, Tallinn fun facts, where to stay in Tallinn, Famous Cities"
+  },
+  "image": "Tallinn.png",
+  "video": "videos/tallinn.mp4",
+  "youtube": null,
+  "tagline": "The Baltic's medieval jewel — a walled old town of towers and cobbles that runs one of the world's most digital countries.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Tallinn",
+    "twitter": "https://twitter.com/search?q=visit%20Tallinn",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tallinn"
+  },
+  "overview": [
+    "Tallinn's Old Town is one of Europe's best-preserved medieval centres — a UNESCO-listed maze of guild houses, merchant towers and intact city walls that survived the 20th century almost untouched.",
+    "Up on Toompea hill, the Estonian parliament sits in a pink baroque castle above Orthodox Alexander Nevsky Cathedral's onion domes; below, the lower town's Raekoja plats has hosted markets for 800 years. Beyond the walls, Telliskivi's former factories are now the creative city — street art, food halls and startups.",
+    "Speed's 2024 tour streamed from Tallinn. It's also Europe's digital pioneer — e-residency, paperless government and the birthplace of Skype — making the medieval streets an oddly fitting HQ for a tech nation."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Tallinn&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Tallinn",
+    "flights": "https://www.skyscanner.net/transport/flights/to/tll/cheap-flights-to-tallinn.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Old Town Walk",
+      "desc": "Towers, walls and 800-year-old squares.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tallinn%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tallinn%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "🎭",
+      "title": "Medieval Dinner",
+      "desc": "Candlelit feast in a guild cellar.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tallinn%20medieval%20dinner%20experience",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tallinn%20medieval%20dinner%20experience"
+    },
+    {
+      "icon": "📱",
+      "title": "Creative City & Art",
+      "desc": "Telliskivi, street art and design shops.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tallinn%20Telliskivi%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tallinn%20Telliskivi%20tour"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Helsinki Day Trip",
+      "desc": "Ferry to Finland's capital and back.",
+      "viator": "https://www.viator.com/searchResults/all?text=Helsinki%20day%20trip%20from%20Tallinn",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Helsinki%20day%20trip%20from%20Tallinn"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "BEST-PRESERVED MEDIEVAL TOWN",
+      "text": "The old town's walls, towers and lanes survived two world wars mostly intact."
+    },
+    {
+      "title": "2 KM OF WALL",
+      "text": "About half the medieval city wall still stands — with 20 towers you can visit."
+    },
+    {
+      "title": "SKYPE'S BIRTHPLACE",
+      "text": "Skype was built in Tallinn in 2003 — seeding Estonia's startup scene."
+    },
+    {
+      "title": "E-RESIDENCY",
+      "text": "Estonia offers digital residency to anyone — the world's first country to do so."
+    },
+    {
+      "title": "A PINK PARLIAMENT",
+      "text": "Toompea Castle, housing parliament, is painted baroque pink."
+    },
+    {
+      "title": "800-YEAR-OLD SQUARE",
+      "text": "Raekoja plats has run a market since the 13th century — Christmas market included."
+    },
+    {
+      "title": "THE OLDEST PHARMACY",
+      "text": "Town Hall Pharmacy has operated continuously since 1422."
+    },
+    {
+      "title": "TWO TOWNS IN ONE",
+      "text": "Upper (nobles') Toompea and lower (merchants') town were once rival cities."
+    },
+    {
+      "title": "SINGING REVOLUTION",
+      "text": "Estonia's path to freedom was literally sung — mass choirs defied the Soviets."
+    },
+    {
+      "title": "TELLISKIVI",
+      "text": "The creative city in old railway factories is the hip district's engine."
+    }
+  ],
+  "randomFacts": [
+    "The old town's walls, towers and lanes survived two world wars mostly intact.",
+    "About half the medieval city wall still stands — with 20 towers you can visit.",
+    "Skype was built in Tallinn in 2003 — seeding Estonia's startup scene.",
+    "Estonia offers digital residency to anyone — the world's first country to do so.",
+    "Toompea Castle, housing parliament, is painted baroque pink.",
+    "Raekoja plats has run a market since the 13th century — Christmas market included.",
+    "Town Hall Pharmacy has operated continuously since 1422.",
+    "Upper (nobles') Toompea and lower (merchants') town were once rival cities.",
+    "Estonia's path to freedom was literally sung — mass choirs defied the Soviets.",
+    "The creative city in old railway factories is the hip district's engine.",
+    "Tallinn's name may mean 'Danish town' — from a 1219 conquest.",
+    "You can walk the wall's guard passage between towers.",
+    "The Christmas tree tradition is claimed here (1441) before Riga's 1510.",
+    "Mushroom-picking is a national autumn hobby.",
+    "Ferries reach Helsinki in two hours."
+  ],
+  "faq": [
+    {
+      "q": "Where is Tallinn located?",
+      "a": "Tallinn is in Estonia, in Europe."
+    },
+    {
+      "q": "What is the population of Tallinn?",
+      "a": "The greater Tallinn area is home to about 450,000 people."
+    },
+    {
+      "q": "What is Tallinn famous for?",
+      "a": "Tallinn is famous for Europe's best-preserved medieval old town, city walls and towers, plus a digital-nomad e-society."
+    },
+    {
+      "q": "Did IShowSpeed stream from Tallinn?",
+      "a": "Yes — IShowSpeed streamed from Tallinn on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Manila",
+  "name": "Manila",
+  "region": "Asia",
+  "country": "Philippines",
+  "metro": "14,000,000",
+  "seo": {
+    "title": "Manila Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Manila travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Manila.",
+    "keywords": "Manila, Manila travel guide, things to do in Manila, Manila fun facts, where to stay in Manila, Famous Cities"
+  },
+  "image": "Manila.png",
+  "video": "videos/manila.mp4",
+  "youtube": null,
+  "tagline": "A chaotic, warm-hearted megacity of Spanish walls, rainbow jeepneys and Manila Bay sunsets — where Asia's friendliest crowds meet 400 years of history.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Manila",
+    "twitter": "https://twitter.com/search?q=visit%20Manila",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manila"
+  },
+  "overview": [
+    "Metro Manila is really sixteen cities fused into one urban sprawl of over 14 million — Spanish walls at Intramuros, American-era boulevards, and the modern skylines of Makati and BGC, all wrapped around a bay famous for its sunsets.",
+    "Intramuros, the 16th-century walled core, holds Fort Santiago and San Agustin Church — Asia's oldest stone church — a few blocks from Binondo, the world's oldest Chinatown. Jeepneys, the decorated truck-buses, remain the loud and cheap way to move.",
+    "Speed's 2024 Southeast Asia stop included a boxing session with Manny Pacquiao, the country's hero, before crowds swarmed his stream — a turnout that made local headlines."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Manila&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Manila",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mnl/cheap-flights-to-manila.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Intramuros & Bamboo Bikes",
+      "desc": "Fort Santiago and the walled city by bike.",
+      "viator": "https://www.viator.com/searchResults/all?text=Intramuros%20Manila%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Intramuros%20Manila%20tour"
+    },
+    {
+      "icon": "🍡",
+      "title": "Binondo Food Crawl",
+      "desc": "Dumplings and hopia in the oldest Chinatown.",
+      "viator": "https://www.viator.com/searchResults/all?text=Binondo%20Manila%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Binondo%20Manila%20food%20tour"
+    },
+    {
+      "icon": "🌅",
+      "title": "Manila Bay Sunset",
+      "desc": "The famous golden sunset from the bay.",
+      "viator": "https://www.viator.com/searchResults/all?text=Manila%20Bay%20sunset%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Manila%20Bay%20sunset%20cruise"
+    },
+    {
+      "icon": "🌋",
+      "title": "Taal Volcano Day Trip",
+      "desc": "The volcano-in-a-lake viewpoint south of town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Taal%20Volcano%20day%20trip%20from%20Manila",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Taal%20Volcano%20day%20trip%20from%20Manila"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WORLD'S OLDEST CHINATOWN",
+      "text": "Binondo was founded in 1594 — the oldest Chinese quarter outside China."
+    },
+    {
+      "title": "JEEPNEY CAPITAL",
+      "text": "The rainbow-painted jeepney, born from WWII jeeps, is the city's symbol on wheels."
+    },
+    {
+      "title": "A SPANISH WALL IN ASIA",
+      "text": "Intramuros' 16th-century walls still enclose churches, plazas and Fort Santiago."
+    },
+    {
+      "title": "PACQUIAO'S CITY",
+      "text": "The boxing legend and senator is Manila's most famous son — he even sparred with Speed."
+    },
+    {
+      "title": "BAY OF GOLD",
+      "text": "Manila Bay's sunsets, framed by Roxas Boulevard, are considered Asia's finest."
+    },
+    {
+      "title": "16 CITIES IN ONE",
+      "text": "'Manila' is a metro region of sixteen cities — including Quezon City, once the capital."
+    },
+    {
+      "title": "THE BAMBOO ORGAN",
+      "text": "Las Piñas church holds the world's only organ with bamboo pipes."
+    },
+    {
+      "title": "MALL KINGDOM",
+      "text": "The malls are the size of towns — SM Mall of Asia alone holds around a thousand shops."
+    },
+    {
+      "title": "RIZAL'S LAST WALK",
+      "text": "National hero José Rizal's final footsteps are bronzed at Fort Santiago."
+    },
+    {
+      "title": "KARAOKE TRAFFIC",
+      "text": "Chronic gridlock is survived with patience, snacks and sing-alongs."
+    }
+  ],
+  "randomFacts": [
+    "Binondo was founded in 1594 — the oldest Chinese quarter outside China.",
+    "The rainbow-painted jeepney, born from WWII jeeps, is the city's symbol on wheels.",
+    "Intramuros' 16th-century walls still enclose churches, plazas and Fort Santiago.",
+    "The boxing legend and senator is Manila's most famous son — he even sparred with Speed.",
+    "Manila Bay's sunsets, framed by Roxas Boulevard, are considered Asia's finest.",
+    "'Manila' is a metro region of sixteen cities — including Quezon City, once the capital.",
+    "Las Piñas church holds the world's only organ with bamboo pipes.",
+    "The malls are the size of towns — SM Mall of Asia alone holds around a thousand shops.",
+    "National hero José Rizal's final footsteps are bronzed at Fort Santiago.",
+    "Chronic gridlock is survived with patience, snacks and sing-alongs.",
+    "Jeepney rides cost about a quarter.",
+    "Locals give directions by malls, not streets.",
+    "Binondo's dumplings and hopia are a pilgrimage.",
+    "Sunset on the bay wall is the free date night.",
+    "San Agustin Church survived seven earthquakes and two wars."
+  ],
+  "faq": [
+    {
+      "q": "Where is Manila located?",
+      "a": "Manila is in Philippines, in Asia."
+    },
+    {
+      "q": "What is the population of Manila?",
+      "a": "The greater Manila area is home to about 14,000,000 people."
+    },
+    {
+      "q": "What is Manila famous for?",
+      "a": "Manila is famous for the Philippines' sprawling capital — Intramuros' Spanish walls, jeepneys, Manila Bay sunsets and some of Asia's friendliest crowds."
+    },
+    {
+      "q": "Did IShowSpeed stream from Manila?",
+      "a": "Yes — IShowSpeed streamed from Manila on his 2024 Southeast Asia tour, including a boxing session with Manny Pacquiao. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

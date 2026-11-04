@@ -1,0 +1,140 @@
+{
+  "slug": "Doha",
+  "name": "Doha",
+  "region": "Middle East",
+  "country": "Qatar",
+  "metro": "2,400,000",
+  "seo": {
+    "title": "Doha Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Doha travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Doha.",
+    "keywords": "Doha, Doha travel guide, things to do in Doha, Doha fun facts, where to stay in Doha, Famous Cities"
+  },
+  "image": "Doha.png",
+  "video": "videos/doha.mp4",
+  "youtube": null,
+  "tagline": "Qatar's capital has raced from pearl-diving port to World Cup host, stacking I.M. Pei's Museum of Islamic Art, the lanes of Souq Waqif and the futuristic Corniche skyline along the Gulf.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Doha",
+    "twitter": "https://twitter.com/search?q=visit%20Doha",
+    "wikipedia": "https://en.wikipedia.org/wiki/Doha"
+  },
+  "overview": [
+    "Doha was a small pearling and fishing port until oil and then vast natural gas wealth made Qatar one of the richest countries on Earth per person. The city has grown at extraordinary speed, capped by hosting the 2022 FIFA World Cup, the first in the Middle East.",
+    "The Corniche promenade curves along the bay between the traditional dhow harbour and the towers of West Bay. At its heart sits the Museum of Islamic Art, I.M. Pei's geometric masterwork, while the National Museum of Qatar, shaped like a desert rose crystal, tells the country's story. Souq Waqif's restored lanes sell spices, textiles and falcons, and stay lively late into the night.",
+    "Beyond the city, Qatar's signature adventure is the desert: dune-bashing tours race down sand walls to the Inland Sea, Khor Al Adaid, where the sea floods in among the dunes. Back in town, The Pearl island, Katara Cultural Village and the new Lusail district show where the city is heading next."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Doha&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Doha",
+    "flights": "https://www.skyscanner.net/transport/flights/to/doh/cheap-flights-to-doha.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏜️",
+      "title": "Desert Safari to the Inland Sea",
+      "desc": "Dune bashing and sunset at Khor Al Adaid.",
+      "viator": "https://www.viator.com/searchResults/all?text=Doha%20desert%20safari%20inland%20sea",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Doha%20desert%20safari%20inland%20sea"
+    },
+    {
+      "icon": "🕋",
+      "title": "Souq Waqif & Museum Tour",
+      "desc": "Islamic art, spice lanes and the falcon souq with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Doha%20city%20tour%20Souq%20Waqif%20Museum%20of%20Islamic%20Art",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Doha%20city%20tour%20Souq%20Waqif%20Museum%20of%20Islamic%20Art"
+    },
+    {
+      "icon": "⛵",
+      "title": "Dhow Cruise Dinner",
+      "desc": "Sail the Corniche at night on a traditional wooden boat.",
+      "viator": "https://www.viator.com/searchResults/all?text=Doha%20dhow%20cruise%20dinner",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Doha%20dhow%20cruise%20dinner"
+    },
+    {
+      "icon": "🏙️",
+      "title": "Lusail & The Pearl",
+      "desc": "See Qatar's newest districts and island Riviera.",
+      "viator": "https://www.viator.com/searchResults/all?text=Doha%20Lusail%20Pearl%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Doha%20Lusail%20Pearl%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A WORLD CUP FIRST",
+      "text": "Doha hosted the 2022 FIFA World Cup, the first World Cup held in the Middle East."
+    },
+    {
+      "title": "I.M. PEI'S MASTERPIECE",
+      "text": "The Museum of Islamic Art was designed by I.M. Pei, the architect of the Louvre pyramid, at age 91."
+    },
+    {
+      "title": "WHERE THE SEA MEETS THE DUNES",
+      "text": "Khor Al Adaid, the Inland Sea, is a UNESCO-recognised reserve reachable only through the desert."
+    },
+    {
+      "title": "A DESERT ROSE",
+      "text": "The National Museum of Qatar's interlocking discs were inspired by the desert rose crystal."
+    },
+    {
+      "title": "FALCONS HAVE A SOUQ",
+      "text": "Souq Waqif has a dedicated falcon market and even a hospital for the prized birds."
+    },
+    {
+      "title": "A CITY OF NEWCOMERS",
+      "text": "Around 9 in 10 of Qatar's residents are expatriates from around the world."
+    },
+    {
+      "title": "SEVEN KILOMETRES OF CORNICHE",
+      "text": "The Doha Corniche waterfront promenade runs about 7 kilometres around the bay."
+    },
+    {
+      "title": "AN ARTIFICIAL RIVIERA",
+      "text": "The Pearl-Qatar is a man-made island of marinas, towers and Mediterranean-style streets."
+    },
+    {
+      "title": "HOME OF AL JAZEERA",
+      "text": "The Al Jazeera news network, launched in 1996, is headquartered in Doha."
+    },
+    {
+      "title": "A NEW CITY NAMED LUSAIL",
+      "text": "Lusail City, built for the World Cup final stadium, was planned from scratch north of Doha."
+    }
+  ],
+  "randomFacts": [
+    "Doha hosted the 2022 FIFA World Cup, the first World Cup held in the Middle East.",
+    "The Museum of Islamic Art was designed by I.M. Pei, the architect of the Louvre pyramid, at age 91.",
+    "Khor Al Adaid, the Inland Sea, is a UNESCO-recognised reserve reachable only through the desert.",
+    "The National Museum of Qatar's interlocking discs were inspired by the desert rose crystal.",
+    "Souq Waqif has a dedicated falcon market and even a hospital for the prized birds.",
+    "Around 9 in 10 of Qatar's residents are expatriates from around the world.",
+    "The Doha Corniche waterfront promenade runs about 7 kilometres around the bay.",
+    "The Pearl-Qatar is a man-made island of marinas, towers and Mediterranean-style streets.",
+    "The Al Jazeera news network, launched in 1996, is headquartered in Doha.",
+    "Lusail City, built for the World Cup final stadium, was planned from scratch north of Doha.",
+    "'Doha' comes from the Arabic ad-dawha, 'the big tree'.",
+    "Hamad International Airport has been voted among the world's best airports.",
+    "Camel racing at Al Shahaniya uses robot jockeys.",
+    "Katara's amphitheatre hosts open-air concerts by the sea.",
+    "Qatar was once famous for its natural pearl divers."
+  ],
+  "faq": [
+    {
+      "q": "Where is Doha located?",
+      "a": "Doha is in Qatar, in the Middle East."
+    },
+    {
+      "q": "What is the population of Doha?",
+      "a": "The greater Doha area is home to about 2,400,000 people."
+    },
+    {
+      "q": "What is Doha famous for?",
+      "a": "Qatar's capital has raced from pearl-diving port to World Cup host, stacking I.M."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

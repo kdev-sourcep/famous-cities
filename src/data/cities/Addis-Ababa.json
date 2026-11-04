@@ -1,0 +1,144 @@
+{
+  "slug": "Addis-Ababa",
+  "name": "Addis Ababa",
+  "region": "Africa",
+  "country": "Ethiopia",
+  "metro": "5,500,000",
+  "seo": {
+    "title": "Addis Ababa Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Addis Ababa travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Addis Ababa.",
+    "keywords": "Addis Ababa, Addis Ababa travel guide, things to do in Addis Ababa, Addis Ababa fun facts, where to stay in Addis Ababa, Famous Cities"
+  },
+  "image": "Addis-Ababa.png",
+  "video": "videos/addis-ababa.mp4",
+  "youtube": null,
+  "tagline": "Africa's diplomatic capital — home of the AU, the fossil 'Lucy', the continent's biggest market, and the world's original coffee.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Addis%20Ababa",
+    "twitter": "https://twitter.com/search?q=visit%20Addis%20Ababa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Addis_Ababa"
+  },
+  "overview": [
+    "Addis Ababa — 'new flower' — is Africa's diplomatic capital: the African Union's headquarters sits here, and so does one of humanity's oldest ancestors. 'Lucy,' the 3.2-million-year-old australopithecine, is the star of the National Museum.",
+    "The city runs on two fuels: coffee (Ethiopia is the plant's birthplace — the ceremony of roasting, grinding and pouring is sacred) and injera, the sour flatbread that anchors every meal. The Merkato is reputedly Africa's largest open-air market.",
+    "Speed's 2025 Africa tour streamed from Addis Ababa. The city sits at 2,400m in the Entoto foothills — springlike air, mountain views, and the gateway to Lalibela's rock churches."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Addis Ababa&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Addis Ababa",
+    "flights": "https://www.skyscanner.net/transport/flights/to/add/cheap-flights-to-addis%20ababa.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏺",
+      "title": "National Museum & Lucy",
+      "desc": "Meet the ancestor and city tour.",
+      "viator": "https://www.viator.com/searchResults/all?text=Addis%20Ababa%20city%20tour%20Lucy",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Addis%20Ababa%20city%20tour%20Lucy"
+    },
+    {
+      "icon": "☕",
+      "title": "Coffee Ceremony & Food",
+      "desc": "Roast, pour, injera feast.",
+      "viator": "https://www.viator.com/searchResults/all?text=Addis%20Ababa%20coffee%20ceremony%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Addis%20Ababa%20coffee%20ceremony%20tour"
+    },
+    {
+      "icon": "⛪",
+      "title": "Lalibela Flight Trip",
+      "desc": "The rock churches by air.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lalibela%20day%20trip%20from%20Addis%20Ababa",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lalibela%20day%20trip%20from%20Addis%20Ababa"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Entoto & Merkato",
+      "desc": "Mountain views plus the mega-market.",
+      "viator": "https://www.viator.com/searchResults/all?text=Entoto%20mountain%20tour%20Addis",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Entoto%20mountain%20tour%20Addis"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "LUCY LIVES HERE",
+      "text": "The 3.2-million-year-old fossil — our most famous ancestor — is kept at the National Museum."
+    },
+    {
+      "title": "AFRICA'S CAPITAL",
+      "text": "The African Union and UN Economic Commission for Africa are both headquartered here."
+    },
+    {
+      "title": "COFFEE'S HOMELAND",
+      "text": "Ethiopia is where coffee originated — the ceremony is a daily ritual."
+    },
+    {
+      "title": "MERKATO",
+      "text": "The sprawling open-air market is often called Africa's largest."
+    },
+    {
+      "title": "A NEW FLOWER",
+      "text": "'Addis Ababa' means new flower — founded in 1886 as the imperial capital."
+    },
+    {
+      "title": "HOLY TRINITY",
+      "text": "The cathedral holds Haile Selassie's tomb — the last emperor of the Solomonic line."
+    },
+    {
+      "title": "2,400 METRES UP",
+      "text": "The city's altitude gives it springlike weather on the equator's edge."
+    },
+    {
+      "title": "NEVER COLONIZED",
+      "text": "Ethiopia is the only African country never formally colonized — Addis is its proof."
+    },
+    {
+      "title": "INJERA CULTURE",
+      "text": "The sourdough flatbread is plate and utensil at once."
+    },
+    {
+      "title": "LALIBELA GATEWAY",
+      "text": "The rock-hewn churches — 'the new Jerusalem' — are the side trip everyone takes."
+    }
+  ],
+  "randomFacts": [
+    "The 3.2-million-year-old fossil — our most famous ancestor — is kept at the National Museum.",
+    "The African Union and UN Economic Commission for Africa are both headquartered here.",
+    "Ethiopia is where coffee originated — the ceremony is a daily ritual.",
+    "The sprawling open-air market is often called Africa's largest.",
+    "'Addis Ababa' means new flower — founded in 1886 as the imperial capital.",
+    "The cathedral holds Haile Selassie's tomb — the last emperor of the Solomonic line.",
+    "The city's altitude gives it springlike weather on the equator's edge.",
+    "Ethiopia is the only African country never formally colonized — Addis is its proof.",
+    "The sourdough flatbread is plate and utensil at once.",
+    "The rock-hewn churches — 'the new Jerusalem' — are the side trip everyone takes.",
+    "A coffee ceremony is a 45-minute social ritual.",
+    "Tej — honey wine — is the traditional drink.",
+    "The Merkato genuinely requires a guide.",
+    "Ethiopia's calendar has 13 months.",
+    "Addis residents are called 'flower children' jokingly."
+  ],
+  "faq": [
+    {
+      "q": "Where is Addis Ababa located?",
+      "a": "Addis Ababa is in Ethiopia, in Africa."
+    },
+    {
+      "q": "What is the population of Addis Ababa?",
+      "a": "The greater Addis Ababa area is home to about 5,500,000 people."
+    },
+    {
+      "q": "What is Addis Ababa famous for?",
+      "a": "Addis Ababa is famous for the African Union's home, 'Lucy' the 3.2-million-year-old fossil, the Merkato market and the birthplace of coffee."
+    },
+    {
+      "q": "Did IShowSpeed stream from Addis Ababa?",
+      "a": "Yes — IShowSpeed streamed from Addis Ababa on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

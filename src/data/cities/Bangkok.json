@@ -1,0 +1,148 @@
+{
+  "slug": "Bangkok",
+  "name": "Bangkok",
+  "region": "Asia",
+  "country": "Thailand",
+  "metro": "11,000,000",
+  "seo": {
+    "title": "Bangkok Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Bangkok travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Bangkok.",
+    "keywords": "Bangkok, Bangkok travel guide, things to do in Bangkok, Bangkok fun facts, where to stay in Bangkok, Famous Cities"
+  },
+  "image": "Bangkok.png",
+  "video": "videos/bangkok.mp4",
+  "youtube": null,
+  "tagline": "Thailand's electric capital mixes glittering temples, floating markets and rooftop bars with some of the best street food on the planet. It is ranked #8 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Bangkok",
+    "twitter": "https://twitter.com/search?q=visit%20Bangkok",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bangkok"
+  },
+  "overview": [
+    "Bangkok became Thailand's capital in 1782, when King Rama I moved the royal court across the Chao Phraya River. The dazzling Grand Palace and Wat Phra Kaew, home of the revered Emerald Buddha, date from that time, while nearby Wat Pho houses a giant reclining Buddha and Wat Arun rises from the opposite riverbank.",
+    "Locals call the city Krung Thep, the \"City of Angels\". Getting around is part of the adventure: hop on the BTS Skytrain or MRT to beat the traffic, ride the express boats along the river, or take a tuk-tuk for a short, bumpy thrill.",
+    "Food is the city's true attraction. Graze on pad thai, som tam and mango sticky rice at street stalls, explore the night-time food scene of Yaowarat (Chinatown), and shop at the enormous Chatuchak Weekend Market. For a day out, visit the ancient temples of Ayutthaya or a floating market outside the city."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Bangkok&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Bangkok",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bkk/cheap-flights-to-bangkok.html"
+  },
+  "topThings": [
+    {
+      "icon": "🛕",
+      "title": "Grand Palace & Emerald Buddha",
+      "desc": "Tour the royal palace and Thailand's most sacred temple.",
+      "viator": "https://www.viator.com/searchResults/all?text=Grand%20Palace%20Bangkok%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Grand%20Palace%20Bangkok%20tour"
+    },
+    {
+      "icon": "🛶",
+      "title": "Floating Market Day Trip",
+      "desc": "Shop and snack from boats at a traditional floating market.",
+      "viator": "https://www.viator.com/searchResults/all?text=Damnoen%20Saduak%20floating%20market%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Damnoen%20Saduak%20floating%20market%20tour"
+    },
+    {
+      "icon": "🌃",
+      "title": "Chao Phraya Dinner Cruise",
+      "desc": "Dinner on the river with views of lit-up temples.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chao%20Phraya%20dinner%20cruise%20Bangkok",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chao%20Phraya%20dinner%20cruise%20Bangkok"
+    },
+    {
+      "icon": "🏯",
+      "title": "Ayutthaya Day Trip",
+      "desc": "Explore the ruins of Thailand's ancient capital.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ayutthaya%20day%20trip%20from%20Bangkok",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ayutthaya%20day%20trip%20from%20Bangkok"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE WORLD'S LONGEST CITY NAME",
+      "text": "Bangkok's full ceremonial name is listed by Guinness World Records as the longest place name in the world."
+    },
+    {
+      "title": "LOCALS CALL IT KRUNG THEP",
+      "text": "Thais usually call their capital Krung Thep, meaning \"City of Angels\". \"Bangkok\" is the name mostly used by foreigners."
+    },
+    {
+      "title": "A 46-METRE RECLINING BUDDHA",
+      "text": "Wat Pho is home to a gold-leaf reclining Buddha 46 metres long. The temple is also known as a historic centre of traditional Thai massage."
+    },
+    {
+      "title": "THE EMERALD BUDDHA ISN'T EMERALD",
+      "text": "The Emerald Buddha at Wat Phra Kaew is carved from green stone. Its golden costume is changed by the King with the seasons, three times a year."
+    },
+    {
+      "title": "ONE OF THE WORLD'S MOST VISITED CITIES",
+      "text": "Bangkok regularly ranks among the most visited cities on the planet in international tourism rankings."
+    },
+    {
+      "title": "A GIANT WEEKEND MARKET",
+      "text": "Chatuchak Weekend Market has more than 15,000 stalls selling everything from clothes and plants to antiques and street food."
+    },
+    {
+      "title": "THE \"VENICE OF THE EAST\"",
+      "text": "Bangkok was once crisscrossed by canals called khlongs, and some neighborhoods still rely on boats today."
+    },
+    {
+      "title": "A TEMPLE COVERED IN PORCELAIN",
+      "text": "Wat Arun, the Temple of Dawn, is decorated with thousands of pieces of colorful Chinese porcelain that sparkle in the sun."
+    },
+    {
+      "title": "CAPITAL SINCE 1782",
+      "text": "King Rama I founded the current capital on the east bank of the Chao Phraya River in 1782, the start of the Rattanakosin era."
+    },
+    {
+      "title": "STREET FOOD WITH A MICHELIN STAR",
+      "text": "Street-food legend Jay Fai earned a Michelin star in 2018 for her famous crab omelettes."
+    }
+  ],
+  "randomFacts": [
+    "Bangkok's full ceremonial name is listed by Guinness World Records as the longest place name in the world.",
+    "Thais usually call their capital Krung Thep, meaning \"City of Angels\". \"Bangkok\" is the name mostly used by foreigners.",
+    "Wat Pho is home to a gold-leaf reclining Buddha 46 metres long. The temple is also known as a historic centre of traditional Thai massage.",
+    "The Emerald Buddha at Wat Phra Kaew is carved from green stone. Its golden costume is changed by the King with the seasons, three times a year.",
+    "Bangkok regularly ranks among the most visited cities on the planet in international tourism rankings.",
+    "Chatuchak Weekend Market has more than 15,000 stalls selling everything from clothes and plants to antiques and street food.",
+    "Bangkok was once crisscrossed by canals called khlongs, and some neighborhoods still rely on boats today.",
+    "Wat Arun, the Temple of Dawn, is decorated with thousands of pieces of colorful Chinese porcelain that sparkle in the sun.",
+    "King Rama I founded the current capital on the east bank of the Chao Phraya River in 1782, the start of the Rattanakosin era.",
+    "Street-food legend Jay Fai earned a Michelin star in 2018 for her famous crab omelettes.",
+    "Thailand is the only Southeast Asian country never colonised by a European power.",
+    "The BTS Skytrain opened in 1999.",
+    "Monitor lizards roam freely in Lumpini Park.",
+    "Songkran, the Thai New Year in April, turns the city into a giant water fight.",
+    "Khao San Road is famous as a backpacker hub."
+  ],
+  "faq": [
+    {
+      "q": "Where is Bangkok located?",
+      "a": "Bangkok is in Thailand, in Asia."
+    },
+    {
+      "q": "What is the population of Bangkok?",
+      "a": "The greater Bangkok area is home to about 11,000,000 people."
+    },
+    {
+      "q": "What is Bangkok famous for?",
+      "a": "Thailand's electric capital mixes glittering temples, floating markets and rooftop bars with some of the best street food on the planet."
+    },
+    {
+      "q": "Is Bangkok worth visiting?",
+      "a": "Yes — Bangkok was ranked #8 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Bangkok?",
+      "a": "Yes — IShowSpeed streamed from Bangkok during his 2024 Southeast Asia tour, including a famous elephant ride and tuk-tuk moment. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 8
+}

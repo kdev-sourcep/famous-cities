@@ -1,0 +1,144 @@
+{
+  "slug": "Ulaanbaatar",
+  "name": "Ulaanbaatar",
+  "region": "Asia",
+  "country": "Mongolia",
+  "metro": "1,700,000",
+  "seo": {
+    "title": "Ulaanbaatar Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Ulaanbaatar travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Ulaanbaatar.",
+    "keywords": "Ulaanbaatar, Ulaanbaatar travel guide, things to do in Ulaanbaatar, Ulaanbaatar fun facts, where to stay in Ulaanbaatar, Famous Cities"
+  },
+  "image": "Ulaanbaatar.png",
+  "video": "videos/ulaanbaatar.mp4",
+  "youtube": null,
+  "tagline": "The world's coldest capital — a Soviet-bloc skyline beside gers and monasteries, gateway to the endless steppe.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Ulaanbaatar",
+    "twitter": "https://twitter.com/search?q=visit%20Ulaanbaatar",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulaanbaatar"
+  },
+  "overview": [
+    "Ulaanbaatar is the world's coldest capital — winter nights drop below -30°C — and one of its strangest: Soviet apartment blocks stand beside white gers (yurts), a monastery ringed by prayer wheels, and a skyline that appeared in a single nomadic century.",
+    "Sükhbaatar Square anchors the centre beneath a giant Chinggis Khan statue, and the Gandan Monastery's 26-metre gold Buddha keeps the country's Buddhist heart beating after decades of suppression.",
+    "Speed's 2025 tour streamed from Ulaanbaatar — the Mongolia episode became a fan favourite for the horse culture and sheer strangeness. The real destination is out the window: the steppe, the Gobi and nomad camps begin where the roads end."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Ulaanbaatar&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Ulaanbaatar",
+    "flights": "https://www.skyscanner.net/transport/flights/to/uln/cheap-flights-to-ulaanbaatar.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "City & Gandan Tour",
+      "desc": "Monastery, square and markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ulaanbaatar%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ulaanbaatar%20city%20tour"
+    },
+    {
+      "icon": "🐎",
+      "title": "Genghis Statue & Terelj",
+      "desc": "The giant horse plus ger-country valleys.",
+      "viator": "https://www.viator.com/searchResults/all?text=Terelj%20national%20park%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Terelj%20national%20park%20tour"
+    },
+    {
+      "icon": "🏜️",
+      "title": "Gobi Extension",
+      "desc": "Dunes, dinosaurs and nomad camps.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gobi%20desert%20tour%20from%20Ulaanbaatar",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gobi%20desert%20tour%20from%20Ulaanbaatar"
+    },
+    {
+      "icon": "🎭",
+      "title": "Naadam / Folk Show",
+      "desc": "Throat-singing, contortion and horse culture.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mongolia%20folk%20show%20Ulaanbaatar",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mongolia%20folk%20show%20Ulaanbaatar"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WORLD'S COLDEST CAPITAL",
+      "text": "Winters drop below -40°C — the coldest capital city on earth."
+    },
+    {
+      "title": "HALF THE COUNTRY",
+      "text": "Around half of Mongolia's 3.4 million people live in Ulaanbaatar."
+    },
+    {
+      "title": "THE GER DISTRICTS",
+      "text": "Yurt neighbourhoods spread across the hillsides — nomads who settled."
+    },
+    {
+      "title": "THE GIANT BUDDHA",
+      "text": "Gandan's Migjid Janraisig statue stands 26.5m — rebuilt after Soviet destruction."
+    },
+    {
+      "title": "CHINGGIS SQUARE",
+      "text": "Sükhbaatar Square's marble palace holds a seated Genghis Khan statue."
+    },
+    {
+      "title": "THE 40-METRE KHAN",
+      "text": "A 40m stainless Genghis on horseback — the world's largest equestrian statue — stands an hour east."
+    },
+    {
+      "title": "RED HERO",
+      "text": "'Ulaanbaatar' means Red Hero — the name dates to 1924."
+    },
+    {
+      "title": "AIR POLLUTION CRISIS",
+      "text": "Winter coal-smoke from the ger districts makes it among the world's most polluted capitals."
+    },
+    {
+      "title": "NAADAM",
+      "text": "July's festival of wrestling, horse racing and archery is the national holiday."
+    },
+    {
+      "title": "GOBI GATEWAY",
+      "text": "The desert's dinosaur cliffs and singing dunes start a day's drive south."
+    }
+  ],
+  "randomFacts": [
+    "Winters drop below -40°C — the coldest capital city on earth.",
+    "Around half of Mongolia's 3.4 million people live in Ulaanbaatar.",
+    "Yurt neighbourhoods spread across the hillsides — nomads who settled.",
+    "Gandan's Migjid Janraisig statue stands 26.5m — rebuilt after Soviet destruction.",
+    "Sükhbaatar Square's marble palace holds a seated Genghis Khan statue.",
+    "A 40m stainless Genghis on horseback — the world's largest equestrian statue — stands an hour east.",
+    "'Ulaanbaatar' means Red Hero — the name dates to 1924.",
+    "Winter coal-smoke from the ger districts makes it among the world's most polluted capitals.",
+    "July's festival of wrestling, horse racing and archery is the national holiday.",
+    "The desert's dinosaur cliffs and singing dunes start a day's drive south.",
+    "Traffic mixes Land Cruisers with camels' taxis at festivals.",
+    "Airag — fermented mare's milk — is offered to guests.",
+    "The city sits in a river valley at 1,350m.",
+    "Tumen Ekh ensemble performs throat-singing nightly.",
+    "Cashmere is the shopping — Mongolia makes much of the world's."
+  ],
+  "faq": [
+    {
+      "q": "Where is Ulaanbaatar located?",
+      "a": "Ulaanbaatar is in Mongolia, in Asia."
+    },
+    {
+      "q": "What is the population of Ulaanbaatar?",
+      "a": "The greater Ulaanbaatar area is home to about 1,700,000 people."
+    },
+    {
+      "q": "What is Ulaanbaatar famous for?",
+      "a": "Ulaanbaatar is famous for the world's coldest capital, the Gandan monastery, and the gateway to the Gobi and steppe nomad country."
+    },
+    {
+      "q": "Did IShowSpeed stream from Ulaanbaatar?",
+      "a": "Yes — IShowSpeed streamed from Ulaanbaatar on his 2025 Mongolia leg — the horse culture made it a fan-favourite episode. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

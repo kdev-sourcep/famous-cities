@@ -1,0 +1,145 @@
+{
+  "slug": "LONDON",
+  "name": "London",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "metro": "15,400,000",
+  "seo": {
+    "title": "London Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "London travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in London.",
+    "keywords": "London, London travel guide, things to do in London, London fun facts, where to stay in London, Famous Cities"
+  },
+  "image": "London.png",
+  "video": "videos/london.mp4",
+  "youtube": null,
+  "tagline": "As the “capital of capitals,” London keeps topping best-cities rankings. It is ranked #4 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "people",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/visitlondon/",
+    "twitter": "https://twitter.com/visitlondon",
+    "wikipedia": "https://en.wikipedia.org/wiki/London"
+  },
+  "overview": [
+    "London’s momentum has only grown. The Elizabeth line transformed cross-city travel — Heathrow to Tottenham Court Road in about 35 minutes — and visitor numbers have roared back to over 20 million international arrivals a year, keeping London the most-visited city in Europe.",
+    "The skyline story continues on the south bank of the Thames, where the restored Battersea Power Station has reopened as a shopping, dining and entertainment district complete with a chimney-top viewing lift. At the Olympic Park, the new East Bank cultural quarter keeps opening — V&amp;A East and Sadler’s Wells East are already drawing crowds.",
+    "Theatre, museums and food remain world-beating: the West End sells out nightly, the British Museum and Tate Modern are still free, and the dining scene spans century-old chophouses to food halls across Borough Market, Spitalfields and Seven Dials.",
+    "For first-timers: book the Tower of London and West End shows ahead, tap in with contactless payment straight on the Tube (no Oyster card needed), and leave time for the neighborhoods — Greenwich, Notting Hill, Shoreditch and Hampstead Heath each feel like their own village."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?city=-2601889&aid=2243524",
+    "tours": "https://www.viator.com/London/d5072",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lon/cheap-flights-to-london.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Tower of London & Crown Jewels",
+      "desc": "Nearly 1,000 years of royal history, plus the famous Crown Jewels.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tower%20of%20London",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tower%20of%20London"
+    },
+    {
+      "icon": "🎡",
+      "title": "London Eye",
+      "desc": "Panoramic views over Westminster and the Thames.",
+      "viator": "https://www.viator.com/searchResults/all?text=London%20Eye",
+      "getyourguide": "https://www.getyourguide.com/s/?q=London%20Eye"
+    },
+    {
+      "icon": "⚡",
+      "title": "Harry Potter Studio Tour",
+      "desc": "Walk through the real sets of the Harry Potter films.",
+      "viator": "https://www.viator.com/searchResults/all?text=Warner%20Bros%20Studio%20Tour%20London%20Harry%20Potter",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Warner%20Bros%20Studio%20Tour%20London%20Harry%20Potter"
+    },
+    {
+      "icon": "🚤",
+      "title": "Thames River Cruise",
+      "desc": "See Big Ben, St Paul's and Tower Bridge from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Thames%20river%20cruise%20London",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Thames%20river%20cruise%20London"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "LONDON THE SMALLEST CITY IN ENGLAND !",
+      "text": "That's right, The megacity the most of us know as London is actually called 'Greater London', whilst the City of London itself is a small portion of this sprawling metropolis. It has a population of only 9,123 people, making it the smallest in England"
+    },
+    {
+      "title": "TECHNICALLY A FOREST CITY",
+      "text": "We've spoken before about how green the capital is. It's hard to grasp unless you've visited , but the amount of greenery you can enjoy in London is enormous. So much so, that the density of the trees it has per square mile qualifies it as a forest as per the United Nations definition"
+    },
+    {
+      "title": "HALF OF LONDON UNDERGROUND RUNS OVER GROUND",
+      "text": "So really it should be called the Overground. Except we already have an Overground. Ah, well I think I'll stick to calling it 'the tube'."
+    },
+    {
+      "title": "'BIG BEN' AIN'T REALLY BIG BEN",
+      "text": "Tourists from all over come to stand on Westminster Bridge and take a selfie next to Big Ben and the Houses of Parliament. Unfortunately, not one of them ever leaves with a picture of it. This world-famous landmark actually named the Elizabeth Tower - Big Ben is the name of the bell that lives inside. So you won't snap a photo of Big Ben but if you're lucky you might get to hear it"
+    },
+    {
+      "title": "LONDON AIN'T THAT RAINY",
+      "text": "Rumor says that London is quite rainy but the opposite is actually true. The capital may be known for being a rainy city except for the fact, that its NOT TRUE AT ALL! London actually gets less rain than Rome, Miami, and Sydney both in terms of volume and number of rainy days."
+    },
+    {
+      "title": "MORE INDIAN RESTAURANTS THAN IN MUMBAI",
+      "text": "Even though technically every restaurant in Mumbai is an Indian restaurant, London seems to love them more. They have many excellent eateries that it far outweighs its culinary rival. If you want a great curry, you're off going to London over India."
+    },
+    {
+      "title": "DONT EXPECT TRAFFIC TO GET BETTER ANY TIME SOON",
+      "text": "If, that is, you're going by speed of movement across the city. vehicles driving through the city center average a top speed of 7.4 miles per hour - about the same speed as a horse and cab. Pet peeve we suggest you walk the glorious city"
+    },
+    {
+      "title": "LONDON THE RIGHT WAY",
+      "text": "Everybody knows that the English drive on the left-hand side of the road. Though, the same can't be said at \"Savoy Court.\" This is where visitors can get back to their roots. Savoy Court is the a road off the Strand on which the drivers are required  by law to drive on the right-hand side of the road"
+    },
+    {
+      "title": "THERE AIN'T ONE LONDON, BUT WE SURE ARE THE ORIGINAL",
+      "text": "This shouldn't come as surprise to the Americans who have a ton of cities and town names named  after famous cities around the world just like Paris, TX or Warsaw, KY. When it comes to London it is no different except it seems like France and Canada want to join in to share the glorious name of London as well.  Obviously the U.S. has 10 called London ,  Canada has 1 , and France has 1. That is a total of 13 Londons ! There is even an asteroid called London. Make sure you know where you're going next time you book tickets otherwise you might just end up in space observing the stars from your own asteriod FUN !"
+    }
+  ],
+  "randomFacts": [
+    "London has over 170 museums, including the British Museum which is free to visit.",
+    "The London Underground is the oldest underground railway network in the world.",
+    "Big Ben is actually the name of the bell, not the clock tower.",
+    "London has more than 8 million trees, making it one of the world's greenest cities.",
+    "The Tower of London houses the Crown Jewels, worth over £20 billion.",
+    "London has been the capital of England for over 1,000 years.",
+    "There are over 300 languages spoken in London, making it the most linguistically diverse city in the world.",
+    "The London Eye is the tallest Ferris wheel in Europe at 135 meters.",
+    "Buckingham Palace has 775 rooms, including 78 bathrooms.",
+    "London's red telephone boxes are iconic, but there are fewer than 4,000 remaining.",
+    "The River Thames flows through London and is 215 miles long.",
+    "London has four UNESCO World Heritage Sites.",
+    "The Shard is the tallest building in the UK at 310 meters.",
+    "London's parks cover 40% of the city, including Hyde Park and Regent's Park.",
+    "The British Library in London holds over 150 million items."
+  ],
+  "faq": [
+    {
+      "q": "Where is London located?",
+      "a": "London is in the United Kingdom, in Europe."
+    },
+    {
+      "q": "What is the population of London?",
+      "a": "Greater London is home to about 9 million people, and the wider metro area to about 15.4 million."
+    },
+    {
+      "q": "What is London famous for?",
+      "a": "London is famous for Big Ben, Buckingham Palace, the Tower of London, world-class free museums, and its West End theatres."
+    },
+    {
+      "q": "Is London worth visiting?",
+      "a": "Yes — London was ranked #4 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from London?",
+      "a": "Yes — IShowSpeed livestreamed from London during his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 4
+}

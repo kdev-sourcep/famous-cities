@@ -1,0 +1,140 @@
+{
+  "slug": "Manuel-Antonio",
+  "name": "Manuel Antonio",
+  "region": "North America",
+  "country": "Costa Rica",
+  "metro": "12,000",
+  "seo": {
+    "title": "Manuel Antonio Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Manuel Antonio travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Manuel Antonio.",
+    "keywords": "Manuel Antonio, Manuel Antonio travel guide, things to do in Manuel Antonio, Manuel Antonio fun facts, where to stay in Manuel Antonio, Famous Cities"
+  },
+  "image": "Manuel-Antonio.png",
+  "video": "videos/manuel-antonio.mp4",
+  "youtube": null,
+  "tagline": "Costa Rica's most-visited national park squeezes rainforest trails, white-sand beaches and more wildlife per acre than almost anywhere — sloths and monkeys included.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Manuel%20Antonio",
+    "twitter": "https://twitter.com/search?q=visit%20Manuel%20Antonio",
+    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Antonio_National_Park"
+  },
+  "overview": [
+    "Manuel Antonio National Park is the smallest national park in Costa Rica and by far its most famous. Created in 1972 when locals pushed to protect the forest from development, it wraps jungle-covered headlands around some of the country's most beautiful white-sand beaches.",
+    "The park's trails are short but packed with life. Two-toed and three-toed sloths hang in the canopy, capuchin monkeys patrol the beaches, and the endangered Central American squirrel monkey — found almost nowhere else — leaps through the trees in troops. Iguanas, coatis and basilisk lizards are close behind.",
+    "The town hugs the jungle-lined road down from Quepos, the fishing port that calls itself the sailfish capital of the world. Offshore, catamaran tours snorkel quiet coves, and the mangroves of the Damas Island estuary offer calm boat trips through tunnels of roots where monkeys and crocodiles live."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Manuel Antonio&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Manuel%20Antonio",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sjo/cheap-flights-to-manuel%20antonio.html"
+  },
+  "topThings": [
+    {
+      "icon": "🦥",
+      "title": "National Park Wildlife Tour",
+      "desc": "Guides with scopes find sloths and monkeys you'd walk past.",
+      "viator": "https://www.viator.com/searchResults/all?text=Manuel%20Antonio%20National%20Park%20guided%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Manuel%20Antonio%20National%20Park%20guided%20tour"
+    },
+    {
+      "icon": "⛵",
+      "title": "Catamaran & Snorkel Cruise",
+      "desc": "Sail the coast, snorkel a cove and watch for dolphins.",
+      "viator": "https://www.viator.com/searchResults/all?text=Manuel%20Antonio%20catamaran%20snorkel%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Manuel%20Antonio%20catamaran%20snorkel%20cruise"
+    },
+    {
+      "icon": "🐟",
+      "title": "Sportfishing Charter",
+      "desc": "Chase sailfish and marlin out of Quepos.",
+      "viator": "https://www.viator.com/searchResults/all?text=Quepos%20sportfishing%20charter",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Quepos%20sportfishing%20charter"
+    },
+    {
+      "icon": "🛶",
+      "title": "Damas Island Mangrove",
+      "desc": "Boat or kayak the mangrove estuary with monkeys overhead.",
+      "viator": "https://www.viator.com/searchResults/all?text=Damas%20Island%20mangrove%20tour%20Quepos",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Damas%20Island%20mangrove%20tour%20Quepos"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SMALL BUT MIGHTY",
+      "text": "Manuel Antonio is Costa Rica's smallest national park — and its most visited."
+    },
+    {
+      "title": "A MONKEY FOUND ALMOST NOWHERE ELSE",
+      "text": "The grey-crowned Central American squirrel monkey survives mainly in and around this park."
+    },
+    {
+      "title": "CLOSED FOR THE ANIMALS",
+      "text": "The park closes one day each week so the wildlife can rest from visitors."
+    },
+    {
+      "title": "A BEACH VOTED WORLD-CLASS",
+      "text": "Playa Manuel Antonio regularly ranks among the best beaches in the world in traveller polls."
+    },
+    {
+      "title": "OVER 100 MAMMAL SPECIES",
+      "text": "The park packs more than 100 mammal and 180 bird species into just a few square kilometres."
+    },
+    {
+      "title": "AN ISLAND THAT JOINED THE COAST",
+      "text": "Punta Catedral, the park's landmark rock, was an island until sand built a natural bridge to it."
+    },
+    {
+      "title": "THE SAILFISH CAPITAL",
+      "text": "Neighbouring Quepos hosts international tournaments and some of the best Pacific sportfishing."
+    },
+    {
+      "title": "RAIDERS OF THE BEACH",
+      "text": "Capuchin monkeys on the beach are expert snack thieves — park rules ban feeding them."
+    },
+    {
+      "title": "JESUS CHRIST LIZARD",
+      "text": "Basilisk lizards here can sprint across the surface of water on their hind legs."
+    },
+    {
+      "title": "NAMED AFTER A SETTLER",
+      "text": "The park is named for a Spanish-era settler buried on Punta Catedral, marked by a wooden cross."
+    }
+  ],
+  "randomFacts": [
+    "Manuel Antonio is Costa Rica's smallest national park — and its most visited.",
+    "The grey-crowned Central American squirrel monkey survives mainly in and around this park.",
+    "The park closes one day each week so the wildlife can rest from visitors.",
+    "Playa Manuel Antonio regularly ranks among the best beaches in the world in traveller polls.",
+    "The park packs more than 100 mammal and 180 bird species into just a few square kilometres.",
+    "Punta Catedral, the park's landmark rock, was an island until sand built a natural bridge to it.",
+    "Neighbouring Quepos hosts international tournaments and some of the best Pacific sportfishing.",
+    "Capuchin monkeys on the beach are expert snack thieves — park rules ban feeding them.",
+    "Basilisk lizards here can sprint across the surface of water on their hind legs.",
+    "The park is named for a Spanish-era settler buried on Punta Catedral, marked by a wooden cross.",
+    "Sloths can hold their breath longer than dolphins — up to 40 minutes.",
+    "Costa Rica means 'rich coast', a name given by Columbus.",
+    "The country has no army and around 5% of world biodiversity.",
+    "Squirrel monkeys travel in troops of up to 70.",
+    "Quepos was once a banana port for the United Fruit Company."
+  ],
+  "faq": [
+    {
+      "q": "Where is Manuel Antonio located?",
+      "a": "Manuel Antonio is in Costa Rica, in North America."
+    },
+    {
+      "q": "What is the population of Manuel Antonio?",
+      "a": "The greater Manuel Antonio area is home to about 12,000 people."
+    },
+    {
+      "q": "What is Manuel Antonio famous for?",
+      "a": "Costa Rica's most-visited national park squeezes rainforest trails, white-sand beaches and more wildlife per acre than almost anywhere — sloths and monkeys included."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

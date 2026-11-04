@@ -1,0 +1,144 @@
+{
+  "slug": "Madrid",
+  "name": "Madrid",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "6,800,000",
+  "seo": {
+    "title": "Madrid Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Madrid travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Madrid.",
+    "keywords": "Madrid, Madrid travel guide, things to do in Madrid, Madrid fun facts, where to stay in Madrid, Famous Cities"
+  },
+  "image": "Madrid.png",
+  "video": "videos/madrid.mp4",
+  "youtube": null,
+  "tagline": "Spain's sun-drenched capital mixes world-class art, grand boulevards and leafy parks with a legendary late-night food and social scene. It is ranked #19 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Madrid",
+    "twitter": "https://twitter.com/search?q=visit%20Madrid",
+    "wikipedia": "https://en.wikipedia.org/wiki/Madrid"
+  },
+  "overview": [
+    "Madrid became Spain's capital in 1561, when King Philip II moved the royal court here, and it has grown into one of Europe's liveliest cities. Grand avenues like the Gran Vía and the Paseo del Prado are lined with theatres, palaces and fountains, while the Royal Palace and the Plaza Mayor recall the city's imperial past.",
+    "Art lovers come for the \"Golden Triangle\" of museums within a short walk of each other: the Prado, with masterpieces by Velázquez and Goya; the Reina Sofía, home to Picasso's Guernica; and the Thyssen-Bornemisza. Next door, El Retiro park offers rowing boats, the glass Palacio de Cristal and shady paths. Together, the Paseo del Prado and El Retiro were added to the UNESCO World Heritage list in 2021.",
+    "Madrid truly comes alive after dark. Dinner rarely starts before 9 p.m., and neighborhoods like La Latina, Malasaña and Lavapiés are packed with tapas bars until late. On Sundays, the El Rastro flea market fills the streets, and the Madrid Río park along the Manzanares river—built over a buried motorway—is perfect for a walk or a bike ride."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Madrid&aid=2243524",
+    "tours": "https://www.viator.com/Madrid/d566",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mad/cheap-flights-to-madrid.html"
+  },
+  "topThings": [
+    {
+      "icon": "🖼️",
+      "title": "Prado Museum",
+      "desc": "Velázquez, Goya and El Greco in one of the world's great museums.",
+      "viator": "https://www.viator.com/searchResults/all?text=Prado%20Museum%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Prado%20Museum%20tickets"
+    },
+    {
+      "icon": "👑",
+      "title": "Royal Palace of Madrid",
+      "desc": "Tour the lavish rooms of Spain's official royal residence.",
+      "viator": "https://www.viator.com/searchResults/all?text=Royal%20Palace%20Madrid%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Royal%20Palace%20Madrid%20tickets"
+    },
+    {
+      "icon": "🍤",
+      "title": "Tapas Tour",
+      "desc": "Hop between historic tapas bars with a local guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Madrid%20tapas%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Madrid%20tapas%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Toledo Day Trip",
+      "desc": "Medieval streets and cathedrals an hour from Madrid.",
+      "viator": "https://www.viator.com/searchResults/all?text=Toledo%20day%20trip%20from%20Madrid",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Toledo%20day%20trip%20from%20Madrid"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SPAIN'S ROADS START IN PUERTA DEL SOL",
+      "text": "A small plaque in Puerta del Sol marks Kilometre Zero, the point from which distances on Spain's national radial roads are measured."
+    },
+    {
+      "title": "HOME OF THE WORLD'S OLDEST RESTAURANT",
+      "text": "Sobrino de Botín, founded in 1725, is recognised by Guinness World Records as the oldest restaurant in the world still operating. Its speciality is roast suckling pig."
+    },
+    {
+      "title": "THE HIGHEST CAPITAL IN THE EU",
+      "text": "At around 650 metres above sea level, Madrid is the highest capital city in the European Union, which helps explain its hot summers and crisp winters."
+    },
+    {
+      "title": "PICASSO'S GUERNICA LIVES HERE",
+      "text": "Picasso's powerful anti-war painting hangs in the Reina Sofía museum. It only arrived in Spain in 1981, after the return of democracy, as the artist had wished."
+    },
+    {
+      "title": "CAPITAL SINCE 1561",
+      "text": "King Philip II moved the royal court to Madrid in 1561, turning a modest town into the capital of a global empire."
+    },
+    {
+      "title": "EL RETIRO HAS A PALACE MADE OF GLASS",
+      "text": "The Palacio de Cristal in El Retiro park was built in 1887 to display exotic plants. Today it hosts contemporary art exhibitions."
+    },
+    {
+      "title": "THE ROYAL PALACE IS ENORMOUS",
+      "text": "With more than 3,000 rooms, Madrid's Royal Palace is one of the largest royal palaces in Europe. It is still used for state ceremonies."
+    },
+    {
+      "title": "THE BEAR AND THE STRAWBERRY TREE",
+      "text": "Madrid's symbol is a bear reaching up to a strawberry tree (El Oso y el Madroño). A statue of it stands in Puerta del Sol and is a popular meeting point."
+    },
+    {
+      "title": "MADRILEÑOS ARE CALLED \"CATS\"",
+      "text": "Locals born in Madrid are nicknamed gatos. Legend says it began when a soldier climbed the city walls like a cat during the conquest of 1085."
+    },
+    {
+      "title": "A FLEA MARKET EVERY SUNDAY",
+      "text": "El Rastro, one of Europe's best-known open-air markets, has been held in the La Latina area for centuries and draws huge crowds every Sunday morning."
+    }
+  ],
+  "randomFacts": [
+    "A small plaque in Puerta del Sol marks Kilometre Zero, the point from which distances on Spain's national radial roads are measured.",
+    "Sobrino de Botín, founded in 1725, is recognised by Guinness World Records as the oldest restaurant in the world still operating. Its speciality is roast suckling pig.",
+    "At around 650 metres above sea level, Madrid is the highest capital city in the European Union, which helps explain its hot summers and crisp winters.",
+    "Picasso's powerful anti-war painting hangs in the Reina Sofía museum. It only arrived in Spain in 1981, after the return of democracy, as the artist had wished.",
+    "King Philip II moved the royal court to Madrid in 1561, turning a modest town into the capital of a global empire.",
+    "The Palacio de Cristal in El Retiro park was built in 1887 to display exotic plants. Today it hosts contemporary art exhibitions.",
+    "With more than 3,000 rooms, Madrid's Royal Palace is one of the largest royal palaces in Europe. It is still used for state ceremonies.",
+    "Madrid's symbol is a bear reaching up to a strawberry tree (El Oso y el Madroño). A statue of it stands in Puerta del Sol and is a popular meeting point.",
+    "Locals born in Madrid are nicknamed gatos. Legend says it began when a soldier climbed the city walls like a cat during the conquest of 1085.",
+    "El Rastro, one of Europe's best-known open-air markets, has been held in the La Latina area for centuries and draws huge crowds every Sunday morning.",
+    "Madrid's Metro has around 300 stations, one of the largest networks in Europe.",
+    "The Temple of Debod is a real ancient Egyptian temple, gifted by Egypt and rebuilt in Madrid in 1972.",
+    "Real Madrid has won the European Cup/Champions League more times than any other club.",
+    "Chocolatería San Ginés has served churros con chocolate since 1894.",
+    "Dinner in Madrid usually starts at 9 or 10 p.m."
+  ],
+  "faq": [
+    {
+      "q": "Where is Madrid located?",
+      "a": "Madrid is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Madrid?",
+      "a": "The greater Madrid area is home to about 6,800,000 people."
+    },
+    {
+      "q": "What is Madrid famous for?",
+      "a": "Spain's sun-drenched capital mixes world-class art, grand boulevards and leafy parks with a legendary late-night food and social scene."
+    },
+    {
+      "q": "Is Madrid worth visiting?",
+      "a": "Yes — Madrid was ranked #19 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": 19
+}

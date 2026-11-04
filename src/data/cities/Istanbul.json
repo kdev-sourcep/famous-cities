@@ -1,0 +1,140 @@
+{
+  "slug": "Istanbul",
+  "name": "Istanbul",
+  "region": "Europe",
+  "country": "Türkiye",
+  "metro": "15,700,000",
+  "seo": {
+    "title": "Istanbul Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Istanbul travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Istanbul.",
+    "keywords": "Istanbul, Istanbul travel guide, things to do in Istanbul, Istanbul fun facts, where to stay in Istanbul, Famous Cities"
+  },
+  "image": "Istanbul.png",
+  "video": "videos/istanbul.mp4",
+  "youtube": null,
+  "tagline": "Straddling Europe and Asia across the Bosphorus, Istanbul blends Byzantine and Ottoman landmarks with bustling bazaars, busy ferries and fantastic street food.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Istanbul",
+    "twitter": "https://twitter.com/search?q=visit%20Istanbul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Istanbul"
+  },
+  "overview": [
+    "Founded as the Greek colony of Byzantium and renamed Constantinople by Emperor Constantine in AD 330, Istanbul was the capital of the Roman and Byzantine empires for more than 1,000 years. After the Ottoman conquest in 1453 it became the heart of the Ottoman Empire until 1922. Its historic areas were added to the UNESCO World Heritage list in 1985.",
+    "Most first-time visitors start in Sultanahmet, where Hagia Sophia, the Blue Mosque, Topkapı Palace and the underground Basilica Cistern are all a short walk apart. Nearby, the Grand Bazaar and the Spice Bazaar are a maze of carpets, lamps, sweets and spices—perfect for practicing your bargaining skills.",
+    "The best way to feel the city is from the water. Cheap public ferries criss-cross the Bosphorus between Europe and Asia, so you can have breakfast in Karaköy and lunch in Kadıköy on the Asian side. Snack on simit and balık ekmek (fish sandwiches), finish with baklava and a glass of tea, and watch the sunset from the Galata Tower."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Istanbul&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Istanbul",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ist/cheap-flights-to-istanbul.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Hagia Sophia & Blue Mosque",
+      "desc": "Guided visits to Istanbul's two most famous landmarks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hagia%20Sophia%20Blue%20Mosque%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hagia%20Sophia%20Blue%20Mosque%20tour"
+    },
+    {
+      "icon": "👑",
+      "title": "Topkapı Palace",
+      "desc": "Treasures, courtyards and harem rooms of the Ottoman sultans.",
+      "viator": "https://www.viator.com/searchResults/all?text=Topkapi%20Palace%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Topkapi%20Palace%20tickets"
+    },
+    {
+      "icon": "⛴️",
+      "title": "Bosphorus Cruise",
+      "desc": "Sail between Europe and Asia past palaces and fortresses.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bosphorus%20cruise%20Istanbul",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bosphorus%20cruise%20Istanbul"
+    },
+    {
+      "icon": "🛁",
+      "title": "Turkish Bath (Hammam)",
+      "desc": "Relax in a centuries-old tradition with a scrub and massage.",
+      "viator": "https://www.viator.com/searchResults/all?text=Turkish%20bath%20hammam%20Istanbul",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Turkish%20bath%20hammam%20Istanbul"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A CITY ON TWO CONTINENTS",
+      "text": "The Bosphorus Strait runs through the middle of Istanbul, so part of the city is in Europe and part is in Asia. Ferries and bridges connect the two sides every day."
+    },
+    {
+      "title": "IT HAS HAD SEVERAL NAMES",
+      "text": "Over the centuries the city has been called Byzantium, Constantinople and Istanbul. The name Istanbul became official internationally in 1930."
+    },
+    {
+      "title": "HAGIA SOPHIA IS NEARLY 1,500 YEARS OLD",
+      "text": "Completed in AD 537 under Emperor Justinian, Hagia Sophia has been a cathedral, a mosque, a museum and, since 2020, a mosque again. Its dome was an engineering marvel for centuries."
+    },
+    {
+      "title": "ONE OF THE WORLD'S OLDEST COVERED MARKETS",
+      "text": "The Grand Bazaar dates back to the 15th century and has around 4,000 shops spread across more than 60 covered streets."
+    },
+    {
+      "title": "A PALACE THAT RULED AN EMPIRE",
+      "text": "Topkapı Palace was the main residence of the Ottoman sultans for about 400 years. Today it displays imperial treasures, including the famous Topkapı Dagger."
+    },
+    {
+      "title": "AN UNDERGROUND WATER PALACE",
+      "text": "The 6th-century Basilica Cistern stored water for the city. Its forest of 336 columns includes two that rest on carved Medusa heads."
+    },
+    {
+      "title": "TULIPS WERE AN OTTOMAN OBSESSION",
+      "text": "Long before the Netherlands became famous for them, tulips were cultivated and celebrated by the Ottomans. They reached Western Europe in the 16th century."
+    },
+    {
+      "title": "ONE OF THE OLDEST UNDERGROUND RAILWAYS",
+      "text": "The Tünel funicular, opened in 1875, is the second-oldest underground urban railway in the world after the London Underground."
+    },
+    {
+      "title": "THE CITY OF CATS",
+      "text": "Istanbul is famous for its street cats, which are fed and cared for by locals and shopkeepers all over the city."
+    },
+    {
+      "title": "TURKISH DELIGHT HAS DEEP ROOTS HERE",
+      "text": "The Hacı Bekir shop, founded in Istanbul in 1777, helped make lokum—Turkish delight—famous around the world."
+    }
+  ],
+  "randomFacts": [
+    "The Bosphorus Strait runs through the middle of Istanbul, so part of the city is in Europe and part is in Asia. Ferries and bridges connect the two sides every day.",
+    "Over the centuries the city has been called Byzantium, Constantinople and Istanbul. The name Istanbul became official internationally in 1930.",
+    "Completed in AD 537 under Emperor Justinian, Hagia Sophia has been a cathedral, a mosque, a museum and, since 2020, a mosque again. Its dome was an engineering marvel for centuries.",
+    "The Grand Bazaar dates back to the 15th century and has around 4,000 shops spread across more than 60 covered streets.",
+    "Topkapı Palace was the main residence of the Ottoman sultans for about 400 years. Today it displays imperial treasures, including the famous Topkapı Dagger.",
+    "The 6th-century Basilica Cistern stored water for the city. Its forest of 336 columns includes two that rest on carved Medusa heads.",
+    "Long before the Netherlands became famous for them, tulips were cultivated and celebrated by the Ottomans. They reached Western Europe in the 16th century.",
+    "The Tünel funicular, opened in 1875, is the second-oldest underground urban railway in the world after the London Underground.",
+    "Istanbul is famous for its street cats, which are fed and cared for by locals and shopkeepers all over the city.",
+    "The Hacı Bekir shop, founded in Istanbul in 1777, helped make lokum—Turkish delight—famous around the world.",
+    "Istanbul is Türkiye's largest city, but the capital is Ankara.",
+    "The Marmaray rail tunnel runs under the Bosphorus, linking Europe and Asia.",
+    "The Galata Tower was built by the Genoese in the 14th century.",
+    "The Maiden's Tower sits on a tiny islet in the Bosphorus.",
+    "Turkish tea is usually served in small tulip-shaped glasses."
+  ],
+  "faq": [
+    {
+      "q": "Where is Istanbul located?",
+      "a": "Istanbul is in Türkiye, in Europe."
+    },
+    {
+      "q": "What is the population of Istanbul?",
+      "a": "The greater Istanbul area is home to about 15,700,000 people."
+    },
+    {
+      "q": "What is Istanbul famous for?",
+      "a": "Straddling Europe and Asia across the Bosphorus, Istanbul blends Byzantine and Ottoman landmarks with bustling bazaars, busy ferries and fantastic street food."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

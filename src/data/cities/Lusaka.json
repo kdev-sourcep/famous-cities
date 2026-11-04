@@ -1,0 +1,144 @@
+{
+  "slug": "Lusaka",
+  "name": "Lusaka",
+  "region": "Africa",
+  "country": "Zambia",
+  "metro": "3,000,000",
+  "seo": {
+    "title": "Lusaka Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Lusaka travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Lusaka.",
+    "keywords": "Lusaka, Lusaka travel guide, things to do in Lusaka, Lusaka fun facts, where to stay in Lusaka, Famous Cities"
+  },
+  "image": "Lusaka.png",
+  "video": "videos/lusaka.mp4",
+  "youtube": null,
+  "tagline": "The safari republic's capital — fast-growing, friendly, and the gateway to Victoria Falls and South Luangwa's walking safaris.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Lusaka",
+    "twitter": "https://twitter.com/search?q=visit%20Lusaka",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lusaka"
+  },
+  "overview": [
+    "Lusaka is the capital of the country that invented the walking safari — a fast-growing, easygoing city of 3 million in a landlocked nation blessed with wildlife and the mightiest waterfall on earth.",
+    "The city itself is markets and momentum: the sprawling Soweto and Luburma markets, the Kabwata cultural village's craft stalls, and the restaurants and nightlife of the Kabulonga and Rhodes Park districts. It's friendly, functional, and improving fast.",
+    "Speed's 2025 Africa tour streamed from Lusaka. The bucket-list items are hours away: Victoria Falls at Livingstone ('the smoke that thunders') and South Luangwa National Park, where the walking safari was pioneered."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Lusaka&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Lusaka",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lun/cheap-flights-to-lusaka.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌊",
+      "title": "Victoria Falls Trip",
+      "desc": "The smoke that thunders at Livingstone.",
+      "viator": "https://www.viator.com/searchResults/all?text=Victoria%20Falls%20tour%20Zambia",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Victoria%20Falls%20tour%20Zambia"
+    },
+    {
+      "icon": "🦁",
+      "title": "South Luangwa Extension",
+      "desc": "The walking-safari park.",
+      "viator": "https://www.viator.com/searchResults/all?text=South%20Luangwa%20safari%20Zambia",
+      "getyourguide": "https://www.getyourguide.com/s/?q=South%20Luangwa%20safari%20Zambia"
+    },
+    {
+      "icon": "🏙️",
+      "title": "City & Culture",
+      "desc": "Markets, Kabwata, city life.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lusaka%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lusaka%20city%20tour"
+    },
+    {
+      "icon": "🛶",
+      "title": "Lower Zambezi",
+      "desc": "Canoe safaris past elephants.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lower%20Zambezi%20canoe%20safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lower%20Zambezi%20canoe%20safari"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE WALKING SAFARI",
+      "text": "South Luangwa pioneered the guided walking safari — now world-famous."
+    },
+    {
+      "title": "VICTORIA FALLS",
+      "text": "'Mosi-oa-Tunya' — the smoke that thunders — is Zambia's side of the world's largest waterfall."
+    },
+    {
+      "title": "NSHIMA COUNTRY",
+      "text": "The maize-meal staple is the national plate — eaten with relish and hands."
+    },
+    {
+      "title": "A GARDEN CITY",
+      "text": "Lusaka was designed as a garden city in 1935 — it has sprawled wildly since."
+    },
+    {
+      "title": "KABWATA",
+      "text": "The cultural village concentrates the country's crafts for easy buying."
+    },
+    {
+      "title": "LANDLOCKED GIANT",
+      "text": "Zambia is landlocked — but its river parks (Lower Zambezi) are world-class."
+    },
+    {
+      "title": "THE MIGHTY KWACHA",
+      "text": "The currency's name means 'dawn' in Nyanja."
+    },
+    {
+      "title": "SOWETO MARKET",
+      "text": "The giant market is one of southern Africa's biggest — an experience in itself."
+    },
+    {
+      "title": "FLYING DOCTOR COUNTRY",
+      "text": "Remote parks made Zambia a pioneer of fly-in safaris."
+    },
+    {
+      "title": "INDEPENDENT AND PEACEFUL",
+      "text": "Zambia has had peaceful democratic transfers — rare and noted in the region."
+    }
+  ],
+  "randomFacts": [
+    "South Luangwa pioneered the guided walking safari — now world-famous.",
+    "'Mosi-oa-Tunya' — the smoke that thunders — is Zambia's side of the world's largest waterfall.",
+    "The maize-meal staple is the national plate — eaten with relish and hands.",
+    "Lusaka was designed as a garden city in 1935 — it has sprawled wildly since.",
+    "The cultural village concentrates the country's crafts for easy buying.",
+    "Zambia is landlocked — but its river parks (Lower Zambezi) are world-class.",
+    "The currency's name means 'dawn' in Nyanja.",
+    "The giant market is one of southern Africa's biggest — an experience in itself.",
+    "Remote parks made Zambia a pioneer of fly-in safaris.",
+    "Zambia has had peaceful democratic transfers — rare and noted in the region.",
+    "Nshima is eaten by hand — the etiquette is quick to learn.",
+    "The falls are best August–December for Devil's Pool.",
+    "Chitenge fabric markets are the shopping.",
+    "Sausage trees really grow sausage-shaped fruit.",
+    "The city's minibuses cover everywhere."
+  ],
+  "faq": [
+    {
+      "q": "Where is Lusaka located?",
+      "a": "Lusaka is in Zambia, in Africa."
+    },
+    {
+      "q": "What is the population of Lusaka?",
+      "a": "The greater Lusaka area is home to about 3,000,000 people."
+    },
+    {
+      "q": "What is Lusaka famous for?",
+      "a": "Lusaka is famous for the gateway to Victoria Falls and South Luangwa safaris — a growing capital of markets and maize meal."
+    },
+    {
+      "q": "Did IShowSpeed stream from Lusaka?",
+      "a": "Yes — IShowSpeed streamed from Lusaka on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

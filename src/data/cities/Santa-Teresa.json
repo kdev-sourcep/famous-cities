@@ -1,0 +1,140 @@
+{
+  "slug": "Santa-Teresa",
+  "name": "Santa Teresa",
+  "region": "North America",
+  "country": "Costa Rica",
+  "metro": "5,000",
+  "seo": {
+    "title": "Santa Teresa Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Santa Teresa travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Santa Teresa.",
+    "keywords": "Santa Teresa, Santa Teresa travel guide, things to do in Santa Teresa, Santa Teresa fun facts, where to stay in Santa Teresa, Famous Cities"
+  },
+  "image": "Santa-Teresa.png",
+  "video": "videos/santa-teresa.mp4",
+  "youtube": null,
+  "tagline": "A dusty, laid-back surf town on the Nicoya Peninsula where consistent waves, yoga decks and beach-bar sunsets draw surfers, wellness travellers and digital nomads.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Santa%20Teresa",
+    "twitter": "https://twitter.com/search?q=visit%20Santa%20Teresa",
+    "wikipedia": "https://en.wikipedia.org/wiki/Santa_Teresa,_Costa_Rica"
+  },
+  "overview": [
+    "Santa Teresa was a string of fishing and cattle homesteads until surfers arrived in the 1990s and found wave after wave breaking along its beaches. The town grew along a single unpaved coastal road, and the surf-shack feel survives even as boutique hotels and cafés fill in behind the palms.",
+    "The surf is the draw: warm water and reliable beach breaks like Playa Santa Teresa, Playa Carmen and Playa Hermosa work for beginners and experts almost year-round. Off the board, the town is one of Costa Rica's yoga capitals, with open-air studios, smoothie bowls and retreats up and down the road.",
+    "The surrounding peninsula stays wild. Cabo Blanco — Costa Rica's very first protected nature reserve — caps the peninsula's tip, Montezuma's jungle waterfalls lie 30 minutes north, and boats cross the Gulf of Nicoya to hidden coves. Expect ATVs, dusty roads and some of the best sunsets in the country."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Santa Teresa&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Santa%20Teresa",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sjo/cheap-flights-to-santa%20teresa.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏄",
+      "title": "Surf Lesson",
+      "desc": "Learn on Playa Santa Teresa's forgiving beach break.",
+      "viator": "https://www.viator.com/searchResults/all?text=Santa%20Teresa%20Costa%20Rica%20surf%20lesson",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Santa%20Teresa%20Costa%20Rica%20surf%20lesson"
+    },
+    {
+      "icon": "🧘",
+      "title": "Yoga Class on a Jungle Deck",
+      "desc": "Drop into one of the town's famous open-air studios.",
+      "viator": "https://www.viator.com/searchResults/all?text=Santa%20Teresa%20Costa%20Rica%20yoga%20class",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Santa%20Teresa%20Costa%20Rica%20yoga%20class"
+    },
+    {
+      "icon": "🛵",
+      "title": "ATV Coastal Tour",
+      "desc": "Ride the dirt roads to hidden beaches and viewpoints.",
+      "viator": "https://www.viator.com/searchResults/all?text=Santa%20Teresa%20ATV%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Santa%20Teresa%20ATV%20tour"
+    },
+    {
+      "icon": "🌊",
+      "title": "Montezuma & Cabo Blanco Trip",
+      "desc": "Waterfalls, tide pools and Costa Rica's first reserve.",
+      "viator": "https://www.viator.com/searchResults/all?text=Montezuma%20Cabo%20Blanco%20day%20trip%20Santa%20Teresa",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Montezuma%20Cabo%20Blanco%20day%20trip%20Santa%20Teresa"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A BLUE ZONE",
+      "text": "The Nicoya Peninsula is one of the world's five Blue Zones, where locals routinely live past 100."
+    },
+    {
+      "title": "COSTA RICA'S FIRST PARK",
+      "text": "Cabo Blanco at the peninsula's tip became the country's first protected nature reserve in 1963."
+    },
+    {
+      "title": "SURF ALMOST EVERY DAY",
+      "text": "The consistent beach breaks make Santa Teresa one of the most reliable surf towns in Central America."
+    },
+    {
+      "title": "REACHED BY FERRY",
+      "text": "Most visitors arrive via the Paquera ferry across the Gulf of Nicoya from Puntarenas."
+    },
+    {
+      "title": "A DIRT-ROAD TOWN",
+      "text": "The main road stayed unpaved for decades and ATVs remain a normal way to get around."
+    },
+    {
+      "title": "THE PORGY HAS FANS",
+      "text": "Mel Gibson, Gisele Bündchen and other celebrities have famously holidayed here."
+    },
+    {
+      "title": "TURTLES NEXT DOOR",
+      "text": "The southern Nicoya coast hosts olive ridley sea turtle nestings through the year."
+    },
+    {
+      "title": "TWO TOWNS MERGED",
+      "text": "Santa Teresa and Mal País run together along the same coastal strip and are often named as one."
+    },
+    {
+      "title": "WATERFALLS NEARBY",
+      "text": "The three-tiered Montezuma waterfall has pools for swimming and a famous rope swing."
+    },
+    {
+      "title": "SUNSETS OVER THE PACIFIC",
+      "text": "Facing west, the beach gives a nightly sunset show straight into the ocean."
+    }
+  ],
+  "randomFacts": [
+    "The Nicoya Peninsula is one of the world's five Blue Zones, where locals routinely live past 100.",
+    "Cabo Blanco at the peninsula's tip became the country's first protected nature reserve in 1963.",
+    "The consistent beach breaks make Santa Teresa one of the most reliable surf towns in Central America.",
+    "Most visitors arrive via the Paquera ferry across the Gulf of Nicoya from Puntarenas.",
+    "The main road stayed unpaved for decades and ATVs remain a normal way to get around.",
+    "Mel Gibson, Gisele Bündchen and other celebrities have famously holidayed here.",
+    "The southern Nicoya coast hosts olive ridley sea turtle nestings through the year.",
+    "Santa Teresa and Mal País run together along the same coastal strip and are often named as one.",
+    "The three-tiered Montezuma waterfall has pools for swimming and a famous rope swing.",
+    "Facing west, the beach gives a nightly sunset show straight into the ocean.",
+    "'Pura vida' doubles as hello, goodbye and thanks.",
+    "The town has virtually no streetlights near the beach.",
+    "Howler monkeys are a daily soundtrack at dawn.",
+    "Nicoya Blue Zone diets rely on beans, corn and tropical fruit.",
+    "High tide turns some beach stretches into islands of sand."
+  ],
+  "faq": [
+    {
+      "q": "Where is Santa Teresa located?",
+      "a": "Santa Teresa is in Costa Rica, in North America."
+    },
+    {
+      "q": "What is the population of Santa Teresa?",
+      "a": "The greater Santa Teresa area is home to about 5,000 people."
+    },
+    {
+      "q": "What is Santa Teresa famous for?",
+      "a": "A dusty, laid-back surf town on the Nicoya Peninsula where consistent waves, yoga decks and beach-bar sunsets draw surfers, wellness travellers and digital nomads."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

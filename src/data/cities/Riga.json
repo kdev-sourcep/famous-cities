@@ -1,0 +1,144 @@
+{
+  "slug": "Riga",
+  "name": "Riga",
+  "region": "Europe",
+  "country": "Latvia",
+  "metro": "600,000",
+  "seo": {
+    "title": "Riga Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Riga travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Riga.",
+    "keywords": "Riga, Riga travel guide, things to do in Riga, Riga fun facts, where to stay in Riga, Famous Cities"
+  },
+  "image": "Riga.png",
+  "video": "videos/riga.mp4",
+  "youtube": null,
+  "tagline": "The Art Nouveau capital of Europe — a Hanseatic old town, the world's largest market halls (built as Zeppelin sheds), and Baltic beaches.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Riga",
+    "twitter": "https://twitter.com/search?q=visit%20Riga",
+    "wikipedia": "https://en.wikipedia.org/wiki/Riga"
+  },
+  "overview": [
+    "Riga is the largest city in the Baltics and the world's capital of Art Nouveau — more than 800 buildings in the style crowd Alberta iela and the surrounding streets with faces, flowers and mythological figures in stone.",
+    "The old town wears its Hanseatic trading history in gabled houses, the House of the Blackheads' ornate facade, and St. Peter's church spire overlooking the Daugava river. The Central Market occupies five WWI Zeppelin hangars — Europe's largest market — selling smoked fish, berries and everything else.",
+    "Speed's 2024 tour streamed from Riga. The city also claims the world's first decorated Christmas tree (1510, by the Blackheads guild) — a record its neighbour Tallinn cheerfully disputes."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Riga&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Riga",
+    "flights": "https://www.skyscanner.net/transport/flights/to/rix/cheap-flights-to-riga.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Art Nouveau Walk",
+      "desc": "Alberta iela's facades with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Riga%20Art%20Nouveau%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Riga%20Art%20Nouveau%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Old Town Walk",
+      "desc": "Blackheads, churches and Hanseatic lanes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Riga%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Riga%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Jurmala Beach Day",
+      "desc": "White sand and wooden villas on the Baltic.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jurmala%20day%20trip%20from%20Riga",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jurmala%20day%20trip%20from%20Riga"
+    },
+    {
+      "icon": "🛺",
+      "title": "Market & Food Tour",
+      "desc": "Zeppelin hangar market tastings.",
+      "viator": "https://www.viator.com/searchResults/all?text=Riga%20Central%20Market%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Riga%20Central%20Market%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ART NOUVEAU CAPITAL",
+      "text": "About a third of central Riga is Art Nouveau — the world's largest concentration."
+    },
+    {
+      "title": "ZEPPELIN MARKET",
+      "text": "The Central Market's five hangars once housed German airships — now filled with food stalls."
+    },
+    {
+      "title": "FIRST CHRISTMAS TREE",
+      "text": "Riga's Blackheads guild reportedly decorated the first Christmas tree in 1510."
+    },
+    {
+      "title": "THE BLACKHEADS",
+      "text": "The House of the Blackheads — a bachelor merchants' guild — was rebuilt from ruins in 1999."
+    },
+    {
+      "title": "HANSA PORT",
+      "text": "Riga was a powerful Hanseatic trading city for centuries."
+    },
+    {
+      "title": "THE BALTIC'S BIGGEST",
+      "text": "With ~600,000 people, Riga is the largest city in the Baltic states."
+    },
+    {
+      "title": "JURMALA BEACH",
+      "text": "A 33-km white-sand resort strip is 25 minutes away by train."
+    },
+    {
+      "title": "CATHEDRAL OF CATS",
+      "text": "Two cat statues on a merchant's roof famously 'moon' the guild house across the street."
+    },
+    {
+      "title": "THE FREEDOM MONUMENT",
+      "text": "The 1935 monument bearing three stars survived Soviet rule as Latvia's symbol."
+    },
+    {
+      "title": "BALSAM BITTER",
+      "text": "Riga Black Balsam, the herbal liqueur, has been bottled since 1752."
+    }
+  ],
+  "randomFacts": [
+    "About a third of central Riga is Art Nouveau — the world's largest concentration.",
+    "The Central Market's five hangars once housed German airships — now filled with food stalls.",
+    "Riga's Blackheads guild reportedly decorated the first Christmas tree in 1510.",
+    "The House of the Blackheads — a bachelor merchants' guild — was rebuilt from ruins in 1999.",
+    "Riga was a powerful Hanseatic trading city for centuries.",
+    "With ~600,000 people, Riga is the largest city in the Baltic states.",
+    "A 33-km white-sand resort strip is 25 minutes away by train.",
+    "Two cat statues on a merchant's roof famously 'moon' the guild house across the street.",
+    "The 1935 monument bearing three stars survived Soviet rule as Latvia's symbol.",
+    "Riga Black Balsam, the herbal liqueur, has been bottled since 1752.",
+    "The 'cat house' cats face the guild — a merchant's spite made permanent.",
+    "Black Balsam is mixed into coffee by locals.",
+    "Art Nouveau facades hide on every street — look up.",
+    "The Christmas tree plaque sits on Town Hall Square.",
+    "Jurmala means 'seaside' — easy day trip."
+  ],
+  "faq": [
+    {
+      "q": "Where is Riga located?",
+      "a": "Riga is in Latvia, in Europe."
+    },
+    {
+      "q": "What is the population of Riga?",
+      "a": "The greater Riga area is home to about 600,000 people."
+    },
+    {
+      "q": "What is Riga famous for?",
+      "a": "Riga is famous for the world's finest Art Nouveau district, a Hanseatic old town, and Europe's largest market in Zeppelin hangars."
+    },
+    {
+      "q": "Did IShowSpeed stream from Riga?",
+      "a": "Yes — IShowSpeed streamed from Riga on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

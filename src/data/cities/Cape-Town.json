@@ -1,0 +1,148 @@
+{
+  "slug": "Cape-Town",
+  "name": "Cape Town",
+  "region": "Africa",
+  "country": "South Africa",
+  "metro": "4,900,000",
+  "seo": {
+    "title": "Cape Town Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Cape Town travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Cape Town.",
+    "keywords": "Cape Town, Cape Town travel guide, things to do in Cape Town, Cape Town fun facts, where to stay in Cape Town, Famous Cities"
+  },
+  "image": "Cape-Town.png",
+  "video": "videos/cape-town.mp4",
+  "youtube": null,
+  "tagline": "South Africa's Mother City pairs the flat top of Table Mountain with beaches, penguins, world-class wine country and the Cape of Good Hope. It is ranked #6 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Cape%20Town",
+    "twitter": "https://twitter.com/search?q=visit%20Cape%20Town",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cape_Town"
+  },
+  "overview": [
+    "Cape Town was founded in 1652 as a supply station for Dutch ships sailing to the East Indies, making it South Africa's oldest city. Its mix of African, Dutch, British and Malay heritage shows up everywhere, from the colorful houses of Bo-Kaap to Cape Malay cuisine.",
+    "Table Mountain rises more than 1,000 metres above the city. A rotating cable car reaches the top in minutes, while hikers climb routes like Platteklip Gorge. Below, the V&amp;A Waterfront mixes shops, restaurants and harbour views, and ferries leave for Robben Island, where Nelson Mandela was imprisoned for 18 years.",
+    "The surroundings are just as famous. Boulders Beach is home to a colony of African penguins, the Cape of Good Hope marks the dramatic southwestern tip of the continent, and the Constantia and Stellenbosch wine regions are a short drive away."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cape Town&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Cape%20Town",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cpt/cheap-flights-to-cape%20town.html"
+  },
+  "topThings": [
+    {
+      "icon": "⛰️",
+      "title": "Table Mountain Cable Car",
+      "desc": "Ride to the summit for views over the city and ocean.",
+      "viator": "https://www.viator.com/searchResults/all?text=Table%20Mountain%20cable%20car%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Table%20Mountain%20cable%20car%20tickets"
+    },
+    {
+      "icon": "🐧",
+      "title": "Cape Peninsula Day Trip",
+      "desc": "Boulders Beach penguins and the Cape of Good Hope.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cape%20Peninsula%20day%20trip%20Cape%20Town",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cape%20Peninsula%20day%20trip%20Cape%20Town"
+    },
+    {
+      "icon": "🍷",
+      "title": "Stellenbosch Wine Tour",
+      "desc": "Taste wines in South Africa's most famous wine region.",
+      "viator": "https://www.viator.com/searchResults/all?text=Stellenbosch%20wine%20tour%20from%20Cape%20Town",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Stellenbosch%20wine%20tour%20from%20Cape%20Town"
+    },
+    {
+      "icon": "🏝️",
+      "title": "Robben Island Tour",
+      "desc": "Ferry to Mandela's prison island with a former inmate guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Robben%20Island%20tour%20Cape%20Town",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Robben%20Island%20tour%20Cape%20Town"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE MOTHER CITY",
+      "text": "Locals call Cape Town the 'Mother City', a nickname linked to its status as South Africa's first European settlement."
+    },
+    {
+      "title": "A FLAT-TOPPED MOUNTAIN",
+      "text": "Table Mountain's plateau stretches about 3 kilometres, and its 'tablecloth' of cloud is caused by a famous local wind."
+    },
+    {
+      "title": "PENGUINS ON THE BEACH",
+      "text": "A colony of African penguins has lived at Boulders Beach since 1982."
+    },
+    {
+      "title": "SOUTH AFRICA'S OLDEST CITY",
+      "text": "Founded in 1652, Cape Town predates every other major city in the country."
+    },
+    {
+      "title": "TWO OCEANS NEARBY",
+      "text": "The Atlantic and Indian Oceans meet near Cape Agulhas, southeast of the city, at one of the world's famous maritime crossroads."
+    },
+    {
+      "title": "ROBBEN ISLAND",
+      "text": "Nelson Mandela spent 18 of his 27 years in prison on Robben Island, now a UNESCO World Heritage Site."
+    },
+    {
+      "title": "A NEW WONDER OF NATURE",
+      "text": "Table Mountain was voted one of the New7Wonders of Nature in 2011."
+    },
+    {
+      "title": "THE COLORFUL BO-KAAP",
+      "text": "Bo-Kaap's bright houses were historically home to Cape Malay residents, and the area is known for its cuisine and culture."
+    },
+    {
+      "title": "A MEDICAL FIRST",
+      "text": "The world's first human heart transplant was performed at Groote Schuur Hospital in Cape Town in 1967."
+    },
+    {
+      "title": "A FLORAL KINGDOM",
+      "text": "The Cape Floral Region is the smallest and, for its size, richest of the world's six floral kingdoms."
+    }
+  ],
+  "randomFacts": [
+    "Locals call Cape Town the 'Mother City', a nickname linked to its status as South Africa's first European settlement.",
+    "Table Mountain's plateau stretches about 3 kilometres, and its 'tablecloth' of cloud is caused by a famous local wind.",
+    "A colony of African penguins has lived at Boulders Beach since 1982.",
+    "Founded in 1652, Cape Town predates every other major city in the country.",
+    "The Atlantic and Indian Oceans meet near Cape Agulhas, southeast of the city, at one of the world's famous maritime crossroads.",
+    "Nelson Mandela spent 18 of his 27 years in prison on Robben Island, now a UNESCO World Heritage Site.",
+    "Table Mountain was voted one of the New7Wonders of Nature in 2011.",
+    "Bo-Kaap's bright houses were historically home to Cape Malay residents, and the area is known for its cuisine and culture.",
+    "The world's first human heart transplant was performed at Groote Schuur Hospital in Cape Town in 1967.",
+    "The Cape Floral Region is the smallest and, for its size, richest of the world's six floral kingdoms.",
+    "Table Mountain is thought to be around 260 million years old.",
+    "Cape Malay curry is a signature dish of the city.",
+    "The Cape of Good Hope is not Africa's southernmost point — that is Cape Agulhas.",
+    "The Table Mountain cable car rotates 360 degrees on the way up.",
+    "Kirstenbosch is one of the world's great botanical gardens."
+  ],
+  "faq": [
+    {
+      "q": "Where is Cape Town located?",
+      "a": "Cape Town is in South Africa, in Africa."
+    },
+    {
+      "q": "What is the population of Cape Town?",
+      "a": "The greater Cape Town area is home to about 4,900,000 people."
+    },
+    {
+      "q": "What is Cape Town famous for?",
+      "a": "South Africa's Mother City pairs the flat top of Table Mountain with beaches, penguins, world-class wine country and the Cape of Good Hope."
+    },
+    {
+      "q": "Is Cape Town worth visiting?",
+      "a": "Yes — Cape Town was ranked #6 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Cape Town?",
+      "a": "Yes — IShowSpeed streamed from Cape Town during his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 6
+}

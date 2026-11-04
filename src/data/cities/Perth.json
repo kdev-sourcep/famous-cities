@@ -1,0 +1,144 @@
+{
+  "slug": "Perth",
+  "name": "Perth",
+  "region": "Oceania",
+  "country": "Australia",
+  "metro": "2,100,000",
+  "seo": {
+    "title": "Perth Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Perth travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Perth.",
+    "keywords": "Perth, Perth travel guide, things to do in Perth, Perth fun facts, where to stay in Perth, Famous Cities"
+  },
+  "image": "Perth.png",
+  "video": "videos/perth.mp4",
+  "youtube": null,
+  "tagline": "The world's most isolated big city — 19 white beaches, quokkas on a car-free island, and sunsets over the Indian Ocean.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Perth",
+    "twitter": "https://twitter.com/search?q=visit%20Perth",
+    "wikipedia": "https://en.wikipedia.org/wiki/Perth"
+  },
+  "overview": [
+    "Perth is famously the most isolated major city on earth — closer to Bali than Sydney — and it wears that remoteness as freedom: a laid-back capital of 19 white-sand beaches where the sun sets over the ocean (east-coast Australians never see that).",
+    "Kings Park, bigger than Central Park, tops the city with wildflower bushland and skyline views; Fremantle's harbour keeps its Victorian port streetscape and craft-beer scene; and Rottnest Island — car-free, 30 minutes by boat — is home to the quokka, the world's smiliest marsupial.",
+    "Speed's 2024 tour streamed from Perth. The state around it is a blockbuster — the Pinnacles desert, Margaret River's wineries and whale season are the signature day trips."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Perth&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Perth",
+    "flights": "https://www.skyscanner.net/transport/flights/to/per/cheap-flights-to-perth.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏝️",
+      "title": "Rottnest Island",
+      "desc": "Quokkas, bays and bike loops.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rottnest%20Island%20day%20trip%20from%20Perth",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rottnest%20Island%20day%20trip%20from%20Perth"
+    },
+    {
+      "icon": "🐬",
+      "title": "Fremantle & City",
+      "desc": "Historic port plus Kings Park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Perth%20Fremantle%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Perth%20Fremantle%20tour"
+    },
+    {
+      "icon": "🌵",
+      "title": "Pinnacles Desert",
+      "desc": "The limestone spires plus dunes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Pinnacles%20desert%20tour%20from%20Perth",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Pinnacles%20desert%20tour%20from%20Perth"
+    },
+    {
+      "icon": "🍷",
+      "title": "Swan Valley / Margaret River",
+      "desc": "Wine and food valley days.",
+      "viator": "https://www.viator.com/searchResults/all?text=Swan%20Valley%20wine%20tour%20Perth",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Swan%20Valley%20wine%20tour%20Perth"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "MOST ISOLATED CITY",
+      "text": "No other city of a million+ sits so far from another — the nearest is Adelaide, 2,100km away."
+    },
+    {
+      "title": "THE QUOKKA",
+      "text": "Rottnest Island's smiling marsupial produces the world's most famous selfies."
+    },
+    {
+      "title": "SUNSET OVER THE SEA",
+      "text": "One of few Australian cities where the sun sets over the ocean."
+    },
+    {
+      "title": "KINGS PARK",
+      "text": "The 400-hectare park tops the CBD — wildflowers and the city's best views."
+    },
+    {
+      "title": "19 BEACHES",
+      "text": "Cottesloe, Scarborough and friends line the Indian Ocean coast."
+    },
+    {
+      "title": "FREMANTLE",
+      "text": "The port keeps Australia's best-preserved 19th-century streetscape — plus the craft beer."
+    },
+    {
+      "title": "THE SWAN RIVER",
+      "text": "Black swans on the river gave Western Australia its emblem."
+    },
+    {
+      "title": "PINNACLES",
+      "text": "Thousands of limestone spires poke from yellow desert a few hours north."
+    },
+    {
+      "title": "THE SUNNIEST CAPITAL",
+      "text": "Perth claims the most sunshine of any Australian capital."
+    },
+    {
+      "title": "FREO DOCTOR",
+      "text": "The afternoon sea breeze — the Fremantle Doctor — cools the summer city."
+    }
+  ],
+  "randomFacts": [
+    "No other city of a million+ sits so far from another — the nearest is Adelaide, 2,100km away.",
+    "Rottnest Island's smiling marsupial produces the world's most famous selfies.",
+    "One of few Australian cities where the sun sets over the ocean.",
+    "The 400-hectare park tops the CBD — wildflowers and the city's best views.",
+    "Cottesloe, Scarborough and friends line the Indian Ocean coast.",
+    "The port keeps Australia's best-preserved 19th-century streetscape — plus the craft beer.",
+    "Black swans on the river gave Western Australia its emblem.",
+    "Thousands of limestone spires poke from yellow desert a few hours north.",
+    "Perth claims the most sunshine of any Australian capital.",
+    "The afternoon sea breeze — the Fremantle Doctor — cools the summer city.",
+    "Rottnest bans cars — everyone cycles.",
+    "Quokkas are technically macropods — small kangaroos.",
+    "Cottesloe's Indiana Teahouse is the beach landmark.",
+    "The Bell Tower on the waterfront rings historic bells.",
+    "Margaret River wineries sit among surf beaches."
+  ],
+  "faq": [
+    {
+      "q": "Where is Perth located?",
+      "a": "Perth is in Australia, in Oceania."
+    },
+    {
+      "q": "What is the population of Perth?",
+      "a": "The greater Perth area is home to about 2,100,000 people."
+    },
+    {
+      "q": "What is Perth famous for?",
+      "a": "Perth is famous for the world's most isolated big city, Kings Park, quokkas on Rottnest Island and Indian Ocean sunsets."
+    },
+    {
+      "q": "Did IShowSpeed stream from Perth?",
+      "a": "Yes — IShowSpeed streamed from Perth on his late-2024 Australia &amp; New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

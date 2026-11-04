@@ -1,0 +1,144 @@
+{
+  "slug": "Sarajevo",
+  "name": "Sarajevo",
+  "region": "Europe",
+  "country": "Bosnia and Herzegovina",
+  "metro": "420,000",
+  "seo": {
+    "title": "Sarajevo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Sarajevo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Sarajevo.",
+    "keywords": "Sarajevo, Sarajevo travel guide, things to do in Sarajevo, Sarajevo fun facts, where to stay in Sarajevo, Famous Cities"
+  },
+  "image": "Sarajevo.png",
+  "video": "videos/sarajevo.mp4",
+  "youtube": null,
+  "tagline": "Where East meets West — an Ottoman bazaar beside Austro-Hungarian avenues, on the corner where one shot started World War I.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Sarajevo",
+    "twitter": "https://twitter.com/search?q=visit%20Sarajevo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sarajevo"
+  },
+  "overview": [
+    "Sarajevo is Europe's most unusual capital: within one block you pass an Ottoman bazaar of copper craftsmen, a mosque, a Catholic cathedral, an Orthodox church and a synagogue — the 'Jerusalem of Europe.'",
+    "History pivots on a street corner: the Latin Bridge's north end is where Gavrilo Princip shot Archduke Franz Ferdinand in 1914, tipping Europe into WWI. The 1990s siege — 1,425 days, the longest in modern history — is remembered at the Tunnel of Hope museum.",
+    "Speed's 2024 tour streamed from Sarajevo. The city today is famously welcoming — Baščaršija's lanes serve Bosnian coffee in copper sets, ćevapi grills scent the air, and the 1984 Olympic mountains still ring the valley."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Sarajevo&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Sarajevo",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sjj/cheap-flights-to-sarajevo.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Old Town & History Walk",
+      "desc": "Baščaršija, Latin Bridge, coffee ritual.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sarajevo%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sarajevo%20walking%20tour"
+    },
+    {
+      "icon": "📚",
+      "title": "Tunnel & Siege Tour",
+      "desc": "The war tunnel and siege story.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sarajevo%20war%20tunnel%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sarajevo%20war%20tunnel%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Olympic Mountains",
+      "desc": "Trebević cable car and mountain views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sarajevo%20Trebevic%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sarajevo%20Trebevic%20tour"
+    },
+    {
+      "icon": "🌋",
+      "title": "Mostar Day Trip",
+      "desc": "The famous bridge and Herzegovina.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mostar%20day%20trip%20from%20Sarajevo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mostar%20day%20trip%20from%20Sarajevo"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WHERE EAST MEETS WEST",
+      "text": "The Ferhadija line literally marks where Ottoman architecture hands off to Austro-Hungarian."
+    },
+    {
+      "title": "THE SHOT THAT STARTED WWI",
+      "text": "Princip's assassination of Franz Ferdinand happened at the Latin Bridge in 1914."
+    },
+    {
+      "title": "THE LONGEST SIEGE",
+      "text": "The 1992–95 siege lasted 1,425 days — the Tunnel of Hope museum preserves the lifeline under the airport."
+    },
+    {
+      "title": "FOUR FAITHS, ONE BLOCK",
+      "text": "Mosque, cathedral, Orthodox church and synagogue stand within a few hundred metres."
+    },
+    {
+      "title": "COPPER STREET",
+      "text": "Kazandžiluk lane's coppersmiths have hammered coffee sets for five centuries."
+    },
+    {
+      "title": "OLYMPIC CITY",
+      "text": "Sarajevo hosted the 1984 Winter Olympics — the bobsled track remains as graffiti concrete."
+    },
+    {
+      "title": "BOSNIAN COFFEE",
+      "text": "Coffee is served in a džezva with rahat lokum — a ritual, not a drink."
+    },
+    {
+      "title": "SEBILJ",
+      "text": "The wooden fountain in the bazaar square is the city's symbol — drinking it means you'll return."
+    },
+    {
+      "title": "THE AVAZ TOWER",
+      "text": "The twisted skyscraper marks the postwar rebuild's ambition."
+    },
+    {
+      "title": "COLDEST LEGACY",
+      "text": "Abandoned Olympic venues became poignant ruins — now partly restored for visitors."
+    }
+  ],
+  "randomFacts": [
+    "The Ferhadija line literally marks where Ottoman architecture hands off to Austro-Hungarian.",
+    "Princip's assassination of Franz Ferdinand happened at the Latin Bridge in 1914.",
+    "The 1992–95 siege lasted 1,425 days — the Tunnel of Hope museum preserves the lifeline under the airport.",
+    "Mosque, cathedral, Orthodox church and synagogue stand within a few hundred metres.",
+    "Kazandžiluk lane's coppersmiths have hammered coffee sets for five centuries.",
+    "Sarajevo hosted the 1984 Winter Olympics — the bobsled track remains as graffiti concrete.",
+    "Coffee is served in a džezva with rahat lokum — a ritual, not a drink.",
+    "The wooden fountain in the bazaar square is the city's symbol — drinking it means you'll return.",
+    "The twisted skyscraper marks the postwar rebuild's ambition.",
+    "Abandoned Olympic venues became poignant ruins — now partly restored for visitors.",
+    "Sebilj water is free — legend says drinkers return.",
+    "Ćevapi portions come in counts of five or ten.",
+    "The War Childhood Museum tells the siege through objects.",
+    "Cable car climbs Trebević mountain from downtown.",
+    "Begova čorba — 'bey's soup' — is the comfort bowl."
+  ],
+  "faq": [
+    {
+      "q": "Where is Sarajevo located?",
+      "a": "Sarajevo is in Bosnia And Herzegovina, in Europe."
+    },
+    {
+      "q": "What is the population of Sarajevo?",
+      "a": "The greater Sarajevo area is home to about 420,000 people."
+    },
+    {
+      "q": "What is Sarajevo famous for?",
+      "a": "Sarajevo is famous for the Ottoman Baščaršija bazaar, the WWI assassination corner, war tunnels, and coffee culture where East meets West."
+    },
+    {
+      "q": "Did IShowSpeed stream from Sarajevo?",
+      "a": "Yes — IShowSpeed streamed from Sarajevo on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Phnom-Penh",
+  "name": "Phnom Penh",
+  "region": "Asia",
+  "country": "Cambodia",
+  "metro": "2,300,000",
+  "seo": {
+    "title": "Phnom Penh Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Phnom Penh travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Phnom Penh.",
+    "keywords": "Phnom Penh, Phnom Penh travel guide, things to do in Phnom Penh, Phnom Penh fun facts, where to stay in Phnom Penh, Famous Cities"
+  },
+  "image": "Phnom-Penh.png",
+  "video": "videos/phnom-penh.mp4",
+  "youtube": null,
+  "tagline": "The riverside capital of golden spires and heavy history — royal palaces, Khmer Rouge memorials, and the gateway to Angkor.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Phnom%20Penh",
+    "twitter": "https://twitter.com/search?q=visit%20Phnom%20Penh",
+    "wikipedia": "https://en.wikipedia.org/wiki/Phnom_Penh"
+  },
+  "overview": [
+    "Phnom Penh sits where the Mekong, Bassac and Tonlé Sap rivers meet — the 'four faces' the city is named for. The Royal Palace's golden spires and the Silver Pagoda rise over a riverside promenade that fills with dancers at sunset.",
+    "The city asks visitors to remember: the Tuol Sleng museum (a school turned Khmer Rouge prison) and the Choeung Ek killing fields confront the 1975–79 genocide that emptied the city. It's sobering, essential context — and it makes the country's warmth hit harder.",
+    "Speed's 2024 tour streamed from Phnom Penh. The city is also the practical gateway — most travellers continue to Siem Reap for Angkor Wat's temple mountains."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Phnom Penh&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Phnom Penh",
+    "flights": "https://www.skyscanner.net/transport/flights/to/pnh/cheap-flights-to-phnom%20penh.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Royal Palace & City",
+      "desc": "Palace, pagoda and riverside.",
+      "viator": "https://www.viator.com/searchResults/all?text=Phnom%20Penh%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Phnom%20Penh%20city%20tour"
+    },
+    {
+      "icon": "🕊️",
+      "title": "Tuol Sleng & Choeung Ek",
+      "desc": "The memorials with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Phnom%20Penh%20genocide%20memorial%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Phnom%20Penh%20genocide%20memorial%20tour"
+    },
+    {
+      "icon": "🚤",
+      "title": "Mekong Sunset Cruise",
+      "desc": "The river junction at golden hour.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mekong%20sunset%20cruise%20Phnom%20Penh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mekong%20sunset%20cruise%20Phnom%20Penh"
+    },
+    {
+      "icon": "🛕",
+      "title": "Angkor Extension",
+      "desc": "Fly or ride to Angkor Wat.",
+      "viator": "https://www.viator.com/searchResults/all?text=Angkor%20Wat%20tour%20from%20Phnom%20Penh",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Angkor%20Wat%20tour%20from%20Phnom%20Penh"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "FOUR FACES",
+      "text": "The city sits at the chaktomuk — the 'four faces' junction of three rivers."
+    },
+    {
+      "title": "SILVER PAGODA",
+      "text": "The palace temple's floor is laid with over 5,000 silver tiles."
+    },
+    {
+      "title": "THE KILLING FIELDS",
+      "text": "Choeung Ek and Tuol Sleng memorialise the Khmer Rouge genocide."
+    },
+    {
+      "title": "A CITY EMPTIED",
+      "text": "The Khmer Rouge evacuated all of Phnom Penh in 1975 — it was a ghost town for years."
+    },
+    {
+      "title": "REVERSED RIVER",
+      "text": "The Tonlé Sap river reverses direction each monsoon — a unique hydrology."
+    },
+    {
+      "title": "WAT PHNOM",
+      "text": "The hilltop temple named for founding grandmother Penh is the city's origin legend."
+    },
+    {
+      "title": "FRENCH COLONIAL",
+      "text": "Art Deco Central Market's yellow dome dates to 1937."
+    },
+    {
+      "title": "THE ANGKOR GATEWAY",
+      "text": "Siem Reap and Angkor Wat are a short flight or bus away."
+    },
+    {
+      "title": "TUK-TUK CAPITAL",
+      "text": "Remork tuk-tuks are the transport of choice — cheap and everywhere."
+    },
+    {
+      "title": "RIVERSIDE NIGHTS",
+      "text": "The Sisowath Quay promenade fills with families and street food at dusk."
+    }
+  ],
+  "randomFacts": [
+    "The city sits at the chaktomuk — the 'four faces' junction of three rivers.",
+    "The palace temple's floor is laid with over 5,000 silver tiles.",
+    "Choeung Ek and Tuol Sleng memorialise the Khmer Rouge genocide.",
+    "The Khmer Rouge evacuated all of Phnom Penh in 1975 — it was a ghost town for years.",
+    "The Tonlé Sap river reverses direction each monsoon — a unique hydrology.",
+    "The hilltop temple named for founding grandmother Penh is the city's origin legend.",
+    "Art Deco Central Market's yellow dome dates to 1937.",
+    "Siem Reap and Angkor Wat are a short flight or bus away.",
+    "Remork tuk-tuks are the transport of choice — cheap and everywhere.",
+    "The Sisowath Quay promenade fills with families and street food at dusk.",
+    "Fish amok — coconut curry steamed in banana leaf — is the dish.",
+    "Central Market's dome is one of Asia's largest.",
+    "The palace still houses the King — half is closed to visitors.",
+    "Riel and dollars circulate together.",
+    "Sunset on the riverside is the city's ritual."
+  ],
+  "faq": [
+    {
+      "q": "Where is Phnom Penh located?",
+      "a": "Phnom Penh is in Cambodia, in Asia."
+    },
+    {
+      "q": "What is the population of Phnom Penh?",
+      "a": "The greater Phnom Penh area is home to about 2,300,000 people."
+    },
+    {
+      "q": "What is Phnom Penh famous for?",
+      "a": "Phnom Penh is famous for the Royal Palace and riverside, the sobering Khmer Rouge memorials, and the gateway to Angkor Wat."
+    },
+    {
+      "q": "Did IShowSpeed stream from Phnom Penh?",
+      "a": "Yes — IShowSpeed streamed from Phnom Penh on his 2024–25 Asia tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

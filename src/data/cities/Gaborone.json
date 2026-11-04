@@ -1,0 +1,144 @@
+{
+  "slug": "Gaborone",
+  "name": "Gaborone",
+  "region": "Africa",
+  "country": "Botswana",
+  "metro": "420,000",
+  "seo": {
+    "title": "Gaborone Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Gaborone travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Gaborone.",
+    "keywords": "Gaborone, Gaborone travel guide, things to do in Gaborone, Gaborone fun facts, where to stay in Gaborone, Famous Cities"
+  },
+  "image": "Gaborone.png",
+  "video": "videos/gaborone.mp4",
+  "youtube": null,
+  "tagline": "Africa's quiet success story — a calm diamond-funded capital that serves as the gateway to the Okavango Delta.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Gaborone",
+    "twitter": "https://twitter.com/search?q=visit%20Gaborone",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gaborone"
+  },
+  "overview": [
+    "Gaborone — 'Gabs' to locals — is the capital of Africa's quiet success story: Botswana's diamond-funded stability built an orderly, safe city that functions as the staging post for the world's most exclusive safaris.",
+    "The city is modest by design: the Three Dikgosi monument to the founding chiefs, the Main Mall's markets, and the mokolodi game reserve on the edge. The real draw is what lies beyond — the Okavango Delta's flooded wilderness, Chobe's elephant herds and the Makgadikgadi's zebra migration.",
+    "Speed's 2025 Africa tour streamed from Gaborone. Botswana keeps tourism deliberately low-volume and high-value — the delta camps are among the world's most sought-after safaris."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Gaborone&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Gaborone",
+    "flights": "https://www.skyscanner.net/transport/flights/to/gbe/cheap-flights-to-gaborone.html"
+  },
+  "topThings": [
+    {
+      "icon": "🦒",
+      "title": "Mokolodi Game Reserve",
+      "desc": "Rhinos and cheetahs at the city edge.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mokolodi%20game%20drive%20Gaborone",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mokolodi%20game%20drive%20Gaborone"
+    },
+    {
+      "icon": "🏙️",
+      "title": "City & Chiefs Tour",
+      "desc": "Dikgosi monument and Main Mall.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gaborone%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gaborone%20city%20tour"
+    },
+    {
+      "icon": "🛶",
+      "title": "Okavango Extension",
+      "desc": "Fly-in delta mokoro camps.",
+      "viator": "https://www.viator.com/searchResults/all?text=Okavango%20Delta%20trip",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Okavango%20Delta%20trip"
+    },
+    {
+      "icon": "🐘",
+      "title": "Chobe Day / Extension",
+      "desc": "Africa's largest elephant herds.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chobe%20safari%20Botswana",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chobe%20safari%20Botswana"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE DELTA GATEWAY",
+      "text": "The Okavango — the world's largest inland delta — is the reason to transit here."
+    },
+    {
+      "title": "DIAMOND STABILITY",
+      "text": "Diamond revenues built one of Africa's most stable and prosperous countries."
+    },
+    {
+      "title": "CHOBE'S ELEPHANTS",
+      "text": "Chobe holds Africa's largest elephant population — a drive plus flight away."
+    },
+    {
+      "title": "A CHIEFLY FOUNDING",
+      "text": "Three chiefs (dikgosi) led the protectorate to independence — their monument anchors the centre."
+    },
+    {
+      "title": "MOLOKWANE & SESWAA",
+      "text": "Pounded beef (seswaa) with pap is the national plate."
+    },
+    {
+      "title": "A YOUNG CAPITAL",
+      "text": "Gaborone became capital in 1965 — it was a village of 4,000 then."
+    },
+    {
+      "title": "MOKOLODI",
+      "text": "The game reserve on the city's edge holds rhinos and cheetahs."
+    },
+    {
+      "title": "LOW-VOLUME SAFARI",
+      "text": "Botswana prices out mass tourism deliberately — the camps stay empty and pristine."
+    },
+    {
+      "title": "THE PAN MIGRATION",
+      "text": "Makgadikgadi's zebra migration is Africa's second-largest."
+    },
+    {
+      "title": "PELE PHRASE",
+      "text": "'Pula' — rain — is the currency, the toast and the national wish."
+    }
+  ],
+  "randomFacts": [
+    "The Okavango — the world's largest inland delta — is the reason to transit here.",
+    "Diamond revenues built one of Africa's most stable and prosperous countries.",
+    "Chobe holds Africa's largest elephant population — a drive plus flight away.",
+    "Three chiefs (dikgosi) led the protectorate to independence — their monument anchors the centre.",
+    "Pounded beef (seswaa) with pap is the national plate.",
+    "Gaborone became capital in 1965 — it was a village of 4,000 then.",
+    "The game reserve on the city's edge holds rhinos and cheetahs.",
+    "Botswana prices out mass tourism deliberately — the camps stay empty and pristine.",
+    "Makgadikgadi's zebra migration is Africa's second-largest.",
+    "'Pula' — rain — is the currency, the toast and the national wish.",
+    "'Pula' — rain — is both the currency and the cheer.",
+    "Game reserves sit at the city's edge.",
+    "Phakalane golf estate hosts the expat scene.",
+    "Botswana beef is famous across Africa.",
+    "The bus rank culture is the transport hub."
+  ],
+  "faq": [
+    {
+      "q": "Where is Gaborone located?",
+      "a": "Gaborone is in Botswana, in Africa."
+    },
+    {
+      "q": "What is the population of Gaborone?",
+      "a": "The greater Gaborone area is home to about 420,000 people."
+    },
+    {
+      "q": "What is Gaborone famous for?",
+      "a": "Gaborone is famous for the calm gateway to the Okavango Delta and Chobe — a small, prosperous capital in Africa's safari superpower."
+    },
+    {
+      "q": "Did IShowSpeed stream from Gaborone?",
+      "a": "Yes — IShowSpeed streamed from Gaborone on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "Tokyo",
+  "name": "Tokyo",
+  "region": "Asia",
+  "country": "Japan",
+  "metro": "39,105,000",
+  "seo": {
+    "title": "Tokyo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Tokyo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Tokyo.",
+    "keywords": "Tokyo, Tokyo travel guide, things to do in Tokyo, Tokyo fun facts, where to stay in Tokyo, Famous Cities"
+  },
+  "image": "Tokyo.png",
+  "video": "files/Tokyo.mp4",
+  "youtube": null,
+  "tagline": "The world’s largest metropolis blends neon futurism with deep tradition — and record numbers of visitors are arriving to see it. It is ranked #10 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "people",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/GoTokyo.en/",
+    "twitter": "https://twitter.com/visittokyojapan?lang=en",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tokyo"
+  },
+  "overview": [
+    "Despite earthquakes, tsunamis and typhoons, Tokyo has long held on to its top spot as one of the safest metropolises on the planet — young kids still ride the subway to school alone, a small daily miracle for visitors from almost anywhere else. And since Japan reopened its borders, the world has come flooding back: a record roughly 37 million visitors arrived in 2024, drawn by a weak yen and a city that keeps topping itself.",
+    "The boom has fueled a construction wave across the skyline. Azabudai Hills opened with the relocated teamLab Borderless digital art museum inside, redeveloped Shibuya keeps adding rooftop observatories above its famous scramble crossing, and Ginza Six anchors a shopping scene that still ranks among the world’s best.",
+    "Underneath the neon, the classics hold their ground: the forested calm of the Meiji Shrine, Senso-ji’s incense-filled approach in Asakusa, and roughly 100,000 restaurants — more Michelin stars than Paris — spanning ramen counters to omakase you’ll need to book weeks ahead.",
+    "Getting around is half the experience: Haneda keeps the city connected, the Yamanote Line loops every major district, and day trips to Nikko, Hakone or Kamakura put mountains, hot springs and temples within an easy hour of Shinjuku."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?city=-246227&aid=2243524",
+    "tours": "https://www.viator.com/Tokyo/d5070",
+    "flights": "https://www.skyscanner.net/transport/flights/to/tyo/cheap-flights-to-tokyo.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌈",
+      "title": "teamLab Planets",
+      "desc": "Walk through immersive digital art installations.",
+      "viator": "https://www.viator.com/searchResults/all?text=teamLab%20Planets%20Tokyo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=teamLab%20Planets%20Tokyo"
+    },
+    {
+      "icon": "🗻",
+      "title": "Mount Fuji Day Trip",
+      "desc": "See Japan's most famous mountain and its lakes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mount%20Fuji%20day%20trip%20from%20Tokyo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mount%20Fuji%20day%20trip%20from%20Tokyo"
+    },
+    {
+      "icon": "🍣",
+      "title": "Tsukiji Food Tour",
+      "desc": "Taste sushi, tamagoyaki and street snacks at the outer market.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tsukiji%20food%20tour%20Tokyo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tsukiji%20food%20tour%20Tokyo"
+    },
+    {
+      "icon": "🏙️",
+      "title": "Shibuya Sky",
+      "desc": "Open-air rooftop views above the famous scramble crossing.",
+      "viator": "https://www.viator.com/searchResults/all?text=Shibuya%20Sky%20Tokyo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Shibuya%20Sky%20Tokyo"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "TOKYO IS KNOWN AS THE \"EASTERN CAPITAL\"",
+      "text": "Tokyo means \"eastern capital.\" Edo has been Japan's largest city since the 17th century. Tokyo's population exceeded one million in the late 19th century, and as Japan's political, economic, and cultural center it became one of the world's most populous cities in the 20th century."
+    },
+    {
+      "title": "TOKYO HAS GONE BY MANY NAMES",
+      "text": "The site of Tokyo has been inhabited since ancient times; the small fishing village of Edo existed there for centuries. Edo's development into a city did not occur until the \"Tokugawa Period\" (1603-1867), when it became the capital of the Tokugawa shogunate. During this period, however, the imperial family remained in Kyoto, the ancient imperial capital. With the Meiji Restoration of 1868, which ended the shogunate, the capital was moved to Edo. The city was renamed Tokyo, meaning \"eastern capital.\""
+    },
+    {
+      "title": "TOKYO HAS A ROBOT HOTEL",
+      "text": "The Hen na Hotel in Tokyo Ginza is the world’s first and only hotel run by a robot. Ideal for antisocial travellers who prefer to avoid human contact at the end of a long day of sightseeing, multi-lingual robots staff the hotel. They can turn their heads, blink and carry luggage. “Henn” means “to change,” which represents the hotel’s commitment “for evolution in striving for the extraordinary sensation and comfort that lies beyond the ordinary.” There’s also keyless locking and entry through facial recognition and free WiFi. Tokyo is also home to a robot restaurant. In Shinjuku, you can visit the Robot Restaurant to see robot monsters, dancers and lasers perform as you snack on bento boxes."
+    },
+    {
+      "title": "THERE ARE ANTI-SUICIDE IN TOKYO’S METRO STATIONS",
+      "text": "Authorities installed blue lights at train stations in a bid to prevent suicides. In 2013, a scientific paper revealed that they were working, the suicides fell to around 84%. The blue light is thought to bring people experiencing psychological stress to a state of relaxation more quickly. THIS IS GREAT! But now what is left is Japan to fix their education and workplace system that accommodates their employees and students with utmost care instead of pressuring them too much. Just saying but overall an improvement nevertheless."
+    },
+    {
+      "title": "YOU CAN PURCHASE ALMOST ANYTHING FROM A VENDING MACHINE IN TOKYO",
+      "text": "Hamburgers? Easy. Umbrellas? No problem. Fish broth? Check the vending machine. Tokyo is the vending machine capital in the world. There’s one at least every 12 metres in Tokyo, with an average of one vending machine per 23 people. Some of the most fascinating vending machines include the Natto Kobo Sendaiya that dispenses natto (fermented soybeans), a banana vending machine and a ‘mystery vending machine’ which, as the name suggests, distributes a ‘mystery’ object wrapped in white paper."
+    },
+    {
+      "title": "TOKYO BOASTS THE MOST MICHELIN STARS IN THE WORLD",
+      "text": "Tokyo has held onto its title for more than a decade. With 212 Michelin starred restaurants total. There are 14 three-star, 42 two-star and 223 one-star restaurants. Kanda, Quintessence, and Joel Robuchon are three of the most famous three-star restaurants in the world"
+    },
+    {
+      "title": "TOKYO HAS ITS OWN TOKYO TOWER",
+      "text": "One of Tokyo’s tallest freestanding towers, the Tokyo Tower, is inspired by the Eiffel Tower. Built in 1958, it soars 90 m (295 ft) high, making it taller than the Eiffel Tower itself. Authorities re-painted the structure orange and white to adhere to air regulation. The tower holds the master control over the Tokyo metropolitan area, broadcasting television signals, FM radio reception and transmission, traffic information transmission, as well as weather and air pollution data collection.The Tokyo Sky Tree is now the world’s tallest tower. Measuring 634 metres (2080 ft) tall, it’s also the second tallest structure in the world after the Burj Khalifa, which measures 829.8 metres (2,772 ft) tall. The Japanese architectural firm Nikken Sekkei designed the soaring structure."
+    },
+    {
+      "title": "TOKYO IS THE LARGEST CITY IN THE WORLD",
+      "text": "With more than 38 million people living in Greater Tokyo, it's the <a href=\"https://www.swedishnomad.com/most-populated-cities-in-the-world/\"> most populated urban area in the world </a> . There's no shortage of people here. And it's also one of the cities with the highest density worldwide. Despite that, Tokyo is very organized, and in some areas, you'll even walk around on your own from time to time."
+    },
+    {
+      "title": "ONE OF THE SAFEST CITIES IN THE WORLD",
+      "text": "The Crime-rate is very low and most crimes in larger cities around the world, are almost unheard of here. It’s so safe in Tokyo that the locals fall asleep on the trains, with their new iPhone visible to everyone."
+    },
+    {
+      "title": "FOREIGNERS CAN ENJOY TAX-FREE SHOPPING",
+      "text": "Purchases that have a total amount of 5000 yen or more are qualified for a tax refund. Foreigners who want to enjoy tax-free shopping need to present their passport when making the purchase."
+    }
+  ],
+  "randomFacts": [
+    "Tokyo is the world's most populous metropolitan area with over 37 million people.",
+    "Tokyo has more Michelin-starred restaurants than any other city in the world.",
+    "The Tokyo Skytree is the tallest tower in the world at 634 meters.",
+    "Tokyo's subway system is the busiest in the world, carrying over 8 million passengers daily.",
+    "Shibuya Crossing in Tokyo is the busiest pedestrian crossing in the world.",
+    "Tokyo was originally called Edo before being renamed in 1868.",
+    "Tokyo has vending machines everywhere - one for every 23 people in the city.",
+    "The Imperial Palace in Tokyo sits on the site of the former Edo Castle.",
+    "Tokyo's Akihabara district is the center of anime, manga, and electronics culture.",
+    "Tokyo hosted the Summer Olympics in 1964 and again in 2021.",
+    "The cherry blossom season in Tokyo attracts millions of visitors each spring.",
+    "Tokyo has more neon signs than any other city in the world.",
+    "The Tsukiji Outer Market is the world's largest fish market.",
+    "Tokyo's train system is so punctual that average delays are less than 20 seconds.",
+    "Harajuku district in Tokyo is famous for its unique street fashion and youth culture."
+  ],
+  "faq": [
+    {
+      "q": "Where is Tokyo located?",
+      "a": "Tokyo is in Japan, in Asia."
+    },
+    {
+      "q": "What is the population of Tokyo?",
+      "a": "The greater Tokyo area is home to about 4,735,000 people."
+    },
+    {
+      "q": "What is Tokyo famous for?",
+      "a": "Tokyo is famous for Shibuya Crossing, its neon-lit districts, the Meiji Shrine, cherry blossoms, and world-class food from sushi to ramen."
+    },
+    {
+      "q": "Is Tokyo worth visiting?",
+      "a": "Yes — Tokyo was ranked #10 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Tokyo?",
+      "a": "Yes — IShowSpeed visited Tokyo in 2023 and livestreamed around the city, including a sumo stable visit. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 10
+}

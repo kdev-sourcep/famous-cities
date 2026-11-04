@@ -1,0 +1,144 @@
+{
+  "slug": "Belgrade",
+  "name": "Belgrade",
+  "region": "Europe",
+  "country": "Serbia",
+  "metro": "1,700,000",
+  "seo": {
+    "title": "Belgrade Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Belgrade travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Belgrade.",
+    "keywords": "Belgrade, Belgrade travel guide, things to do in Belgrade, Belgrade fun facts, where to stay in Belgrade, Famous Cities"
+  },
+  "image": "Belgrade.png",
+  "video": "videos/belgrade.mp4",
+  "youtube": null,
+  "tagline": "The white city at the meeting of two rivers — a fortress-fortress skyline, floating nightclub barges, and the Balkans' biggest grill tables.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Belgrade",
+    "twitter": "https://twitter.com/search?q=visit%20Belgrade",
+    "wikipedia": "https://en.wikipedia.org/wiki/Belgrade"
+  },
+  "overview": [
+    "Belgrade means 'white city' — named for the walls of Kalemegdan Fortress rising above the confluence of the Sava and Danube. The fortress park remains the city's living room, its ramparts busy with sunset-watchers.",
+    "The city's energy is famous across the Balkans: Skadarlija's cobbled bohemian quarter sings until late over grilled ćevapi and rakija, the Savamala warehouse district turned into art spaces, and hundreds of splavovi — floating raft clubs — line the rivers for summer nightlife.",
+    "Speed's 2024 tour streamed from Belgrade. History runs deep here: the city has been destroyed and rebuilt over 40 times across 7,000 years of settlement."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Belgrade&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Belgrade",
+    "flights": "https://www.skyscanner.net/transport/flights/to/beg/cheap-flights-to-belgrade.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Fortress & City Tour",
+      "desc": "Kalemegdan plus the old quarters.",
+      "viator": "https://www.viator.com/searchResults/all?text=Belgrade%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Belgrade%20walking%20tour"
+    },
+    {
+      "icon": "🚢",
+      "title": "Two-River Cruise",
+      "desc": "Sava and Danube from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Belgrade%20river%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Belgrade%20river%20cruise"
+    },
+    {
+      "icon": "🍻",
+      "title": "Splavovi Night",
+      "desc": "The floating club scene with locals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Belgrade%20nightlife%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Belgrade%20nightlife%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Fruška Gora & Novi Sad",
+      "desc": "Monasteries, wine and Petrovaradin fortress.",
+      "viator": "https://www.viator.com/searchResults/all?text=Novi%20Sad%20day%20trip%20from%20Belgrade",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Novi%20Sad%20day%20trip%20from%20Belgrade"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WHITE CITY",
+      "text": "'Beograd' means white city — after the fortress's pale walls."
+    },
+    {
+      "title": "TWO-RIVER FORTRESS",
+      "text": "Kalemegdan overlooks the Sava meeting the Danube — a strategic spot fought over for millennia."
+    },
+    {
+      "title": "REBUILT 40+ TIMES",
+      "text": "The city has been razed and rebuilt more than almost any in Europe."
+    },
+    {
+      "title": "FLOATING CLUBS",
+      "text": "Summer nightlife happens on splavovi — raft-bars moored along both rivers."
+    },
+    {
+      "title": "THE BOHEMIAN QUARTER",
+      "text": "Skadarlija's cobbled lane keeps the 19th-century artists' quarter alive with music."
+    },
+    {
+      "title": "THE LARGEST ORTHODOX CHURCH",
+      "text": "St. Sava Temple is among the world's largest Orthodox churches — topped by a 4,000-tonne dome lifted whole."
+    },
+    {
+      "title": "NIKOLA TESLA",
+      "text": "The Tesla Museum holds his ashes and inventions — he's on the 100-dinar note."
+    },
+    {
+      "title": "EXIT FESTIVAL",
+      "text": "Petrovaradin fortress across the border hosts one of Europe's biggest music festivals."
+    },
+    {
+      "title": "AVALA TOWER",
+      "text": "The 205m TV tower — rebuilt after NATO bombing — watches from the mountain."
+    },
+    {
+      "title": "RAKIJA HOURS",
+      "text": "Plum rakija starts meals; ćevapi and kajmak end them."
+    }
+  ],
+  "randomFacts": [
+    "'Beograd' means white city — after the fortress's pale walls.",
+    "Kalemegdan overlooks the Sava meeting the Danube — a strategic spot fought over for millennia.",
+    "The city has been razed and rebuilt more than almost any in Europe.",
+    "Summer nightlife happens on splavovi — raft-bars moored along both rivers.",
+    "Skadarlija's cobbled lane keeps the 19th-century artists' quarter alive with music.",
+    "St. Sava Temple is among the world's largest Orthodox churches — topped by a 4,000-tonne dome lifted whole.",
+    "The Tesla Museum holds his ashes and inventions — he's on the 100-dinar note.",
+    "Petrovaradin fortress across the border hosts one of Europe's biggest music festivals.",
+    "The 205m TV tower — rebuilt after NATO bombing — watches from the mountain.",
+    "Plum rakija starts meals; ćevapi and kajmak end them.",
+    "Kalemegdan is free and open — the sunset spot.",
+    "Skadarlija restaurants feature live tamburica bands.",
+    "The fortress zoo sits inside the historic walls.",
+    "Belgrade hosted Europe's first grand prix? No — but it hosted the 1939 one.",
+    "Pljeskavica — the giant burger — is the street food."
+  ],
+  "faq": [
+    {
+      "q": "Where is Belgrade located?",
+      "a": "Belgrade is in Serbia, in Europe."
+    },
+    {
+      "q": "What is the population of Belgrade?",
+      "a": "The greater Belgrade area is home to about 1,700,000 people."
+    },
+    {
+      "q": "What is Belgrade famous for?",
+      "a": "Belgrade is famous for the fortress where two rivers meet, floating-raft nightlife (splavovi), and Balkan grill culture."
+    },
+    {
+      "q": "Did IShowSpeed stream from Belgrade?",
+      "a": "Yes — IShowSpeed streamed from Belgrade on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

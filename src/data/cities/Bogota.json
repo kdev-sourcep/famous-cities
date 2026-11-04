@@ -1,0 +1,148 @@
+{
+  "slug": "Bogota",
+  "name": "Bogotá",
+  "region": "South America",
+  "country": "Colombia",
+  "metro": "11,000,000",
+  "seo": {
+    "title": "Bogotá Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Bogotá travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Bogotá.",
+    "keywords": "Bogotá, Bogotá travel guide, things to do in Bogotá, Bogotá fun facts, where to stay in Bogotá, Famous Cities"
+  },
+  "image": "Bogota.png",
+  "video": "videos/bogota.mp4",
+  "youtube": null,
+  "tagline": "Colombia's high-altitude capital mixes a gold museum, graffiti-covered colonial lanes and a mountain-top church you reach by cable car. It is ranked #50 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Bogot%C3%A1",
+    "twitter": "https://twitter.com/search?q=visit%20Bogot%C3%A1",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bogotá"
+  },
+  "overview": [
+    "Bogotá sits on a high Andean plateau at 2,600 metres. Founded in 1538, it became the capital of Gran Colombia and today sprawls between mountains in a grid of neighbourhoods, each with its own feel — from cobbled La Candelaria to chic Zona T.",
+    "The Museo del Oro holds the world's largest collection of pre-Hispanic gold, including the raft that gave rise to the El Dorado legend. Above the city, the funicular and cable car climb to Monserrate's white church for a view over the whole plateau.",
+    "Bogotá is South America's street-art capital — the legal walls of La Candelaria and beyond are an open-air gallery. Sundays transform the city when the Ciclovía closes 120 kilometres of roads to cars, and nightlife peaks at Theatron, one of Latin America's biggest clubs. A day trip to Zipaquirá's salt cathedral — a church carved inside a salt mine — is unmissable."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Bogotá&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Bogot%C3%A1",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bog/cheap-flights-to-bogot%C3%A1.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏺",
+      "title": "Gold Museum & Old Town",
+      "desc": "El Dorado's treasures plus La Candelaria's streets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bogota%20Gold%20Museum%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bogota%20Gold%20Museum%20walking%20tour"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Zipaquirá Salt Cathedral",
+      "desc": "Descend into the underground church in the salt mine.",
+      "viator": "https://www.viator.com/searchResults/all?text=Zipaquira%20Salt%20Cathedral%20tour%20from%20Bogota",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Zipaquira%20Salt%20Cathedral%20tour%20from%20Bogota"
+    },
+    {
+      "icon": "🧙",
+      "title": "Monserrate & Street Art",
+      "desc": "Cable car up the mountain then the graffiti tour.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bogota%20Monserrate%20graffiti%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bogota%20Monserrate%20graffiti%20tour"
+    },
+    {
+      "icon": "🍗",
+      "title": "Food & Coffee Tour",
+      "desc": "Ajiaco, empanadas and Colombia's famous coffee.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bogota%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bogota%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE EL DORADO MUSEUM",
+      "text": "The Museo del Oro holds over 30,000 gold objects, including the Muisca raft that inspired the El Dorado legend."
+    },
+    {
+      "title": "A CITY IN THE CLOUDS",
+      "text": "At 2,640 metres, Bogotá is the third-highest capital city in South America."
+    },
+    {
+      "title": "A CHURCH INSIDE A MINE",
+      "text": "Zipaquirá's Salt Cathedral is carved 180 metres underground in a working salt mine."
+    },
+    {
+      "title": "SUNDAYS WITHOUT CARS",
+      "text": "The Ciclovía has closed city streets to traffic every Sunday since 1974 — a model copied worldwide."
+    },
+    {
+      "title": "A STREET-ART CAPITAL",
+      "text": "Graffiti was decriminalised in Bogotá, turning whole districts into galleries of world-class murals."
+    },
+    {
+      "title": "A CABLE-CAR CHURCH",
+      "text": "The white church on Monserrate has watched over the city since the 1600s."
+    },
+    {
+      "title": "THE LATIN AMERICAN ATHENS",
+      "text": "Bogotá earned the nickname for its universities, libraries and cultural life."
+    },
+    {
+      "title": "HOT CHOCOLATE WITH CHEESE",
+      "text": "The city's signature snack is hot chocolate served with a cube of cheese to melt inside."
+    },
+    {
+      "title": "AN AIRPORT ABOVE THE TREES",
+      "text": "El Dorado airport, named for the legend, is one of Latin America's busiest."
+    },
+    {
+      "title": "A MOUNTAIN IN MINUTES",
+      "text": "Monserrate's summit sits 600 metres above the streets — walkable, funicular or cable car."
+    }
+  ],
+  "randomFacts": [
+    "The Museo del Oro holds over 30,000 gold objects, including the Muisca raft that inspired the El Dorado legend.",
+    "At 2,640 metres, Bogotá is the third-highest capital city in South America.",
+    "Zipaquirá's Salt Cathedral is carved 180 metres underground in a working salt mine.",
+    "The Ciclovía has closed city streets to traffic every Sunday since 1974 — a model copied worldwide.",
+    "Graffiti was decriminalised in Bogotá, turning whole districts into galleries of world-class murals.",
+    "The white church on Monserrate has watched over the city since the 1600s.",
+    "Bogotá earned the nickname for its universities, libraries and cultural life.",
+    "The city's signature snack is hot chocolate served with a cube of cheese to melt inside.",
+    "El Dorado airport, named for the legend, is one of Latin America's busiest.",
+    "Monserrate's summit sits 600 metres above the streets — walkable, funicular or cable car.",
+    "Bogotá's airport is named El Dorado after the legend.",
+    "Ajiaco — chicken, potato and corn soup — is the city's dish.",
+    "The city has a museum dedicated entirely to Fernando Botero's work.",
+    "Emeralds from Colombia make up much of the world's supply — traded in Bogotá.",
+    "La Candelaria's walls are a rotating outdoor art gallery."
+  ],
+  "faq": [
+    {
+      "q": "Where is Bogotá located?",
+      "a": "Bogotá is in Colombia, in South America."
+    },
+    {
+      "q": "What is the population of Bogotá?",
+      "a": "The greater Bogotá area is home to about 11,000,000 people."
+    },
+    {
+      "q": "What is Bogotá famous for?",
+      "a": "Colombia's high-altitude capital mixes a gold museum, graffiti-covered colonial lanes and a mountain-top church you reach by cable car."
+    },
+    {
+      "q": "Is Bogotá worth visiting?",
+      "a": "Yes — Bogotá was ranked #50 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Bogotá?",
+      "a": "Yes — IShowSpeed streamed from Bogotá during his 2025 South America tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 50
+}

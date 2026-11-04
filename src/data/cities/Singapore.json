@@ -1,0 +1,148 @@
+{
+  "slug": "Singapore",
+  "name": "Singapore",
+  "region": "Asia",
+  "country": "Singapore",
+  "metro": "6,000,000",
+  "seo": {
+    "title": "Singapore Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Singapore travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Singapore.",
+    "keywords": "Singapore, Singapore travel guide, things to do in Singapore, Singapore fun facts, where to stay in Singapore, Famous Cities"
+  },
+  "image": "Singapor.png",
+  "video": "videos/singapore.mp4",
+  "youtube": null,
+  "tagline": "A city, island and country in one, Singapore blends futuristic architecture, lush gardens and some of the world's best street food. It is ranked #23 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Singapore",
+    "twitter": "https://twitter.com/search?q=visit%20Singapore",
+    "wikipedia": "https://en.wikipedia.org/wiki/Singapore"
+  },
+  "overview": [
+    "Singapore was established as a British trading post by Sir Stamford Raffles in 1819 and became an independent nation in 1965. In just a few decades it grew from a small port into one of the world's leading financial centres, with one of the busiest container ports on the planet.",
+    "The city is famous for its striking skyline and greenery. Marina Bay Sands overlooks the bay, while the Supertrees of Gardens by the Bay light up every evening. The Singapore Botanic Gardens, founded in 1859, became the country's first UNESCO World Heritage Site in 2015. Even the airport is an attraction: Jewel Changi is home to the world's tallest indoor waterfall.",
+    "Food is a national obsession. Singapore's hawker culture was added to UNESCO's list of Intangible Cultural Heritage in 2020, and hawker centres serve chicken rice, laksa and chilli crab for just a few dollars. Explore the temples and shophouses of Chinatown, Little India and Kampong Glam to see the mix of Chinese, Malay, Indian and other cultures that shapes the city."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Singapore&aid=2243524",
+    "tours": "https://www.viator.com/Singapore/d18",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sin/cheap-flights-to-singapore.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌳",
+      "title": "Gardens by the Bay",
+      "desc": "Supertrees, the Cloud Forest and the Flower Dome.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gardens%20by%20the%20Bay%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gardens%20by%20the%20Bay%20tickets"
+    },
+    {
+      "icon": "🦁",
+      "title": "Night Safari",
+      "desc": "The world's first nocturnal wildlife park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Singapore%20Night%20Safari",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Singapore%20Night%20Safari"
+    },
+    {
+      "icon": "🎢",
+      "title": "Universal Studios Singapore",
+      "desc": "Rides and shows on Sentosa Island.",
+      "viator": "https://www.viator.com/searchResults/all?text=Universal%20Studios%20Singapore",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Universal%20Studios%20Singapore"
+    },
+    {
+      "icon": "🌇",
+      "title": "Marina Bay Sands SkyPark",
+      "desc": "Skyline views from the famous rooftop deck.",
+      "viator": "https://www.viator.com/searchResults/all?text=Marina%20Bay%20Sands%20SkyPark",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Marina%20Bay%20Sands%20SkyPark"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A CITY, AN ISLAND AND A COUNTRY",
+      "text": "Singapore is one of only a few city-states in the world, alongside Monaco and Vatican City."
+    },
+    {
+      "title": "CHEWING GUM SALES ARE BANNED",
+      "text": "Selling chewing gum has been banned since 1992 to keep streets and trains clean. Since 2004, some therapeutic gum is allowed from pharmacies."
+    },
+    {
+      "title": "HAWKER CULTURE IS WORLD HERITAGE",
+      "text": "In 2020, UNESCO added Singapore's hawker culture to its list of Intangible Cultural Heritage of Humanity."
+    },
+    {
+      "title": "HAWKER STALLS WITH MICHELIN STARS",
+      "text": "In 2016, two Singapore hawker stalls became the first street-food stalls in the world to receive a Michelin star."
+    },
+    {
+      "title": "THE BOTANIC GARDENS ARE A UNESCO SITE",
+      "text": "Founded in 1859, the Singapore Botanic Gardens became the country's first UNESCO World Heritage Site in 2015."
+    },
+    {
+      "title": "THE COUNTRY KEEPS GROWING",
+      "text": "Through land reclamation, Singapore has increased its land area by around 25 percent since independence."
+    },
+    {
+      "title": "FOUR OFFICIAL LANGUAGES",
+      "text": "English, Malay, Mandarin and Tamil are all official languages. The national anthem, \"Majulah Singapura\", is sung in Malay."
+    },
+    {
+      "title": "THE WORLD'S TALLEST INDOOR WATERFALL",
+      "text": "The HSBC Rain Vortex inside Jewel Changi Airport drops 40 metres from a glass dome into a garden."
+    },
+    {
+      "title": "THE LION CITY",
+      "text": "The name Singapura comes from Sanskrit words meaning \"lion city\", which is why the half-lion, half-fish Merlion is its mascot."
+    },
+    {
+      "title": "JUST NORTH OF THE EQUATOR",
+      "text": "Singapore lies only about 137 kilometres north of the equator, so it is warm and humid all year round."
+    }
+  ],
+  "randomFacts": [
+    "Singapore is one of only a few city-states in the world, alongside Monaco and Vatican City.",
+    "Selling chewing gum has been banned since 1992 to keep streets and trains clean. Since 2004, some therapeutic gum is allowed from pharmacies.",
+    "In 2020, UNESCO added Singapore's hawker culture to its list of Intangible Cultural Heritage of Humanity.",
+    "In 2016, two Singapore hawker stalls became the first street-food stalls in the world to receive a Michelin star.",
+    "Founded in 1859, the Singapore Botanic Gardens became the country's first UNESCO World Heritage Site in 2015.",
+    "Through land reclamation, Singapore has increased its land area by around 25 percent since independence.",
+    "English, Malay, Mandarin and Tamil are all official languages. The national anthem, \"Majulah Singapura\", is sung in Malay.",
+    "The HSBC Rain Vortex inside Jewel Changi Airport drops 40 metres from a glass dome into a garden.",
+    "The name Singapura comes from Sanskrit words meaning \"lion city\", which is why the half-lion, half-fish Merlion is its mascot.",
+    "Singapore lies only about 137 kilometres north of the equator, so it is warm and humid all year round.",
+    "The Night Safari, opened in 1994, was the world's first nocturnal zoo.",
+    "Around 80% of Singaporeans live in public HDB housing.",
+    "The Singapore Sling cocktail was created at the Raffles Hotel.",
+    "The Supertrees at Gardens by the Bay are up to 50 metres tall.",
+    "Changi Airport has been voted the world's best airport many times."
+  ],
+  "faq": [
+    {
+      "q": "Where is Singapore located?",
+      "a": "Singapore is in Singapore, in Asia."
+    },
+    {
+      "q": "What is the population of Singapore?",
+      "a": "The greater Singapore area is home to about 6,000,000 people."
+    },
+    {
+      "q": "What is Singapore famous for?",
+      "a": "A city, island and country in one, Singapore blends futuristic architecture, lush gardens and some of the world's best street food."
+    },
+    {
+      "q": "Is Singapore worth visiting?",
+      "a": "Yes — Singapore was ranked #23 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Singapore?",
+      "a": "Yes — IShowSpeed streamed from Singapore on his 2024 Southeast Asia tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 23
+}

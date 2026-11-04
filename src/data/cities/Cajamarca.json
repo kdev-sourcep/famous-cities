@@ -1,0 +1,140 @@
+{
+  "slug": "Cajamarca",
+  "name": "Cajamarca",
+  "region": "South America",
+  "country": "Peru",
+  "metro": "300,000",
+  "seo": {
+    "title": "Cajamarca Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Cajamarca travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Cajamarca.",
+    "keywords": "Cajamarca, Cajamarca travel guide, things to do in Cajamarca, Cajamarca fun facts, where to stay in Cajamarca, Famous Cities"
+  },
+  "image": "Cajamarca.png",
+  "video": "videos/cajamarca.mp4",
+  "youtube": null,
+  "tagline": "The 'Cusco of the North' guards the room where the last Inca emperor was held for ransom, ringed by pre-Inca ruins, thermal baths and one of South America's wildest Carnivals.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Cajamarca",
+    "twitter": "https://twitter.com/search?q=visit%20Cajamarca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cajamarca"
+  },
+  "overview": [
+    "Cajamarca is where the Inca Empire ended. In 1532, conquistadors captured Atahualpa here in an ambush in the main square; the emperor offered to fill his room with gold for his freedom, and the Ransom Room still stands beside the plaza.",
+    "The highland city (2,750m) keeps a beautiful colonial centre of Baroque churches and carved stone, but the bigger draw is the country around it. The Baños del Inca thermal baths still flow where the Inca once soaked, and the ancient canals and stone forest of Cumbemayo crown the hills outside town.",
+    "Cajamarca hosts Peru's rowdiest Carnival — weeks of water fights, music and parades each February. The surrounding countryside holds the Otuzco cliff tombs, the hilltop church of Santa Apolonia with its city view, and farms making the region's famous cheeses."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cajamarca&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Cajamarca",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cja/cheap-flights-to-cajamarca.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "City & Ransom Room Tour",
+      "desc": "Atahualpa's ransom room and the colonial centre.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cajamarca%20city%20tour%20Ransom%20Room",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cajamarca%20city%20tour%20Ransom%20Room"
+    },
+    {
+      "icon": "♾️",
+      "title": "Baños del Inca",
+      "desc": "Soak in the emperor's thermal baths.",
+      "viator": "https://www.viator.com/searchResults/all?text=Banos%20del%20Inca%20Cajamarca",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Banos%20del%20Inca%20Cajamarca"
+    },
+    {
+      "icon": "🏞️",
+      "title": "Cumbemayo Day Trip",
+      "desc": "Stone forest, ancient canals and valley views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cumbemayo%20tour%20from%20Cajamarca",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cumbemayo%20tour%20from%20Cajamarca"
+    },
+    {
+      "icon": "🏺",
+      "title": "Otuzco & Countryside",
+      "desc": "Cliff tombs, farms and Santa Apolonia viewpoint.",
+      "viator": "https://www.viator.com/searchResults/all?text=Otuzco%20Cajamarca%20countryside%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Otuzco%20Cajamarca%20countryside%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WHERE THE EMPIRE FELL",
+      "text": "The capture of Inca emperor Atahualpa in 1532 in Cajamarca's plaza opened the conquest of the Inca Empire."
+    },
+    {
+      "title": "THE RANSOM ROOM",
+      "text": "Atahualpa offered to fill a room once with gold and twice with silver — the room still stands."
+    },
+    {
+      "title": "THE INCA BATHS",
+      "text": "The Baños del Inca hot springs still flow where the emperor bathed before his capture."
+    },
+    {
+      "title": "PERU'S CARNIVAL CAPITAL",
+      "text": "Cajamarca's February Carnival is considered the country's biggest and wildest."
+    },
+    {
+      "title": "A STONE FOREST",
+      "text": "Cumbemayo's wind-carved volcanic towers hide an aqueduct carved before the Incas."
+    },
+    {
+      "title": "CLIFF TOMBS",
+      "text": "The necropolis of Otuzco packs hundreds of burial niches into a rock face."
+    },
+    {
+      "title": "CHEESE COUNTRY",
+      "text": "The green valleys around town produce some of Peru's most famous cheeses."
+    },
+    {
+      "title": "AN OLD BELVEDERE",
+      "text": "Santa Apolonia hill, with a white chapel and Inca-carved seats, watches over the city."
+    },
+    {
+      "title": "POC OF THE POOR",
+      "text": "Traditional ponchos from Cajamarca's villages became the Andean icon."
+    },
+    {
+      "title": "A SQUARE BUILT FOR HISTORY",
+      "text": "The Plaza de Armas marks where conquistadors staged the ambush of 1532."
+    }
+  ],
+  "randomFacts": [
+    "The capture of Inca emperor Atahualpa in 1532 in Cajamarca's plaza opened the conquest of the Inca Empire.",
+    "Atahualpa offered to fill a room once with gold and twice with silver — the room still stands.",
+    "The Baños del Inca hot springs still flow where the emperor bathed before his capture.",
+    "Cajamarca's February Carnival is considered the country's biggest and wildest.",
+    "Cumbemayo's wind-carved volcanic towers hide an aqueduct carved before the Incas.",
+    "The necropolis of Otuzco packs hundreds of burial niches into a rock face.",
+    "The green valleys around town produce some of Peru's most famous cheeses.",
+    "Santa Apolonia hill, with a white chapel and Inca-carved seats, watches over the city.",
+    "Traditional ponchos from Cajamarca's villages became the Andean icon.",
+    "The Plaza de Armas marks where conquistadors staged the ambush of 1532.",
+    "The Ransom Room is the only Inca-era building left in the city.",
+    "Locals eat cuy (guinea pig) roasted or fried on feast days.",
+    "Carnival water fights are taken seriously — expect to get soaked.",
+    "Cumbemayo's canal dates back over 3,000 years.",
+    "The city sits in a fertile valley of dairy farms."
+  ],
+  "faq": [
+    {
+      "q": "Where is Cajamarca located?",
+      "a": "Cajamarca is in Peru, in South America."
+    },
+    {
+      "q": "What is the population of Cajamarca?",
+      "a": "The greater Cajamarca area is home to about 300,000 people."
+    },
+    {
+      "q": "What is Cajamarca famous for?",
+      "a": "The 'Cusco of the North' guards the room where the last Inca emperor was held for ransom, ringed by pre-Inca ruins, thermal baths and one of South America's wildest Carnivals."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

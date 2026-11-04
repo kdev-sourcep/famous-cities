@@ -1,0 +1,32 @@
+[
+  {
+    "key": "people",
+    "label": "People",
+    "desc": "The immigration rate and diversity of a city, including the sub-categories of Foreign Born and Educational Attainment."
+  },
+  {
+    "key": "location",
+    "label": "Location",
+    "desc": "The perceived quality of a city’s natural and built environment, including the sub-categories of Weather, Safety, Neighborhoods & Landmarks, and Outdoors."
+  },
+  {
+    "key": "promotion",
+    "label": "Promotion",
+    "desc": "A city's online presence and how widely its story is shared, including the sub-categories of Google Searches, Tripadvisor Reviews, Instagram Hashtags and Facebook Check-ins."
+  },
+  {
+    "key": "prosperity",
+    "label": "Prosperity",
+    "desc": "A city’s employment and corporate head offices, including the sub-categories of Fortune 500 Companies and Household Income as well as Employment Rate and Income Equality for the 2021 America’s Best Cities rankings."
+  },
+  {
+    "key": "programming",
+    "label": "Programming",
+    "desc": "The arts, culture, entertainment and culinary scene in a city, including the sub-categories of Shopping, Culture, Restaurants, and Nightlife."
+  },
+  {
+    "key": "product",
+    "label": "Product",
+    "desc": "A city’s key institutions, attractions and infrastructure, including the sub-categories of Airport Connectivity, Attractions, Museums, University Ranking, Convention Center, and Pro Sports teams."
+  }
+]

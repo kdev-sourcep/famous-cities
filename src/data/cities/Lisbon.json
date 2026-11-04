@@ -1,0 +1,144 @@
+{
+  "slug": "Lisbon",
+  "name": "Lisbon",
+  "region": "Europe",
+  "country": "Portugal",
+  "metro": "2,900,000",
+  "seo": {
+    "title": "Lisbon Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Lisbon travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Lisbon.",
+    "keywords": "Lisbon, Lisbon travel guide, things to do in Lisbon, Lisbon fun facts, where to stay in Lisbon, Famous Cities"
+  },
+  "image": "Lisbon.png",
+  "video": "videos/lisbon.mp4",
+  "youtube": null,
+  "tagline": "Portugal's sunny, hilly capital charms with yellow trams, tiled facades, riverside viewpoints, fado music and the famous pastel de nata. It is ranked #49 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Lisbon",
+    "twitter": "https://twitter.com/search?q=visit%20Lisbon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lisbon"
+  },
+  "overview": [
+    "Lisbon is one of the oldest cities in Western Europe, and during the Age of Discoveries it was the starting point for explorers like Vasco da Gama, who sailed from Belém to India in 1497. The Belém Tower and the Jerónimos Monastery, built to celebrate that era, are both UNESCO World Heritage Sites.",
+    "In 1755 a powerful earthquake, followed by a tsunami and fires, destroyed much of the city. The Baixa district was rebuilt on an orderly grid with some of the first earthquake-resistant buildings in Europe, while the old Alfama quarter survived with its tangle of narrow lanes. Climb the city's hills—or ride the vintage Tram 28—to reach viewpoints called miradouros.",
+    "Lisbon is also a city for the senses. Sample a warm pastel de nata in Belém, listen to soulful fado music in a small Alfama tavern, and browse the food stalls of the Time Out Market. Fairytale Sintra, with its colorful palaces, is an easy day trip by train."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Lisbon&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Lisbon",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lis/cheap-flights-to-lisbon.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Sintra Day Trip",
+      "desc": "Visit the colorful Pena Palace and fairytale castles.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sintra%20day%20trip%20from%20Lisbon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sintra%20day%20trip%20from%20Lisbon"
+    },
+    {
+      "icon": "⛪",
+      "title": "Belém Tower & Jerónimos",
+      "desc": "Two UNESCO landmarks from the Age of Discoveries.",
+      "viator": "https://www.viator.com/searchResults/all?text=Belem%20Tower%20Jeronimos%20Monastery%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Belem%20Tower%20Jeronimos%20Monastery%20tickets"
+    },
+    {
+      "icon": "🚋",
+      "title": "Alfama & Tram 28 Tour",
+      "desc": "Explore Lisbon's oldest quarter and its famous tram route.",
+      "viator": "https://www.viator.com/searchResults/all?text=Alfama%20walking%20tour%20Lisbon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Alfama%20walking%20tour%20Lisbon"
+    },
+    {
+      "icon": "🎶",
+      "title": "Fado Show",
+      "desc": "An evening of traditional fado music with dinner.",
+      "viator": "https://www.viator.com/searchResults/all?text=Fado%20show%20Lisbon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Fado%20show%20Lisbon"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ONE OF EUROPE'S OLDEST CITIES",
+      "text": "Lisbon is often said to be older than Lisbon, with settlements dating back thousands of years."
+    },
+    {
+      "title": "BUILT ON SEVEN HILLS",
+      "text": "Like Lisbon, Lisbon is known as the city of seven hills, which is why it is full of stairs, funiculars and spectacular views."
+    },
+    {
+      "title": "THE GREAT EARTHQUAKE OF 1755",
+      "text": "On All Saints' Day, 1 November 1755, an earthquake, tsunami and fires devastated Lisbon. The rebuilt Baixa used an early earthquake-resistant wooden frame known as the Pombaline cage."
+    },
+    {
+      "title": "TRAM 28 IS A CITY ICON",
+      "text": "Vintage yellow trams rattle up and down the hills on route 28, passing through Graça, Alfama, Baixa and Estrela."
+    },
+    {
+      "title": "THE SECRET RECIPE OF PASTÉIS DE BELÉM",
+      "text": "The bakery Pastéis de Belém has been making its custard tarts since 1837 using a recipe inspired by the monks of the nearby Jerónimos Monastery—and it is still a secret."
+    },
+    {
+      "title": "FADO IS WORLD HERITAGE",
+      "text": "Fado, Lisbon's soulful traditional music, was added to UNESCO's list of Intangible Cultural Heritage in 2011."
+    },
+    {
+      "title": "THE WORLD'S OLDEST BOOKSHOP",
+      "text": "Livraria Bertrand in the Chiado district opened in 1732 and is recognised by Guinness World Records as the oldest operating bookshop in the world."
+    },
+    {
+      "title": "A VERY LONG BRIDGE",
+      "text": "The Vasco da Gama Bridge stretches about 12 kilometres across the Tagus estuary, making it one of the longest bridges in Europe."
+    },
+    {
+      "title": "A BRIDGE THAT LOOKS LIKE THE GOLDEN GATE",
+      "text": "The red 25 de Abril suspension bridge is often compared to San Francisco's Golden Gate Bridge."
+    },
+    {
+      "title": "A NEO-GOTHIC STREET ELEVATOR",
+      "text": "The Santa Justa Lift, opened in 1902 and designed by Raoul Mesnier du Ponsard, carries passengers from the Baixa up to the Carmo district."
+    }
+  ],
+  "randomFacts": [
+    "Lisbon is often said to be older than Lisbon, with settlements dating back thousands of years.",
+    "Like Lisbon, Lisbon is known as the city of seven hills, which is why it is full of stairs, funiculars and spectacular views.",
+    "On All Saints' Day, 1 November 1755, an earthquake, tsunami and fires devastated Lisbon. The rebuilt Baixa used an early earthquake-resistant wooden frame known as the Pombaline cage.",
+    "Vintage yellow trams rattle up and down the hills on route 28, passing through Graça, Alfama, Baixa and Estrela.",
+    "The bakery Pastéis de Belém has been making its custard tarts since 1837 using a recipe inspired by the monks of the nearby Jerónimos Monastery—and it is still a secret.",
+    "Fado, Lisbon's soulful traditional music, was added to UNESCO's list of Intangible Cultural Heritage in 2011.",
+    "Livraria Bertrand in the Chiado district opened in 1732 and is recognised by Guinness World Records as the oldest operating bookshop in the world.",
+    "The Vasco da Gama Bridge stretches about 12 kilometres across the Tagus estuary, making it one of the longest bridges in Europe.",
+    "The red 25 de Abril suspension bridge is often compared to San Francisco's Golden Gate Bridge.",
+    "The Santa Justa Lift, opened in 1902 and designed by Raoul Mesnier du Ponsard, carries passengers from the Baixa up to the Carmo district.",
+    "Lisbon has been Portugal's capital since the 13th century.",
+    "The black-and-white patterned pavements are called calçada portuguesa.",
+    "The Cristo Rei statue across the river was inspired by Rio's Christ the Redeemer.",
+    "Grilled sardines are the star of Lisbon's June street festivals.",
+    "The Lisbon Oceanarium is one of the largest aquariums in Europe."
+  ],
+  "faq": [
+    {
+      "q": "Where is Lisbon located?",
+      "a": "Lisbon is in Portugal, in Europe."
+    },
+    {
+      "q": "What is the population of Lisbon?",
+      "a": "The greater Lisbon area is home to about 2,900,000 people."
+    },
+    {
+      "q": "What is Lisbon famous for?",
+      "a": "Portugal's sunny, hilly capital charms with yellow trams, tiled facades, riverside viewpoints, fado music and the famous pastel de nata."
+    },
+    {
+      "q": "Is Lisbon worth visiting?",
+      "a": "Yes — Lisbon was ranked #49 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": 49
+}

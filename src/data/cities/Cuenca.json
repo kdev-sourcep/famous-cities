@@ -1,0 +1,140 @@
+{
+  "slug": "Cuenca",
+  "name": "Cuenca",
+  "region": "South America",
+  "country": "Ecuador",
+  "metro": "600,000",
+  "seo": {
+    "title": "Cuenca Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Cuenca travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Cuenca.",
+    "keywords": "Cuenca, Cuenca travel guide, things to do in Cuenca, Cuenca fun facts, where to stay in Cuenca, Famous Cities"
+  },
+  "image": "Cuenca.png",
+  "video": "videos/cuenca.mp4",
+  "youtube": null,
+  "tagline": "Ecuador's most beautiful colonial city drifts along the Tomebamba river beneath blue cathedral domes — and it's where the Panama hat was actually born.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Cuenca",
+    "twitter": "https://twitter.com/search?q=visit%20Cuenca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Cuenca"
+  },
+  "overview": [
+    "Cuenca sits at 2,560 metres in the southern Andes, a city of cobbled lanes, flower markets and carved balconies that earned UNESCO World Heritage status for its intact colonial centre. The twin blue domes of the New Cathedral dominate the skyline.",
+    "Four rivers thread the city, and the Tomebamba's grassy banks are where Cuencanos stroll, picnic and cycle. The markets brim with roses and orchids, the craft stalls sell toquilla 'Panama' hats — an Ecuadorian invention named for the canal workers who bought them — and pumapungo ruins sit inside the city.",
+    "The surrounding mountains deliver the day trips: Cajas National Park's 200+ glacial lakes an hour away, the Inca ruins of Ingapirca — Ecuador's most important — to the north, and the artisan towns of Gualaceo and Chordeleg famous for silver filigree and weavings."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cuenca&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Cuenca",
+    "flights": "https://www.skyscanner.net/transport/flights/to/cue/cheap-flights-to-cuenca.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏔️",
+      "title": "Cajas National Park",
+      "desc": "Hike among glacial lakes at 4,000 metres.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cajas%20National%20Park%20tour%20from%20Cuenca",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cajas%20National%20Park%20tour%20from%20Cuenca"
+    },
+    {
+      "icon": "🏺",
+      "title": "Ingapirca Ruins",
+      "desc": "Ecuador's biggest Inca site with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ingapirca%20tour%20from%20Cuenca",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ingapirca%20tour%20from%20Cuenca"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Colonial Cuenca Walk",
+      "desc": "Cathedral domes, flower market and riverwalk.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cuenca%20city%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cuenca%20city%20walking%20tour"
+    },
+    {
+      "icon": "🎺",
+      "title": "Gualaceo & Chordeleg",
+      "desc": "Silver filigree and weaving in the artisan towns.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gualaceo%20Chordeleg%20tour%20from%20Cuenca",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gualaceo%20Chordeleg%20tour%20from%20Cuenca"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "PANAMA HATS ARE ECUADORIAN",
+      "text": "The toquilla straw hat was made in Ecuador for centuries — canal workers made 'Panama' the name stick."
+    },
+    {
+      "title": "A CITY OF RIVERS",
+      "text": "Four rivers — Tomebamba, Yanuncay, Tarqui and Machángara — all meet inside the city."
+    },
+    {
+      "title": "BLUE DOMES",
+      "text": "The New Cathedral's blue-and-white domes, covered in Czech tile, took a century to finish."
+    },
+    {
+      "title": "AN INCA SITE IN TOWN",
+      "text": "The Pumapungo ruins in the city centre were once Huayna Capac's palace complex."
+    },
+    {
+      "title": "200 GLACIAL LAKES",
+      "text": "Cajas National Park's high plateau is scattered with over 200 lakes an hour from town."
+    },
+    {
+      "title": "ECUADOR'S INGAP RCA",
+      "text": "Ingapirca, the country's biggest Inca ruins, has a perfectly elliptical Temple of the Sun."
+    },
+    {
+      "title": "THE RETIREES' FAVOURITE",
+      "text": "Cuenca repeatedly tops lists of the world's best places to retire for its climate and cost."
+    },
+    {
+      "title": "A CITY OF ARTISANS",
+      "text": "Neighbouring Chordeleg and Gualaceo are centres of silver filigree, ceramics and ikat weaving."
+    },
+    {
+      "title": "THE FLOWER MARKET",
+      "text": "Plaza de las Flores beside the cathedral sells roses and orchids grown in the valley."
+    },
+    {
+      "title": "A NAME TO REMEMBER",
+      "text": "The full name is Santa Ana de los Cuatro Ríos de Cuenca — Saint Anne of the Four Rivers."
+    }
+  ],
+  "randomFacts": [
+    "The toquilla straw hat was made in Ecuador for centuries — canal workers made 'Panama' the name stick.",
+    "Four rivers — Tomebamba, Yanuncay, Tarqui and Machángara — all meet inside the city.",
+    "The New Cathedral's blue-and-white domes, covered in Czech tile, took a century to finish.",
+    "The Pumapungo ruins in the city centre were once Huayna Capac's palace complex.",
+    "Cajas National Park's high plateau is scattered with over 200 lakes an hour from town.",
+    "Ingapirca, the country's biggest Inca ruins, has a perfectly elliptical Temple of the Sun.",
+    "Cuenca repeatedly tops lists of the world's best places to retire for its climate and cost.",
+    "Neighbouring Chordeleg and Gualaceo are centres of silver filigree, ceramics and ikat weaving.",
+    "Plaza de las Flores beside the cathedral sells roses and orchids grown in the valley.",
+    "The full name is Santa Ana de los Cuatro Ríos de Cuenca — Saint Anne of the Four Rivers.",
+    "Cuenca's historic centre is walkable in an afternoon.",
+    "The city produces much of Ecuador's Panama hat output still.",
+    "Tomebamba riverbanks host free weekend concerts.",
+    "Llapingachos — potato cakes with cheese — are the local comfort food.",
+    "The Mirador de Turi viewpoint overlooks the whole valley."
+  ],
+  "faq": [
+    {
+      "q": "Where is Cuenca located?",
+      "a": "Cuenca is in Ecuador, in South America."
+    },
+    {
+      "q": "What is the population of Cuenca?",
+      "a": "The greater Cuenca area is home to about 600,000 people."
+    },
+    {
+      "q": "What is Cuenca famous for?",
+      "a": "Ecuador's most beautiful colonial city drifts along the Tomebamba river beneath blue cathedral domes — and it's where the Panama hat was actually born."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

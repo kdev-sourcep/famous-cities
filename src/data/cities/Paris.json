@@ -1,0 +1,149 @@
+{
+  "slug": "Paris",
+  "name": "Paris",
+  "region": "Europe",
+  "country": "France",
+  "metro": "11,027,000",
+  "seo": {
+    "title": "Paris Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Paris travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Paris.",
+    "keywords": "Paris, Paris travel guide, things to do in Paris, Paris fun facts, where to stay in Paris, Famous Cities"
+  },
+  "image": "Paris.png",
+  "video": "files/Paris.mp4",
+  "youtube": null,
+  "tagline": "Post-Olympics Paris is doubling down on what it does best — pedestrianized streets, a swimmable Seine and a freshly restored Notre-Dame. It is ranked #22 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/groups/what.to.do.in.paris/",
+    "twitter": "https://twitter.com/parisvisitor",
+    "wikipedia": "https://en.wikipedia.org/wiki/Paris"
+  },
+  "overview": [
+    "Paris emerged from its 2024 Olympics summer with real momentum. The Games turned the city into the venue — beach volleyball under the Eiffel Tower, fencing in the Grand Palais — and left behind the most visible legacy of all: a swimmable Seine, with public river-bathing sites opened in summer 2025.",
+    "The bigger story is the rebuilt heart of the city. Notre-Dame reopened in December 2024, five years after the fire, its restored interior drawing enormous crowds (reserve the free timed entry slot online). Around it, Mayor Hidalgo’s pedestrian makeover has become permanent: the Rue de Rivoli runs largely car-free, the Seine’s banks belong to walkers and cyclists, a citywide 30 km/h speed limit is in force, and thousands of former parking spots are caf’ terraces by law.",
+    "The classics are untouched by time: the Louvre and its pyramid, the Mus’e d’Orsay, the Luxembourg Gardens, and a dining scene that rewards every arrondissement — from a €2 baguette to three-star tasting menus.",
+    "One tip for 2026: Paris is busier than ever in peak season. Visit in the shoulder months (April–May or late September–October), book the big museums online in advance, and let the M’tro and your feet do the rest — the city is more walkable now than at any point in its modern history."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?city=-1456928&aid=2243524",
+    "tours": "https://www.viator.com/Paris/d5077",
+    "flights": "https://www.skyscanner.net/transport/flights/to/par/cheap-flights-to-paris.html"
+  },
+  "topThings": [
+    {
+      "icon": "🗼",
+      "title": "Eiffel Tower Summit",
+      "desc": "Skip the long lines and head to the top for the best view in Paris.",
+      "viator": "https://www.viator.com/searchResults/all?text=Eiffel%20Tower%20summit",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Eiffel%20Tower%20summit"
+    },
+    {
+      "icon": "🖼️",
+      "title": "Louvre Museum",
+      "desc": "Timed-entry tickets to see the Mona Lisa and thousands more works.",
+      "viator": "https://www.viator.com/searchResults/all?text=Louvre%20Museum%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Louvre%20Museum%20tickets"
+    },
+    {
+      "icon": "🚢",
+      "title": "Seine River Cruise",
+      "desc": "Glide past Notre-Dame and the Eiffel Tower, day or night.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seine%20river%20cruise%20Paris",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seine%20river%20cruise%20Paris"
+    },
+    {
+      "icon": "👑",
+      "title": "Palace of Versailles",
+      "desc": "Day trip to the palace and gardens of Louis XIV.",
+      "viator": "https://www.viator.com/searchResults/all?text=Versailles%20day%20trip%20from%20Paris",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Versailles%20day%20trip%20from%20Paris"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "PARIS HAS 5 STATUES OF LIBERTY",
+      "text": "This might come as a surprising Paris fact to many as the most known one is in New York but Paris also has a number of its replicas of statues of Liberty."
+    },
+    {
+      "title": "PARIS HAS ONE OF THE MOST FAMOUS PAINTINGS IN THE WORLD",
+      "text": "The <a href=\"https://dreamsinparis.com/facts-about-the-louvre-museum/\"> Louvre Museum  </a>in Paris houses the most prestigious and most famous painting in the world, the Mona Lisa by Leonardo da Vinci."
+    },
+    {
+      "title": "20 ARRONDISSEMENTS IN THE CITY",
+      "text": "Paris is segmented into 20 different arrondissements which can also be referred to as districts."
+    },
+    {
+      "title": "PARIS HAS AN UNDERGROUND CITY",
+      "text": "Paris is undeniably a beautiful city but it also has darkness beneath its walls — a full city of darkness commonly known as the Paris underground city. This city is called “The Catacombs”."
+    },
+    {
+      "title": "PARIS THE CITY OF LIGHT",
+      "text": "Paris is called the city of light because it was one of the first European cities to install street lights. This was commissioned by Louis XIV in the 17th century to put more light on the streets as a way of restoring the city’s safety that had deteriorated due to the recently concluded wars. But up to now, the nickname is so popular making the city even more special. Now that’s one Paris fact that I am sure you didn’t know about."
+    },
+    {
+      "title": "THE \"SEINE RIVER\" TURNS PART OF PARIS INTO 2 ISLANDS",
+      "text": "There are 2 remaining natural islands in Paris and that is all thanks to the Seine River. With the islands of Île de la Cité which is the biggest and also famous for having the Notre Dame cathedral and L’île Saint-Louis (all of which are connected by bridges), Paris can proudly say that it also has islands."
+    },
+    {
+      "title": "THE FIRST \"BLOODY MARY\" WAS MADE IN PARIS",
+      "text": "One of the fun facts about Paris is that the famous cocktail, Bloody Mary was first made in the French Capital."
+    },
+    {
+      "title": "THE TRADITION OF “LOVE ROCKS” DID NOT START IN PARIS",
+      "text": "However, it’s easy to see why most people might have thought that since Paris is usually associated with love locks compared to any other place in the world. So if not Paris, where did this tradition start from? The tradition of locking padlocks started in a small town of Serbia, as a result of a failed love affair between 2 young lovers (Nada and Relja). And since the relationship failed due to the infidelity of Relja which broke Nada’s heart, the young women in the town decided to start locking padlocks with their names and those of their lovers on the “bridge of love” and later throw the keys into the river as a sign of a life long commitment without infidelity. And later on, everyone in the town and Serbia started locking padlocks as a sign of love which then spread all across Europe.But Paris being the  <a href=\"https://dreamsinparis.com/is-paris-the-city-of-love/\">city of love</a> , it became the forefront of locking padlocks on bridges that so many people mistaken it to be the origin of this romantic activity."
+    },
+    {
+      "title": "PARIS DOES NOT HAVE ANY \"STOP\" SIGN",
+      "text": "Now if you come from a country whose roads are marked with “STOP” on every turn you make, you’re in for one big surprise. It’s one of the facts about Paris, France that blows everyone’s mind who hears about it. Actually, even the 1 stop sign that ever existed at the exit of a construction company in the 16th arrondissement magically disappeared which makes Paris a “STOP” free city. But Parisians still make it work with other numerous road signs."
+    },
+    {
+      "title": "PARIS HAS 450 PARKS AND GARDENS",
+      "text": "Paris is the heart of picnics and this could be thanks to the 450 parks and gardens spread across the city. Though they’re many  <a href=\"https://dreamsinparis.com/best-parks-in-paris/\">parks and gardens in Paris</a> , the most famous ones are the Tuileries Garden and the Luxembourg Garden."
+    }
+  ],
+  "randomFacts": [
+    "Paris has 5 statues of Liberty, not just the famous one in New York!",
+    "The Louvre Museum in Paris houses the Mona Lisa, the world's most famous painting.",
+    "Paris is divided into 20 districts called arrondissements.",
+    "Beneath Paris lies 'The Catacombs' - an underground city of darkness.",
+    "Paris is called the 'City of Light' because it was one of the first European cities to install street lights in the 17th century.",
+    "The Seine River creates two natural islands in Paris: Île de la Cité and Île Saint-Louis.",
+    "The first Bloody Mary cocktail was made in Paris.",
+    "Paris has NO stop signs - not even one!",
+    "Paris has 450 parks and gardens spread across the city.",
+    "The Eiffel Tower was supposed to be a temporary structure, built for the 1889 World's Fair.",
+    "Paris is home to the oldest café in the world, Café Procope, opened in 1686.",
+    "The Shakespeare and Company bookstore in Paris has been a haven for writers since 1951.",
+    "Paris has more dogs than people - about 300,000 dogs for 2 million residents.",
+    "The Pont Neuf (New Bridge) is actually the oldest bridge in Paris, built in 1607.",
+    "Paris's metro system has 16 lines and 302 stations, making it one of the densest in the world."
+  ],
+  "faq": [
+    {
+      "q": "Where is Paris located?",
+      "a": "Paris is in France, in Europe."
+    },
+    {
+      "q": "What is the population of Paris?",
+      "a": "The greater Paris area is home to about 4,735,000 people."
+    },
+    {
+      "q": "What is Paris famous for?",
+      "a": "Paris is famous for the Eiffel Tower, the Louvre, Notre-Dame, the Champs-Élysées, and its café culture and cuisine."
+    },
+    {
+      "q": "Is Paris worth visiting?",
+      "a": "Yes — Paris was ranked #22 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Paris?",
+      "a": "Yes — IShowSpeed streamed from Paris during his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 22
+}

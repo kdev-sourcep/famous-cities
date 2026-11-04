@@ -1,0 +1,140 @@
+{
+  "slug": "Tamarindo",
+  "name": "Tamarindo",
+  "region": "North America",
+  "country": "Costa Rica",
+  "metro": "10,000",
+  "seo": {
+    "title": "Tamarindo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Tamarindo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Tamarindo.",
+    "keywords": "Tamarindo, Tamarindo travel guide, things to do in Tamarindo, Tamarindo fun facts, where to stay in Tamarindo, Famous Cities"
+  },
+  "image": "Tamarindo.png",
+  "video": "videos/tamarindo.mp4",
+  "youtube": null,
+  "tagline": "Guanacaste's most popular first-timer beach town pairs gentle beginner surf breaks with lively nightlife, an easy hour's drive from Liberia International Airport.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Tamarindo",
+    "twitter": "https://twitter.com/search?q=visit%20Tamarindo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tamarindo"
+  },
+  "overview": [
+    "Tamarindo was a quiet fishing village until surfers discovered its beaches in the 1970s and the 1994 surf film Endless Summer II put it on the map. Today it is the busiest beach town on Costa Rica's dry Pacific north coast, but the long sandy bay and relaxed 'pura vida' pace remain.",
+    "Playa Tamarindo's soft, forgiving waves make it one of the world's best places to learn to surf, while neighbouring beaches like Playa Langosta and Playa Avellanas offer bigger breaks. Between the town and Langosta, the Tamarindo estuary winds through mangroves where boat tours spot crocodiles, howler monkeys and scarlet macaws.",
+    "After dark the town comes alive with beach bars, sunset catamaran cruises and restaurants serving everything from fresh ceviche to wood-fired pizza. Day trips reach the Rincón de la Vieja volcano for hot springs and mud baths, and the leatherback turtles of Las Baulas National Marine Park nest just across the estuary."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Tamarindo&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Tamarindo",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lir/cheap-flights-to-tamarindo.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏄",
+      "title": "Beginner Surf Lesson",
+      "desc": "Stand up on your first waves in the gentle bay.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tamarindo%20surf%20lesson",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tamarindo%20surf%20lesson"
+    },
+    {
+      "icon": "⛵",
+      "title": "Sunset Catamaran Cruise",
+      "desc": "Sail, snorkel and watch the sun drop into the Pacific.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tamarindo%20sunset%20catamaran%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tamarindo%20sunset%20catamaran%20cruise"
+    },
+    {
+      "icon": "🐊",
+      "title": "Estuary Wildlife Boat Tour",
+      "desc": "Crocodiles, monkeys and birds through the mangroves.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tamarindo%20estuary%20boat%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tamarindo%20estuary%20boat%20tour"
+    },
+    {
+      "icon": "🌋",
+      "title": "Rincón de la Vieja Day Trip",
+      "desc": "Volcano trails, waterfalls, mud baths and hot springs.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rincon%20de%20la%20Vieja%20tour%20from%20Tamarindo",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rincon%20de%20la%20Vieja%20tour%20from%20Tamarindo"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A SURF MOVIE MADE IT FAMOUS",
+      "text": "Endless Summer II (1994) filmed at nearby Witch's Rock, turning Tamarindo into a global surf destination."
+    },
+    {
+      "title": "GIANT SEA TURTLES",
+      "text": "Las Baulas park next door hosts nesting leatherback turtles, which can weigh over 500 kilograms, from October to March."
+    },
+    {
+      "title": "AN EASY ARRIVAL",
+      "text": "Liberia International Airport is only about an hour away, making Tamarindo one of Costa Rica's easiest beach towns to reach."
+    },
+    {
+      "title": "CROCODILES IN TOWN",
+      "text": "The Tamarindo estuary is home to American crocodiles that can grow past 4 metres."
+    },
+    {
+      "title": "A DRY PARADISE",
+      "text": "Guanacaste's dry season can see almost no rain from December to April — rare for the tropics."
+    },
+    {
+      "title": "HOWLERS AS ALARM CLOCKS",
+      "text": "Howler monkeys in the town's trees produce one of the loudest calls of any land animal."
+    },
+    {
+      "title": "A FAMOUS REEF BREAK",
+      "text": "Witch's Rock, in Santa Rosa National Park, was named for the howling sound wind makes over it."
+    },
+    {
+      "title": "PURA VIDA",
+      "text": "Costa Ricans greet each other with 'pura vida' — 'pure life' — a national motto of laid-back living."
+    },
+    {
+      "title": "FIRST LEARNED ON FOAM",
+      "text": "Tamarindo's wide sandy beach break lets beginners stand up in shallow, waist-deep water."
+    },
+    {
+      "title": "FROM FISHING VILLAGE",
+      "text": "Until the 1980s, Tamarindo was a small fishing village reachable only by rough dirt roads."
+    }
+  ],
+  "randomFacts": [
+    "Endless Summer II (1994) filmed at nearby Witch's Rock, turning Tamarindo into a global surf destination.",
+    "Las Baulas park next door hosts nesting leatherback turtles, which can weigh over 500 kilograms, from October to March.",
+    "Liberia International Airport is only about an hour away, making Tamarindo one of Costa Rica's easiest beach towns to reach.",
+    "The Tamarindo estuary is home to American crocodiles that can grow past 4 metres.",
+    "Guanacaste's dry season can see almost no rain from December to April — rare for the tropics.",
+    "Howler monkeys in the town's trees produce one of the loudest calls of any land animal.",
+    "Witch's Rock, in Santa Rosa National Park, was named for the howling sound wind makes over it.",
+    "Costa Ricans greet each other with 'pura vida' — 'pure life' — a national motto of laid-back living.",
+    "Tamarindo's wide sandy beach break lets beginners stand up in shallow, waist-deep water.",
+    "Until the 1980s, Tamarindo was a small fishing village reachable only by rough dirt roads.",
+    "Costa Rica holds about 5% of the world's biodiversity.",
+    "Tamarindo has no street addresses — directions use landmarks.",
+    "Sunsets here set over the Pacific almost due west.",
+    "The dry forest surrounding the town is tropical dry forest, a rare ecosystem.",
+    "Fresh smoothies and 'batidos' are sold everywhere on the main strip."
+  ],
+  "faq": [
+    {
+      "q": "Where is Tamarindo located?",
+      "a": "Tamarindo is in Costa Rica, in North America."
+    },
+    {
+      "q": "What is the population of Tamarindo?",
+      "a": "The greater Tamarindo area is home to about 10,000 people."
+    },
+    {
+      "q": "What is Tamarindo famous for?",
+      "a": "Guanacaste's most popular first-timer beach town pairs gentle beginner surf breaks with lively nightlife, an easy hour's drive from Liberia International Airport."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null
+}

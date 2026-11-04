@@ -1,0 +1,144 @@
+{
+  "slug": "Brisbane",
+  "name": "Brisbane",
+  "region": "Oceania",
+  "country": "Australia",
+  "metro": "2,600,000",
+  "seo": {
+    "title": "Brisbane Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Brisbane travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Brisbane.",
+    "keywords": "Brisbane, Brisbane travel guide, things to do in Brisbane, Brisbane fun facts, where to stay in Brisbane, Famous Cities"
+  },
+  "image": "Brisbane.png",
+  "video": "videos/brisbane.mp4",
+  "youtube": null,
+  "tagline": "Australia's subtropical river city — a man-made beach downtown, wild koalas up the road, and the Story Bridge skyline.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Brisbane",
+    "twitter": "https://twitter.com/search?q=visit%20Brisbane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Brisbane"
+  },
+  "overview": [
+    "Brisbane curves along its namesake river — a subtropical city where the South Bank parklands hold a man-made lagoon beach with skyscrapers for a backdrop, and locals commute by CityCat ferries.",
+    "The city is Australia's third-largest and fastest-growing: the Story Bridge climbs and abseils are the thrill, the Lone Pine Koala Sanctuary the cuddle, and the Queens Wharf precinct and Howard Smith Wharves the new waterfront scene under the bridge.",
+    "Speed's 2024 Australia tour streamed from Brisbane. The city also landed the 2032 Olympics — a sports-mad capital on the rise, with the Gold Coast's beaches an hour south."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Brisbane&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Brisbane",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bne/cheap-flights-to-brisbane.html"
+  },
+  "topThings": [
+    {
+      "icon": "🐨",
+      "title": "Lone Pine Koala Sanctuary",
+      "desc": "Hold a koala, feed kangaroos.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lone%20Pine%20Koala%20Sanctuary%20ticket",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lone%20Pine%20Koala%20Sanctuary%20ticket"
+    },
+    {
+      "icon": "🌉",
+      "title": "Story Bridge Climb",
+      "desc": "Dawn or dusk over the skyline.",
+      "viator": "https://www.viator.com/searchResults/all?text=Story%20Bridge%20climb%20Brisbane",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Story%20Bridge%20climb%20Brisbane"
+    },
+    {
+      "icon": "🚤",
+      "title": "River Cruise & South Bank",
+      "desc": "The city by water plus the lagoon.",
+      "viator": "https://www.viator.com/searchResults/all?text=Brisbane%20river%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Brisbane%20river%20cruise"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Moreton Island Day",
+      "desc": "Wrecks, dunes and dolphins offshore.",
+      "viator": "https://www.viator.com/searchResults/all?text=Moreton%20Island%20day%20trip%20from%20Brisbane",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Moreton%20Island%20day%20trip%20from%20Brisbane"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A BEACH DOWNTOWN",
+      "text": "South Bank's Streets Beach is a free lagoon in the city centre."
+    },
+    {
+      "title": "THE RIVER CITY",
+      "text": "The Brisbane River snakes through the centre — CityCat ferries are public transport."
+    },
+    {
+      "title": "KOALA CAPITAL",
+      "text": "Lone Pine is the world's oldest and largest koala sanctuary — you can hold one."
+    },
+    {
+      "title": "STORY BRIDGE",
+      "text": "The 1940 cantilever bridge offers climbs at dawn, day, dusk and night."
+    },
+    {
+      "title": "OLYMPIC CITY 2032",
+      "text": "Brisbane hosts the 2032 Summer Olympics — the fastest-growing Aussie city."
+    },
+    {
+      "title": "SUNSHINE STATE",
+      "text": "Queensland averages ~280 sunny days a year."
+    },
+    {
+      "title": "THE WHEEL & WHARVES",
+      "text": "South Bank's Wheel of Brisbane plus Howard Smith Wharves under the bridge are the new waterfront."
+    },
+    {
+      "title": "MT COOT-THA",
+      "text": "The lookout and botanic gardens sit on the city's mountain."
+    },
+    {
+      "title": "GOLD COAST GATEWAY",
+      "text": "Surfers Paradise is an hour south — theme parks and surf beaches."
+    },
+    {
+      "title": "A RIVER OF CLIFFS",
+      "text": "Kangaroo Point's cliffs draw climbers above the CBD water."
+    }
+  ],
+  "randomFacts": [
+    "South Bank's Streets Beach is a free lagoon in the city centre.",
+    "The Brisbane River snakes through the centre — CityCat ferries are public transport.",
+    "Lone Pine is the world's oldest and largest koala sanctuary — you can hold one.",
+    "The 1940 cantilever bridge offers climbs at dawn, day, dusk and night.",
+    "Brisbane hosts the 2032 Summer Olympics — the fastest-growing Aussie city.",
+    "Queensland averages ~280 sunny days a year.",
+    "South Bank's Wheel of Brisbane plus Howard Smith Wharves under the bridge are the new waterfront.",
+    "The lookout and botanic gardens sit on the city's mountain.",
+    "Surfers Paradise is an hour south — theme parks and surf beaches.",
+    "Kangaroo Point's cliffs draw climbers above the CBD water.",
+    "The Ekka agricultural show still draws the city every August.",
+    "Free ferry CityHopper loops the river.",
+    "Brisbanites call it 'Brissie'.",
+    "Moreton Bay islands hold sand dunes and wrecks for snorkelling.",
+    "The Gabba is the cricket cauldron."
+  ],
+  "faq": [
+    {
+      "q": "Where is Brisbane located?",
+      "a": "Brisbane is in Australia, in Oceania."
+    },
+    {
+      "q": "What is the population of Brisbane?",
+      "a": "The greater Brisbane area is home to about 2,600,000 people."
+    },
+    {
+      "q": "What is Brisbane famous for?",
+      "a": "Brisbane is famous for the riverside South Bank beach, koala sanctuary, Story Bridge and year-round subtropical sun."
+    },
+    {
+      "q": "Did IShowSpeed stream from Brisbane?",
+      "a": "Yes — IShowSpeed streamed from Brisbane on his late-2024 Australia &amp; New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

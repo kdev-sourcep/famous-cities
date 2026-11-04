@@ -1,0 +1,148 @@
+{
+  "slug": "Melbourne",
+  "name": "Melbourne",
+  "region": "Oceania",
+  "country": "Australia",
+  "metro": "5,200,000",
+  "seo": {
+    "title": "Melbourne Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Melbourne travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Melbourne.",
+    "keywords": "Melbourne, Melbourne travel guide, things to do in Melbourne, Melbourne fun facts, where to stay in Melbourne, Famous Cities"
+  },
+  "image": "Melbourne.png",
+  "video": "videos/melbourne.mp4",
+  "youtube": null,
+  "tagline": "Australia's cultural capital pairs famous coffee and laneway street art with world-class sport, great food and easy day trips along the Great Ocean Road. It is ranked #1 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Melbourne",
+    "twitter": "https://twitter.com/search?q=visit%20Melbourne",
+    "wikipedia": "https://en.wikipedia.org/wiki/Melbourne"
+  },
+  "overview": [
+    "Founded in 1835 on the banks of the Yarra River, Melbourne boomed during the 1850s gold rush, when it was briefly one of the richest cities in the world. The grand Victorian-era buildings, boulevards and tram network date from that era.",
+    "The city centre hides its best bits in laneways: tiny coffee bars, street art on Hosier Lane, indie shops and rooftop bars. Melbourne is often credited with kicking off the global flat white craze, and the coffee obsession here is serious business.",
+    "Sport is close to a religion. The Melbourne Cricket Ground holds around 100,000 fans, and the city hosts the Australian Open, the Formula 1 Grand Prix and the AFL Grand Final. For day trips, the Twelve Apostles on the Great Ocean Road and the penguin parade on Phillip Island are favourites."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Melbourne&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Melbourne",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mel/cheap-flights-to-melbourne.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌊",
+      "title": "Great Ocean Road Day Trip",
+      "desc": "See the Twelve Apostles on Australia's most famous coastal drive.",
+      "viator": "https://www.viator.com/searchResults/all?text=Great%20Ocean%20Road%20day%20trip%20from%20Melbourne",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Great%20Ocean%20Road%20day%20trip%20from%20Melbourne"
+    },
+    {
+      "icon": "🐧",
+      "title": "Phillip Island Penguin Parade",
+      "desc": "Watch little penguins waddle ashore at sunset.",
+      "viator": "https://www.viator.com/searchResults/all?text=Phillip%20Island%20penguin%20parade%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Phillip%20Island%20penguin%20parade%20tour"
+    },
+    {
+      "icon": "☕",
+      "title": "Laneways & Coffee Tour",
+      "desc": "Explore hidden lanes, street art and cafe culture.",
+      "viator": "https://www.viator.com/searchResults/all?text=Melbourne%20laneways%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Melbourne%20laneways%20walking%20tour"
+    },
+    {
+      "icon": "🍷",
+      "title": "Yarra Valley Wine Tour",
+      "desc": "Taste cool-climate wines about an hour from the city.",
+      "viator": "https://www.viator.com/searchResults/all?text=Yarra%20Valley%20wine%20tour%20from%20Melbourne",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Yarra%20Valley%20wine%20tour%20from%20Melbourne"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "CAPITAL OF AUSTRALIA... FOR A WHILE",
+      "text": "Melbourne served as Australia's capital from 1901 until Canberra took over in 1927."
+    },
+    {
+      "title": "THE WORLD'S LARGEST TRAM NETWORK",
+      "text": "Melbourne's trams cover around 250 kilometres of track, the largest operating tram network in the world."
+    },
+    {
+      "title": "A GOLD RUSH BOOMTOWN",
+      "text": "During the 1850s gold rush, Melbourne was briefly one of the richest cities on Earth, earning the nickname 'Marvellous Melbourne'."
+    },
+    {
+      "title": "A COFFEE CAPITAL",
+      "text": "Melbourne claims a role in popularising the flat white, now on coffee menus around the world."
+    },
+    {
+      "title": "HOME OF AUSSIE RULES",
+      "text": "Australian rules football was invented in Melbourne in 1858, and the AFL Grand Final fills the roughly 100,000-seat MCG."
+    },
+    {
+      "title": "FIRST SOUTHERN OLYMPICS",
+      "text": "Melbourne was the first city in the southern hemisphere to host the Olympic Games, in 1956."
+    },
+    {
+      "title": "HIDDEN BARS",
+      "text": "Many of Melbourne's best bars hide on rooftops and down laneways behind unmarked doors."
+    },
+    {
+      "title": "PENGUINS NEARBY",
+      "text": "Every sunset, little penguins waddle ashore at Phillip Island, about 90 minutes from the city."
+    },
+    {
+      "title": "FOUR SEASONS IN ONE DAY",
+      "text": "Locals joke you can experience all four seasons in a single day thanks to the fast-changing weather."
+    },
+    {
+      "title": "THE SKYDECK",
+      "text": "The Eureka Tower's 88th-floor observation deck was the highest public vantage point in the southern hemisphere when it opened."
+    }
+  ],
+  "randomFacts": [
+    "Melbourne served as Australia's capital from 1901 until Canberra took over in 1927.",
+    "Melbourne's trams cover around 250 kilometres of track, the largest operating tram network in the world.",
+    "During the 1850s gold rush, Melbourne was briefly one of the richest cities on Earth, earning the nickname 'Marvellous Melbourne'.",
+    "Melbourne claims a role in popularising the flat white, now on coffee menus around the world.",
+    "Australian rules football was invented in Melbourne in 1858, and the AFL Grand Final fills the roughly 100,000-seat MCG.",
+    "Melbourne was the first city in the southern hemisphere to host the Olympic Games, in 1956.",
+    "Many of Melbourne's best bars hide on rooftops and down laneways behind unmarked doors.",
+    "Every sunset, little penguins waddle ashore at Phillip Island, about 90 minutes from the city.",
+    "Locals joke you can experience all four seasons in a single day thanks to the fast-changing weather.",
+    "The Eureka Tower's 88th-floor observation deck was the highest public vantage point in the southern hemisphere when it opened.",
+    "Melbourne has regularly ranked among the world's most liveable cities.",
+    "The Queen Victoria Market has operated since 1878.",
+    "The Royal Exhibition Building is a UNESCO World Heritage Site.",
+    "The city's tram network is the largest in the world.",
+    "Melbourne's laneways are famous for ever-changing street art."
+  ],
+  "faq": [
+    {
+      "q": "Where is Melbourne located?",
+      "a": "Melbourne is in Australia, in Oceania."
+    },
+    {
+      "q": "What is the population of Melbourne?",
+      "a": "The greater Melbourne area is home to about 5,200,000 people."
+    },
+    {
+      "q": "What is Melbourne famous for?",
+      "a": "Australia's cultural capital pairs famous coffee and laneway street art with world-class sport, great food and easy day trips along the Great Ocean Road."
+    },
+    {
+      "q": "Is Melbourne worth visiting?",
+      "a": "Yes — Melbourne was ranked #1 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Melbourne?",
+      "a": "Yes — IShowSpeed streamed from Melbourne on his late-2024 Australia and New Zealand tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 1
+}

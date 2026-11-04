@@ -1,0 +1,144 @@
+{
+  "slug": "Luanda",
+  "name": "Luanda",
+  "region": "Africa",
+  "country": "Angola",
+  "metro": "8,000,000",
+  "seo": {
+    "title": "Luanda Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Luanda travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Luanda.",
+    "keywords": "Luanda, Luanda travel guide, things to do in Luanda, Luanda fun facts, where to stay in Luanda, Famous Cities"
+  },
+  "image": "Luanda.png",
+  "video": "videos/luanda.mp4",
+  "youtube": null,
+  "tagline": "Southern Africa's Atlantic giant — a Portuguese-inflected city of 8 million with an island promenade and a fortress above the bay.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Luanda",
+    "twitter": "https://twitter.com/search?q=visit%20Luanda",
+    "wikipedia": "https://en.wikipedia.org/wiki/Luanda"
+  },
+  "overview": [
+    "Luanda grew from a 1576 Portuguese port into southern Africa's largest city — an Atlantic capital of 8 million where colonial facades survive beside oil-money towers on the Marginal waterfront.",
+    "The city's spine is the Ilha — a sandy spit lined with restaurants and clubs that locals treat as the weekend — while the Fortaleza de São Miguel's 16th-century walls look down on the bay from above the old town. Kizomba, the sensual dance music born here, went global from these clubs.",
+    "Speed's 2025 Africa tour streamed from Luanda. Oil wealth made it famously expensive for expats, though street life — grilled fish at the Ilha, funana dancing — stays resolutely affordable."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Luanda&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Luanda",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lad/cheap-flights-to-luanda.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏙️",
+      "title": "City & Fortress Tour",
+      "desc": "Marginal, fort and the old town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Luanda%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Luanda%20city%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Ilha & Mussulo",
+      "desc": "The sandbar beaches and seafood.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mussulo%20island%20trip%20Luanda",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mussulo%20island%20trip%20Luanda"
+    },
+    {
+      "icon": "🎶",
+      "title": "Kizomba Night",
+      "desc": "Dance the city's invention with locals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Luanda%20nightlife%20kizomba",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Luanda%20nightlife%20kizomba"
+    },
+    {
+      "icon": "🛶",
+      "title": "Kissama Park",
+      "desc": "Elephants and giraffes a half-day south.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kissama%20National%20Park%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kissama%20National%20Park%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "8 MILLION STRONG",
+      "text": "Luanda is southern Africa's biggest metro area."
+    },
+    {
+      "title": "PORTUGUESE ROOTS",
+      "text": "Founded 1576, it was the longest-held European colony's capital — Portuguese is the language."
+    },
+    {
+      "title": "THE ILHA",
+      "text": "The sandy island spit of beach restaurants and clubs is the city's weekend heart."
+    },
+    {
+      "title": "THE FORTRESS",
+      "text": "Fortaleza de São Miguel (1576) guards the bay — now the military museum."
+    },
+    {
+      "title": "KIZOMBA",
+      "text": "The dance and music genre was invented in Luanda's clubs — now worldwide."
+    },
+    {
+      "title": "OIL CITY",
+      "text": "Angola's oil boom made Luanda one of the world's most expensive cities for expats."
+    },
+    {
+      "title": "THE MARGINAL",
+      "text": "The bay-front avenue was rebuilt as a sweeping promenade."
+    },
+    {
+      "title": "MUSSULO",
+      "text": "The island sandbar across the bay has the calm-water beaches."
+    },
+    {
+      "title": "FUNANA & SEMBA",
+      "text": "Semba — kizomba's parent — plus kuduro techno keep the music scene legendary."
+    },
+    {
+      "title": "REBUILD DECADE",
+      "text": "Post-2002 reconstruction transformed the skyline at speed."
+    }
+  ],
+  "randomFacts": [
+    "Luanda is southern Africa's biggest metro area.",
+    "Founded 1576, it was the longest-held European colony's capital — Portuguese is the language.",
+    "The sandy island spit of beach restaurants and clubs is the city's weekend heart.",
+    "Fortaleza de São Miguel (1576) guards the bay — now the military museum.",
+    "The dance and music genre was invented in Luanda's clubs — now worldwide.",
+    "Angola's oil boom made Luanda one of the world's most expensive cities for expats.",
+    "The bay-front avenue was rebuilt as a sweeping promenade.",
+    "The island sandbar across the bay has the calm-water beaches.",
+    "Semba — kizomba's parent — plus kuduro techno keep the music scene legendary.",
+    "Post-2002 reconstruction transformed the skyline at speed.",
+    "Grilled muamba chicken is the national dish.",
+    "The Ilha strip is packed Sundays.",
+    "Funge — cassava mash — goes with everything.",
+    "The pink 'Governor's Palace' photogens on the Marginal.",
+    "Kuduro dancing is athletic and wild."
+  ],
+  "faq": [
+    {
+      "q": "Where is Luanda located?",
+      "a": "Luanda is in Angola, in Africa."
+    },
+    {
+      "q": "What is the population of Luanda?",
+      "a": "The greater Luanda area is home to about 8,000,000 people."
+    },
+    {
+      "q": "What is Luanda famous for?",
+      "a": "Luanda is famous for a Portuguese-influenced Atlantic capital of 8 million — the Ilha strip, the Fortaleza fortress and kizomba music."
+    },
+    {
+      "q": "Did IShowSpeed stream from Luanda?",
+      "a": "Yes — IShowSpeed streamed from Luanda on his 2025 Africa tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

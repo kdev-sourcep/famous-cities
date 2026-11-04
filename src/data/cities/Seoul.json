@@ -1,0 +1,148 @@
+{
+  "slug": "Seoul",
+  "name": "Seoul",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "26,000,000",
+  "seo": {
+    "title": "Seoul Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Seoul travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Seoul.",
+    "keywords": "Seoul, Seoul travel guide, things to do in Seoul, Seoul fun facts, where to stay in Seoul, Famous Cities"
+  },
+  "image": "Seoul.png",
+  "video": "videos/seoul.mp4",
+  "youtube": null,
+  "tagline": "South Korea's high-tech capital mixes 600-year-old palaces and hanok villages with K-pop, night markets and some of the fastest internet on Earth. It is ranked #9 on <a href=\"/best-cities-2026.html\">Time Out's Best Cities 2026</a> list.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Seoul",
+    "twitter": "https://twitter.com/search?q=visit%20Seoul",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seoul"
+  },
+  "overview": [
+    "Seoul has been Korea's capital for more than 600 years, since the Joseon dynasty moved its court here in 1394. Five grand palaces remain in the city centre, including Gyeongbokgung, where the changing of the guard reenactment draws crowds daily.",
+    "Modern Seoul never sits still. Neon-lit districts like Myeongdong and Gangnam hum with shops and K-pop, the futuristic Dongdaemun Design Plaza anchors the design district, and views from N Seoul Tower on Namsan Mountain stretch for miles.",
+    "Eating is a highlight: grill bulgogi at a Korean barbecue table, snack on tteokbokki at Gwangjang Market, and try fried chicken with beer — chimaek — like a local. A day trip to the DMZ border or a hike up Bukhansan's granite peaks adds history and nature to the mix."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Seoul&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Seoul",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sel/cheap-flights-to-seoul.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏯",
+      "title": "Palace & Hanok Village Tour",
+      "desc": "Gyeongbokgung and Bukchon Hanok Village with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seoul%20palace%20hanok%20village%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seoul%20palace%20hanok%20village%20tour"
+    },
+    {
+      "icon": "🧱",
+      "title": "DMZ Day Trip",
+      "desc": "Visit the border between North and South Korea.",
+      "viator": "https://www.viator.com/searchResults/all?text=DMZ%20tour%20from%20Seoul",
+      "getyourguide": "https://www.getyourguide.com/s/?q=DMZ%20tour%20from%20Seoul"
+    },
+    {
+      "icon": "🍜",
+      "title": "Street Food Tour",
+      "desc": "Taste your way through Gwangjang Market and night markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seoul%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seoul%20street%20food%20tour"
+    },
+    {
+      "icon": "🌃",
+      "title": "N Seoul Tower",
+      "desc": "Views over the megacity, best at sunset and after dark.",
+      "viator": "https://www.viator.com/searchResults/all?text=N%20Seoul%20Tower%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=N%20Seoul%20Tower%20tickets"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "CAPITAL FOR OVER 600 YEARS",
+      "text": "Seoul became Korea's capital in 1394 under the Joseon dynasty and still holds five royal palaces."
+    },
+    {
+      "title": "A RIVER RUNS THROUGH IT",
+      "text": "The Han River splits Seoul in two and is lined with parks that fill with picnickers and cyclists."
+    },
+    {
+      "title": "A HIGHWAY BECAME A STREAM",
+      "text": "The elevated Cheonggye freeway was removed in 2005 to restore the Cheonggyecheon stream through downtown."
+    },
+    {
+      "title": "THE PALACE OF SHINING HAPPINESS",
+      "text": "Gyeongbokgung, built in 1395, is the largest of Seoul's royal palaces."
+    },
+    {
+      "title": "WORLD-CLASS INTERNET",
+      "text": "Seoul consistently ranks among the cities with the world's fastest internet speeds."
+    },
+    {
+      "title": "A MOUNTAIN IN THE CITY",
+      "text": "Bukhansan National Park sits inside the city limits and is among the world's most-visited national parks per unit area."
+    },
+    {
+      "title": "SHOPPING THAT NEVER SLEEPS",
+      "text": "Dongdaemun's fashion district and malls famously stay open through the night."
+    },
+    {
+      "title": "A RAINBOW FOUNTAIN BRIDGE",
+      "text": "Banpo Bridge's Moonlight Rainbow Fountain shoots water from both sides of the bridge in rainbow colors."
+    },
+    {
+      "title": "REAL-LIFE GANGNAM",
+      "text": "Gangnam, made world-famous by Psy's 2012 hit, is a real district — and a hub for K-pop entertainment companies."
+    },
+    {
+      "title": "A BORDER DAY TRIP",
+      "text": "The DMZ separating North and South Korea lies about an hour north, and tours visit observation posts and tunnels."
+    }
+  ],
+  "randomFacts": [
+    "Seoul became Korea's capital in 1394 under the Joseon dynasty and still holds five royal palaces.",
+    "The Han River splits Seoul in two and is lined with parks that fill with picnickers and cyclists.",
+    "The elevated Cheonggye freeway was removed in 2005 to restore the Cheonggyecheon stream through downtown.",
+    "Gyeongbokgung, built in 1395, is the largest of Seoul's royal palaces.",
+    "Seoul consistently ranks among the cities with the world's fastest internet speeds.",
+    "Bukhansan National Park sits inside the city limits and is among the world's most-visited national parks per unit area.",
+    "Dongdaemun's fashion district and malls famously stay open through the night.",
+    "Banpo Bridge's Moonlight Rainbow Fountain shoots water from both sides of the bridge in rainbow colors.",
+    "Gangnam, made world-famous by Psy's 2012 hit, is a real district — and a hub for K-pop entertainment companies.",
+    "The DMZ separating North and South Korea lies about an hour north, and tours visit observation posts and tunnels.",
+    "Seoul's metro is one of the largest and busiest in the world.",
+    "Kimchi accompanies nearly every meal — there are hundreds of varieties.",
+    "Seoul hosted the 1988 Summer Olympics and co-hosted the 2002 World Cup.",
+    "Bukchon Hanok Village preserves hundreds of traditional Korean houses.",
+    "The city's full official name is Seoul Special City."
+  ],
+  "faq": [
+    {
+      "q": "Where is Seoul located?",
+      "a": "Seoul is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Seoul?",
+      "a": "The greater Seoul area is home to about 26,000,000 people."
+    },
+    {
+      "q": "What is Seoul famous for?",
+      "a": "South Korea's high-tech capital mixes 600-year-old palaces and hanok villages with K-pop, night markets and some of the fastest internet on Earth."
+    },
+    {
+      "q": "Is Seoul worth visiting?",
+      "a": "Yes — Seoul was ranked #9 on Time Out's Best Cities 2026 list. Explore its facts, attractions and top things to book on this page."
+    },
+    {
+      "q": "Did IShowSpeed stream from Seoul?",
+      "a": "Yes — IShowSpeed streamed from Seoul during his 2024 South Korea trip. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": 9
+}

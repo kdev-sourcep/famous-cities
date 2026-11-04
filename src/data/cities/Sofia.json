@@ -1,0 +1,144 @@
+{
+  "slug": "Sofia",
+  "name": "Sofia",
+  "region": "Europe",
+  "country": "Bulgaria",
+  "metro": "1,500,000",
+  "seo": {
+    "title": "Sofia Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Sofia travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Sofia.",
+    "keywords": "Sofia, Sofia travel guide, things to do in Sofia, Sofia fun facts, where to stay in Sofia, Famous Cities"
+  },
+  "image": "Sofia.png",
+  "video": "videos/sofia.mp4",
+  "youtube": null,
+  "tagline": "Golden domes over Roman streets — a Balkan capital where the metro runs through ancient ruins and a mountain looms over lunch.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Sofia",
+    "twitter": "https://twitter.com/search?q=visit%20Sofia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sofia"
+  },
+  "overview": [
+    "Sofia is one of Europe's oldest cities — a Roman provincial capital (Serdica) whose ruins surfaced when the metro was dug, now displayed in situ under glass in the city centre.",
+    "Above them rise the landmarks: Alexander Nevsky Cathedral's golden domes, the rotating guard of honour at the presidency, and the tiny 4th-century Rotunda of St. George tucked in a courtyard between ministries. Vitosha mountain — 2,290m — sits at the city's edge, with a chairlift starting in a residential neighbourhood.",
+    "Speed's 2024 tour streamed from Sofia. It remains one of Europe's cheapest capitals — meals, museums and mountains at Balkan prices, with the Rila Monastery UNESCO site a day trip south."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Sofia&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Sofia",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sof/cheap-flights-to-sofia.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "City & Churches Tour",
+      "desc": "Nevsky, Rotunda, Roman Serdica.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sofia%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sofia%20walking%20tour"
+    },
+    {
+      "icon": "🏔️",
+      "title": "Rila Monastery",
+      "desc": "Bulgaria's striped UNESCO masterpiece.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rila%20Monastery%20day%20trip%20from%20Sofia",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rila%20Monastery%20day%20trip%20from%20Sofia"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Vitosha Hike",
+      "desc": "Chairlift to the stone rivers.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vitosha%20mountain%20hike%20Sofia",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vitosha%20mountain%20hike%20Sofia"
+    },
+    {
+      "icon": "🍛",
+      "title": "Balkan Food Tour",
+      "desc": "Banitsa, shopska and rakia tastings.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sofia%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sofia%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ROMAN CITY UNDERFOOT",
+      "text": "The ancient city of Serdica lies under the centre — its streets cross a metro concourse."
+    },
+    {
+      "title": "GOLDEN DOMES",
+      "text": "Alexander Nevsky Cathedral's domes are gold-plated — a memorial to Russian soldiers."
+    },
+    {
+      "title": "A MOUNTAIN IN TOWN",
+      "text": "Vitosha's slopes start at the city edge — ski or hike after work."
+    },
+    {
+      "title": "THE 4TH-CENTURY ROTUNDA",
+      "text": "St. George Rotunda, Sofia's oldest building, hides in a government courtyard."
+    },
+    {
+      "title": "YELLOW BRICK ROAD",
+      "text": "The centre's famous yellow bricks were a gift from an Austro-Hungarian emperor."
+    },
+    {
+      "title": "CHEAPEST EU CAPITAL",
+      "text": "Sofia routinely ranks as the European Union's most affordable capital."
+    },
+    {
+      "title": "RILA MONASTERY",
+      "text": "The painted-striped 10th-century monastery is Bulgaria's UNESCO icon."
+    },
+    {
+      "title": "THE BRIDE'S MARKET HISTORY",
+      "text": "Sofia's old name was a Thracian town, then Serdica, then Triaditsa — 'between mountains'."
+    },
+    {
+      "title": "MINERAL SPRINGS",
+      "text": "Public fountains pour hot mineral water — locals fill bottles."
+    },
+    {
+      "title": "SVETA NEDELYA",
+      "text": "The cathedral's dome was bombed in a 1925 attack on the royal family."
+    }
+  ],
+  "randomFacts": [
+    "The ancient city of Serdica lies under the centre — its streets cross a metro concourse.",
+    "Alexander Nevsky Cathedral's domes are gold-plated — a memorial to Russian soldiers.",
+    "Vitosha's slopes start at the city edge — ski or hike after work.",
+    "St. George Rotunda, Sofia's oldest building, hides in a government courtyard.",
+    "The centre's famous yellow bricks were a gift from an Austro-Hungarian emperor.",
+    "Sofia routinely ranks as the European Union's most affordable capital.",
+    "The painted-striped 10th-century monastery is Bulgaria's UNESCO icon.",
+    "Sofia's old name was a Thracian town, then Serdica, then Triaditsa — 'between mountains'.",
+    "Public fountains pour hot mineral water — locals fill bottles.",
+    "The cathedral's dome was bombed in a 1925 attack on the royal family.",
+    "Bakeries sell banitsa — cheese pastry — for about a euro.",
+    "The Women's Market (Zhenski Pazar) is the bargain bazaar.",
+    "Shopska salad is the national dish — white cheese snow on top.",
+    "Vitosha's 'stone rivers' are glacial rock streams.",
+    "The city hosts Europe's oldest gold treasure replicas (Varna's real hoard is east)."
+  ],
+  "faq": [
+    {
+      "q": "Where is Sofia located?",
+      "a": "Sofia is in Bulgaria, in Europe."
+    },
+    {
+      "q": "What is the population of Sofia?",
+      "a": "The greater Sofia area is home to about 1,500,000 people."
+    },
+    {
+      "q": "What is Sofia famous for?",
+      "a": "Sofia is famous for the golden-domed Alexander Nevsky Cathedral, Roman ruins under the metro, and Mount Vitosha rising at the city edge."
+    },
+    {
+      "q": "Did IShowSpeed stream from Sofia?",
+      "a": "Yes — IShowSpeed streamed from Sofia on his 2024 Europe tour. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}

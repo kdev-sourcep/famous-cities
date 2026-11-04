@@ -1,0 +1,144 @@
+{
+  "slug": "Kuala-Lumpur",
+  "name": "Kuala Lumpur",
+  "region": "Asia",
+  "country": "Malaysia",
+  "metro": "8,800,000",
+  "seo": {
+    "title": "Kuala Lumpur Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Kuala Lumpur travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Kuala Lumpur.",
+    "keywords": "Kuala Lumpur, Kuala Lumpur travel guide, things to do in Kuala Lumpur, Kuala Lumpur fun facts, where to stay in Kuala Lumpur, Famous Cities"
+  },
+  "image": "Kuala-Lumpur.png",
+  "video": "videos/kuala-lumpur.mp4",
+  "youtube": null,
+  "tagline": "Petronas Twin Towers over a street-food city — Batu Caves' rainbow stairs, the night markets of Jalan Alor and three cultures layered into one skyline.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Kuala%20Lumpur",
+    "twitter": "https://twitter.com/search?q=visit%20Kuala%20Lumpur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kuala_Lumpur"
+  },
+  "overview": [
+    "Kuala Lumpur mixes Malay, Chinese and Indian worlds in a single skyline crowned by the Petronas Twin Towers — the tallest twin buildings on earth, joined by a skybridge on the 41st floor.",
+    "The city's soul is at street level: Jalan Alor's nightly food market, the red lanterns of Petaling Street, and the colonial-era Sultan Abdul Samad buildings at Merdeka Square, where independence was declared in 1957.",
+    "Fifteen minutes north, Batu Caves' 272 rainbow steps climb to Hindu temples inside a limestone cave, guarded by a 43-metre golden Murugan and a troupe of monkeys. Speed's 2024 tour stop drew some of the biggest crowds of the whole trip."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Kuala Lumpur&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Kuala%20Lumpur",
+    "flights": "https://www.skyscanner.net/transport/flights/to/kul/cheap-flights-to-kuala%20lumpur.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌉",
+      "title": "Petronas & City Tour",
+      "desc": "Twin towers, towers view and the skyline.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kuala%20Lumpur%20city%20tour%20Petronas",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kuala%20Lumpur%20city%20tour%20Petronas"
+    },
+    {
+      "icon": "🕍️",
+      "title": "Batu Caves Morning",
+      "desc": "The rainbow stairs before the crowds.",
+      "viator": "https://www.viator.com/searchResults/all?text=Batu%20Caves%20tour%20from%20Kuala%20Lumpur",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Batu%20Caves%20tour%20from%20Kuala%20Lumpur"
+    },
+    {
+      "icon": "🍛",
+      "title": "Jalan Alor Food Tour",
+      "desc": "Satay, noodles and durian after dark.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kuala%20Lumpur%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kuala%20Lumpur%20street%20food%20tour"
+    },
+    {
+      "icon": "🐝",
+      "title": "Firefly Park Evening",
+      "desc": "Glowing colonies on the Selangor river.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kuala%20Selangor%20fireflies%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kuala%20Selangor%20fireflies%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE TALLEST TWINS",
+      "text": "The Petronas Towers were the world's tallest buildings 1998–2004 — still the tallest twins."
+    },
+    {
+      "title": "RAINBOW STAIRS",
+      "text": "Batu Caves' 272 rainbow-painted steps became an instant icon in 2018."
+    },
+    {
+      "title": "THREE CULTURES, ONE CITY",
+      "text": "Mosques, Hindu temples and Chinese clan houses sit streets apart."
+    },
+    {
+      "title": "A NIGHTLY FOOD COURT",
+      "text": "Jalan Alor packs about 200 stalls of satay, noodles and durian every night."
+    },
+    {
+      "title": "MERDEKA SQUARE",
+      "text": "Independence was proclaimed here in 1957 — the flagpole is among the world's tallest."
+    },
+    {
+      "title": "A MUDDY NAME",
+      "text": "'Kuala Lumpur' means 'muddy confluence' — two muddy rivers built a metropolis."
+    },
+    {
+      "title": "FIREFLIES NEARBY",
+      "text": "Kuala Selangor's firefly colonies glow an hour from the towers."
+    },
+    {
+      "title": "RAINFOREST INSIDE",
+      "text": "KL Forest Eco Park keeps primary rainforest in the city centre."
+    },
+    {
+      "title": "MONKEY USHERS",
+      "text": "Batu Caves' macaques escort — and rob — pilgrims climbing the stairs."
+    },
+    {
+      "title": "THE CROSSROADS",
+      "text": "KL sits midway between Singapore and Bangkok, Southeast Asia's natural hub."
+    }
+  ],
+  "randomFacts": [
+    "The Petronas Towers were the world's tallest buildings 1998–2004 — still the tallest twins.",
+    "Batu Caves' 272 rainbow-painted steps became an instant icon in 2018.",
+    "Mosques, Hindu temples and Chinese clan houses sit streets apart.",
+    "Jalan Alor packs about 200 stalls of satay, noodles and durian every night.",
+    "Independence was proclaimed here in 1957 — the flagpole is among the world's tallest.",
+    "'Kuala Lumpur' means 'muddy confluence' — two muddy rivers built a metropolis.",
+    "Kuala Selangor's firefly colonies glow an hour from the towers.",
+    "KL Forest Eco Park keeps primary rainforest in the city centre.",
+    "Batu Caves' macaques escort — and rob — pilgrims climbing the stairs.",
+    "KL sits midway between Singapore and Bangkok, Southeast Asia's natural hub.",
+    "Durian is banned from many hotels for the smell.",
+    "The twin skybridge isn't rigid — it slides so the towers can sway.",
+    "Thaipusam draws a million devotees to Batu Caves.",
+    "Kopi ais stalls fuel the markets all night.",
+    "Locals just call it 'KL'."
+  ],
+  "faq": [
+    {
+      "q": "Where is Kuala Lumpur located?",
+      "a": "Kuala Lumpur is in Malaysia, in Asia."
+    },
+    {
+      "q": "What is the population of Kuala Lumpur?",
+      "a": "The greater Kuala Lumpur area is home to about 8,800,000 people."
+    },
+    {
+      "q": "What is Kuala Lumpur famous for?",
+      "a": "Kuala Lumpur is famous for the Petronas Twin Towers, Batu Caves' rainbow steps and the Jalan Alor night food market."
+    },
+    {
+      "q": "Did IShowSpeed stream from Kuala Lumpur?",
+      "a": "Yes — IShowSpeed streamed from Kuala Lumpur on his 2024 Southeast Asia tour to huge crowds. <a href=\"/speed-tour.html\">See his full world tour map</a>."
+    }
+  ],
+  "speedTour": true,
+  "rank2026": null
+}
