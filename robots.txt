@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kdev-sourcep.github.io/famous-cities/sitemap.xml
