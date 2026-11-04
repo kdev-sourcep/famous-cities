@@ -122,3 +122,19 @@
     line-height: 1.25;
   }
 }
+
+/* Phone: show the top video at full width, 16:9, instead of a cropped strip. */
+@media (max-width: 767px) {
+  body > section > .u-sheet > .u-video {
+    height: auto !important;
+    overflow: hidden !important;
+  }
+  body > section .u-video .embed-responsive {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+    aspect-ratio: 16 / 9;
+    left: 0 !important;
+    top: 0 !important;
+  }
+}
