@@ -1,0 +1,60 @@
+---
+// PREVIEW MOCK-UP: sample hotels and prices, not live data.
+interface Props { city: string }
+const { city } = Astro.props;
+const hotels = [
+  { id: "a", name: "Hôtel Rive Gauche", area: "Saint-Germain · 1.2 km from center", stars: 4, rating: 8.9, reviews: 2140, perks: ["Free Wi-Fi", "Breakfast included", "Free cancellation"], prices: { "Booking.com": 248, "Expedia": 239, "Hotels.com": 241, "Agoda": 252 } },
+  { id: "b", name: "Le Marais Boutique", area: "Le Marais · 0.8 km from center", stars: 3, rating: 8.4, reviews: 1310, perks: ["Free Wi-Fi", "Air conditioning"], prices: { "Booking.com": 189, "Expedia": 197, "Hotels.com": 192, "Agoda": 185 } },
+  { id: "c", name: "Grand Hôtel Opéra", area: "Opéra · 1.5 km from center", stars: 5, rating: 9.2, reviews: 3870, perks: ["Spa", "Breakfast included", "Free cancellation"], prices: { "Booking.com": 412, "Expedia": 405, "Hotels.com": 409, "Agoda": 418 } },
+  { id: "d", name: "Montmartre Stay", area: "Montmartre · 3.4 km from center", stars: 3, rating: 8.1, reviews: 960, perks: ["Free Wi-Fi", "Kitchenette"], prices: { "Booking.com": 142, "Expedia": 149, "Hotels.com": 146, "Agoda": 139 } },
+];
+---
+<div class="hcmp" data-hcmp>
+  <div class="hcmp__head">
+    <div><span class="eyebrow">Compare two hotels</span><h3>Side by side in {city}</h3></div>
+    <span class="hcmp__badge">Preview · sample prices</span>
+  </div>
+  <script type="application/json" data-hcmp-data set:html={JSON.stringify(hotels)} />
+  <div class="hcmp__grid">
+    {[0, 1].map((slot) => (
+      <div class="hcmp__col" data-slot={slot}>
+        <select class="hcmp__select" aria-label={`Hotel ${slot + 1}`}>
+          {hotels.map((h, i) => <option value={h.id} selected={i === slot}>{h.name}</option>)}
+        </select>
+        <div class="hcmp__card" data-card></div>
+      </div>
+    ))}
+  </div>
+  <p class="hcmp__verdict" data-verdict></p>
+</div>
+<script>
+  type H = { id: string; name: string; area: string; stars: number; rating: number; reviews: number; perks: string[]; prices: Record<string, number> };
+  document.querySelectorAll<HTMLElement>("[data-hcmp]").forEach((root) => {
+    const data: H[] = JSON.parse(root.querySelector("[data-hcmp-data]")!.textContent!);
+    const cols = [...root.querySelectorAll<HTMLElement>(".hcmp__col")];
+    const best = (h: H) => Object.entries(h.prices).sort((a, b) => a[1] - b[1])[0];
+    const render = () => {
+      const picked = cols.map((c) => data.find((h) => h.id === c.querySelector("select")!.value)!);
+      const lows = picked.map((h) => best(h)[1]);
+      cols.forEach((c, i) => {
+        const h = picked[i]; const [site, low] = best(h);
+        const rows = Object.entries(h.prices).sort((a, b) => a[1] - b[1]).map(([s, p]) =>
+          `<li class="${p === low ? "is-best" : ""}"><span>${s}</span><strong>$${p}</strong>${p === low ? '<em>Cheapest</em>' : ""}</li>`).join("");
+        c.querySelector("[data-card]")!.innerHTML = `
+          <div class="hcmp__photo"><span>${"★".repeat(h.stars)}</span></div>
+          <p class="hcmp__area">${h.area}</p>
+          <p class="hcmp__rating"><b>${h.rating}</b> Guest rating · ${h.reviews.toLocaleString()} reviews</p>
+          <ul class="hcmp__perks">${h.perks.map((p) => `<li>${p}</li>`).join("")}</ul>
+          <p class="hcmp__label">Price per night</p>
+          <ul class="hcmp__prices">${rows}</ul>
+          <a class="btn btn--primary book-btn hcmp__book${lows[i] === Math.min(...lows) ? " is-cheaper" : ""}" href="#" data-category="Compare">Book on ${site} · $${low}</a>`;
+      });
+      const [a, b] = picked;
+      const diff = Math.abs(lows[0] - lows[1]);
+      root.querySelector("[data-verdict]")!.innerHTML = a.id === b.id ? "Pick two different hotels to compare."
+        : `<b>${lows[0] < lows[1] ? a.name : b.name}</b> is $${diff} cheaper per night. <b>${a.rating >= b.rating ? a.name : b.name}</b> has the higher guest rating.`;
+    };
+    cols.forEach((c) => c.querySelector("select")!.addEventListener("change", render));
+    render();
+  });
+</script>

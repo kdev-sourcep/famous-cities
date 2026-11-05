@@ -375,3 +375,26 @@ a.cat-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
 .donate-row { display: flex; flex-wrap: wrap; gap: var(--s3); margin-top: var(--s6); scroll-margin-top: calc(var(--header) + 24px); }
 .center-search { margin: var(--s5) auto 0; }
 .recent-strip::-webkit-scrollbar { display: none; }
+/* Hotel compare (preview mock-up) */
+.hcmp { margin-top: var(--s6); background: #fff; border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--s5); box-shadow: 0 10px 30px rgba(22,18,58,.06); }
+.hcmp__head { display: flex; justify-content: space-between; align-items: flex-start; gap: var(--s3); margin-bottom: var(--s4); }
+.hcmp__head h3 { margin: 4px 0 0; font-size: 1.375rem; }
+.hcmp__badge { font-size: 12px; font-weight: 700; color: #b45309; background: #fef3c7; border-radius: 999px; padding: 4px 10px; white-space: nowrap; }
+.hcmp__grid { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: var(--s4); }
+.hcmp__col { display: grid; gap: var(--s3); align-content: start; }
+.hcmp__select { width: 100%; min-width: 0; text-overflow: ellipsis; font: inherit; font-weight: 700; padding: 10px 12px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); }
+.hcmp__card { display: grid; gap: var(--s2); }
+.hcmp__photo { height: 120px; border-radius: 14px; background: linear-gradient(120deg, #ff5a5f, #ff4fa3, #6b4eff); display: flex; align-items: flex-end; padding: 10px 12px; color: #fff; letter-spacing: 2px; }
+.hcmp__area, .hcmp__rating { margin: 0; font-size: 14px; color: var(--muted); }
+.hcmp__rating b { display: inline-block; background: #6b4eff; color: #fff; border-radius: 8px; padding: 1px 7px; margin-right: 4px; }
+.hcmp__perks { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.hcmp__perks li { font-size: 12px; font-weight: 600; background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; }
+.hcmp__label { margin: var(--s2) 0 0; font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.hcmp__prices { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.hcmp__prices li { display: flex; align-items: center; gap: 8px; padding: 8px 10px; border-radius: 10px; font-size: 15px; }
+.hcmp__prices li span { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hcmp__prices li.is-best { background: #ecfdf5; outline: 1px solid #a7f3d0; }
+.hcmp__prices em { font-style: normal; font-size: 11px; font-weight: 800; color: #047857; text-transform: uppercase; }
+.hcmp__book { justify-content: center; margin-top: var(--s2); }
+.hcmp__verdict { margin: var(--s4) 0 0; padding: var(--s3); border-radius: 12px; background: var(--surface); font-size: 15px; text-align: center; }
+@media (max-width: 720px) { .hcmp { padding: var(--s3); } .hcmp__grid { gap: var(--s2); } .hcmp__photo { height: 72px; } .hcmp__prices li { padding: 6px; font-size: 13px; gap: 4px; } .hcmp__prices em { display: none; } .hcmp__perks { display: none; } .hcmp__select { font-size: 13px; padding: 8px; } .hcmp__book { font-size: 12px; padding-inline: 6px; white-space: normal; text-align: center; } .hcmp__area { font-size: 12px; } .hcmp__rating { font-size: 12px; } .hcmp__head { flex-direction: column; } }
