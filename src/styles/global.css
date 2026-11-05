@@ -403,3 +403,13 @@ a.cat-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
 .hcmp__book { justify-content: center; margin-top: var(--s2); }
 .hcmp__verdict { margin: var(--s4) 0 0; padding: var(--s3); border-radius: 12px; background: var(--surface); font-size: 15px; text-align: center; }
 @media (max-width: 720px) { .hcmp { padding: var(--s3); } .hcmp__grid { gap: var(--s2); }  .hcmp__prices li a { padding: 6px; font-size: 13px; gap: 4px; } .hcmp__prices em { display: none; } .hcmp__perks { display: none; } .hcmp__select { font-size: 13px; padding: 8px; } .hcmp__book { font-size: 12px; padding-inline: 6px; white-space: normal; text-align: center; } .hcmp__area { font-size: 12px; } .hcmp__rating { font-size: 12px; } .hcmp__head { flex-direction: column; } }
+
+.section--tight { padding-block: var(--s5); }
+/* Legend key */
+.legend { background: #fff; border: 1px solid var(--line); border-radius: var(--radius-lg); padding: var(--s5); box-shadow: 0 10px 30px rgba(22,18,58,.06); text-align: center; }
+.legend__title { margin: 0 0 var(--s4); font-size: 28px; letter-spacing: .08em; text-transform: uppercase; }
+.legend__grid { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--s3); }
+.legend__item { display: flex; align-items: center; gap: 12px; padding: 12px 14px; border-radius: 14px; border: 1px solid var(--line); color: var(--ink); font-weight: 700; font-size: 17px; text-decoration: none; transition: transform .2s, box-shadow .2s; }
+.legend__item:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(22,18,58,.08); }
+.legend__item.is-active { background: var(--surface); border-color: #c9c1f5; }
+@media (max-width: 720px) { .legend { padding: var(--s4); } .legend__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--s2); } .legend__item { font-size: 14px; padding: 10px 8px; gap: 8px; min-width: 0; overflow-wrap: anywhere; } }

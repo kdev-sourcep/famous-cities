@@ -4,6 +4,7 @@ import Icon from "../components/Icon.astro";
 import BrandIcon from "../components/BrandIcon.astro";
 import CityCard from "../components/CityCard.astro";
 import SupportBand from "../components/SupportBand.astro";
+import Legend from "../components/Legend.astro";
 import YouTube from "../components/YouTube.astro";
 import HotelCompare from "../components/HotelCompare.astro";
 import { cities, citiesIn, url, rich, absUrl, regionStyle, regionId, factTitle, topIcon, CATEGORY_ICONS, categories, type City } from "../lib/site";
@@ -184,6 +185,7 @@ const jsonld = [
     </div>
   </section>
 
+  <section class="section section--tight"><div class="container"><Legend active={city.highlights} /></div></section>
   <SupportBand />
 
   <div class="mobile-bar" slot="after">
