@@ -1,0 +1,947 @@
+{
+  "city": "Paris",
+  "checkIn": "2026-11-18",
+  "checkOut": "2026-11-20",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-05",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChgIxfW9593Qkbu3ARoLL2cvMXRnczA3ZHQQAQ",
+      "name": "Pullman Paris Tour Eiffel",
+      "address": "18 Avenue De Suffren, 22 Rue Jean Rey Entrée Au, 75015 Paris, France",
+      "brand": "Accor",
+      "info": [],
+      "stars": 4,
+      "rating": 4.6,
+      "reviews": 17700,
+      "room": "Classic King Room - Garden Side",
+      "photo": "brands-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Restaurant"
+      ],
+      "prices": [
+        {
+          "source": "Super.com",
+          "price": 326,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi-F59h_6spnXKIFxt6THRv0u4VYyZiwc7LKCfeykMw-Wke3bPzkXwmRXA0sDFcPPg4SGbHpXpfB2JOOzF8ud3z9WiMRmqjU_ui064H_7JMoDYF81gID1l5dWA6J4MGJmdoYNIXW5ZcAoEBc6Ka6dyqcsQalbY_2nljX9uXkbPN21Dzp1OGzhrEDw&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D498.21%2526total_price%3D548.03%2526retail_price%3D803.48%2526retail_total_price%3D883.82%2526surcharge%3D33.7%2526request_id%3D13577630374702618624%2526ps%3D125358856027%2526pb%3D0-slAkZlDjP06IhVxwa_7KoK67FApFs7680o8YxjsYsrJg8QPb9pplrqT-lJYjmib0AuUCe97yqZcgW7cKthItKU2rVw1rzR5aTkygDnkhiIHC_3cY_udC0-he1t93dBtM-_6IjMADnkEq078WIVRtTFjH3Ac6LX84xvErshW6o%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793884943%2526sg%3DoUT3L%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DEUR%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D652.55%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026503%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YJQF9dvPyUDbjo0urGiptUa&ap=1"
+        },
+        {
+          "source": "Vio.com",
+          "price": 344,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjxkJ3Fta5_8q_rF6vYYRbCEFKQQ6bi_AkX7yXqYNpxcOVCj84k80HYzBge_bY2ZQmJRGtFbrwGtWxL0Bjgsi-2OVvBo45TWYej52TzYp-_pcHdojlxz9cWYWXnRkXelzFLwwmS1P7lLQCcTSPtN2i_eWMYb5I8u2KLgCtFzeFTurqzzEdRKw_L&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1129055%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D687.97%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1129055%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D687.97%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DUdRo16w6TNdsGC1GCg8Ijs8DGLFKIgNVU0RSATISGhXljW6mGgtTMHhNZ0ZseE1LNCgCMMbgstcG&s=ALZo0YJda3b_U3cafNH5KhmPtJbF&ap=1"
+        },
+        {
+          "source": "goseek.com",
+          "price": 344,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj_t17hgIesdB8ZyUbn-dyVKwHIcCzsXWiNppGibFWI6qNruSq617efiatuvMSxWiK0WQaGjhg28U7DoNHBCoeNAib5KcoUl6KnJ7lNOBOR5YnzW3mAXK98IbEHRrNxqw1bOQBgYK2QvO2NKq4uGzpSQVzfDHe-XjY-2tQdHvU8VHS0QZdt7sR9KpEMGxlu8w&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1129055%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D687.97%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1129055%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D687.97%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DvTyGv8RuKDVsGC1GCg8I05wDGKRCIgNFVVJSATISGhXljW6mGgtIVjBfdWNyMTJuYygEMKnnstcG&s=ALZo0YJdjoenuq9ks_q9EajOzrE3&ap=1"
+        },
+        {
+          "source": "dealbase.com",
+          "price": 353,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjmLFr5yip0pqeuI_4NuaI2pOjsvTBfG01bj-LJGvcBFNs5lKHMWt6fRO92sb1ZxKIBv9yj7Ckrsda-ZGgzYBdMqXD87oXdIDyDubLAyQv1iENRBEcnx_ONqVHkEfgHeivD3afdAjW05E19qn-bG_kALfNH__tLkDo7YxAGl_LjYlHpfcV6ooZDhnSUBk2zyPKnog&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1129055%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D705.06%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1129055%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D705.06%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253Dxy4Dv2vOOzlsGC1GCg8I3NkDGJBNIgNVU0RSATISGhX8Qax9GgtXdDZmbDNQQkJKWSgCMOvQstcG&s=ALZo0YJuKswjfUdOKQKJw2k5v-o7&ap=1"
+        },
+        {
+          "source": "Best Hotel Deals",
+          "price": 357,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiVzHXNKWMSYgHReaaom6zDajOUu3UkdCPFuSwsUhrQzDvL3M9rqHKsg2UGGpUIGC42bjO4AZtLH62YZyCQ-sRtthpssvPyA0gQcZSZezpL8vZNed7-02cF76Q2s3AEb-jCMO9Sucx3g0W-g8i8HuF0jgDIowTNLnfZZnz2N-JjNjX00IJITuubXtify6mDEw&pcurl=https://besthoteldealsglobal.com/property/1066?rooms%3D1%26currency%3DUSD%26startDate%3D18-11-2026%26endDate%3D20-11-2026%26occupancies%3D%255B%257B%2522Adults%2522%253A2%252C%2522Children%2522%253A0%257D%255D%26utm_source%3Dgoogle%26utm_medium%3DHAC%26utm_content%3D18_11_2026_2_localuniversal_1066_US_desktop_selected___2%26tp%3D713.69%26tt%3D99.44%26sup%3D123%26flow%3DFxWnEAEeXiwBSHssHIFHayth3YbVR9VURRJe2jLaroRMML_VfA%26room%3Ddouble-or-twin%26user_device%3Ddesktop%26google_click_type%3Dhotel%26google_ad_click%3Dfalse%26google_campaign_id%3D%26google_default_date%3Dfalse%26google_click_source%3D&s=ALZo0YJt0W2UzxAa8TH2_4xzdhqw&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 358,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygNJK0aWZ4GxDDdKOqKZkpFYwqJlPoOh9xRDXtLSSnifOn1qKhh2EfmG_SGRFdl1wCWrs0vWe9OXtKPQkLwQS2woorAGlx-OdumcC32G3KLJI_ODcg0cTJR6yzpFBfOJ7OCQxEah4DdgQBrJGoaSgSYij-vWuT1TzcYBJ1IGFsZGoW8pEmJi1-GpZLnnDy9QVt4oSBH0Vo&pcurl=https://clicktrip.com/hotels/details/E5RJmkfwLKrhH5II2n975tI9GAHT9fqsWUIQLHvH_JW1_qGTKNixkelnV5X8ULOpNBUCpXJD7cjLHoYH0zCEeu7SjFPfcn16OxlKXLDkPBCou99kw8L6lRpg9E0vn1qc0?locale%3Den%26currency%3DUSD%26pos%3DUS%26date_type%3Dselected%26taf%3DsOpQiUcB4BoukGgD7jdK_0EPYdhgij1Og-MVGYResMmQx1pwYIGhbeWNTReWhYRv0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3D&s=ALZo0YKhoATaWCgKZtqxzoD1Ct8P&ap=1"
+        },
+        {
+          "source": "Traveluro",
+          "price": 369,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhCEkoAuJlB3PZBttgyU8UN6ETKxQMKQEbt6eJOj_O9gKB0Hz6OhK6R8RZ0dvN8whp8VaKHm5jfSEYc6mAcNtymkhshUyG1_uCOcJJcX1yEMC3o4YQZSDLAin5ut-UujkopNREQl9V461lhOvFIg4CH1kGZDP63x_eNWz1v51jKL5-_Upbd6HRK&pcurl=https://www.traveluro.com/hotels/france_07_paris/127948_pullman-paris-tour-eiffel?checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26placeId%3DH127948%26campaignName%3DGoogle_US%26currencyCode%3DUSD%26dealKey%3DCAIQqwEiDAjB0rLXBhDs9dicAypODQAAr0MVAIAmRCVcj35CMAE4ugJFAAAvREoMCJTDstcGEIyMz5gDYgpDbGFzc2ljIFR3aAJ9FK4XQoIBAI0Bj8KuQ6ABorLRgwaoAcgGMI0GOMznB0D-9w9IAlIIu31GobgvLUlYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D737.91%26priceDisplayedTax%3D101.56%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YKxd95LouvHVFLJASG1G9-f&ap=1"
+        },
+        {
+          "source": "trivago DEALS",
+          "price": 372,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhUVuhrkuBnjSLaUg9ba32r1zNuA0I3D8QvXbKVY8UlUMaOJrqwVWsPLC5mgDqEVsTfctvNWaA_RW3A9_Z6C3Kk09Hj6pFgkVxr01o2wAbDvlDfK7mvRr_vQgsDMBw6J9uwdvgOMj1K8NFF1IxaF4wTrIX5x1pfFxdt-2U-LcJhIMZzp3XVQwXiF17P8M6T8RX1J0OhXr9c&pcurl=https://www.trivago.deals/hotels/france_07_paris/127948_pullman-paris-tour-eiffel?checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26placeId%3DH127948%26campaignName%3DTrivagoDeals_Google_US%26currencyCode%3DUSD%26dealKey%3DCAIQjQYiDAiUw7LXBhDcsYfaAypNDQCAsEMVAIAmRCUpXIBCMAE4ugJFAIAwREoLCI7DstcGEPTW3kFiCkNsYXNzaWMgVHdoAn0fhRdCggEAjQHNbLBDoAGistGDBqgByAYwjQY4zOcHQP73D0gCUgjKtCM2iJM9bFjIBmIDCgEg%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D743.88%26priceDisplayedTax%3D102.06%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YKLlMFK7Jp_pQ0j-JKW2DtM&ap=1"
+        },
+        {
+          "source": "Wego",
+          "price": 433,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygtOAYSquQwIv-nsaqhv93zFQ4zQzN892q3JfSUVaOpjEgn10kfu_qdqooeVVK9zHV_pG3S2qLhYLzv-j9XnOvVJDqd5QsUdW-IsZn60ABi1a0-C3CRSIgv0bPQTlGEdbIBldglG5M8PRimFh8Z7xyvM7dtLHb4Ar3WRDZwZrDYhYGwGA&pcurl=https://www.wego.com/hotels/searches/PAR/2026-11-18/2026-11-20?guests%3D2%26wego_hotel_id%3D205257%26bow_only%3Dtrue%26ts_code%3D2f2fc%26wg_source%3Dmeta_distribution%26wg_medium%3Dgha%26wg_campaign%3Dfbl%26wego_currency%3DUSD%26ulang%3Den%26wego_price%3DVVNEOjg2Ni4yNDphYTM4ODk2MTIzODQzZDYzZTEwN2NhMGZhMmM0NGJkMjY5M2RhYmI1NzU0MzVhMThlN2Y0OTg3Nzc0MjU0NjBkOmhwcnhvdGRwb3NxOjE3OTM4OTU3MzY6RDpVUzo4ZGUyZmY2NDQ3MzI3ZDFlOjI6MDp0cnVlOmZhbHNlOlI%253D%26provider%3DaG90ZWxzLndlZ28uY29t&s=ALZo0YJfDO1S_5vOq8q5fycelC74&ap=1"
+        },
+        {
+          "source": "lastminute.com",
+          "price": 436,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhRlwHqc3rHI-fWe16lD1bxnx0hIEtG-_TowI6k8xl5Zu8ffyiVtbsPxcbMzb4e1XUrSTZ52xV-d_fl3e-RB5WtHwG72YuBhP3rNl1EXGP2vpcHFYPi6MHy0idkdMbQy4Kz4yZ_TbFDICgC3XCgft63ZUnirzT341z_cSDNYd_FPSXGY93csZR2mAx4wcz9&pcurl=https://us.lastminute.com/s/hdp/hotel-details/140948/hotel-only?search.type%3DOSE%26search.accomodationOnly%3Dtrue%26search.SPM%3D%26COBRANDED%3DHOL_LMNUS_GOOGLEHOTUS%26bf_source%3Dmeta-HOL_LMNUS_GOOGLEHOTUS%26search.departureIntervals%3D20261118-20261120%26search.rooms%5B0%5D.adults%3D2%26acntb%3Dhotel%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26checkin%3D20261118%26checkout%3D20261120%26currency%3DUSD%26totalPrice%3D871.36%26utm_campaign%3Dlmn_us-int_hotel_hotel-center_gha%26businessProfileId%3DHOL_LMNUS_GOOGLEHOTUS%26recHotels%3D140948%26extReferenceType%3DHOOGLER%26bfSubsource%3D-----WS0S10PS01%26extReferenceId%3D27c90067fc784c82be25fa688441a2f0%26metaSite%3Dlocaluniversal%26userLanguage%3Den%26userCountry%3DUS%26feedContext%3DdgtQLNhYR7_Ml8WVFrX3Fn4dris4TSGasSvmSEzY0dvX5QSZXbp2ISwdK8udlegRVLSI4Q%26gmeta%3Dtrue&s=ALZo0YLAmGUawXrqMyIOim8jpsCS&ap=1"
+        },
+        {
+          "source": "Agoda",
+          "price": 436,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhh8xYU2cX8CrdMN31j5NP_B0ow0OQ09ql0ctpbf020X_HnsQDPxQBq-xGn0omLZqDJ9-HytsuE4zbNsXbqz4Uo8HuVE76oQ1djC2ZVvL6Q3X-DN8xa3IOvZDkmwfTD074MQeOg1_7qx71Qwu9IgVKCAMu5WWZu32EXNtpzvbNwB3b_SNZy6MYrO5_-Pg&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D18%26CkInMonth%3D11%26CkInYear%3D2026%26CkOutDay%3D20%26campaignid%3D%26CkOutMonth%3D11%26CkOutYear%3D2026%26SearchDateType%3Dselected%26NumberOfAdults%3D2%26LT%3D13%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dlocaluniversal%26los%3D2%26PartnerCurrency%3DEUR%26hid%3D7266%26RoomID%3D3111879%26masterRoomId%3D3111879%26PriceTotal%3D871.36%26PriceTax%3D113.68%26PriceFee%3D25.77%26RatePlan%3D5f647080-9fe3-c40e-9653-19c3335813f5%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3DUS%26audience_list%3D%26mcid%3D29004%26booking_source%3Dcpc%26adType%3D0%26mpt%3DM2NmU01laDlWMkx5eDFzZko4Z1NwK0pvcERqeXJ0OEhpL1hpTHZIbENXSVZoekRVQkZkdHlDcit4bFcvM0Q4WjJqMzFWTnIyVFF5QQ%26original_rr%3DUS%26gaClickSrc%3D%26clickType%3Dhotel%26lang%3Den%26pkgId%3DNoBreakfast_NoDinner_true&s=ALZo0YKGNRHKDUDfKyFeGDYnLLax&ap=1"
+        },
+        {
+          "source": "Reserving",
+          "price": 436,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygrF18TrSfCTLIpATO2nONYOtGpw6pLiM70wAwgTZqs76obMohWfmW3zneJ9SKAnCxHkOsjUCLwMaIq5nVB-V8jMDGmTpUzY8-v8WQDOr_macZ8UH2heHxpzEkgDBkkGHq3WyvFJwPvX7ZzWjDW481teJfy-vXDbQvIHqNxQVrlU2Uf5GuO9XXMYBuIBq0bqw&pcurl=https://h-en.reserving.com/search?i%3D7103%26rf%3DGOOGLEHOTELS%26portal%3Drsvcom%26lang%3Den%26auto%3D1%26tipo%3DS%26id%3D73836%26numero_habs%3D1%26no_adultos_hab1%3D2%26no_ninos_hab1%3D0%26fecha_entrada%3D18%252F11%252F2026%26fecha_salida%3D20%252F11%252F2026%26refp%3D871.36%26campaing-id%3D%26tp%3D%26moneda%3DUSD%26device%3Ddesktop%26pais_dom%3DUS%26sg%3Db%3D743,bclx%3D1,bhab%3D741,big%3D2026-11-05T08:08:00%2B01:00,bmid%3D100,bpd%3Dfr,bpt%3D67.55,breg%3D12,bt%3D33.8,bwp%3DZcfimARkh-k,ts%3D2026-11-05T08:09:01%2B01:00/B:B5A351F64A429A926F93A05EF6E4A57E810C082A98A3F928BAE8E7AD%26c3%3Dmode%3DP,d%3D2,ts_id%3D8625412566270262%26r%3DCAMPAIGN-ID%3D;TRACKING-PARAM%3D;CUSTOM1%3D;PRICE-DISPLAYED-TOTAL%3D871.36;DEFAULT-DATE%3D0;CLICK-TYPE%3Dhotel;USER-COUNTRY%3DUS;DEVICE%3Ddesktop;SITE%3Dlocaluniversal;USER-LANGUAGE%3Den;USER-CURRENCY%3DUSD;POS%3DALL-ALL-ALL-RSVCOM;AD-CLICK%3D0;PAYMENT-ID%3Dfree;C2%3Db%3D743,bclx%3D1,bhab%3D741,big%3D2026-11-05T08:08:00%2B01:00,bmid%3D100,bpd%3Dfr,bpt%3D67.55,breg%3D12,bt%3D33.8,bwp%3DZcfimARkh-k,ts%3D2026-11-05T08:09:01%2B01:00/B:B5A351F64A429A926F93A05EF6E4A57E810C082A98A3F928BAE8E7AD;C3%3Dmode%3DP,d%3D2,ts_id%3D8625412566270262&s=ALZo0YLBnf3B6omNBfIJqXLqKSqy&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 436,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyihqzjbFGL5sNC5Okc-_AtB-ByWSdIPyHV_fWr7qx_BHzvMY2ixlkHGYs_yCkDil75ACiUm00z3VRg99zKqxp2zBllzVlJfcDwV_BUYZEnzTXz6LioqapNcShvUYbYncpWg2hGsgX58g7f28iPwEItwHfapH7qnAVcQom7rv24cX-7PkN5k&pcurl=https://www.qantas.com/hotels/properties/22910?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D22910%26hotelID%3D22910%26hotel_campaign%3D&s=ALZo0YI8qon-rR2Hnzlw36AUjNSI&ap=1"
+        },
+        {
+          "source": "müv AI",
+          "price": 436,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiLghZ1plmo_qtBCBx3kMbM9JI3VLzsv_zkj2ySl5NYgmtnMUMENMUvnCgJ-lZaKeP9pXo8SVApfHUMuI38UY996NSJ73gF0-BUY9hYQGumupcHo9nsAFwiynUyvdUAFq11GOFe65uuIjFqE8QxwPCoHD35s4ii7xHRbQndqKpVJJhmY1ApWyLJa5JRzQ&pcurl=https://muvtravel.com/muv-hotel?hotelID%3D95905330%26checkinDay%3D18%26checkinMonth%3D11%26checkinYear%3D2026%26nights%3D2%26num-guests%3D2%26checkoutDay%3D20%26checkoutMonth%3D11%26checkoutYear%3D2026%26SUP%3DEP%26RATE%3DMER%26PROMO-CODE%3D98010&s=ALZo0YLkPT7fvVivAP1wZrXVGwuW&ap=1"
+        },
+        {
+          "source": "Pullman Paris Tour Eiffel",
+          "price": 438,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyizOKrOLgQaxEdn6Qmf-iY0zjXjGLYa3aAbj_q1BMsqMvSUs92z3e3OY46AMW6pZYo49KiLRyoiV-6UN7xFSf5tZzxJ9ujxcs8pj_CVpLiMKSU-HtX9v1RglR9SuI0EGysHFDzROL7sKEEvSG4-wbefFJxKov76Y1qthADNNoEh_rqlFfM&pcurl=https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client%3DAccor%26channel%3DGHPA%26placement%3Dlocaluniversal%26campaign%3D%26destinationURL%3Dhttps%253A%252F%252Fall.accor.com%252Flien_externe.svlt%253Fgoto%253Drech_resa%2526destination%253D7229%2526dayIn%253D18%2526monthIn%253D11%2526yearIn%253D2026%2526nightNb%253D2%2526adultNumber%253D2%2526childrenNumber%253D0%26amp;hideWDR%3DNO%26amp;hideHotelDetails%3DYES%2526merchantid%253Dseo-meta-google%2526sourceid%253Dx-7229-US-cpc-desktop-selected-0--2-18-11-2026-13-Wednesday-localuniversal--0-0-0%2526utm_source%253Dseo_meta_google%2526utm_medium%253Dpartenariats%2526utm_campaign%253D7229-US-cpc-desktop-selected-0--localuniversal--0-0-0%2526wiz_campaign%253D%26amp;forceResultsList%3DYES&s=ALZo0YJ_Ssm-3Q1m7ZUe3B3iwCzh&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 438,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Pullman+Paris+Tour+Eiffel%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Priceline",
+          "price": 438,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhsTqBpENnOHYqtzb7XxsHaTora0jUDU26PkPRPOI1K2UWUTsou5g0Osz3s9D7LbP9vOvXdH7JHD12esH3_hvOFz0A2yud6s4PMbfZyaTLnOJzxsuZX73II_vEhOYQqFyHhu2R6VrunCVYvtsrlGgKiVvOorJMiLYOfTjaWxzc3XU8foeXKSzovpG0nyUY6cUc&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C664003_localuniversal_2%257C20261118%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C13%257C2%257C0%7C0%7CEN%26hotelid%3D664003%26checkin%3D20261118%26checkout%3D20261120%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D3000035827%26adults%3D2%26land%3DL%26metaid%3DNhWqHehWWorouM2nRra3MwUMtmaiwCljuc-zP1X5--7JSbzRXmrrYZO32FWT1d9lAyDbvfLTtaRPUJzpece9rzSg1WvCYKpOqlf5vTKJ_4NCCrh4UJcn_aEyBh8I_A_zuFi2PRNZwErTVjEkkqUgI49xMruN06k32wAbTriWXGfcy9Oy3i4MAPsnaVRtpi-LGyyzPp8SKHt6wjYFPBAVGnzGMgp9qOHlNE42DaiaePVIuLhsdHDTZt0M9bh3dSKZBsLIoWtQEd-RV5LjqFgGg4tAKKRl0hN_r8b5JD388nmKajjTkHTXh59z6cSls9QyYLl85_N32k4KFObqvLA7MPIYpNWDx6qVYxlKX0MJEb0ygjoO7e9ZIdA7-V0GvsXnjMbBtuyelU0PsKq_KFDwAkYdcPWTaTh3Rvqn7PxPZ8FFd-nA2VXsDjFH2Vu80Zkc%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D114.21%26pdf%3D0.00%26pdt%3D876.97%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YLY4CjU7zvkxIq-Lu8ptnee&ap=1"
+        },
+        {
+          "source": "Trip.com",
+          "price": 438,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiJXH_4S3rP6tzIDnHdp-WPsYIu7pqQB2U92gCPMQxIkGzIJB3PQ168C10rbgaEjuRb6QauSsScP23gcr93E88p0pN8SjM1jg052BmSt6e2FjJTYe3jZV4oejnaguStKtqe7eDoBdoz0hprfQ6GSL5bizOM95tMJ2uyjvP56SLMOXWIP4U&pcurl=https://us.trip.com/hotels/redirect?hotelid%3D2081163%26city%3D192%26shoppingid%3DMZLlrt5K0PPT%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-11-18%26checkout%3D2026-11-20%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1209572%26prid%3DLANG_US%26trip_sub1%3D18_11_2026_2_localuniversal_2081163_US_desktop_selected___0_0-LANG_US-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Py4mKSYBJi4mCUcuD4c2r9fVYhRiMDeYuvggEcMxi7m-t3MDJdZCy05bq--Eq5w0NGBhBI63Z4wTivp2czYyeLMQh8dnJYwMIoxeMb5ZNTVGLqbRAQEKLAqNFxdNN1Ng-mIDZjYyczS7coGS5m19Agwa2iv0-_eynrIMUcGuyiOFmCJYxvrZRDEmtqnm5ocMY-sS5GJg_GVYzsXMwGRoYCTJ8Y-ZHNjTcyAAD_FY7WtQAAAA%5Dfgt%5B1%5D%26br%3D876.75%26tf%3D114.19%26display%3Dexavg%26locale%3Den_us%26crn%3D1%26roomid%3D1542186364%26allianceid%3D15214%26sid%3D1209572&s=ALZo0YLYVUUq8hsX5DuhXOoyz-C-&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhT9UCj2QgfjghAuA4IZLD5QGJpIZu5yfEHFkUDufy_gL4lD40H4AG6oOTXk_cZncRTupnKSN7DkuHkS_-ad0c1E6yMRVH7RocVMs_Rw5WRPfFH2maf8E9YluhwBGb7mk5VuHIDK7qKX1_nxDh1xQQrqUMY1VoM5CsmrfE4jFK1brSOXEREFL58htnzWdBi&pcurl=https://www.expedia.com/Hotel-Search?selected%3D10872%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.10872.20261118.20261120.DDF.13.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D878.44%26mpj%3D114.41%26mpr%3D0.00%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D10872%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D201634734%26mpm%3D24%26mpn%3D200277191%26mpo%3DEC%26mpe%3D1793895761%26mpp%3D1&s=ALZo0YLu_E4MsS1SKN3cAErtiGBc&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyid4Wt1Le4wOf2qqKIJ61HKSY1LQoPbfcpjr9PEwU67esje10yDFbvh4KDJkGtl8OT8KmYTh3aZGwh8Mvps9roXbxN-apy8kSkEvVJjFDwpcaUNSV9S8riiMMf9S8piRsaVszOSh3kdPIJJOz6dwxbEM7Q9dkG2kH-inztDPQOyA9noU7FodBPGx-al2cg&pcurl=https://www.hotels.com/Hotel-Search?selected%3D10872%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.10872.20261118.20261120.DDF.13.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D878.44%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D114.41%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.10872USen-20261118-N-ABW%3D13-camp%3D-aud%3D-N%26rateplanid%3D201634734%26mpm%3D24%26mpn%3D200277191%26mpo%3DEC%26mpe%3D1793897414%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YJcEKe9iYOkj9EOnaUhSsGh&ap=1"
+        },
+        {
+          "source": "Luxury Escapes",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiPYeTNzXtXDGrogcXQWNOgETH7XbeAUGSBq01WvfMwnblzekK06QKR7ZmHU9kA4z9J8LH9-bUrdqnnghT7y6ycuFrf47-Vk35KKLxeHbjJhNBEmv4NnSRIqmZJKU-jZH7aGXptP7Rp3pH9cjHhkW13Qjb-wFvoDBD1WvhKXiM3mXMvSBmRAa_eswItD1K4ZOiV&pcurl=https://luxuryescapes.com/us/metasearch/73be21b4-1642-411d-99d8-fadc33b61459?utm_bp%3D3%26source%3Dmetasearch%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26propertyName%3DPullman%2520Paris%2520Tour%2520Eiffel%26propertyId%3Dbedbank%253A73be21b4-1642-411d-99d8-fadc33b61459%26roomTypeId%3D60be9ab1-6e2f-4ce5-877e-73fb6f80155f%26roomRateId%3Dbf0_dn0_int1_park0_ref0_S1_pkg%26adults%3D2%26children%3Dnone%26sourceTax%3D114.41%26sourceTotal%3D878.44%26sourceFees%3D53.25%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3Dgha-lpp%26currency%3DUSD%26priceTotal%3D878.44%26ruleId%3Db~USD~S1~M11-12~B~P~DUNK~D~A~US%26userCountry%3DUS%26accountType%3Dscoopon%26gpid%3DCQAAAAAAAAAAAAAAAAAAAACQf7cBVyQADtYCAACw2AX98D8.3%26adsClickSource%3D&s=ALZo0YJEEoBl6zBmbSOPojMDytUU&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi4IqlQ2jFdmUp90U0-DjcL28qGkUsDTFZ3uyRSiRS-A40EmobLBFB6Nqq7O9YQC760AvYKyQxCsFoYyWVgj3dusU_x1MpKzRF_XgIdPLb83JHeIDqi1UPwsdU2x1KvFwL6dnGjQc9r0AotC8v9OJq-QVqvnfMUHyc2Xvey7fCn91v3mvqFK6KHGRqZ&pcurl=https://www.travelup.com/en-us/france/paris/pullman-paris-tour-eiffel?prp%3D53255%26cur%3DUSD%26lan%3Den%26CI%3D2026-11-18%26CO%3D2026-11-20%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/france/paris/pullman-paris-tour-eiffel%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D53255&s=ALZo0YLf3Px3lmCotFoWYQ-FD8Bt&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhi1lQG_ACuDMcp_WyFp-CMImDAUunIqIR46eyxfn-D7K9yPsZ-eO6GHDEwVoMHTMLimksYLHZtOlCpydYyA8jGscn512yf6-uXIQawC7SZfSyJDzgp6YF1iz8Q84osHw18NGXCS6OeZPp9-sUYz0_FKCX4oG5IW0hgaJPBrWF49mKqBj4JUT-yd8Q9tSuY&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D10872%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.10872.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D878.44%26mpj%3D114.41%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D201634734%26mpm%3D24%26mpn%3D200277191%26mpo%3DEC%26mpe%3D1793895761%26mpp%3D1&s=ALZo0YKCQvWY6MKn2F240gN2R5Ig&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhUCwBAiX-TR3fPqSoBGAR5nZZSe1DgqPoWV2xMtDWBSQqmfvRyApNzqp6iyYsLuw3sYtBBWsY_rk4BRYjXhvaTnj__vWt1uXc4gwDLObHcXvMlRKoSL_AvHGDVYqFOYJs5QPYIKZpAayvv5AsWcDufwiR-tejJ-ct4IYSKNYBkvpZN1DpxS69iBWm3ZZg&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D10872%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.10872.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D878.44%26mpj%3D114.41%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D201634734%26mpm%3D24%26mpn%3D200277191%26mpo%3DEC%26mpe%3D1793895761%26mpp%3D1&s=ALZo0YK9BBEXuYytDkfPPlx2lQc8&ap=1"
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiE1smV929Qx5Z_h2iv0AdAKi-yUYkdFQ7kcw7kCxpIg5WLJ11WHS-ipPQjseTFfg3_4ccfnaULN1T7WPr9Uy8KTAcVQ3HJ8F6pNylHUZHxHO7staUOMS9RPqU2YxCX7ZqTYCtKEhqjdjWAeOZ5_4Bj6qgJjER8__mrnCkUGJT5dSZ2wsj-yTLi6Q5cAQJQPhFIdCs&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D10872%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.10872.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D878.44%26mpj%3D114.41%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D201634734%26rateplanid%3D201634734%26mpm%3D24%26mpn%3D200277191%26mpo%3DEC%26mpe%3D1793895761%26mpp%3D1&s=ALZo0YI3yHNQta5EE1NBb7ssE8eV&ap=1"
+        },
+        {
+          "source": "Hotelscombined.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh4VWwgaXOBrh2fn8YS6d98H4_XBM1D4TUQPy8qCssLPHxaHqHCJ9s7FNDQ7Y2HFQ5-P5bxQqF_8dMoyCZ6HnBTNhmTXTdVvfFzbLh_mp50WSIR-fNND_IWTylBp9qFmis0dsp9PvUjxvCO0oq1LqCZauPkKqU9oJzWpIZjiiREARJI89K65nw30K8w-Q4VFmGSQA&pcurl=https://www.hotelscombined.com/semi/ha/hotel_ads/72616/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D72616%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D114.38%26pdtotal%3D878.31%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DQUdPREFIUEE%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3D2VCESzeyD9%26k_kct%3D1793892950%26k_gct%3D1793892982%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YJkpJygEgjzWuceF1mnTEG0&ap=1"
+        },
+        {
+          "source": "eDreams",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiuy3s2kwPi3xyRPwXXOUGoThISIhqpD_8Um8yIaaUMnjwHtxm7Y8Z3XhqVhCfoqsx89fzFyJbQTHBIsQjxy_sU2icuVFV6Ho3ODULnMPRSv2PhbJux8J1Pf2jaz7uS07KmY2x880lwTch22LhTtlK-yfJh794XOsUZN4_Nh0vAYX79g_BQ&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D10872%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26mpf%3D878.44%26cur%3DUSD%26mpj%3D114.41%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D201634734%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D163375%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING&s=ALZo0YKeCeeW_QU8tRVkMpmQXSJj&ap=1"
+        },
+        {
+          "source": "momondo.com",
+          "price": 439,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj9rI_DBjgCda3LDsoyGpaFDn8pHcF7JWqVBeC-YRYWMZLdwDIvi1WuZxcKpY_FuzhYh7y6ovsBm8pSFRdFjoEx6nrW0BYkdw5naMjyRGdEMQ2Oaxxc6CKzX5F8R07t_tt40GzU-trOuWiIfTc1NASUvMN2E-XXEfE2hGtxoE6yPOboptAOdg&pcurl=https://www.momondo.com/semi/ha/hotel_ads/72616/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D72616%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D114.38%26pdtotal%3D878.31%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DQUdPREFIUEE%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3D2VDENoDahj%26k_kct%3D1793892950%26k_gct%3D1793893029%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YLNR5CtlOc3ZiNX4-3QGSs7&ap=1"
+        },
+        {
+          "source": "Catchit.com",
+          "price": 457,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjITjzcPBfXrJ4lV7E8ZpQFsEUQlHVlkb181zIT6i_O_IJZVL-G142MwwfzuvfbbywaeNHXb0278dI8yBBLzVa91z9NfbcKlVNAHWeL4HALGskzjaFwAUhBVyhsp21JW4nSFkP-ZSjabwOd8qfcmKvr6KbHmYf5_3EVdWSdkCBTae3e5kUt1Vg&pcurl=https://www.catchit.com/tracking/A6-6524-HO-108647_1811202620112026_73500_1500_480_78000_35_payclick/hoteles/108647-0_x?atoken%3Dn1a867x9bix9bkxax0x2zzzzzzzzzzzzz%26utoken%3D1%253A1%253A77778020%253A0%253Aec996%26chash%3Db0244842d28fb44401ab3df86a797dda%26odata%3Drd0ckmdw2bl1sj4A808qsrcvvsj7tt0449nAtwrjx682816cncsAgs0mvwq8g3gA500ynbk4s3m5t1gznc2vlsz2gb2gltn7lqhh07fnt3dk3d8kbq3xl5r0g43jvqgw%26craw%3DMzUqKkpQMDQzNDYyKioyXzBfMF8wXzBfNF8wKipTQSoqTyoqTioqNTY3NmVmNzM0MTkxNDRiMzhmMjA5M2Y5NWI0NmVjY2IqKlk%3D%26fco%3Dus%26mcc%3Dusd%26utm_source%3Dgoogle_hotel%26utm_medium%3Dmetabuscadores%26utm_campaign%3Dhoteles-afiliacion%26hotelID%3D108647%26hotel_campaign%3D&s=ALZo0YKgOB1slnQsqOPvuxr5oDge&ap=1"
+        },
+        {
+          "source": "Long Stay Discounts",
+          "price": 500,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjPmo4kdAfQcpqTBNO9ua0Gl9Grqr5AS9s98eQHrxKOGNGq43d_KkMtfedi5uEVZen0vXa8rbBdW5Ijm6OjnPC2B7MaswPSI5TYp4LYkvx5WHKq2oA-3nV3X6TNemkff-jHDT2O_DTzVPmsOnb7JsmtXtzxtPsfNYO7MXh9c4K_RQtMLk0DL6PuEuMcvgWLyQdNpok6pi11SLYC7A&pcurl=https://www.longstaydiscounts.com/transition/?data%3Dprice%3D875.11%2526total_price%3D962.62%2526retail_price%3D875.11%2526retail_total_price%3D962.62%2526surcharge%3D37.86%2526request_id%3D12674384019298095104%2526ps%3D4562811839800325764%2526pb%3D0-slAkZlDjP06IhVxwa_7EaKUmeypgUmz-beDhHrHDvb45e31UCJSzptWxOYDEZAv2B33a71ZQ0o_4LEosyOcIKzExg_NEcs5oAW1Y7bNsRuOGWVez7TW2VJ-Q9fGx9T1ZuqK44Kza9sAYCoGdrSBg%25253D%25253D%2526gha_lsd_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793896197%2526sg%3DcqPw-%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha_lsd%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26utm_campaign%3D%26display_currency%3DUSD%26display_all_inclusive_price%3D1000.47%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026503%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_lsd_organic&s=ALZo0YIUW-tP3vSrDGdyzOklpjjG&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 507,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjoTAuBQaaaKyaRQN40aEDFc6_6eWW4uoZ9nytctVhSbOYbUSJRFIBTJs3AZInOgBLF2N9eDL4ckrz_bLh6s88W5K2ZbeE9OpY8hToZZMupia2zNEe08vQlW4fMd22zZJpGF2SpD8S34Gd5LB5y5xeu5i7o3no3Te8WVVRHlf_zOoPbfIsN3w3eZgcUig&pcurl=https://www.tripening.com/hotels/-/4649114-pullman-paris-tour-eiffel?checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D1014.22%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YJaGwCH_B5mzUGbhURtEbLo&ap=1"
+        },
+        {
+          "source": "Evendo",
+          "price": 1620,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiS04ugAOMypRZWUfx3HhnO7UbxkiK3Z9gV6kTWK4JhVoM1F7IKET2Xha3ZW9WhYaPVQ3pS4UfCqqmNJ73wbpNBqfnpV4b6pGEuUDdCFLw8HlZ9Mz55JZ5m6MbcMc6H4Uu_IF19CA14g29j1FC5_QYZYZn0pREfV1lydR9r36-PBXyP1DA5P1SSPLfB60FxVQ&pcurl=https://evendo.com/stays/pullman-paris-tour-eiffel-hotel/52793306?check_in%3D2026-11-18%26check_out%3D2026-11-20%26who%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D%257D%255D%26currency%3DUSD%26language%3Den%26country%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dgooglehotels%26utm_campaign%3Dlocaluniversal%26pdtax%3D329.00%26pdtotal%3D3239.87%26prid%3D&s=ALZo0YKB5nrwBw9UpSIRAQyx3bpx&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChgIqJXMh8v3nojZARoLL2cvMXRoeDNidjkQAQ",
+      "name": "Paris Marriott Champs Elysees Hotel",
+      "address": "70 Av. des Champs-Élysées, 75008 Paris, France",
+      "brand": "Marriott",
+      "info": [],
+      "stars": 5,
+      "rating": 4.3,
+      "reviews": 2130,
+      "room": "Deluxe Queen, Guest room, 1 Queen",
+      "photo": "brands-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Public internet workstation"
+      ],
+      "prices": [
+        {
+          "source": "Super.com",
+          "price": 608,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiBjrHp_AgT0ni3x7qoMa7k9OWDz_Y0HIEhFGkxZwfe1Iqv2WUMV2fqWbE475jUMjn-lvoRfz8hbHXgHxNoMtXPv8MgvwgEG02K1BTK6iBuMOj0vRSS2dfX544b5uWHbFrQrX7ejpv_NhMwI8sPjm1OsC8N5fZ4-FJE3hnCbEEPWPo0IKgdtANQIQ&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D942.86%2526total_price%3D1037.14%2526surcharge%3D47.03%2526request_id%3D10700939624396359680%2526ps%3D1642246410%2526pb%3D0-slAkZlDjP06IhVxwa_7G0eWMKHoIIfuim8MvO6xc_SjnKOO9gO-3BwKHDfueX1ZxFPvDkyvpjcCeiOgxc1AYgcRFAS_nCvpsApQdF-O1_qZYdOwU3E42yg803Godk-2OjJmrjkXRbmAR3dy5wM2Qvgcu-X7kCvNj5nE2VzlOU%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793890951%2526sg%3DhYCLx%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DEUR%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D1216.12%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026473%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YJLev4VVTA9xocyNqWO5YG9&ap=1"
+        },
+        {
+          "source": "Evendo",
+          "price": 617,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjvUYwQyLsWxGhZxmpeM821NcW7Y_2FjR31boviRbbf73THTEEZ0GKPsQq3F93qNaYV9FLTaKD98xOI17Z-BPCFHN7ei2kUT8NuFtB-YQXH3eZ80jAeDTlHbUESTLJHNIkrvxI7EAI8NTBKeCcOGS-QAfYaJIBXNQBk5jia7yqxVpp3m8TVw7iuUrHW5I4sJQ&pcurl=https://evendo.com/stays/paris-marriott-champs-elysees-hotel/54148019?check_in%3D2026-11-18%26check_out%3D2026-11-20%26who%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D%257D%255D%26currency%3DUSD%26language%3Den%26country%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dgooglehotels%26utm_campaign%3Dlocaluniversal%26pdtax%3D158.54%26pdtotal%3D1233.28%26prid%3D&s=ALZo0YIfU8VQ5hM7XM03xxUfcAZl&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 676,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi2HhUY6z8iDmYjmyVk5Of48YEeCRHlBr5Nv3lYa-4_vd6Qe9xrPLAzGjELMC_50mGvW7m7JQLEcTbN7OtvIximZnz5UjADZwjufLb-bHjyItX02OyyeaxUM4MlzLDV55_LCxRICW5ZKyDqKYD0Ae1axvh8ydbrNK7zjWHuEzTtGtIL-0V9&pcurl=https://www.qantas.com/hotels/properties/20919?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D20919%26hotelID%3D20919%26hotel_campaign%3D&s=ALZo0YKedyn3TS92DrAwiLmgQTZI&ap=1"
+        },
+        {
+          "source": "Paris Marriott Champs Elysees Hotel",
+          "price": 680,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj8S0wbPSGRu5ZLgSVYa8ZyitTL3s6iskjiSlNT3JkVmqee2T8-YZ43er9klWej7OV54W_l1ifdhBBHoNxgf50dh8xi7dylZ2d30fulwrzGXLaW_UV47T29N21SPVg-mLxQAkwreAYZrADSekVltKwBRanfNCZ7kiQmfvrMpEKzuPG8uVkSIsLiN-E&pcurl=https://marriottclk.koddi.com/clk?destination%3Dhttps%253A%252F%252Fad.doubleclick.net%252Fclk%253B269275299%253B95398642%253Bk%253Bu%253Dkoddi%2526sv2%253Dkoddi_hpa_US_PARDT_localuniversal_2_desktop_11/18/2026_non-distributable__selected___organic%253Fhttps%253A%252F%252Fwww.marriott.com%252Freservation%252FavailabilitySearch.mi%253Fcid%253DOMS_GLB0002Y27_GLE00070C9_GLF000C1AH%2526pId%253D%2526isSearch%253Dfalse%2526propertyCode%253DPARDT%2526fromDate%253D11%252F18%252F2026%2526toDate%253D11%252F20%252F2026%2526numberOfRooms%253D1%2526numberOfGuests%253D2%2526currency%253DUSD&s=ALZo0YJSTDE7_rgNBaGoD6N_wPe4&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 680,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Paris+Marriott+Champs+Elysees+Hotel%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Priceline",
+          "price": 680,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh8AZFjiK0tfTzKfB-rpZJJ81rk2pfgAtXJzVs03emxI1V-isuEViC_xG0wN9ZLA8_nho98dBnp2yWDgQVPULuTu88QpI8MqQLxKQSj1DrUCc4uXBGp-3FL31PU8Lt3suXzwz-lVEGlKGyJIacPcCuq0hUsfVeKVRDf5i8734IshZ149lxE-9RLh-4bpltRbHY&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C324603_localuniversal_2%257C20261118%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C13%257C2%257C0%7C0%7CEN%26hotelid%3D324603%26checkin%3D20261118%26checkout%3D20261120%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D3000035827%26adults%3D2%26land%3DL%26metaid%3D0IYkqEk7aBZiSusF5QRHI25A0w8S75uu5IZkCNoRMGmvp7SqTi-8X7FWzW2u4BTL1HE4_ACVT-_aBpkMz65wxRb1nkciDjk36EVRobaoM5BXfEkYcnG0bvDNU_0No0fw6YljkJjr90zYEFenZI9b_gS45bz1B5uyKwEZYWGvgm1ne3ft0xF4zqBuD5fci32mV8X2zi-NDAG2kJL3gjXF4cT6chtFbJwH9KRvW6UT3Wk4hLhivNXsjwwYDq3i5DgwWqB4D7OJCL6CZKZ9Mpor4DHOJHLFTNjvmw9mzQuh4EcYg_UmVWVNN2P4OWY4HF2uCx5oMAzSzBO82XlHJYCKi8R1c0ksndIXtt5bHuKJjTR294JuVh0dgafSZ74Xku83BbIcy4NWSwo1aIn8p6fuwJTmYynAwlU1C0PnYaJBTJIZJs7BP5fb9h1El4USj5fXElQ4VIFXm6vwpkvKupAC5KVfYqhMdGNHxxsz2JxYn7wYMD1_l7rp2IJFuS6i_7z-lxmWDrFKr3U0aLyGX2ktnQ%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D171.35%26pdf%3D0.00%26pdt%3D1360.41%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YJ7yv5WRm7lMuetJ7iT_a3_&ap=1"
+        },
+        {
+          "source": "Reserving",
+          "price": 680,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhyD1H5f8h2b0WiVRUGsfgyvA-AH0CcH4yRQtV7O56SbmoT4s8kIukKOfkTBCelyphsft8HWAQSs8hi0SfYxcQ4IIczeC-QV-FyG06h73ri_se9hJXc_OEid0GKrygZjh_iGBGcCWZe7DrX-mkQbAJcgtME5cNHzAQQU0w257JK1aXAXy4KnsMEwIgFNc_8WQ&pcurl=https://h-en.reserving.com/search?i%3D7103%26rf%3DGOOGLEHOTELS%26portal%3Drsvcom%26lang%3Den%26auto%3D1%26tipo%3DS%26id%3D21890%26numero_habs%3D1%26no_adultos_hab1%3D2%26no_ninos_hab1%3D0%26fecha_entrada%3D18%252F11%252F2026%26fecha_salida%3D20%252F11%252F2026%26refp%3D1360.41%26campaing-id%3D%26tp%3D%26moneda%3DUSD%26device%3Ddesktop%26pais_dom%3DUS%26sg%3Db%3D1166,bhab%3D377,big%3D2026-11-05T15:38:00%2B01:00,bmid%3D100,bpd%3Dfr,bpt%3D106,breg%3D12,bt%3D46.8,bwp%3De0xdor5IlgE,ts%3D2026-11-05T15:38:07%2B01:00/B:1FD683E2A3285EB7D98A45DDF700A88EC8718008D0407FF9DBEF7BB1%26c3%3Dmode%3DP,d%3D2,ts_id%3D8894872369648249%26r%3DCAMPAIGN-ID%3D;TRACKING-PARAM%3D;CUSTOM1%3D;PRICE-DISPLAYED-TOTAL%3D1360.41;DEFAULT-DATE%3D0;CLICK-TYPE%3Dhotel;USER-COUNTRY%3DUS;DEVICE%3Ddesktop;SITE%3Dlocaluniversal;USER-LANGUAGE%3Den;USER-CURRENCY%3DUSD;POS%3DALL-ALL-ALL-RSVCOM;AD-CLICK%3D0;PAYMENT-ID%3Dfree;C2%3Db%3D1166,bhab%3D377,big%3D2026-11-05T15:38:00%2B01:00,bmid%3D100,bpd%3Dfr,bpt%3D106,breg%3D12,bt%3D46.8,bwp%3De0xdor5IlgE,ts%3D2026-11-05T15:38:07%2B01:00/B:1FD683E2A3285EB7D98A45DDF700A88EC8718008D0407FF9DBEF7BB1;C3%3Dmode%3DP,d%3D2,ts_id%3D8894872369648249&s=ALZo0YLsLc4y1EbTHC2f6JHkMo5e&ap=1"
+        },
+        {
+          "source": "Bookhotel.direct",
+          "price": 680,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh0Y_gXLTu0g3DzaOsK8uYxpx-S-yTPgtiCCxKsbyTSuWfKjrHmUcD-Fu-Iq0FUcXp17lsASy27_Ckvf-n_gkq-Hp3TEfL5UDios4lsLCcH0C7u5m7ssqWhcNDuH3aIjCJZKBo0fm0fyLHXSXIiM_q5OjPH_5C6Upx9eoyVI7maJhZHvfhsy48xSW8&pcurl=https://always.bookhotel.direct/58904/?checkin%3D2026-11-18%26checkout%3D2026-11-20%26nb_adult%3D2%26nb_child%3D0%26campaign%3Dlocaluniversal%26tracker_id%3D%26device%3Ddesktop%26currency_code%3DUSD&s=ALZo0YIpEKYgoLE2I1tqAyduSEKu&ap=1"
+        },
+        {
+          "source": "Trip.com",
+          "price": 680,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyikfEobDlyKCqcEbtGwoBhaPTw2nHBJsWElHKJz1vo4qRS3dPEckJZ9gYarTkBM40fr06tVNwb37Y-6NRzGvayvVztVzP9lMSbfP74-jjssvr_EE1zvljlDGdr8NiBbthm-8_gySjwXbg8D_zxIKNm_8EfglvcaluEnlJASrFHGBFRDJb8&pcurl=https://us.trip.com/hotels/redirect?hotelid%3D1490101%26city%3D192%26shoppingid%3DMZLlrt5K0PPT%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-11-18%26checkout%3D2026-11-20%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1209572%26prid%3DLANG_US%26trip_sub1%3D18_11_2026_2_localuniversal_1490101_US_desktop_selected___0_0-LANG_US-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Ny5mKSYBJi4mCUsuT4f-_3X1YhRiMDTotPggEcMxi3_oxawci4g5HpIqNmTP-hr5OaHB4ypoGAw1SHF4yz3t7sYFrAwijF4xvlk1NUYuptEBAQosCo0XF003U2D6YgNjcXVycDoygZLmbX0CDBraK_T797KesgxRwa7KI4WYIljG-tlEMSa2qebmhwxj6xLkYmD8ZVjOxczAZGhgJMnxj5kc2NNzIGADXHtnyuAAAA%5Dfgt%5B1%5D%26br%3D1360.06%26tf%3D171.38%26display%3Dexavg%26locale%3Den_us%26crn%3D1%26roomid%3D1606348671%26allianceid%3D15214%26sid%3D1209572&s=ALZo0YJAUOFDS4VVooP4EwcEkQge&ap=1"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 680,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygQa3cozaowAOxR_LgauWqw6DXaojAY5Ntoa-x7z-C7ORcvs4dhwabFuBuxST4WI1_gG40tJBzFk-kmXsJ2BTYWrqqWG0_RUmowfxtYAWgsMEG72eAOYZ_a2cuUpfvp2xx_CSLOriKbGaio7XvBuhAKosPG_Zt7gDaOpWQ0gG9mszE6fgw-WKi5-Q&pcurl=https://www.bluepillow.com/search/648084c21f174c21709ed043?begin%3D2026-11-18%26end%3D2026-11-20%26block_id%3D-b,r2pEhxXGCieIuj8FMekD5eCr1fr5uZLFSrYAVs9M6RXDv-B5aBKTnuEQ-cb44izL,-bpctrip-Hotel%26fees%3D171.38%26tax%3D171.38%26total%3D1360.06%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dhotel%26prid%3D&s=ALZo0YL0uL3h01DFH6coRm8gCsYo&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi5ByCkQQptf-RMsoGggtbW8XrczQwN5oQIF9AExdT-AMSrCO_gDoaeJ1xTJOqKKv4VL7lczKx3BX2dsy1oPjIU_3Wu04qp94ZDj85eSdFoPMS20DRJJ5H-WU_aDbvsda-do9vW0h1RCRP3WOow7p5yki2lsfe5EnSI-zRrw8nhwOIhd-IBfBphwd03aiII&pcurl=https://www.expedia.com/Hotel-Search?selected%3D63330%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.63330.20261118.20261120.DDF.13.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D1362.69%26mpj%3D171.69%26mpr%3D0.00%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D63330%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D385227357%26mpm%3D24%26mpn%3D316002406%26mpo%3DEC%26mpe%3D1793870446%26mpp%3D1&s=ALZo0YLulzZ6PGwpB0z_xeVm6A37&ap=1"
+        },
+        {
+          "source": "KAYAK.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygjHRd_-D7kHUcCOm4cYJRKAC4LIW0YUxZurMwIzm1q6b_9gbQ8ysj27N5p3muagyRbMlYGEEpCcqOrwTMHqYScuEo1a2qGzQxP1EfCP87Kcx1dSkIsRKh0fZWi4NYIlW24IccRBfBflWhlyFJEy2xR3sY4fTp0jCdeC38sQ2eymjGQ7RSKwhbGxg&pcurl=https://www.kayak.com/semi/ha/hotel_ads/14614/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D14614%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D171.69%26pdtotal%3D1362.50%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2TAkBDKZ9J%26k_kct%3D1793874706%26k_gct%3D1793890476%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YKwDd4H1GhVi7U1-6hUN2vS&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg2LESaGUhImNhDXk6KM3pvBr_ffII-beoRVPcleD4T1T2WhmXngGpl-cbubrFoWBqORKZlFkaxC5wMbk9QfooHaqGcC84GngyEEErwiJOGDkC5XBE1YEP3DIrh6TSLL-9XMwGagJEhabYIYZthaalFzeOAS_2gXklvBGtwQLgW6E6naYBWYSOICtDCv1E&pcurl=https://www.hotels.com/Hotel-Search?selected%3D63330%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.63330.20261118.20261120.DDF.13.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D1362.69%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D171.69%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.63330USen-20261118-N-ABW%3D13-camp%3D-aud%3D-N%26rateplanid%3D385227357%26mpm%3D24%26mpn%3D316002406%26mpo%3DEC%26mpe%3D1793895360%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YJGCYO2GKyz2lUf4s6G45Dc&ap=1"
+        },
+        {
+          "source": "Luxury Escapes",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjvUbXIFbXNuGNWIq9Pl4b0jPN_8-eFkNFwnnuX5OIhwqm3qXISjFAD0X_iC9d-ANyUdVyA0JMwzFUZYncHEPx-mkECpJb7sehX30INgFt07U3GAgiZ8bECj6wqlWj-qEilx2uibjlDEwmBbyzvTTr_15o-uIcmypOX_ILY5U7kFg_wqy6fSIWGy1SPO1bgMHYC&pcurl=https://luxuryescapes.com/us/metasearch/257ec80d-f362-4735-8af1-01aa289b4947?utm_bp%3D3%26source%3Dmetasearch%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26propertyName%3DParis%2520Marriott%2520Champs%2520Elysees%2520Hotel%26propertyId%3Dbedbank%253A257ec80d-f362-4735-8af1-01aa289b4947%26roomTypeId%3D1f9e93cb-dff5-44c2-9f55-c8c6507c7f72%26roomRateId%3Dbf0_dn0_int1_park0_ref0_S1_pkg%26adults%3D2%26children%3Dnone%26sourceTax%3D171.69%26sourceTotal%3D1362.69%26sourceFees%3D69.38%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3Dgha-lpp%26currency%3DUSD%26priceTotal%3D1362.69%26ruleId%3Db~USD~S1~M8-9~B~P~DUNK~D~A~US%26userCountry%3DUS%26accountType%3Dscoopon%26gpid%3DCQAAAAAAAAAAAAAAAAAAAACQf7cCFE4AFIoDAANQi3BnBHU.3%26adsClickSource%3D&s=ALZo0YIxTumhW5HS-bpGVqcybiGr&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg-l8leoWyjaJsZ8h_WpITWc6hQ8_oHVCBSPPt4uksQr2o3suaO3SROwKKSM2BH7MWaGVRH319Fdhs_1U6UjScePzY3PS9ww_WdDJjSAYOwghfyb7qLActv8gLrp2ZcuXpiyO-22VPWB6hAENmtxcVo3VVUVNhlp8nJjlDxkOOTWA9q-iK1-HDid1cwTqU&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D63330%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.63330.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1362.69%26mpj%3D171.69%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D385227357%26mpm%3D24%26mpn%3D316002406%26mpo%3DEC%26mpe%3D1793870446%26mpp%3D1&s=ALZo0YKxuLm7gg7M3cKCHxSvO3Ej&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiXljIoZZg7Qc6p45PXrg_TNYZsRZx_CaRBPnEGNGW_0q8eVe4BA9vm_1ho5KQbh8dncOPzT72pSB3WE2wBItLWNXmslTdya4BRFi8d12lHg3ywdHuc7029NIMCZVb0YDrvlnv6eWFIoGB_gb79Jz_ahvKuW519Z-7H49cAsPBcn_7GVNYBnzDQBwXOZCvS&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D63330%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.63330.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1362.69%26mpj%3D171.69%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D385227357%26mpm%3D24%26mpn%3D316002406%26mpo%3DEC%26mpe%3D1793870446%26mpp%3D1&s=ALZo0YIZfb_kVr0LtRUc6ppkZwwR&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhu9YfDmoESrxcxj-vWnFapeAa7sTrjARF513o8ayMXkCQKHgYY4xrS3ob1rv5n2n2EQhFDFfzBRBmRaAArX-zCLCaS2jLa3-U_Qrd8O2ldHz98ThbtsAVDktto18pZNiUcaF7gOtdG2BmuGQXD213CGqlW6vsNU_cSftBKOpqApqIEsGjtdo852xBo&pcurl=https://www.travelup.com/en-us/france/paris/paris-marriott-champs-elysees-hotel?prp%3D17041%26cur%3DUSD%26lan%3Den%26CI%3D2026-11-18%26CO%3D2026-11-20%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/france/paris/paris-marriott-champs-elysees-hotel%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D17041&s=ALZo0YIGux3iHRKv-GMVCpUT9EMG&ap=1"
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi9JuUe_qhWAB-scbVsZ50KV6CUcKAyjMU9hKYGxdHmDau2o1u0aPkyS5fdpHLWUrgN7DueVgJX1cApKMcq98S33a37RDFj8hWZ6bUOYILn-O8BwGyEm8sbUqK8hmPWCAZPgOKBF-qyOm9uQGwjt7-dxmFLHV7F-_hsqr3MEy10ww2yhbg1jGatRrFQCpmeUCC1MTU&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D63330%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.63330.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1362.69%26mpj%3D171.69%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D385227357%26rateplanid%3D385227357%26mpm%3D24%26mpn%3D316002406%26mpo%3DEC%26mpe%3D1793870446%26mpp%3D1&s=ALZo0YKaqlz6bLkWbvnYLy93zbhq&ap=1"
+        },
+        {
+          "source": "Hotelscombined.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh16cjXI1iBEZFiKJZ3G-ecibwvUpG50b76nLfxujmmtx8pozO9ak7cC1IM6dlVkwb8JW5COjvv-L_j6bTuYhU7BkmP9u8vrepq1oZT1Dpg-EjuXz8DMctf_Q_ebccFMuwjRiOABRJ3Ax2AKEWg4RWW8QEdj4KWQ2TrZJV0H5cij9yRz5i7N91lwcbRSBFZdUez1w&pcurl=https://www.hotelscombined.com/semi/ha/hotel_ads/14614/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D14614%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D171.69%26pdtotal%3D1362.50%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2TBEHmQGR4%26k_kct%3D1793874706%26k_gct%3D1793890470%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YLpbiCAZT_VFMyzV4mrBMPA&ap=1"
+        },
+        {
+          "source": "müv AI",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh-VlaYTzAz6JTgwchD4ezD5T7gCXPSsdJIIiahUIAv83eP_fRjkZlzTWGhbQ2S5d2-t36AQJpDEKNpeHpSFXXOF2XD2XeJ_f-zbbrJicY1NUtyAUAvjHEQN4omje8nR-jtPeNiFNK06hpD-mwpsfftL9VsD5u5YbSLcuCmYE0GOOCt1SeiGGt2tfiZKg&pcurl=https://muvtravel.com/muv-hotel?hotelID%3D96359856%26checkinDay%3D18%26checkinMonth%3D11%26checkinYear%3D2026%26nights%3D2%26num-guests%3D2%26checkoutDay%3D20%26checkoutMonth%3D11%26checkoutYear%3D2026%26SUP%3DEP%26RATE%3DMER%26PROMO-CODE%3D98010&s=ALZo0YLWRLxAJmipl-eKa1ghrqXv&ap=1"
+        },
+        {
+          "source": "momondo.com",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg2dBfEozDcL2woVCKLcackvKVSXd3souwnnXK6NKx-M0zVUg97c19zrNeOzFTm9OApa3nyXuxdTLqIIjgXIA0E0e7H6pf57AZB01Z-n9PCcN1Kipy7uvJep2Dnc9aMBmVo9-v-InLbJ52tS32-DoBgXBHKzFKVSh3hYgdYhCuX5P_asysF0w&pcurl=https://www.momondo.com/semi/ha/hotel_ads/14614/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D14614%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D171.69%26pdtotal%3D1362.50%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2TDkIeDmTa%26k_kct%3D1793874706%26k_gct%3D1793890504%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YIPplhM2sZcpWZmgDCLMIey&ap=1"
+        },
+        {
+          "source": "Etrip.net",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjnU-MylbjOrerPQT_eALo2IpNwvV7-bcIgzwIdXvGMzF1sQn7MGTS4NH4nzTcJ1r22MiucmT89vm5U1W9e_-l4YSDS-Dx2BAYumhGXfQnCe8MRAEK2zdELyZTYZ_ueWOMrYZGbnN4o9e9FeOm-i7AlNHZoqu96dq_rOFmOjgivtE-sfM4&pcurl=https://deals.etrip.net/?sig%3De9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335%26turl%3Dhttps%253A%252F%252Fsearch.etrip.net%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1208348%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D1362.69%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1208348%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D1362.69%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DmbX6AdoNz6s6V8G1ChIIvqIHEIopGIZdIgNVU0RSATISGhWWK1ToGgtHMS1WLWpzdkRPUSgCMPfnstcG&s=ALZo0YJqev0DKnfK48BIs-NBd6pI&ap=1"
+        },
+        {
+          "source": "eDreams",
+          "price": 681,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiOpg3gsTKZYcJD6wX8YHQcrGhUYz1k5CigYRFJzos78wDcbQlLVD1EkE_Yw6dB9wYvPwZGWDw5LnlZkHc_RI0cr880cqsfGpn760LDDDQ-0c73yW9d2rn5RFhRplSZrjeyrAZqfIhOak1-RcFwXA6718C5V75q9IQfOBXgPYS0MBZ2F7Uk&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D63330%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26mpf%3D1362.69%26cur%3DUSD%26mpj%3D171.69%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D385227357%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D133011%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING&s=ALZo0YJUDRU-qiUSHBxx1cPAMYsT&ap=1"
+        },
+        {
+          "source": "BusinessHotels.com",
+          "price": 693,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi3mqYAi_DsYWNSS1HpTzhf8ZkRuEtUItYm_rwSIIdTDfvyHLyw8GjtgNXnZ3VRviFizvFuSS3C8cKB-3UdHhxFdVOSKOn_iQRAgtFTdwE55_7Jm0RizKszABLD_jtQ6r2PQaL3yiyifQLhXYdMIJO_HGryqLq3GnyPW4oci7Prfi7KEFJbf6bXYjbkiGZENnlu&pcurl=https://www.businesshotels.com/gha_landing.php?hotel-id%3D700034199%26checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26language%3Den%26USER-CURRENCY%3DUSD%26USER-COUNTRY%3DUS%26NUM-ADULTS%3D2%26NUM-CHILDREN%3D0%26is_google%3Dfalse%26alternate_hotel_id%3D700034199BH2100102597!%26ts%3D20261118%26ts2%3D20261120%26sig%3DGL700034199700034199BH2100102597!%26src%3Dfree%26click_type%3Dhotel%26google_site%3Dlocaluniversal%26campaign_id%3D%26user_lang%3Den&s=ALZo0YIMguTDkXcUr7d77_C03GNx&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 747,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjKIK_roEpNJxrQ80aDV-wuHJ8mHjfy05ekJhJc-0W4Ags95_tizZirNCW_5Eg_S91s1GbKCJhL582EMDSgTAfgCazwvQ858Hobwtjf_XrsJGJRepXVIBoGHO5oRupU_SNIye3oA6Ene71yHTllZjrwHenub4VOIECuOfMSBh91IQXeUBssPNP0j6HjpQ&pcurl=https://www.tripening.com/hotels/-/4649534-paris-marriott-champs-elysees-hotel?checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D1493.81%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YKeyPbB6bI6pnQHxSPMV8mz&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChgI5sC219yo3969ARoLL2cvMXY4aF9yYmoQAQ",
+      "name": "Crowne Plaza Paris - Republique by IHG",
+      "address": "10 Pl. de la République, 75011 Paris, France",
+      "brand": "IHG",
+      "info": [],
+      "stars": 4,
+      "rating": 4.1,
+      "reviews": 3009,
+      "room": "Standard Room",
+      "photo": "brands-3.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Restaurant"
+      ],
+      "prices": [
+        {
+          "source": "Super.com",
+          "price": 206,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygiq_2mG92J73-MXWTtY_hP53VsWhBYfp2KBjV9JBPOxMmKS6DDubFc1lCbpd0JovHd0hJE3G9L76DoLiu_dB9XcVi2y9bLuUYWmuZ8yBpdp1uNiTO20DdjpB1jGYY44xg5Z2Po1ScUk9ZuDV7EvClL0icLu_SMuqucau-Pe3yf--5x5R0PM-XA7w&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D302.88%2526total_price%3D333.17%2526retail_price%3D528.91%2526retail_total_price%3D581.8%2526surcharge%3D33.48%2526request_id%3D11597456081066553344%2526ps%3D1642246410%2526pb%3D0-slAkZlDjP06IhVxwa_7PedAK7jtWepF7xRamdfSXtoSwJ0N0z98g65MPc0KCpEzXtPeYTTjEL0jEue8jPdk0MHHV2YeGDvT0G-pE8o_cWTwCMEC6-YmcK9kjmvWzghCHD6Ir76mWBFMuvrfDW2A21x92WjBojIpx5qUZnaM-k%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793871088%2526sg%3DdoM2X%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DEUR%26user_country%3DCA%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D411.28%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026476%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-CA%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YIMQP_naQqOagvRcsp3xqyr&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 224,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygBbGoyYkcVlj0W4lbFJNT8SnhD_QwdKTdozKQ-VSwNldIhl4EhgH7UKN1SvPmTX23uq0LtV1Ps-XE8SBw_G68HbCMmOy-0xwu2VlmfmciHEXmm02btlG-x1knFfbxW-7bmExSVDPG0rFW0vTKhlinz5OvaBdX2FHJkUQdoM2JkdNesSv5LOPBeaSCXE1e5vtA3JeBudhc&pcurl=https://clicktrip.com/hotels/details/mYxR4StRi5gUccw0hL9ByM400m3cnz1KxL3E8o3G9SqvE8mLkxhj7XQX0pb0Kknk3mTerE9-OfpkalSUE8MZSTxShZR3fXawqWyswpr0ayMeXNcdQ4Gj3Guk-l-Z4di20?locale%3Den%26currency%3DUSD%26pos%3DCA%26date_type%3Dselected%26taf%3DsOpQiUcB4BoukGgD7jdK_xtrHd7j_maZGgDh3zpCcH3RfghgYgDFf3KXamzf5dLG0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3D&s=ALZo0YJDkJVZbza83EVPAHTVWvfZ&ap=1"
+        },
+        {
+          "source": "dealbase.com",
+          "price": 240,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjy-tpHVnYkRtOZ3AUGxRMAN6sDpdzhIHhwDE4dCyyyVc9CzhfztQxfKer2MLJD4EQRN5gfRFUTan6qJh-QY2pllXaQyjxACILcty91fNyoY_NTqYJ9hFqjacBnSJT-xMPU-F3o77LC3Mz_5sM-W29ZrnBqfc8744rjOWyuan2-Q9rxMhxcNMU8JUlWj1-yHaW7CQ&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1208575%2526userCountry%253DCA%2526profile%253Dr2d2m73kn8%2526preferredRate%253D479.80%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DCA%252526udevice%25253Ddesktop%252526hotel%25253D1208575%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D479.80%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DZZ_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DfTLgxRJ5KRKp8B4YCg8Iv7oCGK08IgNVU0RSATISGhXljW6mGgtTbWh1TVJiX0s5NCgCMNPCstcG&s=ALZo0YKwJr9k2uHKhCe2OOBwBCnU&ap=1"
+        },
+        {
+          "source": "Vio.com",
+          "price": 241,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg7uWfomyse_L-MTbNCYEpahqJZ3z4oj4QWeVQ4eeG_vaSUt_l-RRQYrDw6CxRYmAqJkxszfl9ZYXjTj7M3yAj8kFfpfzuxyFdUr9CLC6JnKBucIPyyWtjeOKrNakFvgyM5NLoitVe6L2B3IsPeXbsa6tTSpBMS5eqE8dOfMkrequSiVJAz6VUd&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1208575%2526userCountry%253DCA%2526profile%253Dr2d2m73kn8%2526preferredRate%253D481.80%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DCA%252526udevice%25253Ddesktop%252526hotel%25253D1208575%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D481.80%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DZZ_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DS6XgStxxnXep8B4YCg8I-bsCGLs8IgNVU0RSATISGhXljW6mGgtJeklQNHk3UVp4TSgDMP7UstcG&s=ALZo0YLHlRUeoUHVpQK2_ngthny1&ap=1"
+        },
+        {
+          "source": "Crowne Plaza Paris - Republique by IHG",
+          "price": 260,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhGPj682A3Di_CBRAszGWoFROuR6jjH7TSAUWPk4L8AelH465W_itud6zRtLDMaWr-sSs5LTmaxomU3GD3EoqD32PcN-NLlj8VuolR01lBkkM0i-UraIZe6sDyPzFor-Qq579MDFi6XhOnOOx9sfcdeXFWmwKsIkDpwMg9acAQO4Nvx&pcurl=https://www.ihg.com/redirect?path%3Drates%26brandCode%3D6c%26localeCode%3Den%26regionCode%3DCA%26currency%3DEUR%26rate%3D195.11%26hotelCode%3DPARDL%26checkInDate%3D18%26checkInMonthYear%3D112026%26checkOutDate%3D20%26checkOutMonthYear%3D112026%26numberOfAdults%3D2%26numberOfChildren%3D0%26agesOfChildren%3D%26numberOfRooms%3D1%26cm_mmc%3Dhpa_free_META_CP_PARDL_desktop%26trso%3DMT_Google_PARDL_CA_Free-Meta%26glat%3DFREE%26selectedRatePlan%3DCSTNIDWS2%26prid%3D%26partnerAdType%3Dfree%26userDeviceType%3Ddesktop%26userCountryCode%3DCA%26partnerAdSite%3Dlocaluniversal%26partnerCurrencyCode%3DEUR%26partnerDateType%3Dselected%26userSelectedRatePlan%3DCSTNIDWS2%26partnerClickType%3Dhotel%26partnerVerification%3Dfalse%26userBookingWindow%3D13%26partnerRateShown%3D195.11%26partnerTotalRateShown%3D519.41%26adjustMonth%3Dtrue%26mktgvar%3Dhpa_free_CA_desktop_PARDL_localuniversal_2_EUR_2026-11-18_selected___FALSE_CSTNIDWS2%26clk_src%3D%26isHotelCampaign%3Dtrue%26channel%3DGHPA&s=ALZo0YIVwDOmrjZ6tq878p3AyoJF&ap=1"
+        },
+        {
+          "source": "Catchit.com",
+          "price": 262,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyip8jUeL-8Hvfwt8UWtTpSjvoOsmNni9kHeFndJvuktlgXd0nTP_jFdQj82mTBpEJcusWURqziHvORdXETAZQRb-Ddjh5DnazVjUhdB6ioKEVTIKw4u2KjCfTD_muawXvpiJZ4lfYRc-GCY2XPwuYW0Zvd7MeETVg63qZqpRCKceA2n3K4k9lg&pcurl=https://www.catchit.com/tracking/A6-6524-HO-6496_1811202620112026_40200_1500_600_43400_31_payclick/fr/hoteles/6496-0_x?atoken%3Dn1960x9bix9bkxax0x2zzzzzzzzzzzzzz%26utoken%3D1%253A0%253A77778020%253A0%253A10b06%26chash%3Ddeb6456bcca795277da14baa50faa9b9%26odata%3Dzxlbnqbpcnxxc3sn9w5cswltnc5plppmv5vcr2qrlqtrcvzfn0b2pg59q6p5kzrn6hy8mk182968fcq2s2y31cm9lAng5dqm6mb0rd0d29gA9q2r66vpklnqbp9l71v5%26craw%3DMzEqKjEzNzQ0NCoqMl8wXzBfMF8wXzBfMCoqU0EqKk8qKk4qKmZjNDYyZTUzNDUyYmQxMTNiYzdhNjEyYTYyOWUzYWY0KipZ%26fco%3Dfr%26utm_source%3Dgoogle_hotel%26utm_medium%3Dmetabuscadores%26utm_campaign%3Dhoteles-afiliacion%26hotelID%3D6496%26hotel_campaign%3D&s=ALZo0YLiEIefAywvYngjIpiWt5Ls&ap=1"
+        },
+        {
+          "source": "Skyscanner",
+          "price": 264,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjWaNP33Sy_eXMUu2Vay2CEk00m_tUHcs3Q64uMCIsPSXsVQO15anJDgMH_QTDvXLMjxS7WrrSuuBSxpYSsuGnZWMT7P-nTgPaqEqQjU2TGPIcj2P0DiFZplAmxv08rdJWXHBZjFHZySGS_DyO3bWbZilsK5O_qSceCAb8yu_O24l5VnnunyKUmTyTfDSM8MNkr&pcurl=https://www.skyscanner.net/hotels/search?entity_id%3D47167810%26upsort_hotels%3D47167810%26adults%3D2%26checkin%3D2026-11-18%26checkout%3D2026-11-20%26currency%3DUSD%26market%3DCA%26device%3Ddesktop%26utm_medium%3Dhpa%26utm_source%3Dgoogle_free%26utm_campaign%3Dgoogle_free_click%26associateID%3DHPA_HTL_01975_00000%26source%3DGoogleHpa%26hpa_verification%3Dfalse%26trace_info%3DPcXuYJIEfs7qMleBHBCCinG9ZPNhITRS_TzMFhMGONDiI_pc-OBg2TReb6JE574y0M4ED3dXteCAtkiHrTH0Q6Nj_ANeGgPYygM6IO5HLXy600Yx4Tba1TVg__kECZGhZQhc8u9RyaRhyVIWZlzllTUDsVSZI6LSCEgN1_U%3D%26user_country%3DCA%26extra_trace_info%3D%26hotel_campaign%3D%26date_type%3Dselected&s=ALZo0YIrKba4unLEN3kLdt7PHGVt&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 265,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Crowne+Plaza+Paris+-+Republique+by+IHG%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Expedia.ca",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhdodehX3UkAKbAAzK36NsoWDYnKzLnvG_gPHwIWH9VtO0XybH3xpty5FrCtry8_2v3cAZJT9ByzPeQAVcgxmDOTmbXhpV9FcxnzXZRImssczYUEx2w5ARWo2hFicJ_b8h4TXPXswryigGdnFge3ZPjwAalvsE71AUqu-oAdIIPUP3xwLiMlq7fNDVE5KKL&pcurl=https://www.expedia.ca/Hotel-Search?selected%3D17013%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DCA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.17013.20261118.20261120.DDF.13.CID..AUDID..RRID.bex_ca_desktop%26adults%3D2%26children%3D%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D529.03%26mpj%3D82.56%26mpr%3D0.00%26mpl%3DCAD%26exp_pg%3Dgoogle%26langid%3D4105%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D17013%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D380855694%26mpm%3D24%26mpn%3D231873%26mpo%3DEC%26mpe%3D1793880857%26mpp%3D1&s=ALZo0YI1muIcDs16hmVTjygkznd0&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygYCELO1m8ANh9JR36m2r_AdIj864K6FZLCOG4Co3AIWrZdp4Xi2kD-P-i1cYzcGjo09bn7xP2lNy4VN-wfkRMC2aHcpQgk7dZlWaNZXZFecowjJekVm5nni_vspy0nSYGdZBuORjrYNUyDcIfpCAeGqx8eqPJNAUSm9Zu_RjYwDRBI-cMvgzZNRzrN-JQ&pcurl=https://ca.hotels.com/Hotel-Search?locale%3Den_CA%26selected%3D17013%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26mdpcid%3DHCOM-CA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.17013.20261118.20261120.DDF.13.CID..AUDID..RRID.ca-desktop%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D529.03%26mpg%3DUSD%26mpl%3DCAD%26mpj%3D82.56%26mpr%3D0.00%26rffrid%3Dsem.hcom.CA.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.17013CAen-20261118-N-ABW%3D13-camp%3D-aud%3D-N%26rateplanid%3D380855694%26mpm%3D24%26mpn%3D231873%26mpo%3DEC%26mpe%3D1793895313%26mpp%3D1&s=ALZo0YJLGWMn2gQJRnpsL6nHYghL&ap=1"
+        },
+        {
+          "source": "Trip.com",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiTVXbWLQeEjuyhP6Pohmg4V5iOC8zoimeZdqV4kOKdrAei4XdKmsquU0jKYvV5KrS4L1EUyPJb97rdA0lmycLxEESpzFHAFS61tTn3Fid9jVE23CmLBReo-2RVkRG31_oIhOix15qS4-B4jgsGG09obRPESMTRbt-TsdSawuJDOJ3T-IQ&pcurl=https://ca.trip.com/hotels/redirect?hotelid%3D2113281%26city%3D192%26shoppingid%3DMw7-rPWgEDux%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-11-18%26checkout%3D2026-11-20%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1349474%26prid%3DLANG_CA%26trip_sub1%3D18_11_2026_2_localuniversal_2113281_CA_desktop_selected___0_0-LANG_CA-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Py4mKSYBJi4mCUcuDoeXVlH4cQo5GBhMVkoQCOGYyN_xoYdzAyXWTcIdf6OrCn2OEhoy3X9cUFmu0OLxj_v1rI3Mly9gwQ9Hg5LGBhlOLxLTfXLQoIT3d1Ka1QYNTY-WjTdTYPpiA2SxMXU1eDKBkuZtfQIEGjUAOtlZ9lHaSYnR1dFAuleR_oCgg7JLGm5uk6O2bsE-tiZPJgXMXIzsVsYGQowPSJkR_Z3HhjYwAoLVcFtQAAAA%5Dfgt%5B1%5D%26br%3D529.34%26tf%3D82.60%26display%3Dexavg%26locale%3Den_ca%26crn%3D1%26roomid%3D2278896908&s=ALZo0YKFegRZ2kJGtliXltBNk4pl&ap=1"
+        },
+        {
+          "source": "ca.KAYAK.com",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjfNVmebmda8KLgzT0aM0xcGamatTiJsGIKJGoZ9462qN1rvF8qxom-2SXs9qFi63ss_fDCrfw-7gfJdhVJ-KD9izj8xHMykkjflDx3_5fVSbWi3KY4-enRVDC1mix_rgsYBwLNvlcu3qyAPaGwf3WE4gTeFbpf-jNroFNEPUrgkQdJLCi7zEIZ6w&pcurl=https://www.ca.kayak.com/semi/ha/hotel_ads/11236/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D11236%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D82.67%26pdtotal%3D530.03%26rpid%3D%26uc%3DCA%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DQUdPREFIUEE-non-us%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3D2UDEO3HDZC%26k_kct%3D1793891347%26k_gct%3D1793891760%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dca%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YJfPzKNXk8HUR7x_mX1802S&ap=1"
+        },
+        {
+          "source": "Priceline",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiGgMF8mW-FD62Xr0rvviwOqdwdaCsgeLomUu1RnAvRjzez2m1oKgq-o6L6qLjrOIEl3mY7fArt2AHdM0cezNggZI6PL4V2z2elc3EPnbB-nnoJ8Nx8litbdhk8Wsuf8AdLqX5Lu8tEJ2QM3Umw52T8jJ_xOWXl1em2OmTnb36UVED7pd-DidQsl3vnk0MJQpo&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DCA_HP%257C291003_localuniversal_2%257C20261118%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C13%257C2%257C0%7C0%7CEN%26hotelid%3D291003%26checkin%3D20261118%26checkout%3D20261120%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DCA%26taxDisplayMode%3DBP%26cityID%3D3000035827%26adults%3D2%26land%3DL%26metaid%3Dcm-XTRZkczhQK0_H_pdGSbbTXt6UrCQ1lIfR9_geHnTbQ18lJhu92Z2mMRcSno3ZYvKLKo6NMIzO4muuLrQvOsOzNaK6KuIFqPD-xJjM8pskZQPvwNzLDEh_4tlutr6KtjSuvtUeOFZgj1egyVcmsGsRF7HAzzPDspwcOO7W9JYlNIN7WE0W0lQBOrTSd0gISok1hq2HxdUrnC2amQq_3h4l1R6Mj6sU6MQDljJUld-vaYOzMfgsRPWD_AsfgmYU_SLGLxoXsLqkO_VQsUGF7vQJamX-ROM611DskDpc2YvEsyvxlbMAHYGSWWADA6qekqvCU9dUWLcqsgneyhXqZFjihMapgvMEuqm5u9KYTBhz2U64jlYuVkN4M8M0Q5G7LYWLP4Pn_ZVjizhho_91FU2LwEd86ZXvjNA6udubGtEE-zoVoiw2vjPkTn_4ekiY%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D82.59%26pdf%3D0.00%26pdt%3D529.24%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YJnp-2sx83lmRlHUnX7XBrC&ap=1"
+        },
+        {
+          "source": "BusinessHotels.com",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyji07OaB_yv-Qu1576OSrQCdKE9eMFfczWWQcjlTg-rdLLIY-vdxEvTCVzYs-ngVeKskwH659vZA4AYPg1QUdDX60Tuiq7py0qaUY2RXydZ5VXHBqCyKE25a3ewDlzYAScgbnkDR0zKelS-OpElujz2gPDRoE2JJ_hp-KHaKffSqEScvuE9mKwQ6imMSvu4d3sq&pcurl=https://www.businesshotels.com/gha_landing.php?hotel-id%3D700032216%26checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26language%3Den%26USER-CURRENCY%3DUSD%26USER-COUNTRY%3DCA%26NUM-ADULTS%3D2%26NUM-CHILDREN%3D0%26is_google%3Dfalse%26alternate_hotel_id%3D700032216BH2100096648!%26ts%3D20261118%26ts2%3D20261120%26sig%3DGL700032216700032216BH2100096648!%26src%3Dfree%26click_type%3Dhotel%26google_site%3Dlocaluniversal%26campaign_id%3D%26user_lang%3Den&s=ALZo0YL1JbwQMciNkeWbzCIz2hlu&ap=1"
+        },
+        {
+          "source": "Hotelscombined.ca",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhA0NFddbYc5svQLaDAqBd_IsV_N4sgmvuoVG9kpNj-21GAigXG2VqBG-bh5DYf4zQWSfBt1aHkRlZyuSTMTVkacSXdkCUzkTQ8jV6W-X0eh0jFjzswzPNebA9FKsehjGiOaL7u47rPhW1Qj1H0DBZFXNQd4DWbOA1lFbFExgj9ksqNQn0Cwdpq5vElFdwm4F4h9g&pcurl=https://www.hotelscombined.ca/semi/ha/hotel_ads/11236/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D11236%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D82.67%26pdtotal%3D530.03%26rpid%3D%26uc%3DCA%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DQUdPREFIUEE-non-us%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3D2UAEEGnn9q%26k_kct%3D1793891347%26k_gct%3D1793891695%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dca%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YJjj8Vf7zduKPAGFWqBo736&ap=1"
+        },
+        {
+          "source": "momondo.ca",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygXPtIxFjVN23dY6JfKpTHpkFXJkgepyEtArnCInwenPTDVfpE641lwK1eeZT2OX4BotlZb7uPCFwcmixthUQv5hg6MAYTJ9SRwjAOo68ju5dshhqONTVd2JyKi58dXWgpsmQKoLE76d7yEcCPEVFjFXhGZKqNb1scCqIc8N7fQ-yQZwgDpNg&pcurl=https://www.momondo.ca/semi/ha/hotel_ads/11236/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D11236%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D82.67%26pdtotal%3D530.03%26rpid%3D%26uc%3DCA%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DQUdPREFIUEE-non-us%26k_pc%3D~QUdPREFIUEE%26k_rt%3D%26k_sid%3D2UAkR-GLNe%26k_kct%3D1793891347%26k_gct%3D1793891813%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dca%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YKJm5goDkvckxNnTwqzFsW4&ap=1"
+        },
+        {
+          "source": "HomeToGo",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhmvKTboUw_k1JcJF-TyxRnr_V6OqNR1vJDQuMXb20VLLiT_nIYUkw3a0qVZ9YMYLBUzQr_UT8OpC5O7aFdC05sh67msRMu1ThbOW5XqT-EVFTlKkWPboLx-O4u_a7BgjRwcd3PKYATi-wiYAxU-rgbqvmFMLN4PO65cT__EB1V5SBz-166tlM&pcurl=https://www.hometogo.com/search/54521dfcbb4bc?arrival%3D2026-11-18%26duration%3D2%26id%3Dza1c81ac6fec88ea9%2540f%2540s%26adults%3D2%26tpp%3Dlxashfq.6aebe5eb%26adword%3Dghf/us/za1c81ac6fec88ea9/ct%3Dhs/n-a/n-a/54521dfcbb4bc%26utm_source%3Dghf%26hl%3Den_CA%26ghf_acc%3Dhtg_ghf%26c%3DUSD%26gValidation%3Dfalse%26gSite%3Dlocaluniversal&s=ALZo0YKy8gZaDIwXK3Igz8wEcnUY&ap=1"
+        },
+        {
+          "source": "Bluepillow.ca",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhRppkN6mJLkn-y4x6Ra-RiSD4qmQJiSstzPylzZFxacBk1hIe1Yg_HNY491xe8mbf0hfX8pE4bnFh-T-wyLv_2BvWiU-IRjrp_45_yuXA86UoqT2aC3leY9WsNIkZ9yoKJtDvxNJswfvoT_9-3XbLpoTe8QcnrMzv7jtytTGhddtubhpT0LOI_Yg&pcurl=https://www.bluepillow.ca/search/648084f71f174c21709f3c2a?begin%3D2026-11-18%26end%3D2026-11-20%26block_id%3D-b,1f7TeOVxODbTgdio0gfHiIa80NpMRNAfwtlGqMQIC3mYyDWI6gnOoIwcxlCjdInl,-bpctrip-Hotel%26fees%3D82.53%26tax%3D82.53%26total%3D529.06%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DCA%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dhotel%26prid%3D&s=ALZo0YJGNVqz4ZoY-AqPTqlUrP7T&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 267,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiNKwzGSBEyWL7Upt-0mtFC5yAxH4O6hLFmpWUHuCEnb5IJMmaExh3QTkZg4gLjCNmv4lQcXAh95w9j6AP6X-gO7ebieB_MInfF2bWOh1zaqCytqfuvGUL0QMpLZlq6XDuZW__V0a0fd_N9VLOtXr6DyBRdKVXt8c9LAC4yERvBqyjgb_Y2&pcurl=https://www.qantas.com/hotels/properties/1019601?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D1019601%26hotelID%3D1019601%26hotel_campaign%3D&s=ALZo0YLPkD_cSYnDzZVuXM0tx4z4&ap=1"
+        },
+        {
+          "source": "müv AI",
+          "price": 270,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygcJ6brszbyRCmQ5pUV0Hu1oorY1L39AAFINvBESbqyakdFWfzWSy89j6CVWpm9OPM9Q_TmSv4CZmhx6wVpjD9f7_ENOLebz53wCalV7dkmIsAzRR_Ipuq6-DJWVhyHGFBn3DZ-y6o8LNhgJrJ8UypyMwha-0Xi4V3dDWuxErvSo3km753wiqOMB65usA&pcurl=https://muvtravel.com/muv-hotel?hotelID%3D96298349%26checkinDay%3D18%26checkinMonth%3D11%26checkinYear%3D2026%26nights%3D2%26num-guests%3D2%26checkoutDay%3D20%26checkoutMonth%3D11%26checkoutYear%3D2026%26SUP%3DPL%26RATE%3DMER%26PROMO-CODE%3D98010&s=ALZo0YJ0b0SALUCZ73BUs3sBWmmz&ap=1"
+        },
+        {
+          "source": "Best Hotel Deals",
+          "price": 315,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhxl1of1bWYs7k8RWCRLMtppzN580JqWc570rRmcWyUOeQDCIm4r8T8Wi0hPRi6298tPCGWxMkCyT0DeAqe_jN-wGThhRLI4XhAFGsZKZS_mxajXwYr6oBIC_gNHVBiPH_-SBExMwke1MLPpl6sKrwu_uMHjJfGPwnYknzOsMOggHKRbHxCVgzPYLgr5kryVw&pcurl=https://besthoteldealsglobal.com/property/958?rooms%3D1%26currency%3DUSD%26startDate%3D18-11-2026%26endDate%3D20-11-2026%26occupancies%3D%255B%257B%2522Adults%2522%253A2%252C%2522Children%2522%253A0%257D%255D%26utm_source%3Dgoogle%26utm_medium%3DHAC%26utm_content%3D18_11_2026_2_localuniversal_958_CA_desktop_selected___2%26tp%3D629.00%26tt%3D91.75%26sup%3D38%26flow%3DF5gB9xmfuJFcrvKneXRx9eeGAEUxamhHgYeDyE_NBe2Oceyu5A%26room%3Ddouble-or-twin%26user_device%3Ddesktop%26google_click_type%3Dhotel%26google_ad_click%3Dfalse%26google_campaign_id%3D%26google_default_date%3Dfalse%26google_click_source%3D&s=ALZo0YJDeB5uJ-zL4AVxPF1nUC8t&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 317,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi2Wb6up3zVaZKiscAUaN0obGnlDl8RJoZ8nBH2bsu__WIjnvoIGiFppnc8LSs6Li_FradL46pUDU4t1AF3-eyFetenxhUpyt49i1wc7V-hCgGmsfbcyB3YSnFxjFT8i7b_bDNjOGxjBzl97EckEiVynYUcqJWo4rCWzYUnF2IAlRqZKIVFkovpV1dImA&pcurl=https://www.tripening.com/hotels/-/5602330-crowne-plaza-paris-republique-by-ihg?checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D634.44%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YJYJgoOGCuNrHqyOMnyg6fP&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkI5pXghsnd7cJ8Gg0vZy8xMXM5ejI5aHp5EAE",
+      "name": "Hilton Garden Inn Paris La Villette",
+      "address": "27 Quai de la Gironde, 75019 Paris, France",
+      "brand": "Hilton",
+      "info": [],
+      "stars": 4,
+      "rating": 4.4,
+      "reviews": 526,
+      "room": "QUEEN ROOM",
+      "photo": "brands-4.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Restaurant"
+      ],
+      "prices": [
+        {
+          "source": "Traveluro",
+          "price": 194,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjfcdw4bZgUWOCNo5q7-S1RqqI_pB774KcRupXy_pQOFm6ToUQq1N-bSc3_rRBX145c1-bjDvs58UCAzpbmTd4qAyLvGj7iRH_DICoJmQB_JRJFvieS20Spv2m8sKApmb11ZO4AcjhPPajmdITQOOg9IVZCNnYV7QGWpz6yKBcMUStBc0Jp1TYv&pcurl=https://www.traveluro.com/hotels/france_07_paris/4382736_hilton-garden-inn-paris-la-villette?checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26placeId%3DH4382736%26campaignName%3DGoogle_US%26currencyCode%3DUSD%26dealKey%3DCAIQqwEiCwjvxLLXBhDQo_g3Kk4NAABCQxUAALlDJdej_kEtH4UXQjABOLoCRQAAwkNKDAiksLLXBhCQlt2ZAWIKU3RhbmRhcmQgUWgCggEAjQEULkJDoAG4t-COBKgByAYwjQY4kMCLAkD-9w9IAlIIG_kv2RTzP1BYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D388.00%26priceDisplayedTax%3D69.72%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YLvjYh05Lgtbhbo9lWYvSHg&ap=1"
+        },
+        {
+          "source": "trivago DEALS",
+          "price": 196,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygw0zQuS9T12C_QK9pFH1xoavMdfK0z0oWPsqTKB7EX-3rTiRM9JKvqPArtQAc19FxC-aGs5KrifPbAUTPuV49Wv3Qfw3uWanKQmd7re12fsV8YZRplC3onsgEjd88P-2EGrU4B44wroParRWCcVeMAAt_QgA6Z_TTBwgP6k34VFVya9xquYBx8zISFzOSJeANBh5VvC-bs&pcurl=https://www.trivago.deals/hotels/france_07_paris/4382736_hilton-garden-inn-paris-la-villette?checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26placeId%3DH4382736%26campaignName%3DTrivagoDeals_Google_US%26currencyCode%3DUSD%26dealKey%3DCAIQjQYiDAi55rLXBhCswoKOAipNDQAAREMVAAC5QyVSuABCLQrXF0IwATi6AkW4_sNDSgsIs-ay1wYQuKGjD2IKU3RhbmRhcmQgUWgCggEAjQGuB0RDoAG4t-COBKgByAYwjQY4kMCLAkD-9w9IAlII3zKPzmA7ibNYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D391.98%26priceDisplayedTax%3D70.14%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YIWwa4m9xpot89-8soaf91R&ap=1"
+        },
+        {
+          "source": "Super.com",
+          "price": 199,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygitmJ6YHMyeIeDrhXiJGJrWVZNlfqEGc86wHLCDAHGpsVnchlbYETN0f0ftZ3gzQ9ZAGz--2a1kqanTLq65WokMvqaTU9xnQliA8bs_uCTfFqfToMWKWKmp2oyqhvcIw46sjPizww0LtFsI3ivWwGPHkUArKqCskQ-QDlH026FWZqmDzVZ3x8Jzg&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D292.65%2526total_price%3D321.92%2526retail_price%3D376.13%2526retail_total_price%3D413.74%2526surcharge%3D33.7%2526request_id%3D12875702344488648704%2526ps%3D1642246410%2526pb%3D0-slAkZlDjP06IhVxwa_7NchGObAU_aJOx4HsaTJxiWntHKPJe8X4m9JbBE7gBf3uYzMpILX9FBiPsb8ji5rmYG2fdOCqzrZxcEOLL1s3Zas5m4gh3S8Y0YBjt6RNpokxKazpxwpsLDyQqQTfLfkMSkcHLUz4Yfjie49XtSt6N4%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793851065%2526sg%3DAcfy3%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DEUR%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D398.91%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10014845647%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YLboL0-SQGsZwXhHgbICXjW&ap=1"
+        },
+        {
+          "source": "Hilton Garden Inn Paris La Villette",
+          "price": 208,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg_LG_IVVqSJim6n9QljlPOTTM8sIfCYBWOnfOSPz7ruTfqh4A1nc8k9xrT4XF1wCkFptL0QxzJXz762-cEvN5ERkxREMGnBEDP7Tzuy0qpv6bATitykz27am6LDYpCAg8ytsTGmOm7aDKmAvBUR4NmvEDqUzg3pdsRsWUTUL3poAE0sJ8-&pcurl=https://linkcenterus.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode%3DHILTON-ORYGI%26providerHotelCode%3DORYGI%26checkInDate%3D2026-11-18%26checkOutDate%3D2026-11-20%26identifier%3Dgoogle-hilton%26price%3D370.22%26roomTypeCode%3DQ1%26ratePlanCode%3DHPPAP4%26currency%3DEUR%26language%3Den%26userCountry%3DUS%26dateType%3Dselected%26testClick%3Dfalse%26sitetype%3Dlocaluniversal%26occupancy%3D2%26partnerId%3Dhilton%26campaignid%3D%26rateRuleId%3D%26userlistid%3D%26ifDefaultDate%3Dselected%26isPromoted%3Dfalse%26isRuleIdsClosed%3Dfalse%26s_is_ad%3Dfalse%26adType%3D0%26adults%3D2%26children%3D0%26clk_src%3D%26is_ds_account%3Dtrue&s=ALZo0YKd2zocw27ad3wGKrcdxA4Y&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygp2c8nvRhm1a7asXp-frtfZcIUQ9onV4h0cxcePCwJhyLxRN8jIVuiR8FchroWwbGteZOes-snuBAjGh_FCmn8kMhkgX4uF6GiUmIYYqbn2v00ebqB8_Zrdg81bmkmWPCHo5yQ4q9ZYR0se1JnsTe1P_cMbMPyH0-pF49cg8M-b44yyYNC_phIHuA_jzBM&pcurl=https://www.expedia.com/Hotel-Search?selected%3D88175083%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.88175083.20261118.20261120.DDF.13.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D436.83%26mpj%3D74.23%26mpr%3D0.00%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D88175083%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D387776952%26mpm%3D24%26mpn%3D321120916%26mpo%3DEC%26mpe%3D1793881854%26mpp%3D1&s=ALZo0YJm-onAWc0hCoBdvrqFM1Kp&ap=1"
+        },
+        {
+          "source": "Priceline",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjubzZL0ZS9OCATQG71gcm8VcoOxT4z3URMUqpQfV9gSSppGwjklpoamzladNbyexPOnWPpJaHN7UKLRh_zAW_1yJLwggCLj2BhtSPmZeWcd8axU1Yk3jYzZrIO_2LBlso1vBaeEF4c3ds_VcnR_IsiwyP-NnvLTaYHfKijmrVUb8T1tEtvo1fi8gyDhOyKEiY&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C203545404_localuniversal_2%257C20261118%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C13%257C2%257C0%7C0%7CEN%26hotelid%3D203545404%26checkin%3D20261118%26checkout%3D20261120%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D3000035827%26adults%3D2%26land%3DL%26metaid%3DwRapircoeMX69DmFBdXC_gjK-23zgvJb6Tk7RfRcKn9INz3g8LyuRzXFNCbduNOH88aV2gL_oL0aJLzCj1GIrhGRFjrNb0ccc4WmrVe6aqCTJTvW4Tp-_4N2y-WRMxRiRxrI8CejtCbMQrpRFJ1XPQLTh7rpWDGU3IBqCsPBEcs9iwaLKd6nS-QYslEav82lrw9RD14kf3YEmQvICxyiNuNwgvizSc6LVKBYY3vjvC791JerPT1duDK-egV-URJBjdOoa_16lKBBU4WEdcySCqOVZuf3D0rQq0GR3eEKj1E2fpHg5E6oOCnD-QsvTEsY9WoDoT7vBts4704_1Y4QezF7-xBBui5nWsIHDk8IqftzUm8VwokIuz5XBdDc8hrnoGJnPns-1ieXFs88My7i2v4C2hBRRPcp0Tdb2wQ-SpY3y870eeMHB-DxFd6uFhuDzmNol2sSascRrKAa5O8cCwBpRQZz-Ry8-U8VuMStbDHQpuildRid3hsYeL8U04R4tHaoPt8ETsz6mQTJRUqaLw%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D74.04%26pdf%3D0.00%26pdt%3D435.17%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YJSdhiD46-_NRatLSunmi1q&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiQ9fyaEQ8j6OZnKmx_zBkhybbLDclnIH2mHMdKpF-eX5vpZn2CR0IYxSdmSCq5e5k9ZW6b3wFSyo8RPix-bOBeOE0Z67B1Qv_awDS6TYaFztN3FV8L-JL7hb0dIwXLLvkJfO93Z0i1MpR3BMag9wCw9bDvzMya19GyXI6V1E0rOS2KtBVeeAb6I5HQfdg&pcurl=https://www.hotels.com/Hotel-Search?selected%3D88175083%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.88175083.20261118.20261120.DDF.13.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D435.88%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D74.16%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.88175083USen-20261118-N-ABW%3D13-camp%3D-aud%3D-N%26rateplanid%3D387776952%26mpm%3D24%26mpn%3D321120916%26mpo%3DEC%26mpe%3D1793895313%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YLWI7JUz2JzJspIn_F2zBHM&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Hilton+Garden+Inn+Paris+La+Villette%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "lastminute.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh1rGDGjnYLos_Iarf95pgwipBij9KzwK126h1h6zjcZ0PfjfoQNTJ2Lh7Oge4Nk3FyYkpR0DBvPMbyfNFvfdRZvcJaSTlrw-kU1yz5RiXJFrNspFJZEEsubiLYTgwURVulU0u4dXjTSN5JGdZXOfU1pzx_pb3tVaZDyng3oud-_j7BcPsQ86JypbZBui6b&pcurl=https://us.lastminute.com/s/hdp/hotel-details/11752512/hotel-only?search.type%3DOSE%26search.accomodationOnly%3Dtrue%26search.SPM%3D%26COBRANDED%3DHOL_LMNUS_GOOGLEHOTUS%26bf_source%3Dmeta-HOL_LMNUS_GOOGLEHOTUS%26search.departureIntervals%3D20261118-20261120%26search.rooms%5B0%5D.adults%3D2%26acntb%3Dhotel%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26checkin%3D20261118%26checkout%3D20261120%26currency%3DUSD%26totalPrice%3D435.14%26utm_campaign%3Dlmn_us-int_hotel_hotel-center_gha%26businessProfileId%3DHOL_LMNUS_GOOGLEHOTUS%26recHotels%3D11752512%26extReferenceType%3DHOOGLER%26bfSubsource%3D-----WS0S10PS01%26extReferenceId%3D27c90067fc784c82be25fa688441a2f0%26metaSite%3Dlocaluniversal%26userLanguage%3Den%26userCountry%3DUS%26feedContext%3DjyRpRfFlYVLkAabyNUgzOsu0CpgU1rT-Bb0Oa6kD4Y6d_pfBn_iwk1xhLFhrzxMhB3qhcvo%26gmeta%3Dtrue&s=ALZo0YJ7Rz4TBjsl-dAkLFDatKhD&ap=1"
+        },
+        {
+          "source": "Luxury Escapes",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhVRGM8F5-tf-RcAry0sjitvHdOZerJkYMn8-pspxd8gq6-i9xqmE0MpDHU_TyCFaHPsIzIQA3De41-8Osm73M_5Zpg_022AIs0xXsJHWC8UNxwlQVJXfK9_0H_LXuDuwdHuFRnKy849eM_3D0ZBzDVkMErq2FzyoGFBr_9FeV6kOj0GHwi8RihQebX21GxPUac&pcurl=https://luxuryescapes.com/us/metasearch/e215ff44-ef62-4d29-b229-c9d812315a5a?utm_bp%3D3%26source%3Dmetasearch%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26propertyName%3DHilton%2520Garden%2520Inn%2520Paris%2520La%2520Villette%26propertyId%3Dbedbank%253Ae215ff44-ef62-4d29-b229-c9d812315a5a%26roomTypeId%3D6f64ff47-e45a-4aa1-9b8b-cfb035fd3a3d%26roomRateId%3Dbf0_dn0_int1_park0_ref0_S1_pkg%26adults%3D2%26children%3Dnone%26sourceTax%3D74.16%26sourceTotal%3D435.88%26sourceFees%3D44.23%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3Dgha-lpp%26currency%3DUSD%26priceTotal%3D435.88%26ruleId%3Db~USD~S1~M10-11~B~P~DUNK~D~A~US%26userCountry%3DUS%26accountType%3Dscoopon%26gpid%3DCQAAAAAAAAAAAAAAAAAAAACQf7cAqkQADtYCAABbealzOEU.3%26adsClickSource%3D&s=ALZo0YLi0p7dT5j-9pNlBktny-SY&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh7Npioe-s0KxDN3sN2z6XuybzWkJXKxW_AkBx1tZsvyWkvo1Q_o2w-oho4hmveX3lxtIRHIFlhjDzoclqYMmdhaOe7fPy0RC4d59HZI34DgeC1ugT5oVa-CV1Hjd9iCto7e4OUHdYHnwGDchNzv9CVOQ4uWLD6jB_7gdMLLbvtA_y_Omdf8ewlK0kP930&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D88175083%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.88175083.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D436.83%26mpj%3D74.23%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D387776952%26mpm%3D24%26mpn%3D321120916%26mpo%3DEC%26mpe%3D1793881854%26mpp%3D1&s=ALZo0YIaALAv3rkSJVOo7iXDe-CP&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh9HN5RH378lM9W5A9yPw4TpPE5NbqU6i-Pnai4EWAPbiLe5LEFqUJkFtAGJfpLpRNwwPM77UFDQoxXD0qtHn_y8EkXhIVzLZfjrgbMKE-dBBRMnADXa-ySeW2yLfHSpKVft7jKjy4cVzonx8TJmigEIGgeyDgwYY2N_9xHh8kF3IkUYbrnQd3dszh7k3XV&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D88175083%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.88175083.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D436.83%26mpj%3D74.23%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D387776952%26mpm%3D24%26mpn%3D321120916%26mpo%3DEC%26mpe%3D1793881854%26mpp%3D1&s=ALZo0YJ5G63kkgUY1CLWd2gtRPnl&ap=1"
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": 218,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhAZ2xKMX3C8q2UM3qtPAl5rA0a-eykoO2KAQXjrFBRgnA8gK72PSi5K2bU_SuMcxGG1-96Iua2FAeDHO-QYlQZtxLs2boMgyxFuIqWdhijP8a56WXIeWvNkkj-ak4fJwW072WN-8kFvDArQFTZArkNJPJeFwBMpkUMfVBODLHyDaNIZjqGYkS19bI0ZacZHIkHves&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D88175083%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.88175083.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D436.83%26mpj%3D74.23%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D387776952%26rateplanid%3D387776952%26mpm%3D24%26mpn%3D321120916%26mpo%3DEC%26mpe%3D1793881854%26mpp%3D1&s=ALZo0YJPYkzhWhnis_qDWZgOTaLm&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 230,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiEKUc7rYSk5BfWq6TXgiC-PkwT4YkhpxsrmtgBnmoT4h7543VIMHaSdPkcnlOhgtIfuKvtpqqVctVRvripmz710jeJu4R-jtJaq5Zv97ZDzO-eHeu_BPXeslmK7xz12oeOKZo9ARYiBkr6ELWDjMJtBPaMffV0zeVHLdctxoFStXFK1KKzCseQQ5VfIA&pcurl=https://www.tripening.com/hotels/-/4902504-hilton-garden-inn-paris-la-villette?checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D459.75%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YKsIhcqiuf4IjEhVMzFr9OX&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChgI6tidr96ttI-gARoLL2cvMXRrNHFnYnkQAQ",
+      "name": "InterContinental Paris - Champs-Elysées Etoile by IHG",
+      "address": "64 Av. Marceau, 75008 Paris, France",
+      "brand": "IHG",
+      "info": [],
+      "stars": 5,
+      "rating": 4.4,
+      "reviews": 829,
+      "room": "1 queen cosy - Book early advance purchase",
+      "photo": "brands-5.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Public internet workstation"
+      ],
+      "prices": [
+        {
+          "source": "Super.com",
+          "price": 476,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygomi7CeyUJidJ-Ysut7znQsvsNY53jihHb7khKqknca-eIHyB4XM45-w4jIlCOf5BIZwVIctqQ0M1lnNoxEd_IJVbN2gccQwN4VhEWlb5v7jWMuMl61Jet87KTgWLggPlq2m_3Fb5kP4491Bs7VomoHQqTb2c8gCdRRn0Zo69HUla3d7DcCCcEeg&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D728.43%2526total_price%3D801.27%2526retail_price%3D808.59%2526retail_total_price%3D889.44%2526surcharge%3D46.67%2526request_id%3D11947836011387660288%2526ps%3D22273116%2526pb%3D0-slAkZlDjP06IhVxwa_7K-02rEH0LNiLUVkqJQUV8gbR40UdHqdYH-wKgJJQWwjp3E52F6TNi38bgtXY8Xs5LYTrYq9hnZilfZgZYU_b_yLEdw_rVBbvf4aaJtlqaqweLlLat12Fb40aSMSs-9d7c9Jy6CFEi96i_EzRImy8fk%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793846929%2526sg%3DreZ-w%2526sid%3DGHA_MD2%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DEUR%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D951.18%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026422%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YJCUQFX4f1GpEdDQgpeyC83&ap=1"
+        },
+        {
+          "source": "goseek.com",
+          "price": 482,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjz9l3F4R2XwQbA4pycHtElydd7CcILVbhYo3Bi8XP50eiP8Gtw12tFduSUltqlEcBEvhcBAWJgHkqH4sMJ9J5qZayvwqnIu3_zNmWaN-TnXeUPKsD5X60O2Xnp6hICw65XbWTECHfQgS02mk9XtCF52DZs_CgNCVNVadQesM66j-GZX77H8SspxW01XBbJRQ&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1493861%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D963.00%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1493861%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D963.00%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253Dq-yzpYkSpdWslC3iChsIhogFGKdoIgNVU0Q6AgEBQga49wL1-AJSATISGhW1c1vrGgtEcktuN3RYMkNhbygDMJDGstcG&s=ALZo0YIizgDxc9iVEeIul2M5IVOS&ap=1"
+        },
+        {
+          "source": "Catchit.com",
+          "price": 509,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjoM8cyXvWdxjh1qu9tVrrETeSWMdR3kl_2JdLZNo8MzMvNDy2kXu74v1oG_OBTG4BI3LFKyBbRoHUxfI5nu10Fcpn6-VNCO2oF-RQTgI0NKg4-QEZvm0rqzG2ozGZlO0wjNPj59vwxLq7fGgv1v5xu1RANB9KBqM3pIO_RezTuINxeCWvMg0o&pcurl=https://www.catchit.com/tracking/A6-6524-HO-118223_1811202620112026_77600_1490_1025_88700_52_payclick/hoteles/118223-0_x?atoken%3Dn1cdcfx9bix9bkxax0x2zzzzzzzzzzzzz%26utoken%3D1%253A1%253A77778020%253A0%253Ab5937%26chash%3D450e7e617a050d780e227a95d127e847%26odata%3Dlynd6cf8hy769fgr66An3jswt79q3ktvzfqfpbcpq2fzphcqt51006j7vgqkf7gcys6852A4r554z0rk85xpb3t158rmbAgAx4xhtAh8td3zrv7f5pslpx9lArpqbr96%26craw%3DNTIqKjYyNDU1KioyXzBfMF8wXzBfMF8wKipTQSoqTyoqTioqZmM0NjJlNTM0NTJiZDExM2JjN2E2MTJhNjI5ZTNhZjQqKlk%3D%26fco%3Dus%26mcc%3Dusd%26utm_source%3Dgoogle_hotel%26utm_medium%3Dmetabuscadores%26utm_campaign%3Dhoteles-afiliacion%26hotelID%3D118223%26hotel_campaign%3D&s=ALZo0YI49VNWBaV_QZrLzLU0XA7u&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 516,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhINr3XqlegVzh04nvd4RYAkgAipDeZMmiO44Yod32F-7h5e2Pp9iSXA_BVc_opew1D57VlalrG5uZF2HvCOFOyTw7a7le_wB8h_rZ1zxeptNBy_uAtiGjG9VqCcYKNpkMJBRpfOY3QN2jXrPwh-Qj3wgw9W4O2EQRgN26VbEiY75cRbRBVD_wpNqBqAwx-GPbz78WgFb8&pcurl=https://clicktrip.com/hotels/details/7--rdFjBrKa1s0OJApxeXZ8R1s_D6PF3BPVPDXL5oLJouY2uRWIMnlQ_s4Gxc0goqIcPF9mUsOj48jK4fFDlA-So77hp1ZNkicxQcSJDuhdiz1YB7ToT7tgQgjjV1tRE0?locale%3Den%26currency%3DUSD%26pos%3DUS%26date_type%3Dselected%26taf%3DAyF705NX38AJJZKqro3asPOhUryVHY0KcQDrDg4WG2muHfLuNAgopIFFEthbIwod0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3D&s=ALZo0YIIOBv3Oh-MkhAbp4jjx2gQ&ap=1"
+        },
+        {
+          "source": "InterContinental Paris - Champs-Elysées Etoile by IHG",
+          "price": 524,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhsdcUDzMzzopaXYb0jkttAySDbgupqVfY94A53123-pzO6lBk4H_6FKSef0jQHPR9x1l5KP6o9zdvavtGrsCDOUJYFAi3X1tM8OYLDIwJQtY4KabjRFT5fk3TkW9git832aJbufSY3E75jV4LojGkOY6a_kfPzl20vHIdzNIXVCDOY&pcurl=https://www.ihg.com/redirect?path%3Drates%26brandCode%3D6c%26localeCode%3Den%26regionCode%3DUS%26currency%3DEUR%26rate%3D403.18%26hotelCode%3DPARAT%26checkInDate%3D18%26checkInMonthYear%3D112026%26checkOutDate%3D20%26checkOutMonthYear%3D112026%26numberOfAdults%3D2%26numberOfChildren%3D0%26agesOfChildren%3D%26numberOfRooms%3D1%26cm_mmc%3Dhpa_free_META_IC_PARAT_desktop%26trso%3DMT_Google_PARAT_US_Free-Meta%26glat%3DFREE%26selectedRatePlan%3DOSINIDAPF%26prid%3D%26partnerAdType%3Dfree%26userDeviceType%3Ddesktop%26userCountryCode%3DUS%26partnerAdSite%3Dlocaluniversal%26partnerCurrencyCode%3DEUR%26partnerDateType%3Dselected%26userSelectedRatePlan%3DOSINIDAPF%26partnerClickType%3Dhotel%26partnerVerification%3Dfalse%26userBookingWindow%3D13%26partnerRateShown%3D403.18%26partnerTotalRateShown%3D1047.47%26adjustMonth%3Dtrue%26mktgvar%3Dhpa_free_US_desktop_PARAT_localuniversal_2_EUR_2026-11-18_selected___FALSE_OSINIDAPF%26clk_src%3D%26isHotelCampaign%3Dtrue%26channel%3DGHPA&s=ALZo0YKSB7e3FFi9CHO9peGy4BDw&ap=1"
+        },
+        {
+          "source": "Priceline",
+          "price": 524,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjCy8e-kkHkllGvr-vYv0MB3qQiX_qM0TwdgALqf9M_Cj6BErHr4AbkbaQ73dpx65gA1pdYedkTuG1O7Q4jL7rC3QHBpMmXqKvu4-CnLVh-UVvtnRDrnHEI-hc7UTdVRWJZ8YGqYnDvVC_EAj2UIByK6Xx6Y0amvz0ZFVxXL_4uQ0J0QhCjiRv7Ld9ksDkNfFE&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C13212404_localuniversal_2%257C20261118%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C13%257C2%257C0%7C0%7CEN%26hotelid%3D13212404%26checkin%3D20261118%26checkout%3D20261120%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D3000035827%26adults%3D2%26land%3DL%26metaid%3DIX9rss0MXH1elxO08rPofVxC1LkiDXG04sjqEpJr9j39kwlZQVkorlGZF7m8Y6RJnpozjPrvf1iwATKlsu4GmuKzJPVgMJfLLnafpQ9DlixdR535f_Ct21HlBZjvtAyx5Vu7lipNzxci1b_TMMNOlL-mOZ95QG4txgIDV1AEyBlatmJEoXeyjkRGW2AJ6beVogz-thNocbuy6A2CDjLNAURKsn-dDeM6zSkiKq3QS0NPIqhiKGc-9ehialcryyNiV0LLJKxzMypwYYLpLJLgGzJTjruamDVdKcNmAnGQa1pF-7uUzVWUGc4nDBofHdnjLUnUUisod8BFz7mV_3ijz3a2Ymrf0SckrQ3UKFAQ-6TnoEUfV-bXOnOOBn4WwQPqVm3_pMEy-EFyLewmxSB2RHxHTmakjuLtJdguHJYdS-XU-EGdX60YUIaGosCHFapL7uwUwFZipkvfLIOGZXwMYYv72z8cxGIkSuWocLcX4Re9cmo8-W9nZz78CjtZOKzj%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D142.99%26pdf%3D15.39%26pdt%3D1047.51%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YI-iTN1MHYbCZ2igBfKQa_z&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 524,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=InterContinental+Paris+-+Champs-Elys%C3%A9es+Etoile+by+IHG%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj15oyxGv03s-Ka3NXpgP4xclxGbwA0pYoAOHH7Svb9gKGBe7OAT7P4gBUSDilA5rY2wcAaJvcx6d0A1WbmC9ei3nIGPli_IkADOTYqwXr_lh9OsQeItBaq1QAk3lu8dvupDutUOhhFKXWcxPoHgN-Eb6sGyu_2q30wfw0KXnQhfafunFqPUAGULNKiBZrP&pcurl=https://www.expedia.com/Hotel-Search?selected%3D2193319%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.2193319.20261118.20261120.DDF.13.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D1049.19%26mpj%3D143.19%26mpr%3D0.00%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D2193319%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D381037554%26mpm%3D24%26mpn%3D327980%26mpo%3DEC%26mpe%3D1793867526%26mpp%3D1&s=ALZo0YKJlCg7ux5D4iHBCD18Kj7V&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjSh_SonpYSToZn48vjo85BaniXhJ-I4_RzsyIzGMp7QX7VtjDN2R-Zt0R4cUPlOkb6m2oAbRmZiur98zyTCa9-b2ue-vLRAQpPgUWCfUy5PbGmelBpzJKSuYKivGoO9StO-gbFAH5x-BPWbTBA9G8-2W0wLeW7X6UjddrQ0ih0_e4G8chqEcqCn-yVOIA&pcurl=https://www.hotels.com/Hotel-Search?selected%3D2193319%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.2193319.20261118.20261120.DDF.13.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D1049.19%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D143.19%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.2193319USen-20261118-N-ABW%3D13-camp%3D-aud%3D-N%26rateplanid%3D381037554%26mpm%3D24%26mpn%3D327980%26mpo%3DEC%26mpe%3D1793897414%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YJZvUam7Cmh3aBgTiKCdg3k&ap=1"
+        },
+        {
+          "source": "Luxury Escapes",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiFCRZbUf-5I1cvKa9RFXaaSZhBkHA1PPUcrh9wPKnlMiiYJ2MM218n3ARHaX6pzRG3hfJRN-R1YTFi6UC45pwsA2PZ2xWspEoW5x-4YnCl1dszC0ERpAS870kEG6Mi5MpI7-Q6vF6hLEk0woSbZyDe6ZYmReb5fZXVp6ZISXyFDPYeXzfmW93uAly64Shgz2FO&pcurl=https://luxuryescapes.com/us/metasearch/fdd9abb8-5020-4db1-9f6b-3bfe6bbda066?utm_bp%3D3%26source%3Dmetasearch%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26propertyName%3DInterContinental%2520Paris%2520Champs%2520Elys%25C3%25A9es%2520by%2520IHG%26propertyId%3Dbedbank%253Afdd9abb8-5020-4db1-9f6b-3bfe6bbda066%26roomTypeId%3Db3fddfda-bee5-4760-9eb9-d63ea8edca74%26roomRateId%3Dbf0_dn0_int1_park0_ref0_S1_pkg%26adults%3D2%26children%3Dnone%26sourceTax%3D143.19%26sourceTotal%3D1049.19%26sourceFees%3D69.34%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3Dgha-lpp%26currency%3DUSD%26priceTotal%3D1049.19%26ruleId%3Db~USD~S1~M10-11~B~P~DUNK~D~A~US%26userCountry%3DUS%26accountType%3Dscoopon%26gpid%3DCQAAAAAAAAAAAAAAAAAAAACQf7cBmdkAFIoCAABdrYvS6Cs.3%26adsClickSource%3D&s=ALZo0YKsv2zgtAw1ljZNSA43ZYpt&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjCy7PhBTnIoHVB6pNhP7zBlzCrKWvruBlTkHCWFWb6S6HyguUU3vY6sDVToqsxnVbUEcAlK4TAxcafUpfGNcZNI6axIV1M3e_Al4_VY_sVpLo1coKOq8V0EbTxcrbavm_HYIsLw3grZkRugTDStAnphC-dF8I86xI8ZWbjZubPxynm47OW81fU0Hq-wmA&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D2193319%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.2193319.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1049.19%26mpj%3D143.19%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D381037554%26mpm%3D24%26mpn%3D327980%26mpo%3DEC%26mpe%3D1793867526%26mpp%3D1&s=ALZo0YJZDyItBftTlSBBJDpApeL8&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiAfinRS8x0lUI9WxBvIyAq7YCk0FvwUaJNxuhbmuv-1C8WnNStMzZVLxnLwCB9r9dMKLo_yuK0baKFMnhKkL2Xll4Bq2cO0V-TNAShwZsjInjIt6qn1966_fqSTk79A_JiX5c7URVaCvm5zfNPdd1v9BVT5rB2JWGIhriIJpcSWyxETxnJ7DkyYbqFitWV&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D2193319%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.2193319.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1049.19%26mpj%3D143.19%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D381037554%26mpm%3D24%26mpn%3D327980%26mpo%3DEC%26mpe%3D1793867526%26mpp%3D1&s=ALZo0YJ9c7FskOZW7yOg4SdNosG8&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhvR3wfp0dGM8tzNCyJKOcMtPerRijTseuHXLcOnzJC8IIBWJcVLKtDzZ5itCVd5mv_q8M_cHu2tl9Iu9l91TF_IU5CEJpAzdN33dOl72z8zKkJmZ1NPGt_KGIFNrZ6ZEg9FnOKcIN4puGIN-u1T_UtxxiR5pOoCsYqs2wqnCgSei678N7ODTxXOYCw&pcurl=https://www.travelup.com/en-us/france/paris/intercontinental-paris-champs-elysees-an-ihg-hotel?prp%3D153351%26cur%3DUSD%26lan%3Den%26CI%3D2026-11-18%26CO%3D2026-11-20%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/france/paris/intercontinental-paris-champs-elysees-an-ihg-hotel%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D153351&s=ALZo0YK1KUo7uXasxzARzmqXv-GW&ap=1"
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh1VEAa4DinClP2_tIxKPvNxe6cu0eMz9oceY170FNUT0kE9gQ26yJQgAP1Rf1O3by5BLKW1_keXdxVH9ySo28X8Hejz3u5Bb9IPcgsoqSzmTeGc_oBoTbfPgSEF657inG7rI6NQJo2ETWMEVw7PCj3fSErEPdaVxHJN8Nl6trbwsmZC8XicLXhmGnYarqOE7WW-sQ&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D2193319%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.2193319.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1049.19%26mpj%3D143.19%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D381037554%26rateplanid%3D381037554%26mpm%3D24%26mpn%3D327980%26mpo%3DEC%26mpe%3D1793867526%26mpp%3D1&s=ALZo0YJ0LtbOf8UCpPj_pX44532K&ap=1"
+        },
+        {
+          "source": "müv AI",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjaN732ojVgeoLViPNJnooVatOlrHoW5QRUwiymNzo0osIHNEmymA3Mzkm25YBgxLP1_Y4ZGEdR-H-sI_aTrOC2SrX13naQO_hOzrtkclPIbnpcwu6wK2ZFZgVEAoXf80rd72SGEusR57J54QM9wEt2YrpbJ2e-WTaZ4zQBBHhwh6sc9cISR_o1zEQcMQ&pcurl=https://muvtravel.com/muv-hotel?hotelID%3D95916980%26checkinDay%3D18%26checkinMonth%3D11%26checkinYear%3D2026%26nights%3D2%26num-guests%3D2%26checkoutDay%3D20%26checkoutMonth%3D11%26checkoutYear%3D2026%26SUP%3DEP%26RATE%3DMER%26PROMO-CODE%3D98010&s=ALZo0YJ2BwgPQpHOpVXL9kDtBM6m&ap=1"
+        },
+        {
+          "source": "eDreams",
+          "price": 525,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygymgkyYNbaZQ5DAzaWU0RUQvPokaHoTDCJjD11F3l3SwgqHHLvqun3qvDmYgEQb3c9w8vtsljZPpxsOutXuxRHP04qwIDugrKt0IupbQH-vTDOqf_Wz1g_BvV5K3m14dew-nTA04-fjLHSIVotA1n2s-WRtJC-r_r5E69uChQRnXJ75j04&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D2193319%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26mpf%3D1049.19%26cur%3DUSD%26mpj%3D143.19%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D381037554%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D274684%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING&s=ALZo0YKwtWc-JDXH_72aJ3tBVIJv&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 541,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjmLm5Hqq1o34D6vPc9lsRXf7uRnD1g-megkNBqV_UgK-OL394OoeH-Bq-lSUU9vwrcKyc43sA-zyDPKi3ssgPeiuWaxJ09V6IUvudghfSuNmA5KY8piF-IdzI7RDd59gT3ly3vyfxhxozOXuIJmzorCucngu8oGlJnMfyk5QBTpI__o96YtwBPBlmAQQ&pcurl=https://www.tripening.com/hotels/-/4885022-intercontinental-paris-champs-elysees-etoile-by-ihg?checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D1081.69%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YIS1lmV7AiPmCrwCrVKNzCQ&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkI_u6u5-P77JFUGg0vZy8xMWI2Z2doOWp4EAE",
+      "name": "Sofitel Paris Arc de Triomphe",
+      "address": "14 Rue Beaujon, 75008 Paris, France",
+      "brand": "Accor",
+      "info": [],
+      "stars": 5,
+      "rating": 4.7,
+      "reviews": 1818,
+      "room": "Superior Room, 1 Queen Bed",
+      "photo": "brands-6.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Restaurant"
+      ],
+      "prices": [
+        {
+          "source": "Super.com",
+          "price": 435,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiyN4IWXdhNYTlPj5LmbE7izF8IkQd1px7z65UPBrt7C5cD-a2iIBoLw-mLrIJf3DBTrixLXlFhIF8H6PxpOy9kWYDE10J-hTzxGdAcJtE0KtQ6Wv1KUqhJM8CGCN6mE8g4sSL5jSLGylMB2fRn2_fZnI_Fgr2NfZtHFUQZ81k6r8JpI7vkBS2VeA&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D552.49%2526total_price%3D607.73%2526retail_price%3D725.75%2526retail_total_price%3D798.32%2526surcharge%3D39.07%2526request_id%3D13545518503158052864%2526ps%3D22273116%2526pb%3D0-slAkZlDjP06IhVxwa_7Muh4k6qb_nBCI7tl3pavwKwW59vrL-AbqbxaBRyrISNgusIX9vEHR7ln1cFUTvgAEaQyHeKjzqG95QeWpeoFC4_WQHqtpsa0K36ZtRPzxa71RfnSnIb4Cw2cA0-2aGdcRf-ObOY9CQylzwLMR3gDkA%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793861322%2526sg%3DOL3Y_%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DGBP%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D870.88%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026563%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YLnEwdRgR1C8QcAmz_H3MHW&ap=1"
+        },
+        {
+          "source": "Vio.com",
+          "price": 472,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh2-h99YOt-em81hj92_lY1GT3FIyz7UveQ3GSmG_5hFiVDTkMoYMrzPDZzpAtmG_c_qR5DK8t4JEg87dbmvezcY8BSeb1OPgI5bt7CMu41kRgUwryMP0bQNx5O22rB4fuCZ_Gl9xK4Y8PfAAU8zz4iKWSeu2jDQjNoPFzdLEVHGJZuBt1hlWgO&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1129554%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D944.69%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1129554%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D944.69%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DW5BFGBhwlf78hNneCg8IgbkFGIQpIgNVU0RSATISGhWAu7x8GgtVVXFONnNfWWljSSgDMKDPstcG&s=ALZo0YJ9zoxkxn7zpulRC41dupRZ&ap=1"
+        },
+        {
+          "source": "goseek.com",
+          "price": 472,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi-eC3lJkqJWIiByq1oUFcorRtnsZFaghm_x8SXc6-MYhGszlxwc8gLQjn1kwS2tU_lGyTcTaAPe2Zbvx47IYh6I6Z7TXJC98aV0WpgQTB41e9mnpnpYTEp7PlUD-ar6SaVo0a0iA5097p8PDsXThjS0fuWO1Vv6esFzhGHdVy1Dv6bO5lHIOSG6PrhJeoGmA&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2026-11-18%2526checkOut%253D2026-11-20%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1129554%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D944.69%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1129554%252526day%25253D18%252526month%25253D11%252526year%25253D2026%252526los%25253D2%252526price%25253D944.69%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DW5BFGBhwlf78hNneCg8IgbkFGIQpIgNVU0RSATISGhWAu7x8GgtVVXFONnNfWWljSSgDMKDPstcG&s=ALZo0YKKkW5ulDK52mdCM8DG7XGZ&ap=1"
+        },
+        {
+          "source": "Traveluro",
+          "price": 478,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhr738uMfGu5nVLd5EVlylisEk-MGs5OKaxld87tASvTKgvWPI4L0JQAolNmIN7slcAtXS9GHWssrmxM4lYKNieyxcIFtgtWUnJo-f7PDVCF_4uGtrIGFlkDDixFpkxz6WAmockV6eKD49Km-9fnvO2cgXl9K4kNfVra6FAHiIyGWqSPNyAZNsa&pcurl=https://www.traveluro.com/hotels/france_07_paris/128001_sofitel-paris-arc-de-triomphe?checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26placeId%3DH128001%26campaignName%3DGoogle_US%26currencyCode%3DUSD%26dealKey%3DCAIQqwEiDAjEzbLXBhDc-prMASpIDQAA4kMVAIBXRDABOLoCRQAAYkRKCwjgv7LXBhCQhrNbYgpTdXBlcmlvciBRaAJ97FFMQoIBAI0BpDDiQ6ABsJ24vAOoAcgGMI0GOIHoB0D-9w9IAlIIo5pQyh39ysBYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D955.06%26priceDisplayedTax%3D51.06%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YKN3w4bNVf8McmRjLcr7Dse&ap=1"
+        },
+        {
+          "source": "trivago DEALS",
+          "price": 483,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyisoPiVi1h6pGUm9ktiI4pt8VAzSyl-TrUrR98JSYdNeHc8QKKzyaCXgMbVJlPgVX0oCeItrDYBv6lpkZ3vQnJ9m7W1cyinRfg19xV9TF6x9yjsvh8H9M3Ks6BzOJK89melq0AFJvGaITU4GVMEd84djgpOEyUVmKQsggL8Rl5TSURpqUeGa0sakX7zvRLvpqVnpzYACoQa&pcurl=https://www.trivago.deals/hotels/france_07_paris/128001_sofitel-paris-arc-de-triomphe?checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26placeId%3DH128001%26campaignName%3DTrivagoDeals_Google_US%26currencyCode%3DUSD%26dealKey%3DCAIQjQYiDAim1rLXBhDE_r7DAipIDQCA5EMVAIBXRDABOLoCRQCAZERKCwie1rLXBhCgm8F-YgpTdXBlcmlvciBRaAJ97FFMQoIBAI0BUljkQ6ABsJ24vAOoAcgGMI0GOIHoB0D-9w9IAlIIcOdbpOccSblYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D965.06%26priceDisplayedTax%3D51.06%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YKssiSDR-fdUZKJJe70JNDa&ap=1"
+        },
+        {
+          "source": "Catchit.com",
+          "price": 542,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjEtCTT2hQxrrqGIjNIWPDcz-XWHx2TlnsG1mQ1c0fHR5_mqVvXz5RlcU3RfBP9T6Nx6WruD-R5UxeK0Q6-0rHN8KhdYtWjaJyvdMabcB_5hgS27IaBLeUojxVRTB_oUyaK9sTkaa-HsWfv52zIH1oMFv_o-EESMCjlMzfbJmJo5xY1P27jKOE&pcurl=https://www.catchit.com/tracking/A6-6524-HO-69828_1811202620112026_86900_1500_460_92000_35_payclick/hoteles/69828-0_x?atoken%3Dn110c4x9bix9bkxax0x2zzzzzzzzzzzzz%26utoken%3D1%253A0%253A77778020%253A0%253Ad4c75%26chash%3Dccf69feb24ea3a82f9d8fc17c4219326%26odata%3DfypfA6qkmAAzsAjz89wh2tn6q0hffj71b7r9wb3lkx6AzffysdcqkdlAjsz5hqp544Ajcbd0kz2n2crzzjt3f1cmwch4mczq77mf2pth2xbA083p9d9f5cnljkcg9mfm%26craw%3DMzUqKkpQMDA3MTIyKioyXzIwMF8wXzBfMF8wXzAqKlNBKipPKipOKipkNWJmYWI5ZTcwNTIxYTBmNTI3ZTBhYzdhNTgzZTFmYSoqWQ%3D%3D%26fco%3Dus%26mcc%3Dusd%26utm_source%3Dgoogle_hotel%26utm_medium%3Dmetabuscadores%26utm_campaign%3Dhoteles-afiliacion%26hotelID%3D69828%26hotel_campaign%3D&s=ALZo0YLdAYzLa3nb3fDJbzLhZaTH&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 562,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh7nULCdu2uYBvPOs3QJzOUEOZB8VJr6NpByXYlljb0Zmm0K71WVi9e7_mXTgjyEcQ0Ivc9iaGtRDdO6wDtggfKAPEx61lJz-SKYxG1IcIFY5HcRZuCldQ9xpowcM_zyFBLtZZ4RfMRGuoiBwFX5ApeUTH1I1cxrqPjOIC4pNrLPNFqU_FC&pcurl=https://www.qantas.com/hotels/properties/22928?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-11-18%26checkOut%3D2026-11-20%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D22928%26hotelID%3D22928%26hotel_campaign%3D&s=ALZo0YLeXPilw4WIxATYuF1ChYwT&ap=1"
+        },
+        {
+          "source": "Sofitel Paris Arc de Triomphe",
+          "price": 564,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiWCfRUfQctgZKgu_sDNfz3lN_TnldJTHFUBGt5qaynV7bgUjcxQ2LEXDqZrHOVELU5tK7kDyRZhcCqzEPJM3UcU8VmV3yZ_dE1o4fPmpqzRPZjSqeZAtf4muRT5g0qg8PfQoztu14nCUF8TVohqVEUM3vKb4CxJGgWuABPFeN_L-sNReQ&pcurl=https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client%3DAccor%26channel%3DGHPA%26placement%3Dlocaluniversal%26campaign%3D%26destinationURL%3Dhttps%253A%252F%252Fall.accor.com%252Flien_externe.svlt%253Forigin%253Dsofitel%2526goto%253Drech_resa%2526destination%253D1296%2526dayIn%253D18%2526monthIn%253D11%2526yearIn%253D2026%2526nightNb%253D2%2526adultNumber%253D2%2526childrenNumber%253D0%26amp;hideWDR%3DNO%26amp;hideHotelDetails%3DYES%2526merchantid%253Dseo-meta-google%2526sourceid%253Dx-1296-US-cpc-desktop-selected-0--2-18-11-2026-13-Wednesday-localuniversal--0-0-0%2526utm_source%253Dseo_meta_google%2526utm_medium%253Dpartenariats%2526utm_campaign%253D1296-US-cpc-desktop-selected-0--localuniversal--0-0-0%2526wiz_campaign%253D%26amp;forceResultsList%3DYES&s=ALZo0YIQyxne5d4aIg7D4gYiGkAc&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiNFRCqa8aot_nLAMWuHTlzAtYXaJ_og0MbiKSIaPvK8qnQ1AGLsPxAoB47m0jjOR0529vL7dUG62n7zH0IkDqlyIwFPAaGN0snqWet0IF0LfRtctFWbP4DwVzVss7qscEYAz-2QPp-GFcoCgXs0ezKKqgIGfoog_k_ZRdez51iNDADSpLIz5CMa60eiRwD&pcurl=https://www.expedia.com/Hotel-Search?selected%3D26021%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.26021.20261118.20261120.DDF.13.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D1128.94%26mpj%3D150.41%26mpr%3D0.00%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D26021%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D1992348%26mpm%3D24%26mpn%3D178073%26mpo%3DEC%26mpe%3D1793858098%26mpp%3D1&s=ALZo0YKZ5HMZV4_4B-LewvfodEgV&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Sofitel+Paris+Arc+de+Triomphe%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Priceline",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyieyuVi5IcuZwvG88VzS00kUt8OqPunsBB-ywgw-bvyy_CtEn5kV4eqkJsTPZLfppbzyzgArlNCZ2tZfhN7m9omYJ3FFlgrVD_lGw7c2TlIOmNrpOfrKLjZ7eRa-d7e4kaG9d5mBW1Tz-Pq6p3-7pZuGY46pszlwCWvsfvhS_tYtbTPlIG3BHS5tnleOZe5aKg&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C393803_localuniversal_2%257C20261118%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C13%257C2%257C0%7C0%7CEN%26hotelid%3D393803%26checkin%3D20261118%26checkout%3D20261120%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D3000035827%26adults%3D2%26land%3DL%26metaid%3DAtsaKUmd7Ac6bn-NMaXdB5hT04cmqo2CpzmI0BdfHkHEPIvwcWRBlRtIfqyug9R38zxfLYbRDtC8OacNQpuq4672fvEjG7u59ESPWnXgHoBp9gBDJU2R54ov5XgL26bQWuHAvwf2mMf_ou1nu3zIgML1ppqbcV8ZS4yXByh4ObHLLTmB6N13rahtYnbYRBxs5OYXvS75QZjT0i6MB0rJsyCxIM7LGJgwOigwfaJa0qxr-NeNczA2p8w-94kpFUaWKAZfoRtFTQpuw5xBgtJoxPqaJnP3gwOWbbLK-dv9lISw-i9gcNUUgqf8WmQdQm6wjGr3OOsL_myNoUKviPnSoClH3mMaY0ik3ODsFZF6uFaCpehOIouDp04r3yLXAfNZ7QlWo4S3wI6cr6zkukdE-O_b1gm9ZTJtOoVG8qjustiO9BANbOpU0OixWb2a9_KjkyqhdKoQq5y_tqIlc-3NF-6SPTNl1qiPgHYGY0zTHO0B04AzSt0hC7jMPDsZZ1F7ikCi9L2e516eDe4UU2rP4w%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D150.21%26pdf%3D21.00%26pdt%3D1127.15%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YJwSH6lCH835QAIg4n750Gh&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhekbGKT9kgmXZ6hnNNNQqMzdvKSazxS9ZCY_MpeS5Oecl1vsRO8BOzbWH-PBR6SN5Koo6nXddfOiWpQmXZFTdBQeRteDpp0x-lEUfQpdqpXL2i5LF5o3iB7sluySXXJXJ52ueRMZcC_yodLBVbc0-sYDz74PAjA0cwHzYWWZkopuFgh9I6B5qyOmUi0Gs&pcurl=https://www.hotels.com/Hotel-Search?selected%3D26021%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.26021.20261118.20261120.DDF.13.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D1128.94%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D150.41%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.26021USen-20261118-N-ABW%3D13-camp%3D-aud%3D-N%26rateplanid%3D1992348%26mpm%3D24%26mpn%3D178073%26mpo%3DEC%26mpe%3D1793897414%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YIFD6u4JdkWibK_u_zOouB1&ap=1"
+        },
+        {
+          "source": "KAYAK.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh0mPW45QXn-k0HLxzrQP9wlwi4ZeBzh8OGQM9MZVQ8da6geAeCzZHKBxSCJ092aywC0Cv7tBchD3YVTKgFF0k4I6iVKCuaWaU_4ZW5gobbaKAZHCovaX_ERgAEk-7y8Znsys8c5vix6I7oHUlzxMmkoc-aKM7T6lCIlV6QlsNtrH7qUVWH8xJVNQ&pcurl=https://www.kayak.com/semi/ha/hotel_ads/7126/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D7126%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D150.41%26pdtotal%3D1128.81%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2FDELYrg8Q%26k_kct%3D1793864302%26k_gct%3D1793864359%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YK-IvbxFr5gsxZbl-NziKnU&ap=1"
+        },
+        {
+          "source": "lastminute.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyivsT2p9cSop68DQLUpenKLOmGQyN52WFQIhrTdq9CR0YxisnL222XdrGZ-OB1wlOLC_9jxQqYQbAm55eUx_iWGIvGn5Q5rZehGdvqTzby2mAsQzjpFxDSytxzY3LwbuxojInDDwbJ6xnauqMPxKqttqGZbXNqC57rX2aDnXEF_9onmRN5ym6jlAr-7l2Kx&pcurl=https://us.lastminute.com/s/hdp/hotel-details/98472/hotel-only?search.type%3DOSE%26search.accomodationOnly%3Dtrue%26search.SPM%3D%26COBRANDED%3DHOL_LMNUS_GOOGLEHOTUS%26bf_source%3Dmeta-HOL_LMNUS_GOOGLEHOTUS%26search.departureIntervals%3D20261118-20261120%26search.rooms%5B0%5D.adults%3D2%26acntb%3Dhotel%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D%26checkin%3D20261118%26checkout%3D20261120%26currency%3DUSD%26totalPrice%3D1127.12%26utm_campaign%3Dlmn_us-int_hotel_hotel-center_gha%26businessProfileId%3DHOL_LMNUS_GOOGLEHOTUS%26recHotels%3D98472%26extReferenceType%3DHOOGLER%26bfSubsource%3D-----WS0S10PS01%26extReferenceId%3D27c90067fc784c82be25fa688441a2f0%26metaSite%3Dlocaluniversal%26userLanguage%3Den%26userCountry%3DUS%26feedContext%3DYvc8GMQ6BJO4g7GBAqHjAmoJmhckOQ2GnRfSNDjJ3b_D0fCFSaZi-xgJF7eJgdkdOKB0zQ%26gmeta%3Dtrue&s=ALZo0YLLUAW6G9jTEoT3Pjai2Zt5&ap=1"
+        },
+        {
+          "source": "Reserving",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhDGZ1F7QcM9wxNFXSJ8C6CSWZR_s4_jBzm9sKsx3rkzgq75pR2PnweBoVTCZgLLbfVDrneDBI0FH8mpr6Mx1yJ1RsXbUsXJ6PGVkQO2YCpNWo7D46n8p1br4meTPxhmdvYMDCrgNwOGfQLrdLQvxoC-3P0lBJfRIOoVeuxQGSN2auXfY9juqbJHdQGvexN9w&pcurl=https://h-en.reserving.com/search?i%3D7103%26rf%3DGOOGLEHOTELS%26portal%3Drsvcom%26lang%3Den%26auto%3D1%26tipo%3DS%26id%3D46364%26numero_habs%3D1%26no_adultos_hab1%3D2%26no_ninos_hab1%3D0%26fecha_entrada%3D18%252F11%252F2026%26fecha_salida%3D20%252F11%252F2026%26refp%3D1127.12%26campaing-id%3D%26tp%3D%26moneda%3DUSD%26device%3Ddesktop%26pais_dom%3DUS%26sg%3Db%3D958,bclx%3D1,bhab%3D381,big%3D2026-11-05T08:04:00%2B01:00,bmid%3D100,bpd%3Dfr,breg%3D12,bt%3D46.8,bwp%3DN6j89K4cT4E,ts%3D2026-11-05T08:04:42%2B01:00/B:6256520F874A44896D6D5BA04D84FCE53ED06F379836138FA5BF438B%26c3%3Dmode%3DP,d%3D2,ts_id%3D8622821840199260%26r%3DCAMPAIGN-ID%3D;TRACKING-PARAM%3D;CUSTOM1%3D;PRICE-DISPLAYED-TOTAL%3D1127.12;DEFAULT-DATE%3D0;CLICK-TYPE%3Dhotel;USER-COUNTRY%3DUS;DEVICE%3Ddesktop;SITE%3Dlocaluniversal;USER-LANGUAGE%3Den;USER-CURRENCY%3DUSD;POS%3DALL-ALL-ALL-RSVCOM;AD-CLICK%3D0;PAYMENT-ID%3Dfree;C2%3Db%3D958,bclx%3D1,bhab%3D381,big%3D2026-11-05T08:04:00%2B01:00,bmid%3D100,bpd%3Dfr,breg%3D12,bt%3D46.8,bwp%3DN6j89K4cT4E,ts%3D2026-11-05T08:04:42%2B01:00/B:6256520F874A44896D6D5BA04D84FCE53ED06F379836138FA5BF438B;C3%3Dmode%3DP,d%3D2,ts_id%3D8622821840199260&s=ALZo0YI3uqoQXoOBAFK0hZ8kfdpJ&ap=1"
+        },
+        {
+          "source": "Trip.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjFmaI52B7HSoZ6-kXBs--byS-SSoUTn0eAoTVOyTfdvrH3SZ4zkwS0Y-BjaWEgrBQmllqwMHrikWt-wcy3Fcrb7EwESL96uBvqXYxKqFkrnuY995j37_dw1ltB5RTvAltdH84vkWvxculBn4py25SwONIj0eWv6GKMV_YZPEwxWx-eYqo&pcurl=https://us.trip.com/hotels/redirect?hotelid%3D2196477%26city%3D192%26shoppingid%3DMwp1i6AYBTpq%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-11-18%26checkout%3D2026-11-20%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1209572%26prid%3DLANG_US%26trip_sub1%3D18_11_2026_2_localuniversal_2196477_US_desktop_selected___0_0-LANG_US-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Py4mKSYBJi4mCUcuCY_2bqDlYhRiMDeYuvggEcMxj_trcx7mBkusj4JnCHXGt7ncNDxsNfNWL650x0eME47fB05k4WBhBw8HJYwMIoxeNbXmCYaeYY6RRSUKjAqLFt9abrbB5MQWxGjkbGpuZRMlzMrqFBgvamcbs838g6SDGHBrsoVr5UM-RYI-WQxJqapxsanLFPrIuRyYNxFSM7F7OBkaEA0ydGfmRz440MAB2Kby21AAAA%5Dfgt%5B1%5D%26br%3D1127.12%26tf%3D150.19%26display%3Dexavg%26locale%3Den_us%26crn%3D1%26roomid%3D1459975711%26allianceid%3D15214%26sid%3D1209572&s=ALZo0YJfqpTPsfW6lYALynXzv5RO&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhM7ZXItCl0YPxsuThQEuNwv-dpJst2bLAbeFJrSaVWFr-DNkWNwNksfhZZBuXWBG0Vbf-WSJjs9fRVU9-6evS_uoUZF-B4qZXejVCcf8widaJsqNvZB0zrUdewDW5rnPFE6v0Fesvs39UpLUP1WPLxeeDRWkVGPzAH6jfKDU5glYkwE15OV6pLTwq7-S8&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D26021%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.26021.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1128.94%26mpj%3D150.41%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D1992348%26mpm%3D24%26mpn%3D178073%26mpo%3DEC%26mpe%3D1793858098%26mpp%3D1&s=ALZo0YLgPyCuCMtgU87lymS3aRZc&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh8VWf9GRHSjgtZC3YbfGNVtpPkh0T97eBO1sBzD6l2NHL5aFuK365MRK3MEDlroy9zGxvgpV7msQyFegM6kGTotl1rYMrpvrCMMgcv60CPAuRDinH08p1dHd_aj6baQAY9kCKv2ZASNFB7MdXJ0qjChcKP21gH_GuUTQw5AIEwntagdwj4OZjhuHVdVsyJ&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D26021%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.26021.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1128.94%26mpj%3D150.41%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D1992348%26mpm%3D24%26mpn%3D178073%26mpo%3DEC%26mpe%3D1793858098%26mpp%3D1&s=ALZo0YL-ctDCocNQAu45M7yLGKN8&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygmN4jNZChIiJBnzSI9ff6-WBlKmdaZwHlY6hVUGCFXwRZoMWKmt1I0B9T9Af3gnaUSBmYKfxjfIQ19RJTtXNOwwRBzCOd_3Pl1oScCjfD5oyoXm5PhYpuJLFuuiD7y08xd1bZGChW-2NHfRPGxArhfvBYH5oYoK_-NWW8CPtd7LvcXrLjjsMWyDtOQ&pcurl=https://www.travelup.com/en-us/france/paris/sofitel-paris-arc-de-triomphe?prp%3D21789%26cur%3DUSD%26lan%3Den%26CI%3D2026-11-18%26CO%3D2026-11-20%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/france/paris/sofitel-paris-arc-de-triomphe%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D21789&s=ALZo0YLT1tABYsFX5yOz3jYgPxuY&ap=1"
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg7dBeYWxRX6L5SMMTTm8RrUdbTZSMfTh8s3F6M8GKYX3XonfrtPOTCJ1bIHADDsdnc-HhKgHg4rLz-8Jve364zcQbLHFgee-tDtmV_5AwalHVfjJZA9ukJLrjUqZ-MFGFmuV1rYHISbHMi1KfafGbwcNmS809r7NXeVTgCpVFG5jQpmmph_tHoqboiUqLD7-uA6p8&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D26021%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.26021.20261118.20261120.DDF.13.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1128.94%26mpj%3D150.41%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D1992348%26rateplanid%3D1992348%26mpm%3D24%26mpn%3D178073%26mpo%3DEC%26mpe%3D1793858098%26mpp%3D1&s=ALZo0YLf-ptchGOet72fZqBQW0oP&ap=1"
+        },
+        {
+          "source": "Long Stay Discounts",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhIEWEhukFzvHgl8KdF7k6lNbrX5Wgyf3CdGufk4T7AmeTWFyGFjJTb9ZxpFzCudM7mLTygUTzmMqE8qUzPrqYPTwnoutfNJsrzi27ZnDFFv1HSgvl7TzX0nhRzvaKWO2QhhTjj2CQpR6f-Bvwr0neXQPwKxG2mvqYd6aZqAQCjzkYPlqvZ6MzsbPd0NloHX9seRvIBPICMeWCjwg&pcurl=https://www.longstaydiscounts.com/transition/?data%3Dprice%3D977.1%2526total_price%3D1074.8%2526retail_price%3D977.1%2526retail_total_price%3D1074.8%2526surcharge%3D52.6%2526request_id%3D12071058593093240832%2526ps%3D4562811839800325764%2526pb%3D0-slAkZlDjP06IhVxwa_7BAzbBaPJ4OKXevcdUhPWSNcEEH0ttu03vyWZJtHU5s_h4lroqWmJLdUB4gal1EF6-hOYa-cwOoDZmbOWdNB6CcPBd5He493p1S1nTQDkdB4TkgOU1wQG2DVCac5bhxp5w%25253D%25253D%2526gha_lsd_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1793892878%2526sg%3DGZDsN%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha_lsd%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26utm_campaign%3D%26display_currency%3DUSD%26display_all_inclusive_price%3D1127.38%26checkin_at%3D2026-11-18%26checkout_at%3D2026-11-20%26provider_hotel_id%3D10004026563%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_lsd_organic&s=ALZo0YJaKtVC8CDWYD9jnWMZkxcK&ap=1"
+        },
+        {
+          "source": "müv AI",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjCRuFEbjkSHZPCVs6TkDA9qVWonVvfsVwjRW7s0FNo-qibMSxzbFfuHpR3puPU9NUU-JPGzbBl_QFHnPylYsATVeKGCAIIwXXGfgGza5Zrg-88VdQYUYHPfUe_O7g91ntaWeSDaHmEGVa9hgPszFv30ujviKMvynK2HrMYbuEyMfxh12_CeCFwou30AQ&pcurl=https://muvtravel.com/muv-hotel?hotelID%3D96185562%26checkinDay%3D18%26checkinMonth%3D11%26checkinYear%3D2026%26nights%3D2%26num-guests%3D2%26checkoutDay%3D20%26checkoutMonth%3D11%26checkoutYear%3D2026%26SUP%3DPL%26RATE%3DMER%26PROMO-CODE%3D98010&s=ALZo0YLj567IEnwL_M4WWDkO0L4F&ap=1"
+        },
+        {
+          "source": "Hotelscombined.com",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygvbeAGm3i4_iaBWDMLldIQ1hBL3gSux6n6ys9ANG-Osq6t-6oQvFfQzeHdHR14vo6SG90yNGJ2QzK4PpbqUsw8ei1WdYjEgDB5V0KNCC5gsKdl8225_A_RkyLvPmcvixfHPQRBjAqYc3Xqib7tK0MZQJo0TwiHnea6i66_9270hIwScNqc33IQN1qkgbO8KFFRHQ&pcurl=https://www.hotelscombined.com/semi/ha/hotel_ads/7126/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D7126%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-11-18%26co%3D2026-11-20%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D150.41%26pdtotal%3D1128.81%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3DvFEEJWOMpa%26k_kct%3D1793864302%26k_gct%3D1793864400%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YL7xIculArOlY_Ks9VUvifW&ap=1"
+        },
+        {
+          "source": "eDreams",
+          "price": 564,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjw-MCGDxdEW-KyfzziLu8hX0ZuWrS00QHDz-o5qwr7on_MbI2YHwjABEZ1uaRC1Mh0lXIldpyIxInB2-LtyVZOxtN6_tMXuqM_IcFSfYSKIWLyjfQ3g4tw3XtN0nMwzs6Ai9YcoCbofaNB7HiCNP2fVq9L6bVMrZU-ke9jkULiDj4xvLf_&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D26021%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26mpf%3D1128.94%26cur%3DUSD%26mpj%3D150.41%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D1992348%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D145219%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING&s=ALZo0YIIKBG6PXyyPDNK71IwnYl5&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 596,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjyoQ5qydNaaeV0jx5o56lWpbet11NnBw7TFMhhae-mo3X9UoK8ha-l8XSqXmpV-sShy1xLfeTPzRuA2PZ1IlQZAMLMuJV0DZaEWW1TARi2Rm8lKxozToCUw-8uu6CVWSD7nD9F318vzyPsQdej-SwS_gt6n8HjSBYuccVx47ZDN07N9vRVgsEI9xZusQ&pcurl=https://www.tripening.com/hotels/-/4646777-sofitel-paris-arc-de-triomphe?checkin-date%3D2026-11-18%26checkout-date%3D2026-11-20%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D1191.00%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YK-KXJxufow6mIcRC5B3BYp&ap=1"
+        },
+        {
+          "source": "Best Hotel Deals",
+          "price": 656,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhj0z5BkH2iW5MSbcSXLFBrES2FEOzcpCJI7s2RWd2cD4VJrYCdGjdhcHBhCpo-4pPVKNcMCkHrg8mvPY23vSGCrfvbDPpA4OY59EJDtOL4KOUqw09oeOFrZbLwzuQF5gP3LNh25rl05DfbtkHzVdMlkq3BUL4YEm9olbhKTQOknq_APvSGmcyDunlDC5Jqqw&pcurl=https://besthoteldealsglobal.com/property/31217?rooms%3D1%26currency%3DUSD%26startDate%3D18-11-2026%26endDate%3D20-11-2026%26occupancies%3D%255B%257B%2522Adults%2522%253A2%252C%2522Children%2522%253A0%257D%255D%26utm_source%3Dgoogle%26utm_medium%3DHAC%26utm_content%3D18_11_2026_2_localuniversal_31217_US_desktop_selected___2%26tp%3D1311.25%26tt%3D167.06%26sup%3D38%26flow%3DF85dQuulKCGGJwSvz7ZW33v4hJQGiAUwaL71r43Iu2_3OTwT0g%26room%3Ddouble-or-twin%26user_device%3Ddesktop%26google_click_type%3Dhotel%26google_ad_click%3Dfalse%26google_campaign_id%3D%26google_default_date%3Dfalse%26google_click_source%3D&s=ALZo0YL80d5PUBywCzkDYFiM63VB&ap=1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "city": "Paris",
+  "checkIn": "2026-11-18",
+  "checkOut": "2026-11-20",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-05",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChkQwOP894bdqok8Gg0vZy8xMWtwbmJidmt3EAI",
+      "name": "Charming duplex, Louvre Museum steps away - 1 bedroom - Louvre Duplex by Habitat Parisien",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 4.161628,
+      "reviews": 172,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Kid-friendly",
+        "Crib",
+        "Heating"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 232,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhYRlqsZkItnxEuywtxBe659JvdgRmImYkEwBQKycGTHoVe2x8Iywi_UekB5o4QUBH_9ivmR7pl7nAsWni7FmAgd9e21mvknlVpKY1yaTDn4qM40G49p4ifU_LjnA5QzUZc5zqDlEqr8cy5FdCaOYHMnNOa9MsJR3GZeUHSLm5mVG7tyIosHXK_bMfjPmoZzkugp-xtUux-fMTxqtp4yV4&pcurl=https://www.expedia.com/Hotel-Search?selected%3D113555824%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.113555824.20261118.20261120.DDF.13.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D463.36%26exp_tx%3D65.61%26mpr%3D53.92%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D113555824%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D000375b3a605c1a449b0ac468f9722ea5d7b%26mpm%3D103%26mpn%3D113555824%26mpo%3DEC%26mpe%3D1793888231%26mpp%3D1&s=ALZo0YJxhLZWa2yEyAOg4yzMQkpl&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 243,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Charming+duplex%2C+Louvre+Museum+steps+away+-+1+bedroom+-+Louvre+Duplex+by+Habitat+Parisien%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 246,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhHA9Oaq1LRYtUfx9jUFRYvNL81zb1kb0OKyDMMO4pcSdTjS1uLoL-73-IcdHvffB4s1AcSuhjSb3ES4F96Kczf8rfRxuWSoUh4kP80-CyNP8-9HEg2bnn0GPMwEAYQfJtfDm8HRg1H_hIDUqybC87SLFo_MmLjo7Z8yOAK5oCUQHSjLqtpRN3971wQ_A&pcurl=https://www.bluepillow.com/search/65ca7b43671b07d23c6d83f2?begin%3D2026-11-18%26end%3D2026-11-20%26block_id%3D-b,nzIk7g3KXnD2RRu1OrS1tEZe0HfnCx7b8MVHfdfui2XG7fmhWerquh8MH000djwPqZRIFMqDyxR5SyqmzTAhWQ,-bkng-Apartment%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3Dforeign&s=ALZo0YI0eppVMIxj27Sg5lPz8d2c&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkQjPXMqsezgLw3Gg0vZy8xMXZ5cjU2czA2EAI",
+      "name": "D0 Sweet garden",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 8",
+        "6 beds"
+      ],
+      "stars": 0,
+      "rating": 4.7,
+      "reviews": 12,
+      "room": "",
+      "photo": "homes-4.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Heating",
+        "Ironing board",
+        "Kitchen"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 290,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygIxiccGQQ3QVmftiiGKdd7JUXv_Nd9pZ8cEipWodf_hS7FhosTEL5yu_rumlt-qHDyhxp228QT9DyquUN6Xxd10pp-TbwIwbE3fetM0a_gBcUMaZKj1IiBAcgRSzkv0wz7m_Re312jt8fckr9HNE93kFJ80sp99Xf1mwoFFlRb1AnyqoZLjghz5d9X3qYTR3U8F6fwbehDlrqYgMabnEM&pcurl=https://www.expedia.com/Hotel-Search?selected%3D64605663%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.64605663.20261118.20261120.DDF.13.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D580.22%26exp_tx%3D11.69%26mpr%3D0.00%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D64605663%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D0003e6dcdf11e02f408f89752c6d1e6c3781%26mpm%3D103%26mpn%3D64605663%26mpo%3DEC%26mpe%3D1793892278%26mpp%3D1&s=ALZo0YJGpFo0Ves4xTqNi0LeS8qb&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 290,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygxcIGmy38g8yqX17y3X4wmpbmpCZGVBBuLGR4i-CHA_SeS_uq8R47IrPolLUqpccOSnhWBlKu1SzmGoaghx8lY1c3jdvdDUOP-fedoKw_icx6Zny6PYXjlQZoQtTug8V268aKizGYPcHeTjmCct2kKHUlHFJSSPQxUy9nGJ7KLiI9wiz0TQw&pcurl=https://www.vrbo.com/search?selected%3D64605663%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.64605663.20261118.20261120.DDF.13.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D580.22%26mpj%3D11.69%26mpr%3D0.00%26mpl%3DUSD%26langid%3Den%26rateplanid%3D0003e6dcdf11e02f408f89752c6d1e6c3781%26mpm%3D103%26mpn%3D64605663%26mpo%3DEC%26mpe%3D1793892278%26mpp%3D1&s=ALZo0YJWgfFGw8uBuhkTitJMISCM&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkQrYCfu7SHqqUgGg0vZy8xMXNzZ2JzcGQ3EAI",
+      "name": "Merveil - Luxury Suite - Louvre - Aboukir V",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 8",
+        "3 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 4.3413415,
+      "reviews": 82,
+      "room": "",
+      "photo": "homes-5.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Kid-friendly"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 395,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygjHCUlNCq8CuZRD76JOlJU4P5WAKYJrCjjXW_5qG-bf59cWCWzhqW4nx1wsGMSQXDP7CZcGT65VTbCa3y1qSva02raYszk65jfUpVklwxeIG9en4NTQPoxkcmkPa6nHZ0p6NX-kM-pFxGSVUVC5I4JZ0MZYDwTefvNtnWPc-HDutxv8CW3W8TZBRRr9PFmm1gM35mqgUICI2DAQ6aXFik&pcurl=https://www.expedia.com/Hotel-Search?selected%3D64160190%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.64160190.20261118.20261120.DDF.13.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D789.66%26exp_tx%3D82.41%26mpr%3D0.00%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D64160190%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D00014064d3d74d0943619e066528a55d0c5a%26mpm%3D103%26mpn%3D64160190%26mpo%3DEC%26mpe%3D1793889513%26mpp%3D1&s=ALZo0YJXaEHl5EznhX79TFJ0A-ed&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 395,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjBBBqm6IV5IQ7vNPmZKnLjDzERjP3uUdGudrgSf1gVFe9sjEmD3biIMm45-dVSV_JUE60AQTFJdeRNtE4O0ykxJJuQK7WLeP_VnoXy1B8DLik5wYaaqE51Jewp0qLpBBupcf-ibro1YRcgWfyLK64Tz3vnlOuLJE2uyye-MNzBgADWtPezxg&pcurl=https://www.vrbo.com/search?selected%3D64160190%26startDate%3D2026-11-18%26endDate%3D2026-11-20%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.64160190.20261118.20261120.DDF.13.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D789.66%26mpj%3D82.41%26mpr%3D0.00%26mpl%3DUSD%26langid%3Den%26rateplanid%3D00014064d3d74d0943619e066528a55d0c5a%26mpm%3D103%26mpn%3D64160190%26mpo%3DEC%26mpe%3D1793889513%26mpp%3D1&s=ALZo0YI5cMCseanBl6V9KD0Bo2Ok&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 483,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Merveil+-+Luxury+Suite+-+Louvre+-+Aboukir+V%2C+Paris&checkin=2026-11-18&checkout=2026-11-20&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 604,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhcH5nQegHy79S39S2j2iAJ6pORj4VYFLWk1xeOYMQVbgn4seSlo9aJF4XbE1n0l18Yctl7jEvmRqXAVH375z-lyoc_Wx_2IJKK6-SgS7odNlaWox2QlECYIrWApmiIxpvMPxCfkemg5zCjpTnnWmWwuzI1weQ4yw03aCO45gBJiTGWa2ronS032ae7Mw&pcurl=https://www.bluepillow.com/search/5d27eeece24da43a581a60b0?begin%3D2026-11-18%26end%3D2026-11-20%26block_id%3D-b,ztY0dYr400zFPQ-e3eh1L81lOgoBlSHTOXC4l7cOM4PFWQzV_-JXiQ5lAzAj73Fum7uyz2UFbkjGzyYQPfNXbw,-bkng-Apartment%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3D&s=ALZo0YK_ExyrWmlbDlg0oFYzlTpr&ap=1"
+        }
+      ]
+    }
+  ]
+}

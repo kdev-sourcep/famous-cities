@@ -1,0 +1,216 @@
+{
+  "from": "JFK",
+  "to": "CDG",
+  "outDate": "2026-11-18",
+  "retDate": "2026-11-25",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-05",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTExLTE4agcIARIDSkZLcgcIARIDQ0RHGh4SCjIwMjYtMTEtMjVqBwgBEgNDREdyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 1421,
+      "stops": 0,
+      "duration": 435,
+      "depart": "2026-11-18 17:20",
+      "arrive": "2026-11-19 06:35",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 42"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1449,
+      "stops": 0,
+      "duration": 425,
+      "depart": "2026-11-18 01:00",
+      "arrive": "2026-11-18 14:05",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AF 11"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1449,
+      "stops": 0,
+      "duration": 465,
+      "depart": "2026-11-18 22:55",
+      "arrive": "2026-11-19 12:40",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 266"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "ITA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
+      "price": 1447,
+      "stops": 1,
+      "duration": 730,
+      "depart": "2026-11-18 16:40",
+      "arrive": "2026-11-19 10:50",
+      "route": [
+        "JFK",
+        "FCO",
+        "CDG"
+      ],
+      "layovers": [
+        {
+          "airport": "FCO",
+          "minutes": 95
+        }
+      ],
+      "flightNumbers": [
+        "AZ 609",
+        "AZ 316"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1449,
+      "stops": 0,
+      "duration": 435,
+      "depart": "2026-11-18 16:30",
+      "arrive": "2026-11-19 05:45",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AF 1"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1449,
+      "stops": 0,
+      "duration": 435,
+      "depart": "2026-11-18 17:30",
+      "arrive": "2026-11-19 06:45",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AF 3"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1449,
+      "stops": 0,
+      "duration": 445,
+      "depart": "2026-11-18 18:30",
+      "arrive": "2026-11-19 07:55",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AF 5"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1449,
+      "stops": 0,
+      "duration": 450,
+      "depart": "2026-11-18 19:00",
+      "arrive": "2026-11-19 08:30",
+      "route": [
+        "JFK",
+        "CDG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 262"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

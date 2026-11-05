@@ -1,81 +1,154 @@
 ---
-// Two-hotel compare box. Data is a snapshot from scripts/fetch-hotels.mjs (Google Hotels via SerpApi).
+// Two-at-a-time compare box (hotels, hotel brands, homes, flights). Data are snapshots from
+// scripts/fetch-hotels.mjs and scripts/fetch-flights.mjs (Google Hotels / Google Flights via SerpApi).
 interface Props { slug: string }
 type Price = { source: string; price: number; official: boolean; link: string };
-type Hotel = { id: string; name: string; address: string; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; prices: Price[] };
-type Snapshot = { city: string; checkIn: string; checkOut: string; adults: number; fetchedAt: string; hotels: Hotel[] };
+type Stay = { id: string; name: string; address: string; brand?: string; info?: string[]; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; prices: Price[] };
+type StaySnap = { city: string; checkIn: string; checkOut: string; adults: number; fetchedAt: string; hotels: Stay[] };
+type Flight = { id: string; airline: string; logo: string; price: number; stops: number; duration: number; depart: string; arrive: string; route: string[]; layovers: { airport: string; minutes: number }[]; flightNumbers: string[]; cabin: string; extensions: string[] };
+type FlightSnap = { from: string; to: string; outDate: string; retDate: string; adults: number; fetchedAt: string; googleUrl: string; flights: Flight[] };
 
 const { slug } = Astro.props;
-const files = import.meta.glob<{ default: Snapshot }>("../data/hotels/*.json", { eager: true });
-const snap = files[`../data/hotels/${slug}.json`]?.default;
+const stayFiles = import.meta.glob<{ default: StaySnap }>("../data/hotels/*.json", { eager: true });
+const flightFiles = import.meta.glob<{ default: FlightSnap }>("../data/flights/*.json", { eager: true });
 
-const KNOWN = ["Booking.com", "Expedia.com", "Hotels.com", "Agoda", "Priceline", "KAYAK.com", "Trip.com", "Hostelworld"];
+const KNOWN = ["Booking.com", "Expedia.com", "Hotels.com", "Agoda", "Priceline", "KAYAK.com", "Trip.com", "Hostelworld", "Vrbo.com", "Airbnb"];
 const MAX_ROWS = 6;
 const photoBase = import.meta.env.BASE_URL.replace(/\/$/, "") + `/hotel-photos/${slug}/`;
 const fmt = (iso: string) => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+const KEEP_COM = ["Booking.com", "Hotels.com", "Vrbo.com"];
 
-const hotels = (snap?.hotels ?? []).map((h) => {
-  const cheapest = h.prices[0];
-  const rows = h.prices.filter((p, i) => i === 0 || p.official || KNOWN.includes(p.source)).slice(0, MAX_ROWS)
-    .map((p) => ({ ...p, source: p.official ? "Hotel website" : p.source.replace(/\.com$/, (m) => (p.source === "Booking.com" || p.source === "Hotels.com" ? m : "")) }));
-  return { ...h, photo: h.photo ? photoBase + h.photo : "", low: cheapest.price, sites: h.prices.length, rows };
-});
+const stay = (kind: string, label: string, noun: string) => {
+  const snap = stayFiles[`../data/hotels/${slug}${kind === "hotels" ? "" : "." + kind}.json`]?.default;
+  if (!snap || snap.hotels.length < 2) return null;
+  const items = snap.hotels.map((h) => ({
+    ...h,
+    rating: Math.round(h.rating * 10) / 10,
+    photo: h.photo ? photoBase + h.photo : "",
+    low: h.prices[0].price,
+    sites: h.prices.length,
+    rows: h.prices.filter((p, i) => i === 0 || p.official || KNOWN.includes(p.source)).slice(0, MAX_ROWS)
+      .map((p) => ({ ...p, source: p.official ? "Hotel website" : KEEP_COM.includes(p.source) ? p.source : p.source.replace(/\.com$/, "") })),
+  }));
+  return { kind, type: "stay", label, noun, items,
+    badge: `${fmt(snap.checkIn)}–${fmt(snap.checkOut)} · ${snap.adults} adults`,
+    credit: `Prices per night incl. taxes for ${fmt(snap.checkIn)}–${fmt(snap.checkOut)}, ${snap.adults} adults, from Google Hotels (checked ${fmt(snap.fetchedAt)}). Prices change; confirm on the booking site.` };
+};
+
+const fl = flightFiles[`../data/flights/${slug}.json`]?.default;
+const ymd = (d: string) => d.slice(2).replaceAll("-", "");
+const flights = fl && fl.flights.length >= 2 ? {
+  kind: "flights", type: "flight", label: "Flights", noun: "flight",
+  items: fl.flights.map((f) => ({ ...f, links: [
+    { source: "Google Flights", link: fl.googleUrl },
+    { source: "Skyscanner", link: `https://www.skyscanner.com/transport/flights/${fl.from.toLowerCase()}/${fl.to.toLowerCase()}/${ymd(fl.outDate)}/${ymd(fl.retDate)}/?adults=${fl.adults}` },
+    { source: "Kayak", link: `https://www.kayak.com/flights/${fl.from}-${fl.to}/${fl.outDate}/${fl.retDate}/${fl.adults}adults` },
+  ] })),
+  badge: `${fl.from} → ${fl.to} · ${fmt(fl.outDate)}–${fmt(fl.retDate)}`,
+  credit: `Round-trip prices for ${fl.adults} adults in total, ${fl.from} to ${fl.to}, ${fmt(fl.outDate)}–${fmt(fl.retDate)}, from Google Flights (checked ${fmt(fl.fetchedAt)}). Outbound flight shown. Prices change; confirm on the booking site.`,
+} : null;
+
+const panels = [stay("hotels", "Hotels", "hotel"), stay("brands", "Hotel brands", "hotel"), stay("homes", "Homes", "home"), flights].filter(Boolean) as NonNullable<ReturnType<typeof stay> | typeof flights>[];
+const city = Object.values(stayFiles).find((f) => f.default.city && Object.keys(stayFiles).some((k) => k.includes(`/${slug}.`) && stayFiles[k] === f))?.default.city ?? slug;
 ---
-{hotels.length >= 2 && snap && (
+{panels.length > 0 && (
 <div class="hcmp" data-hcmp>
   <div class="hcmp__head">
-    <div><span class="eyebrow">Compare two hotels</span><h3>Side by side in {snap.city}</h3></div>
-    <span class="hcmp__badge">{fmt(snap.checkIn)}–{fmt(snap.checkOut)} · {snap.adults} adults</span>
+    <div><span class="eyebrow">Compare two at a time</span><h3>Side by side in {city}</h3></div>
   </div>
-  <script type="application/json" data-hcmp-data set:html={JSON.stringify(hotels)} />
-  <div class="hcmp__grid">
-    {[0, 1].map((slot) => (
-      <div class="hcmp__col" data-slot={slot}>
-        <select class="hcmp__select" aria-label={`Hotel ${slot + 1}`}>
-          {hotels.map((h, i) => <option value={h.id} selected={i === slot}>{h.name}</option>)}
-        </select>
-        <div class="hcmp__card" data-card></div>
+  {panels.length > 1 && (
+    <div class="hcmp__tabs" role="tablist" aria-label="What to compare">
+      {panels.map((p, i) => <button class="hcmp__tab" type="button" role="tab" id={`hcmp-tab-${p.kind}`} aria-controls={`hcmp-${p.kind}`} aria-selected={String(i === 0)}>{p.label}</button>)}
+    </div>
+  )}
+  {panels.map((p, i) => (
+    <div class="hcmp__panel" id={`hcmp-${p.kind}`} role="tabpanel" aria-labelledby={`hcmp-tab-${p.kind}`} data-panel data-type={p.type} data-noun={p.noun} hidden={i !== 0}>
+      <p class="hcmp__meta"><span class="hcmp__badge">{p.badge}</span></p>
+      <script type="application/json" data-hcmp-data set:html={JSON.stringify(p.items)} />
+      <div class="hcmp__grid">
+        {[0, 1].map((slot) => (
+          <div class="hcmp__col">
+            <select class="hcmp__select" aria-label={`${p.label}: option ${slot + 1}`}>
+              {p.items.map((h: any, j: number) => <option value={h.id} selected={j === slot}>{p.type === "flight" ? `${h.airline} · ${h.depart.slice(11)} · $${h.price.toLocaleString()}` : h.brand ? `${h.brand} · ${h.name}` : h.name}</option>)}
+            </select>
+            <div class="hcmp__card" data-card></div>
+          </div>
+        ))}
       </div>
-    ))}
-  </div>
-  <p class="hcmp__verdict" data-verdict></p>
-  <p class="hcmp__credit">Prices per night incl. taxes for {fmt(snap.checkIn)}–{fmt(snap.checkOut)}, {snap.adults} adults, from Google Hotels (checked {fmt(snap.fetchedAt)}). Prices change; confirm on the booking site.</p>
+      <p class="hcmp__verdict" data-verdict></p>
+      <p class="hcmp__credit">{p.credit}</p>
+    </div>
+  ))}
 </div>
 )}
 <script>
   type Row = { source: string; price: number; link: string };
-  type H = { id: string; name: string; address: string; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; low: number; sites: number; rows: Row[] };
+  type Stay = { id: string; name: string; address: string; brand?: string; info?: string[]; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; low: number; sites: number; rows: Row[] };
+  type Flight = { id: string; airline: string; logo: string; price: number; stops: number; duration: number; depart: string; arrive: string; route: string[]; layovers: { airport: string; minutes: number }[]; flightNumbers: string[]; cabin: string; extensions: string[]; links: { source: string; link: string }[] };
   const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
+  const hm = (m: number) => [Math.floor(m / 60) && `${Math.floor(m / 60)}h`, m % 60 && `${m % 60}m`].filter(Boolean).join(" ");
+  const link = (href: string, cls: string, inner: string) => `<a href="${esc(href)}" target="_blank" rel="sponsored noopener" class="${cls}" data-category="Compare">${inner}</a>`;
+
+  const stayCard = (h: Stay) => {
+    const rows = h.rows.map((r) => `<li class="${r.price === h.low ? "is-best" : ""}">${link(r.link, "book-btn", `<span>${esc(r.source)}</span><strong>$${r.price}</strong>${r.price === h.low ? "<em>Cheapest</em>" : ""}`)}</li>`).join("");
+    const perks = [...(h.info || []), ...(h.freeCancellation ? ["Free cancellation"] : []), ...h.amenities].slice(0, 3);
+    const tag = h.brand || (h.stars ? "★".repeat(h.stars) : "");
+    const best = h.rows[0];
+    return `
+      <div class="hcmp__photo">${h.photo ? `<img src="${esc(h.photo)}" alt="${esc(h.room || "Room")} at ${esc(h.name)}" loading="lazy">` : ""}${tag ? `<span>${esc(tag)}</span>` : ""}</div>
+      <p class="hcmp__area"><b>${esc(h.room ? h.room.split(" - ")[0] : h.name)}</b></p>
+      ${h.address ? `<p class="hcmp__area">${esc(h.address)}</p>` : ""}
+      <p class="hcmp__rating"><b>${h.rating}</b> / 5 · ${h.reviews.toLocaleString()} reviews</p>
+      <ul class="hcmp__perks">${perks.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
+      <p class="hcmp__label">Price per night · ${h.sites} site${h.sites === 1 ? "" : "s"} checked</p>
+      <ul class="hcmp__prices">${rows}</ul>
+      ${link(best.link, "btn btn--primary book-btn hcmp__book", `Book on ${esc(best.source)} · $${best.price}`)}`;
+  };
+
+  const flightCard = (f: Flight) => {
+    const stops = f.stops ? `${f.stops} stop${f.stops > 1 ? "s" : ""} · ${f.layovers.map((l) => `${esc(l.airport)} ${hm(l.minutes)}`).join(", ")}` : "Nonstop";
+    return `
+      <div class="hcmp__airline">${f.logo ? `<img src="${esc(f.logo)}" alt="" width="32" height="32" loading="lazy">` : ""}<span><b>${esc(f.airline)}</b><small>${esc(f.flightNumbers.join(" · "))} · ${esc(f.cabin)}</small></span></div>
+      <div class="hcmp__times"><span><b>${f.depart.slice(11)}</b>${esc(f.route[0])}</span><i><small>${hm(f.duration)}</small><small>${stops}</small></i><span><b>${f.arrive.slice(11)}</b>${esc(f.route.at(-1)!)}</span></div>
+      <ul class="hcmp__perks">${f.extensions.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
+      <p class="hcmp__fprice"><b>$${f.price.toLocaleString()}</b> round trip</p>
+      <ul class="hcmp__prices">${f.links.map((l, i) => `<li class="${i === 0 ? "is-best" : ""}">${link(l.link, "book-btn", `<span>${esc(l.source)}</span><strong>${i === 0 ? `$${f.price.toLocaleString()}` : "Check price"}</strong>`)}</li>`).join("")}</ul>
+      ${link(f.links[0].link, "btn btn--primary book-btn hcmp__book", `See it on Google Flights · $${f.price.toLocaleString()}`)}`;
+  };
+
+  const verdict = (type: string, noun: string, a: any, b: any) => {
+    if (a.id === b.id) return `Pick two different ${noun}s to compare.`;
+    const name = (x: any) => esc(type === "flight" ? `${x.airline} ${x.depart.slice(11)}` : x.name);
+    const pa = type === "flight" ? a.price : a.low, pb = type === "flight" ? b.price : b.low;
+    const diff = Math.abs(pa - pb);
+    const price = diff ? `<b>${name(pa <= pb ? a : b)}</b> is $${diff.toLocaleString()} cheaper${type === "flight" ? "" : " per night"}.` : "Both cost the same.";
+    if (type === "flight") {
+      const d = Math.abs(a.duration - b.duration);
+      return `${price} ${d ? `<b>${name(a.duration <= b.duration ? a : b)}</b> is ${hm(d)} faster.` : "Both take the same time."}`;
+    }
+    return `${price} ${a.rating === b.rating ? "Both have the same guest rating." : `<b>${name(a.rating >= b.rating ? a : b)}</b> has the higher guest rating.`}`;
+  };
+
   document.querySelectorAll<HTMLElement>("[data-hcmp]").forEach((root) => {
-    const data: H[] = JSON.parse(root.querySelector("[data-hcmp-data]")!.textContent!);
-    const cols = [...root.querySelectorAll<HTMLElement>(".hcmp__col")];
-    const render = () => {
-      const picked = cols.map((c) => data.find((h) => h.id === c.querySelector("select")!.value)!);
-      const lows = picked.map((h) => h.low);
-      cols.forEach((c, i) => {
-        const h = picked[i];
-        const best = h.rows[0];
-        const rows = h.rows.map((r) =>
-          `<li class="${r.price === h.low ? "is-best" : ""}"><a href="${esc(r.link)}" target="_blank" rel="sponsored noopener" class="book-btn" data-category="Compare"><span>${esc(r.source)}</span><strong>$${r.price}</strong>${r.price === h.low ? "<em>Cheapest</em>" : ""}</a></li>`).join("");
-        const perks = [...(h.freeCancellation ? ["Free cancellation"] : []), ...h.amenities].slice(0, 3);
-        c.querySelector("[data-card]")!.innerHTML = `
-          <div class="hcmp__photo">${h.photo ? `<img src="${esc(h.photo)}" alt="${esc(h.room || "Room")} at ${esc(h.name)}" loading="lazy">` : ""}${h.stars ? `<span>${"★".repeat(h.stars)}</span>` : ""}</div>
-          ${h.room ? `<p class="hcmp__area"><b>${esc(h.room.split(" - ")[0])}</b></p>` : ""}
-          <p class="hcmp__area">${esc(h.address)}</p>
-          <p class="hcmp__rating"><b>${h.rating}</b> / 5 · ${h.reviews.toLocaleString()} reviews</p>
-          <ul class="hcmp__perks">${perks.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
-          <p class="hcmp__label">Price per night · ${h.sites} sites checked</p>
-          <ul class="hcmp__prices">${rows}</ul>
-          <a class="btn btn--primary book-btn hcmp__book" href="${esc(best.link)}" target="_blank" rel="sponsored noopener" data-category="Compare">Book on ${esc(best.source)} · $${best.price}</a>`;
+    root.querySelectorAll<HTMLElement>("[data-panel]").forEach((panel) => {
+      const { type = "stay", noun = "hotel" } = panel.dataset;
+      const data: any[] = JSON.parse(panel.querySelector("[data-hcmp-data]")!.textContent!);
+      const cols = [...panel.querySelectorAll<HTMLElement>(".hcmp__col")];
+      const render = () => {
+        const picked = cols.map((c) => data.find((h) => h.id === c.querySelector("select")!.value)!);
+        cols.forEach((c, i) => { c.querySelector("[data-card]")!.innerHTML = type === "flight" ? flightCard(picked[i]) : stayCard(picked[i]); });
+        panel.querySelector("[data-verdict]")!.innerHTML = verdict(type, noun, picked[0], picked[1]);
+      };
+      cols.forEach((c) => c.querySelector("select")!.addEventListener("change", render));
+      render();
+    });
+    const tabs = [...root.querySelectorAll<HTMLButtonElement>(".hcmp__tab")];
+    tabs.forEach((t) => t.addEventListener("click", () => {
+      tabs.forEach((x) => {
+        const on = x === t;
+        x.setAttribute("aria-selected", String(on));
+        root.querySelector<HTMLElement>("#" + x.getAttribute("aria-controls"))!.hidden = !on;
       });
-      const [a, b] = picked;
-      const diff = Math.abs(lows[0] - lows[1]);
-      const cheaper = lows[0] <= lows[1] ? a : b;
-      const better = a.rating >= b.rating ? a : b;
-      root.querySelector("[data-verdict]")!.innerHTML = a.id === b.id ? "Pick two different hotels to compare."
-        : `${diff ? `<b>${esc(cheaper.name)}</b> is $${diff} cheaper per night.` : "Both cost the same per night."} ${a.rating === b.rating ? "Both have the same guest rating." : `<b>${esc(better.name)}</b> has the higher guest rating.`}`;
-    };
-    cols.forEach((c) => c.querySelector("select")!.addEventListener("change", render));
-    render();
+    }));
   });
 </script>
