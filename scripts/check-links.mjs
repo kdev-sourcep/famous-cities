@@ -15,7 +15,7 @@ for (const file of html) {
   const pageUrl = "/" + path.relative(DIST, file).split(path.sep).join("/");
   for (const m of src.matchAll(/\s(?:href|src|data-src)="([^"]+)"/g)) {
     let ref = m[1].replace(/&amp;/g, "&");
-    if (/^(https?:|mailto:|tel:|data:|javascript:|\/\/)/.test(ref)) continue;
+    if (/^(https?:|mailto:|tel:|data:|javascript:|\/\/)/.test(ref) || ref.includes("${")) continue;
     checked++;
     const [p, hash] = ref.split("#");
     let target;
