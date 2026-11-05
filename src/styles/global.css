@@ -142,7 +142,7 @@ a.chip:hover { border-color: #c9c3ea; }
 @media (max-width: 959px) { .nav, .site-header .search, .site-header .btn--support { display: none; } .menu-btn { display: inline-flex; } }
 
 /* Recently viewed strip (remember.js) */
-.recent-strip { display: flex; gap: var(--s2); align-items: center; overflow-x: auto; padding: 8px var(--s5); font-size: 14px; background: var(--surface); border-bottom: 1px solid var(--line); white-space: nowrap; }
+.recent-strip { scrollbar-width: none; display: flex; gap: var(--s2); align-items: center; overflow-x: auto; padding: 8px var(--s5); font-size: 14px; background: var(--surface); border-bottom: 1px solid var(--line); white-space: nowrap; }
 .recent-label { font-weight: 700; color: var(--muted); margin-right: 4px; }
 .recent-strip a { padding: 3px 10px; border-radius: 999px; background: #fff; border: 1px solid var(--line); text-decoration: none; }
 
@@ -369,3 +369,4 @@ a.cat-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); }
 .cta-card p { color: #fff; }
 .donate-row { display: flex; flex-wrap: wrap; gap: var(--s3); margin-top: var(--s6); scroll-margin-top: calc(var(--header) + 24px); }
 .center-search { margin: var(--s5) auto 0; }
+.recent-strip::-webkit-scrollbar { display: none; }
