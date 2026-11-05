@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import CityCard from "../components/CityCard.astro";
+import SupportBand from "../components/SupportBand.astro";
+import { regions, citiesIn, regionStyle, regionId, cities, absUrl, cityHref } from "../lib/site";
+const jsonld = [{ "@type": "CollectionPage", "name": "All cities", "url": absUrl("cities.html"), "hasPart": cities.map((c) => ({ "@type": "TouristDestination", "name": c.name, "url": absUrl(cityHref(c.slug).replace(/^.*\//, "")) })) }];
+---
+<BaseLayout title="All Cities | Famous Cities" description="Browse all 92 Famous Cities guides by region: Europe, Asia, the Middle East, Africa, North America, South America and Oceania." path="cities.html" jsonld={jsonld}>
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">All destinations</span>
+      <h1>All {cities.length} cities</h1>
+      <p>Find a guide by name or country, or jump to a region.</p>
+      <div class="search search--lg filter-box">
+        <Icon name="search" size={20} />
+        <input class="search__input" type="search" placeholder="Filter cities or countries" aria-label="Filter cities" data-city-filter />
+      </div>
+      <div class="chips region-jump">{regions.map((r) => <a class="chip" href={`#${regionId(r.name)}`} style={regionStyle(r.name)}><span class="dot"></span>{r.name}</a>)}</div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      {regions.map((r) => (
+        <div class="region-group" id={regionId(r.name)} data-filter-group style={regionStyle(r.name)}>
+          <h2><span class="tile tile--sm"><Icon name="globe" size={16} /></span>{r.name}<small class="muted">{citiesIn(r.name).length} cities</small></h2>
+          <div class="city-grid">
+            {citiesIn(r.name).map((c) => <div data-filter-item={`${c.name} ${c.country}`}><CityCard city={c} showRank /></div>)}
+          </div>
+        </div>
+      ))}
+      <p class="empty-state" data-filter-empty hidden>No cities match that search. Try a country name, like “Japan”.</p>
+    </div>
+  </section>
+  <SupportBand />
+</BaseLayout>

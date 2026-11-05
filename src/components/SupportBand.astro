@@ -1,0 +1,20 @@
+---
+import Icon from "./Icon.astro";
+import { KOFI_URL, GOFUNDME_URL } from "../lib/site";
+interface Props { id?: string }
+const { id = "sec-donate" } = Astro.props;
+---
+<section class="section" id={id}>
+  <div class="container">
+    <div class="support-band">
+      <div>
+        <h2>Enjoying Famous Cities?</h2>
+        <p>If these guides helped you plan a trip, or just daydream about one, you can say thanks with a coffee. Every bit keeps the site independent and free.</p>
+      </div>
+      <div class="support-band__btns">
+        <a class="btn btn--kofi donate-btn" href={KOFI_URL} target="_blank" rel="noopener"><Icon name="coffee" size={18} /> Support on Ko-fi</a>
+        <a class="btn btn--gofundme gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener"><Icon name="heart" size={18} /> Support on GoFundMe</a>
+      </div>
+    </div>
+  </div>
+</section>

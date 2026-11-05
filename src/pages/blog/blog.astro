@@ -1,0 +1,24 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Icon from "../../components/Icon.astro";
+import pages from "../../data/pages.json";
+import { url, absUrl } from "../../lib/site";
+const posts = (["dubai-3-day-budget", "dubai-layover-guide"] as const).map((k) => ({ slug: k, ...pages[k] }));
+const jsonld = [{ "@type": "Blog", "name": "Famous Cities travel guides", "url": absUrl("blog/blog.html"), "blogPost": posts.map((p) => ({ "@type": "BlogPosting", "headline": p.heading, "url": absUrl(`blog/${p.slug}.html`) })) }];
+---
+<BaseLayout title="Travel Guides | Famous Cities" description="Practical city travel guides from Famous Cities: budgets, layovers and how to see more for less." path="blog/blog.html" jsonld={jsonld}>
+  <section class="page-hero"><div class="container"><span class="eyebrow">Guides</span><h1>Travel guides</h1><p>Practical, money-saving guides for famous cities.</p></div></section>
+  <section class="section">
+    <div class="container grid grid--2">
+      {posts.map((p) => (
+        <a class="card post-card" href={url(`blog/${p.slug}.html`)} style="--c1:#F59E0B;--c2:#FB7185">
+          <span class="tile"><Icon name="book-open" size={20} /></span>
+          <span class="chip">Dubai</span>
+          <h2>{p.heading}</h2>
+          <p class="muted">{p.description}</p>
+          <span class="post-card__more">Read guide<Icon name="arrow-right" size={16} /></span>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

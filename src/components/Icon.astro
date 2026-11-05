@@ -1,0 +1,102 @@
+---
+import IUtensils from "@lucide/astro/icons/utensils";
+import IWine from "@lucide/astro/icons/wine";
+import IShip from "@lucide/astro/icons/ship";
+import ICastle from "@lucide/astro/icons/castle";
+import IPalette from "@lucide/astro/icons/palette";
+import IChurch from "@lucide/astro/icons/church";
+import IBinoculars from "@lucide/astro/icons/binoculars";
+import IWavesHorizontal from "@lucide/astro/icons/waves-horizontal";
+import IMountain from "@lucide/astro/icons/mountain";
+import ITreePine from "@lucide/astro/icons/tree-pine";
+import IDrama from "@lucide/astro/icons/drama";
+import IBike from "@lucide/astro/icons/bike";
+import ITrainFront from "@lucide/astro/icons/train-front";
+import IFootprints from "@lucide/astro/icons/footprints";
+import IBuilding from "@lucide/astro/icons/building";
+import IShoppingBag from "@lucide/astro/icons/shopping-bag";
+import IMapPin from "@lucide/astro/icons/map-pin";
+import ITicket from "@lucide/astro/icons/ticket";
+import IUsers from "@lucide/astro/icons/users";
+import IMegaphone from "@lucide/astro/icons/megaphone";
+import IBanknote from "@lucide/astro/icons/banknote";
+import ILandmark from "@lucide/astro/icons/landmark";
+import IGlobe from "@lucide/astro/icons/globe";
+import ISearch from "@lucide/astro/icons/search";
+import IMenu from "@lucide/astro/icons/menu";
+import IX from "@lucide/astro/icons/x";
+import IPlay from "@lucide/astro/icons/play";
+import IPause from "@lucide/astro/icons/pause";
+import IChevronDown from "@lucide/astro/icons/chevron-down";
+import IChevronRight from "@lucide/astro/icons/chevron-right";
+import IArrowRight from "@lucide/astro/icons/arrow-right";
+import IHeart from "@lucide/astro/icons/heart";
+import ICoffee from "@lucide/astro/icons/coffee";
+import IStar from "@lucide/astro/icons/star";
+import IZap from "@lucide/astro/icons/zap";
+import ITrophy from "@lucide/astro/icons/trophy";
+import IBookOpen from "@lucide/astro/icons/book-open";
+import IExternalLink from "@lucide/astro/icons/external-link";
+import ISparkles from "@lucide/astro/icons/sparkles";
+import IShuffle from "@lucide/astro/icons/shuffle";
+import IHotel from "@lucide/astro/icons/hotel";
+import IPlane from "@lucide/astro/icons/plane";
+import ICompass from "@lucide/astro/icons/compass";
+import ICalendar from "@lucide/astro/icons/calendar";
+import IFerrisWheel from "@lucide/astro/icons/ferris-wheel";
+import IListOrdered from "@lucide/astro/icons/list-ordered";
+import IThumbsUp from "@lucide/astro/icons/thumbs-up";
+interface Props { name: string; size?: number; class?: string; label?: string }
+const { name, size = 18, class: cls, label } = Astro.props;
+const MAP: Record<string, any> = {
+  "utensils": IUtensils,
+  "wine": IWine,
+  "ship": IShip,
+  "castle": ICastle,
+  "palette": IPalette,
+  "church": IChurch,
+  "binoculars": IBinoculars,
+  "waves-horizontal": IWavesHorizontal,
+  "mountain": IMountain,
+  "tree-pine": ITreePine,
+  "drama": IDrama,
+  "bike": IBike,
+  "train-front": ITrainFront,
+  "footprints": IFootprints,
+  "building": IBuilding,
+  "shopping-bag": IShoppingBag,
+  "map-pin": IMapPin,
+  "ticket": ITicket,
+  "users": IUsers,
+  "megaphone": IMegaphone,
+  "banknote": IBanknote,
+  "landmark": ILandmark,
+  "globe": IGlobe,
+  "search": ISearch,
+  "menu": IMenu,
+  "x": IX,
+  "play": IPlay,
+  "pause": IPause,
+  "chevron-down": IChevronDown,
+  "chevron-right": IChevronRight,
+  "arrow-right": IArrowRight,
+  "heart": IHeart,
+  "coffee": ICoffee,
+  "star": IStar,
+  "zap": IZap,
+  "trophy": ITrophy,
+  "book-open": IBookOpen,
+  "external-link": IExternalLink,
+  "sparkles": ISparkles,
+  "shuffle": IShuffle,
+  "hotel": IHotel,
+  "plane": IPlane,
+  "compass": ICompass,
+  "calendar": ICalendar,
+  "ferris-wheel": IFerrisWheel,
+  "list-ordered": IListOrdered,
+  "thumbs-up": IThumbsUp,
+};
+const C = MAP[name] || MAP.ticket;
+---
+<C size={size} class:list={["icon", cls]} aria-hidden={label ? undefined : "true"} aria-label={label} stroke-width={2} />

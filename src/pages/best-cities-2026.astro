@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import SupportBand from "../components/SupportBand.astro";
+import { rankings, cityHref, absUrl, getCity, regionStyle } from "../lib/site";
+const jsonld = [{ "@type": "ItemList", "name": "Time Out Best Cities 2026", "numberOfItems": rankings.rows.length, "itemListElement": rankings.rows.map((r) => ({ "@type": "ListItem", "position": r.rank, "name": `${r.name}, ${r.country}`, ...(r.slug ? { "url": absUrl(`${r.slug}.html`) } : {}) })) }];
+---
+<BaseLayout title="Best Cities in the World 2026 (Time Out Ranking) | Famous Cities" description="All 50 of Time Out's Best Cities in the World for 2026, with links to our guide for each ranked city." path="best-cities-2026.html" jsonld={jsonld}>
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow"><Icon name="trophy" size={16} />Time Out 2026</span>
+      <h1>The 50 best cities in the world</h1>
+      <p>{rankings.source}</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <ol class="rank-list">
+        {rankings.rows.map((r) => {
+          const city = r.slug ? getCity(r.slug) : undefined;
+          const inner = (<><span class:list={["rank-badge", r.rank <= 10 && "rank-badge--top"]}>{r.rank}</span><span class="rank-list__name">{r.name}<small>{r.country}</small></span>{city && <Icon name="arrow-right" size={16} />}</>);
+          return <li style={city ? regionStyle(city.region) : undefined}>{city ? <a href={cityHref(city.slug)}>{inner}</a> : <div>{inner}</div>}</li>;
+        })}
+      </ol>
+      <p class="disclosure">Source: <a href="https://www.timeout.com/news/the-best-cities-in-the-world-2026" target="_blank" rel="noopener">Time Out, Best Cities in the World 2026</a>. Rankings belong to Time Out; Famous Cities is not affiliated with Time Out.</p>
+    </div>
+  </section>
+  <SupportBand />
+</BaseLayout>

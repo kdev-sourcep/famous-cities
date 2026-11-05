@@ -1,0 +1,10 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import pages from "../data/pages.json";
+import { rich } from "../lib/site";
+const p = pages.privacy;
+---
+<BaseLayout title={p.title} description={p.description} path="privacy.html">
+  <section class="page-hero page-hero--center"><div class="container"><span class="eyebrow">Legal</span><h1>{p.heading}</h1></div></section>
+  <section class="section"><div class="container prose"><Fragment set:html={rich(p.html)} /></div></section>
+</BaseLayout>

@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import SupportBand from "../components/SupportBand.astro";
+import { categories, CATEGORY_ICONS, cities, cityHref } from "../lib/site";
+const COLORS: Record<string, string> = { people: "--c1:#FF4FA3;--c2:#8B5CF6", location: "--c1:#0EA5E9;--c2:#6366F1", promotion: "--c1:#FF5A5F;--c2:#FF8A3D", prosperity: "--c1:#0FB5A2;--c2:#22C55E", programming: "--c1:#6B4EFF;--c2:#A855F7", product: "--c1:#F59E0B;--c2:#FB7185" };
+---
+<BaseLayout title="How We Rank Cities: The 6 Categories | Famous Cities" description="People, location, promotion, prosperity, programming and product: the six categories used to judge the world's best cities." path="Best-City-Image-Swap.html">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Ranking categories</span>
+      <h1>What makes a city great</h1>
+      <p>Every guide highlights the categories a city is strongest in. Here's what each one means.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container grid grid--2">
+      {categories.map((c) => {
+        const examples = cities.filter((x) => x.highlights.includes(c.key)).slice(0, 6);
+        return (
+          <article class="card cat-card cat-card--lg" id={c.key} style={COLORS[c.key]}>
+            <span class="tile tile--lg"><Icon name={CATEGORY_ICONS[c.key]} size={20} /></span>
+            <h2>{c.label}</h2>
+            <p>{c.desc}</p>
+            {examples.length > 0 && <div class="chips"><span class="muted small">Strong here:</span>{examples.map((x) => <a class="chip" href={cityHref(x.slug)}>{x.name}</a>)}</div>}
+          </article>
+        );
+      })}
+    </div>
+  </section>
+  <SupportBand />
+</BaseLayout>

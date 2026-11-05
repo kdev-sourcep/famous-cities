@@ -1,0 +1,12 @@
+---
+import Icon from "./Icon.astro";
+interface Props { id: string; title: string; params?: string }
+const { id, title, params = "" } = Astro.props;
+const src = `https://www.youtube-nocookie.com/embed/${id}?autoplay=1${params ? "&" + params : ""}`;
+---
+<div class="yt" style={`background-image:url(https://i.ytimg.com/vi/${id}/hqdefault.jpg)`} data-yt-src={src}>
+  <button type="button" aria-label={`Play video: ${title}`}>
+    <span class="yt__play"><Icon name="play" size={26} /></span>
+    <span class="yt__title">{title}</span>
+  </button>
+</div>

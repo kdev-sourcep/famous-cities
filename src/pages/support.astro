@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import pages from "../data/pages.json";
+import { rich, KOFI_URL, GOFUNDME_URL } from "../lib/site";
+const p = pages.support;
+---
+<BaseLayout title={p.title} description={p.description} path="support.html">
+  <section class="page-hero page-hero--center"><div class="container"><span class="eyebrow">Support</span><h1>{p.heading}</h1></div></section>
+  <section class="section">
+    <div class="container prose">
+      <Fragment set:html={rich(p.html)} />
+      <div class="donate-row" id="sec-donate">
+        <a class="btn btn--primary gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener"><Icon name="heart" size={18} />Support on GoFundMe</a>
+        <a class="btn btn--light donate-btn" href={KOFI_URL} target="_blank" rel="noopener"><Icon name="coffee" size={18} />Support on Ko-fi</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,41 @@
+---
+import Icon from "./Icon.astro";
+import { regions, url, regionStyle, regionId, KOFI_URL, GOFUNDME_URL } from "../lib/site";
+---
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand">
+        <a class="logo" href={url("")}><span class="logo__mark"><Icon name="globe" size={20} /></span>Famous Cities</a>
+        <p>Fun facts, top things to book and easy price comparison for 92 of the world's most famous cities.</p>
+      </div>
+      <div>
+        <h3>Destinations</h3>
+        <ul>{regions.map((r) => <li style={regionStyle(r.name)}><a href={url(`cities.html#${regionId(r.name)}`)}>{r.name}</a></li>)}</ul>
+      </div>
+      <div>
+        <h3>Explore</h3>
+        <ul>
+          <li><a href={url("cities.html")}>All cities</a></li>
+          <li><a href={url("best-cities-2026.html")}>Best Cities 2026</a></li>
+          <li><a href={url("speed-tour.html")}>Speed's World Tour</a></li>
+          <li><a href={url("blog/blog.html")}>Travel guides</a></li>
+          <li><a href={url("Best-City-Image-Swap.html")}>Ranking categories</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Support</h3>
+        <ul>
+          <li><a href={url("support.html")}>Support us</a></li>
+          <li><a class="donate-btn" href={KOFI_URL} target="_blank" rel="noopener">Ko-fi</a></li>
+          <li><a class="gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener">GoFundMe</a></li>
+          <li><a href={url("privacy.html")}>Privacy policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <span>© {new Date().getFullYear()} Famous Cities</span>
+      <span>We may earn a commission when you book through our links, at no extra cost to you. <a href={url("privacy.html")}>Affiliate disclosure</a>.</span>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,32 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import SupportBand from "../components/SupportBand.astro";
+import YouTube from "../components/YouTube.astro";
+import speed from "../data/speed-tour.json";
+import { getCity, cityHref, rich, absUrl } from "../lib/site";
+const jsonld = [{ "@type": "ItemList", "name": speed.title, "itemListElement": speed.legs.map((l, i) => ({ "@type": "ListItem", "position": i + 1, "name": l.title })) }];
+---
+<BaseLayout title="IShowSpeed World Tour Map: Every City He Streamed | Famous Cities" description="Every city IShowSpeed streamed from on his world tours, leg by leg, with videos and a Famous Cities guide for each stop." path="speed-tour.html" jsonld={jsonld}>
+  <section class="page-hero speed-hero">
+    <div class="container">
+      <span class="eyebrow"><Icon name="zap" size={16} />World tour</span>
+      <h1>{speed.title}</h1>
+      <p set:html={rich(speed.intro)} />
+    </div>
+  </section>
+  <section class="section">
+    <div class="container legs">
+      {speed.legs.map((leg, i) => (
+        <article class="card leg">
+          <div class="leg__head"><span class="rank-badge rank-badge--top">{i + 1}</span><h2>{leg.title}</h2></div>
+          {leg.text && <p set:html={rich(leg.text)} />}
+          <div class="chips">{leg.cities.map((s) => { const c = getCity(s); return c && <a class="chip" href={cityHref(c.slug)}><Icon name="map-pin" size={14} />{c.name}</a>; })}</div>
+          {leg.videos.length > 0 && <div class="leg__videos">{leg.videos.map((v) => <YouTube id={v.id!} params={v.params} title={v.title || leg.title} />)}</div>}
+        </article>
+      ))}
+      {speed.outro && <p class="speed-outro" set:html={rich(speed.outro)} />}
+    </div>
+  </section>
+  <SupportBand />
+</BaseLayout>

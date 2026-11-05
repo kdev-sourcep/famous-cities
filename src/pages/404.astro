@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import CityCard from "../components/CityCard.astro";
+import { cities, url } from "../lib/site";
+const picks = ["Paris", "London", "Tokyo", "New York"].map((n) => cities.find((c) => c.name === n)!).filter(Boolean);
+---
+<BaseLayout title="Page not found | Famous Cities" description="That page doesn't exist. Search for a city or browse all 92 guides." path="404.html" noindex>
+  <section class="page-hero page-hero--center">
+    <div class="container">
+      <span class="eyebrow">Error 404</span>
+      <h1>This page took a wrong turn</h1>
+      <p>The page you're looking for doesn't exist. Search for a city instead.</p>
+      <div class="search search--lg center-search" data-search>
+        <Icon name="search" size={20} />
+        <input class="search__input" type="search" placeholder="Search cities" aria-label="Search cities" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
+        <ul class="search__list" role="listbox" hidden></ul>
+      </div>
+    </div>
+  </section>
+  <section class="section"><div class="container">
+    <div class="city-grid">{picks.map((c) => <CityCard city={c} />)}</div>
+    <p style="text-align:center;margin-top:24px"><a class="btn btn--dark" href={url("cities.html")}>Browse all cities<Icon name="arrow-right" size={16} /></a></p>
+  </div></section>
+</BaseLayout>

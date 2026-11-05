@@ -1,0 +1,191 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import CityCard from "../components/CityCard.astro";
+import SupportBand from "../components/SupportBand.astro";
+import YouTube from "../components/YouTube.astro";
+import { cities, citiesIn, url, rich, absUrl, regionStyle, regionId, factTitle, topIcon, CATEGORY_ICONS, categories, type City } from "../lib/site";
+
+export function getStaticPaths() {
+  return cities.map((city) => ({ params: { slug: city.slug }, props: { city } }));
+}
+const { city } = Astro.props as { city: City };
+const path = `${city.slug}.html`;
+const more = citiesIn(city.region).filter((c) => c.slug !== city.slug).slice(0, 8);
+const longFacts = city.funFacts.some((f) => f.text.replace(/<[^>]+>/g, "").length > 220);
+const strip = (s: string) => s.replace(/<[^>]+>/g, "");
+const sections = [
+  ["overview", "Overview"], ["things-to-do", "Things to do"], ["plan", "Plan your trip"],
+  ["fun-facts", "Fun facts"], ...(city.youtube ? [["watch", "Watch"]] : []), ["faq", "FAQ"],
+];
+const catLabel = (k: string) => categories.find((c) => c.key === k)?.label || k;
+const jsonld = [
+  { "@type": "TouristDestination", "name": city.name, "description": city.seo.description, "url": absUrl(path), ...(city.image ? { "image": absUrl(`images/${city.image}`) } : {}), "isPartOf": { "@type": "Country", "name": city.country } },
+  { "@type": "BreadcrumbList", "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": absUrl("") },
+    { "@type": "ListItem", "position": 2, "name": city.region, "item": absUrl(`cities.html#${regionId(city.region)}`) },
+    { "@type": "ListItem", "position": 3, "name": city.name, "item": absUrl(path) },
+  ] },
+  ...(city.faq.length ? [{ "@type": "FAQPage", "mainEntity": city.faq.map((f) => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": strip(f.a) } })) }] : []),
+];
+---
+<BaseLayout title={city.seo.title} description={city.seo.description} keywords={city.seo.keywords} path={path} image={city.image ? `images/${city.image}` : undefined} jsonld={jsonld} cityPage>
+  <section class="city-hero" style={regionStyle(city.region)}>
+    {city.video && <video class="city-hero__video" data-hero-video data-src={url(city.video)} muted loop playsinline preload="none" aria-hidden="true"></video>}
+    <div class="city-hero__shade"></div>
+    <div class="container city-hero__inner">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href={url("")}>Home</a><Icon name="chevron-right" size={14} />
+        <a href={url(`cities.html#${regionId(city.region)}`)}>{city.region}</a><Icon name="chevron-right" size={14} />
+        <span aria-current="page">{city.name}</span>
+      </nav>
+      <div class="chips">
+        <span class="chip chip--glass"><Icon name="map-pin" size={14} />{city.country}</span>
+        {city.rank2026 && <a class="chip chip--glass" href={url("best-cities-2026.html")}><Icon name="trophy" size={14} />#{city.rank2026} Time Out 2026</a>}
+        {city.speedTour && <a class="chip chip--glass" href={url("speed-tour.html")}><Icon name="zap" size={14} />IShowSpeed streamed here</a>}
+      </div>
+      <h1>{city.name}</h1>
+      <p class="city-hero__tag" set:html={rich(city.tagline)} />
+      <dl class="stats">
+        {city.metro && <div><dt>Metro population</dt><dd>{city.metro}</dd></div>}
+        <div><dt>Country</dt><dd>{city.country}</dd></div>
+        <div><dt>Region</dt><dd>{city.region}</dd></div>
+      </dl>
+      <div class="hero-btns">
+        {city.booking.hotels && <a class="btn btn--primary book-btn" data-category="Hero" href={city.booking.hotels} target="_blank" rel="sponsored noopener"><Icon name="hotel" size={18} />Hotels</a>}
+        {city.booking.tours && <a class="btn btn--glass book-btn" data-category="Hero" href={city.booking.tours} target="_blank" rel="sponsored noopener"><Icon name="ticket" size={18} />Tours</a>}
+        {city.booking.flights && <a class="btn btn--glass book-btn" data-category="Hero" href={city.booking.flights} target="_blank" rel="sponsored noopener"><Icon name="plane" size={18} />Flights</a>}
+      </div>
+    </div>
+    {city.video && (
+      <button class="video-toggle" type="button" hidden data-video-toggle aria-label="Pause background video" aria-pressed="false">
+        <span data-pause><Icon name="pause" size={16} /></span><span data-play hidden><Icon name="play" size={16} /></span>
+      </button>
+    )}
+  </section>
+
+  <nav class="sec-nav" aria-label="On this page" data-section-nav>
+    <div class="container sec-nav__inner">
+      <div class="sec-nav__links">{sections.map(([id, label]) => <a href={`#${id}`}>{label}</a>)}</div>
+      <a class="btn btn--primary btn--sm" href="#plan"><Icon name="hotel" size={16} />Check hotel prices</a>
+    </div>
+  </nav>
+
+  <section class="section" id="overview">
+    <div class="container overview">
+      <div class="overview__prose">
+        <span class="eyebrow">Overview</span>
+        <h2>Why visit {city.name}</h2>
+        {city.overview.map((p, i) => <p class:list={[i === 0 && "lead"]} set:html={rich(p)} />)}
+      </div>
+      <aside class="glance card" style={regionStyle(city.region)}>
+        <h3>At a glance</h3>
+        <dl>
+          <div><dt>Country</dt><dd>{city.country}</dd></div>
+          <div><dt>Region</dt><dd>{city.region}</dd></div>
+          {city.metro && <div><dt>Population</dt><dd>{city.metro}</dd></div>}
+          <div><dt>Time Out rank</dt><dd>{city.rank2026 ? <a href={url("best-cities-2026.html")}>#{city.rank2026} of 50</a> : "Not ranked"}</dd></div>
+        </dl>
+        {city.highlights.length > 0 && (<>
+          <h4>Highlights</h4>
+          <div class="chips">{city.highlights.map((h) => <a class="chip" href={url(`Best-City-Image-Swap.html#${h}`)}><Icon name={CATEGORY_ICONS[h]} size={14} />{catLabel(h)}</a>)}</div>
+        </>)}
+        <div class="glance__links">
+          {city.social.wikipedia && <a href={city.social.wikipedia} target="_blank" rel="noopener"><Icon name="book-open" size={16} />Wikipedia</a>}
+          {city.social.facebook && <a href={city.social.facebook} target="_blank" rel="noopener"><Icon name="thumbs-up" size={16} />Facebook</a>}
+          {city.social.twitter && <a href={city.social.twitter} target="_blank" rel="noopener"><Icon name="x" size={16} />X</a>}
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section section--surface" id="things-to-do">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Things to do</span><h2>Top things to book in {city.name}</h2><p>Popular tours and tickets. Compare prices and book ahead to skip the lines.</p></div></div>
+      <div class="grid grid--4">
+        {city.topThings.map((t, i) => (
+          <article class="card top-card" style={regionStyle(city.region)}>
+            <span class="tile"><Icon name={topIcon(t.title, t.desc)} size={20} /></span>
+            <h3>{t.title}</h3>
+            <p class="muted">{t.desc}</p>
+            <div class="top-card__links">
+              {t.viator && <a class="btn btn--dark btn--sm book-btn" data-category="Top things" href={t.viator} target="_blank" rel="sponsored noopener">Viator</a>}
+              {t.getyourguide && <a class="btn btn--light btn--sm book-btn" data-category="Top things" href={t.getyourguide} target="_blank" rel="sponsored noopener">GetYourGuide</a>}
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="plan">
+    <div class="container">
+      <div class="plan-panel" id="sec-plan-trip">
+        <div class="section-head"><div><span class="eyebrow">Plan your trip</span><h2>Compare prices for {city.name}</h2><p>Pick your dates once and search hotels, homes, flights and tours on every major site.</p></div></div>
+        <div class="trip-links" data-city={city.name}>
+          <div class="trip-fallback">
+            {city.booking.hotels && <a class="btn btn--primary" href={city.booking.hotels} target="_blank" rel="sponsored noopener">Book hotels</a>}
+            {city.booking.tours && <a class="btn btn--light" href={city.booking.tours} target="_blank" rel="sponsored noopener">Book tours</a>}
+            {city.booking.flights && <a class="btn btn--light" href={city.booking.flights} target="_blank" rel="sponsored noopener">Find flights</a>}
+          </div>
+        </div>
+        <p class="disclosure">We may earn a commission when you book through our links, at no extra cost to you.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface" id="fun-facts">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Fun facts</span><h2>Things you didn't know about {city.name}</h2></div></div>
+      <ol class:list={["facts", longFacts && "facts--long"]}>
+        {city.funFacts.map((f, i) => (
+          <li class="fact card">
+            <span class="fact__num" style={regionStyle(city.region)}>{String(i + 1).padStart(2, "0")}</span>
+            {f.title && <h3>{factTitle(f.title)}</h3>}
+            <p set:html={rich(f.text)} />
+          </li>
+        ))}
+      </ol>
+      {city.randomFacts.length > 0 && (
+        <div class="surprise" data-random-facts={JSON.stringify(city.randomFacts)}>
+          <div><strong>Random {city.name} fact</strong><p data-fact-out aria-live="polite">Tap the button for a random fact about {city.name}.</p></div>
+          <button class="btn btn--light" type="button"><Icon name="shuffle" size={18} />Surprise me</button>
+        </div>
+      )}
+    </div>
+  </section>
+
+  {city.youtube && (
+    <section class="section" id="watch">
+      <div class="container"><div class="section-head"><div><span class="eyebrow">Watch</span><h2>{city.name} on video</h2></div></div>
+        <div class="watch"><YouTube id={city.youtube} title={`${city.name} travel video`} /></div>
+      </div>
+    </section>
+  )}
+
+  <section class="section" id="faq">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">FAQ</span><h2>Quick answers about {city.name}</h2></div></div>
+      <div class="faq">
+        {city.faq.map((f) => (
+          <details><summary>{f.q}<Icon name="chevron-down" size={18} /></summary><p set:html={rich(f.a)} /></details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Keep exploring</span><h2>More cities in {city.region}</h2></div><a class="btn btn--light btn--sm" href={url(`cities.html#${regionId(city.region)}`)}>All {city.region} cities<Icon name="arrow-right" size={16} /></a></div>
+      <div class="city-grid">{more.map((c) => <CityCard city={c} />)}</div>
+    </div>
+  </section>
+
+  <SupportBand />
+
+  <div class="mobile-bar" slot="after">
+    {city.booking.hotels && <a class="book-btn" data-category="Mobile bar" href={city.booking.hotels} target="_blank" rel="sponsored noopener"><Icon name="hotel" size={18} />Hotels</a>}
+    {city.booking.tours && <a class="book-btn" data-category="Mobile bar" href={city.booking.tours} target="_blank" rel="sponsored noopener"><Icon name="ticket" size={18} />Tours</a>}
+    {city.booking.flights && <a class="book-btn" data-category="Mobile bar" href={city.booking.flights} target="_blank" rel="sponsored noopener"><Icon name="plane" size={18} />Flights</a>}
+  </div>
+</BaseLayout>

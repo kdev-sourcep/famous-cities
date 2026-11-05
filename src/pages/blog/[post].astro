@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Icon from "../../components/Icon.astro";
+import SupportBand from "../../components/SupportBand.astro";
+import pages from "../../data/pages.json";
+import { url, rich, absUrl, getCity, cityHref } from "../../lib/site";
+export function getStaticPaths() {
+  return (["dubai-3-day-budget", "dubai-layover-guide"] as const).map((post) => ({ params: { post }, props: { post } }));
+}
+const { post } = Astro.props as { post: "dubai-3-day-budget" | "dubai-layover-guide" };
+const p = pages[post];
+const dubai = getCity("Dubai")!;
+const path = `blog/${post}.html`;
+const jsonld = [{ "@type": "Article", "headline": p.heading, "description": p.description, "url": absUrl(path), "author": { "@type": "Organization", "name": "Famous Cities" }, "publisher": { "@type": "Organization", "name": "Famous Cities" }, "about": { "@type": "TouristDestination", "name": "Dubai" } }];
+---
+<BaseLayout title={p.title} description={p.description} path={path} jsonld={jsonld} ogType="article">
+  <section class="page-hero"><div class="container prose">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href={url("")}>Home</a><Icon name="chevron-right" size={14} /><a href={url("blog/blog.html")}>Guides</a><Icon name="chevron-right" size={14} /><span>Dubai</span></nav>
+    <h1>{p.heading}</h1><p>{p.description}</p>
+  </div></section>
+  <section class="section"><div class="container prose">
+    <Fragment set:html={rich(p.html)} />
+    <div class="cta-card" style="--c1:#F59E0B;--c2:#FB7185">
+      <h2>Ready to plan your Dubai trip?</h2>
+      <p>Compare hotel, flight and tour prices for your dates, or read our full Dubai guide.</p>
+      <div class="hero-btns">
+        {dubai.booking.hotels && <a class="btn btn--dark book-btn" data-category="Blog CTA" href={dubai.booking.hotels} target="_blank" rel="sponsored noopener"><Icon name="hotel" size={18} />Hotels</a>}
+        {dubai.booking.tours && <a class="btn btn--glass book-btn" data-category="Blog CTA" href={dubai.booking.tours} target="_blank" rel="sponsored noopener"><Icon name="ticket" size={18} />Tours</a>}
+        {dubai.booking.flights && <a class="btn btn--glass book-btn" data-category="Blog CTA" href={dubai.booking.flights} target="_blank" rel="sponsored noopener"><Icon name="plane" size={18} />Flights</a>}
+        <a class="btn btn--glass" href={cityHref(dubai.slug)}>Dubai guide<Icon name="arrow-right" size={16} /></a>
+      </div>
+    </div>
+  </div></section>
+  <SupportBand />
+</BaseLayout>

@@ -1,0 +1,112 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import CityCard from "../components/CityCard.astro";
+import SupportBand from "../components/SupportBand.astro";
+import YouTube from "../components/YouTube.astro";
+import speed from "../data/speed-tour.json";
+import { cities, regions, citiesIn, cityHref, url, rankings, rankedCities, categories, CATEGORY_ICONS, regionStyle, regionId, absUrl } from "../lib/site";
+const byName = (n: string) => cities.find((c) => c.name === n)!;
+const popular = ["Paris", "London", "Tokyo", "New York", "Dubai", "Rome", "Barcelona"].map(byName).filter(Boolean);
+const heroCards = ["Paris", "Tokyo", "Rio de Janeiro", "Cape Town"].map(byName).filter(Boolean);
+const [lead, ...featured] = ["Barcelona", "Rome", "Madrid", "Singapore", "Amsterdam"].map(byName).filter(Boolean);
+const top10 = rankings.rows.slice(0, 10);
+const europe = speed.legs[0]?.videos[0];
+const jsonld = [{ "@type": "WebSite", "name": "Famous Cities", "url": absUrl(""), "potentialAction": { "@type": "SearchAction", "target": absUrl("cities.html") + "?q={query}", "query-input": "required name=query" } }];
+---
+<BaseLayout title="Famous Cities | Travel Guides, Fun Facts & Hotel Deals for 92 Cities" description="Discover the world's most famous cities: fun facts, top things to book, Time Out's Best Cities 2026 and easy hotel, flight and tour price comparison for 92 destinations." path="" jsonld={jsonld}>
+  <section class="home-hero">
+    <div class="container home-hero__inner">
+      <div class="home-hero__copy">
+        <span class="eyebrow"><Icon name="sparkles" size={16} />92 city guides · 7 regions</span>
+        <h1>Discover the world's most <span class="grad-text">famous cities</span></h1>
+        <p>Fun facts, the best things to book and side-by-side price comparison for hotels, flights and tours, all in one place.</p>
+        <div class="search search--lg" data-search>
+          <Icon name="search" size={20} />
+          <input class="search__input" type="search" placeholder="Where do you want to go?" aria-label="Search cities" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
+          <ul class="search__list" role="listbox" hidden></ul>
+        </div>
+        <div class="chips home-hero__chips"><span class="muted small">Popular:</span>{popular.map((c) => <a class="chip" href={cityHref(c.slug)}>{c.name}</a>)}</div>
+      </div>
+      <div class="home-hero__cards">{heroCards.map((c) => <CityCard city={c} showRank />)}</div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Featured guides</span><h2>Start with a classic</h2></div><a class="btn btn--light btn--sm" href={url("cities.html")}>All 92 cities<Icon name="arrow-right" size={16} /></a></div>
+      <div class="featured">
+        <CityCard city={lead} size="lg" tagline showRank />
+        <div class="featured__rest">{featured.map((c) => <CityCard city={c} showRank />)}</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Browse by region</span><h2>Pick a corner of the world</h2></div></div>
+      <div class="region-tiles">
+        {regions.map((r) => {
+          const list = citiesIn(r.name);
+          return (
+            <a class="region-tile" href={url(`cities.html#${regionId(r.name)}`)} style={regionStyle(r.name)}>
+              <span class="region-tile__name">{r.name}</span>
+              <span class="region-tile__count">{list.length} cities</span>
+              <span class="region-tile__list">{list.slice(0, 4).map((c) => c.name).join(" · ")}</span>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container home-split">
+      <div class="card top10">
+        <span class="eyebrow"><Icon name="trophy" size={16} />Time Out 2026</span>
+        <h2>The world's best cities</h2>
+        <ol class="top10__list">
+          {top10.map((r) => (
+            <li>
+              <span class="rank-badge">{r.rank}</span>
+              {r.slug ? <a href={cityHref(r.slug)}>{r.name}</a> : <span>{r.name}</span>}
+              <small class="muted">{r.country}</small>
+            </li>
+          ))}
+        </ol>
+        <a class="btn btn--dark btn--sm" href={url("best-cities-2026.html")}>See all 50<Icon name="arrow-right" size={16} /></a>
+      </div>
+      <div class="speed-panel">
+        <span class="eyebrow"><Icon name="zap" size={16} />IShowSpeed's world tour</span>
+        <h2>Follow Speed around the world</h2>
+        <p>From Europe to Africa, see every city IShowSpeed streamed from and open our guide for each stop.</p>
+        {europe && <YouTube id={europe.id} params={europe.params} title={europe.title} />}
+        <a class="btn btn--primary" href={url("speed-tour.html")}>Explore Speed's tour<Icon name="arrow-right" size={16} /></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--surface">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">How cities are ranked</span><h2>Six things that make a city great</h2></div><a class="btn btn--light btn--sm" href={url("Best-City-Image-Swap.html")}>Learn more<Icon name="arrow-right" size={16} /></a></div>
+      <div class="grid grid--3">
+        {categories.map((c) => (
+          <a class="card cat-card" href={url(`Best-City-Image-Swap.html#${c.key}`)}>
+            <span class="tile"><Icon name={CATEGORY_ICONS[c.key]} size={20} /></span>
+            <h3>{c.label}</h3>
+            <p class="muted">{c.desc}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head"><div><span class="eyebrow">Top ranked</span><h2>Guides to the highest-ranked cities</h2></div></div>
+      <div class="city-grid">{rankedCities.slice(0, 12).map((c) => <CityCard city={c} showRank />)}</div>
+    </div>
+  </section>
+
+  <SupportBand />
+</BaseLayout>

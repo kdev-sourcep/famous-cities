@@ -1,0 +1,53 @@
+---
+import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import { SITE_NAME, absUrl, url, searchIndex } from "../lib/site";
+interface Props {
+  title: string; description: string; path: string; keywords?: string; image?: string;
+  noindex?: boolean; jsonld?: object[]; cityPage?: boolean; ogType?: string;
+}
+const { title, description, path, keywords, image = "images/London.png", noindex: noindexProp = false, jsonld = [], cityPage = false, ogType = "website" } = Astro.props;
+const noindex = noindexProp || import.meta.env.PUBLIC_NOINDEX === "1";
+const canonical = absUrl(path);
+const ogImage = /^https?:/.test(image) ? image : absUrl(image);
+const graph = { "@context": "https://schema.org", "@graph": [{ "@type": "Organization", "name": SITE_NAME, "url": absUrl("") }, ...jsonld] };
+const legacy = ["donate.js", "affiliate.js", ...(cityPage ? ["booking-links.js"] : []), "analytics.js", "remember.js"];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  {keywords && <meta name="keywords" content={keywords} />}
+  {noindex && <meta name="robots" content="noindex" />}
+  <link rel="canonical" href={canonical} />
+  <meta name="theme-color" content="#6b4eff" />
+  <link rel="icon" href={url("favicon.ico")} sizes="any" />
+  <link rel="icon" type="image/png" href={url("favicon-64.png")} />
+  <meta property="og:type" content={ogType} />
+  <meta property="og:site_name" content={SITE_NAME} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={ogImage} />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={ogImage} />
+  <slot name="head" />
+  <script type="application/ld+json" set:html={JSON.stringify(graph)} />
+  <script type="application/json" id="city-index" set:html={JSON.stringify(searchIndex())} />
+  {legacy.map((s) => <script is:inline defer src={url(s)}></script>)}
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <Header />
+  <main id="main"><slot /></main>
+  <Footer />
+  <slot name="after" />
+  <script>import "../scripts/site.ts";</script>
+</body>
+</html>
