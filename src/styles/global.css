@@ -266,9 +266,14 @@ a.chip:hover { border-color: #c9c3ea; }
 .glance dt { color: var(--muted); }
 .glance dd { margin: 0; font-weight: 700; text-align: right; }
 .glance dd a { color: #6b4eff; }
-.glance__links { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s4); font-size: 14px; font-weight: 600; }
+.glance__links { display: flex; flex-wrap: wrap; gap: var(--s2) var(--s3); font-size: 14px; font-weight: 600; }
 .glance__links a { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; color: var(--muted); }
 .glance__links a:hover { color: var(--ink); }
+.social-dot { display: inline-grid; place-items: center; width: 28px; height: 28px; border-radius: 50%; color: #fff; flex: none; transition: transform .15s; }
+.glance__links a:hover .social-dot { transform: scale(1.08); }
+.social-dot--facebook { background: #0866ff; }
+.social-dot--x { background: #000; }
+.social-dot--wikipedia { background: #fff; color: #000; border: 1px solid var(--line); }
 .top-card { display: flex; flex-direction: column; gap: var(--s3); }
 .top-card p { margin: 0; flex: 1; font-size: 15px; }
 .top-card__links { display: flex; flex-wrap: wrap; gap: var(--s2); }

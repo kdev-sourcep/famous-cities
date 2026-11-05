@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Icon from "../components/Icon.astro";
+import BrandIcon from "../components/BrandIcon.astro";
 import CityCard from "../components/CityCard.astro";
 import SupportBand from "../components/SupportBand.astro";
 import YouTube from "../components/YouTube.astro";
@@ -91,9 +92,9 @@ const jsonld = [
           <div class="chips">{city.highlights.map((h) => <a class="chip" href={url(`Best-City-Image-Swap.html#${h}`)}><Icon name={CATEGORY_ICONS[h]} size={14} />{catLabel(h)}</a>)}</div>
         </>)}
         <div class="glance__links">
-          {city.social.wikipedia && <a href={city.social.wikipedia} target="_blank" rel="noopener"><Icon name="book-open" size={16} />Wikipedia</a>}
-          {city.social.facebook && <a href={city.social.facebook} target="_blank" rel="noopener"><Icon name="thumbs-up" size={16} />Facebook</a>}
-          {city.social.twitter && <a href={city.social.twitter} target="_blank" rel="noopener"><Icon name="x" size={16} />X</a>}
+          {city.social.wikipedia && <a href={city.social.wikipedia} target="_blank" rel="noopener"><span class="social-dot social-dot--wikipedia"><BrandIcon name="wikipedia" size={16} /></span>Wikipedia</a>}
+          {city.social.facebook && <a href={city.social.facebook} target="_blank" rel="noopener"><span class="social-dot social-dot--facebook"><BrandIcon name="facebook" size={16} /></span>Facebook</a>}
+          {city.social.twitter && <a href={city.social.twitter} target="_blank" rel="noopener"><span class="social-dot social-dot--x"><BrandIcon name="x" size={14} /></span>X</a>}
         </div>
       </aside>
     </div>
