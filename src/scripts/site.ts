@@ -149,3 +149,14 @@ if (filter) {
   };
   filter.addEventListener("input", apply);
 }
+
+/* Light/dark theme toggle (light is the default) */
+const themeBtns = document.querySelectorAll<HTMLButtonElement>("[data-theme-toggle]");
+const syncTheme = () => { const dark = document.documentElement.dataset.theme === "dark"; themeBtns.forEach((b) => b.setAttribute("aria-pressed", String(dark))); };
+themeBtns.forEach((b) => b.addEventListener("click", () => {
+  const dark = document.documentElement.dataset.theme !== "dark";
+  if (dark) document.documentElement.dataset.theme = "dark"; else delete document.documentElement.dataset.theme;
+  try { localStorage.setItem("fc-theme", dark ? "dark" : "light"); } catch {}
+  syncTheme();
+}));
+syncTheme();

@@ -25,6 +25,7 @@ const legacy = ["donate.js", "affiliate.js", ...(cityPage ? ["booking-links.js"]
   {noindex && <meta name="robots" content="noindex" />}
   <link rel="canonical" href={canonical} />
   <meta name="theme-color" content="#6b4eff" />
+  <script is:inline>try{if(localStorage.getItem("fc-theme")==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>
   <link rel="icon" href={url("favicon.ico")} sizes="any" />
   <link rel="icon" type="image/png" href={url("favicon-64.png")} />
   <meta property="og:type" content={ogType} />

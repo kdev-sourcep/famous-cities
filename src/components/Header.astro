@@ -21,6 +21,7 @@ const links = [
       <input class="search__input" type="search" placeholder="Search cities" aria-label="Search cities" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
       <ul class="search__list" role="listbox" hidden></ul>
     </div>
+    <button class="theme-btn" type="button" aria-pressed="false" aria-label="Dark mode" data-theme-toggle><span data-when="light"><Icon name="moon" size={16} /><b>Dark</b></span><span data-when="dark"><Icon name="sun" size={16} /><b>Light</b></span></button>
     <a class="btn btn--primary btn--sm btn--support" href={url("support.html")}><Icon name="heart" size={16} /> Support</a>
     <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" data-drawer-open><Icon name="menu" size={20} /></button>
   </div>
@@ -46,6 +47,7 @@ const links = [
         <input class="search__input" type="search" placeholder="Search cities" aria-label="Search cities" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
         <ul class="search__list" role="listbox" hidden></ul>
       </div>
+      <button class="theme-btn" type="button" aria-pressed="false" aria-label="Dark mode" data-theme-toggle><span data-when="light"><Icon name="moon" size={16} /><b>Dark</b></span><span data-when="dark"><Icon name="sun" size={16} /><b>Light</b></span></button>
       <div class="drawer__links">{links.map((l) => <a href={l.href}>{l.label}</a>)}</div>
       <div>
         {regions.map((r) => (

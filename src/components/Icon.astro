@@ -46,6 +46,8 @@ import ICalendar from "@lucide/astro/icons/calendar";
 import IFerrisWheel from "@lucide/astro/icons/ferris-wheel";
 import IListOrdered from "@lucide/astro/icons/list-ordered";
 import IThumbsUp from "@lucide/astro/icons/thumbs-up";
+import IMoon from "@lucide/astro/icons/moon";
+import ISun from "@lucide/astro/icons/sun";
 interface Props { name: string; size?: number; class?: string; label?: string }
 const { name, size = 18, class: cls, label } = Astro.props;
 const MAP: Record<string, any> = {
@@ -96,6 +98,8 @@ const MAP: Record<string, any> = {
   "ferris-wheel": IFerrisWheel,
   "list-ordered": IListOrdered,
   "thumbs-up": IThumbsUp,
+  "moon": IMoon,
+  "sun": ISun,
 };
 const C = MAP[name] || MAP.ticket;
 ---
