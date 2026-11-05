@@ -1,19 +1,31 @@
 ---
-// PREVIEW MOCK-UP: sample hotels and prices, not live data.
-interface Props { city: string }
-const { city } = Astro.props;
-const photoBase = import.meta.env.BASE_URL.replace(/\/$/, "") + "/compare-samples/";
-const hotels = [
-  { id: "a", photo: photoBase + "a.jpg", name: "Hôtel Rive Gauche", area: "Saint-Germain · 1.2 km from center", stars: 4, rating: 8.9, reviews: 2140, perks: ["Free Wi-Fi", "Breakfast included", "Free cancellation"], prices: { "Booking.com": 248, "Expedia": 239, "Hotels.com": 241, "Agoda": 252 } },
-  { id: "b", photo: photoBase + "b.jpg", name: "Le Marais Boutique", area: "Le Marais · 0.8 km from center", stars: 3, rating: 8.4, reviews: 1310, perks: ["Free Wi-Fi", "Air conditioning"], prices: { "Booking.com": 189, "Expedia": 197, "Hotels.com": 192, "Agoda": 185 } },
-  { id: "c", photo: photoBase + "c.jpg", name: "Grand Hôtel Opéra", area: "Opéra · 1.5 km from center", stars: 5, rating: 9.2, reviews: 3870, perks: ["Spa", "Breakfast included", "Free cancellation"], prices: { "Booking.com": 412, "Expedia": 405, "Hotels.com": 409, "Agoda": 418 } },
-  { id: "d", photo: photoBase + "d.jpg", name: "Montmartre Stay", area: "Montmartre · 3.4 km from center", stars: 3, rating: 8.1, reviews: 960, perks: ["Free Wi-Fi", "Kitchenette"], prices: { "Booking.com": 142, "Expedia": 149, "Hotels.com": 146, "Agoda": 139 } },
-];
+// Two-hotel compare box. Data is a snapshot from scripts/fetch-hotels.mjs (Google Hotels via SerpApi).
+interface Props { slug: string }
+type Price = { source: string; price: number; official: boolean; link: string };
+type Hotel = { id: string; name: string; address: string; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; prices: Price[] };
+type Snapshot = { city: string; checkIn: string; checkOut: string; adults: number; fetchedAt: string; hotels: Hotel[] };
+
+const { slug } = Astro.props;
+const files = import.meta.glob<{ default: Snapshot }>("../data/hotels/*.json", { eager: true });
+const snap = files[`../data/hotels/${slug}.json`]?.default;
+
+const KNOWN = ["Booking.com", "Expedia.com", "Hotels.com", "Agoda", "Priceline", "KAYAK.com", "Trip.com", "Hostelworld"];
+const MAX_ROWS = 6;
+const photoBase = import.meta.env.BASE_URL.replace(/\/$/, "") + `/hotel-photos/${slug}/`;
+const fmt = (iso: string) => new Date(iso + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+
+const hotels = (snap?.hotels ?? []).map((h) => {
+  const cheapest = h.prices[0];
+  const rows = h.prices.filter((p, i) => i === 0 || p.official || KNOWN.includes(p.source)).slice(0, MAX_ROWS)
+    .map((p) => ({ ...p, source: p.official ? "Hotel website" : p.source.replace(/\.com$/, (m) => (p.source === "Booking.com" || p.source === "Hotels.com" ? m : "")) }));
+  return { ...h, photo: h.photo ? photoBase + h.photo : "", low: cheapest.price, sites: h.prices.length, rows };
+});
 ---
+{hotels.length >= 2 && snap && (
 <div class="hcmp" data-hcmp>
   <div class="hcmp__head">
-    <div><span class="eyebrow">Compare two hotels</span><h3>Side by side in {city}</h3></div>
-    <span class="hcmp__badge">Preview · sample prices</span>
+    <div><span class="eyebrow">Compare two hotels</span><h3>Side by side in {snap.city}</h3></div>
+    <span class="hcmp__badge">{fmt(snap.checkIn)}–{fmt(snap.checkOut)} · {snap.adults} adults</span>
   </div>
   <script type="application/json" data-hcmp-data set:html={JSON.stringify(hotels)} />
   <div class="hcmp__grid">
@@ -27,34 +39,41 @@ const hotels = [
     ))}
   </div>
   <p class="hcmp__verdict" data-verdict></p>
-  <p class="hcmp__credit">Sample room photos: Wikimedia Commons (Hotel Lutetia, Paris Opera Cadet Hotel; CC BY / CC BY-SA 2.0).</p>
+  <p class="hcmp__credit">Prices per night incl. taxes for {fmt(snap.checkIn)}–{fmt(snap.checkOut)}, {snap.adults} adults, from Google Hotels (checked {fmt(snap.fetchedAt)}). Prices change; confirm on the booking site.</p>
 </div>
+)}
 <script>
-  type H = { id: string; photo: string; name: string; area: string; stars: number; rating: number; reviews: number; perks: string[]; prices: Record<string, number> };
+  type Row = { source: string; price: number; link: string };
+  type H = { id: string; name: string; address: string; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; low: number; sites: number; rows: Row[] };
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
   document.querySelectorAll<HTMLElement>("[data-hcmp]").forEach((root) => {
     const data: H[] = JSON.parse(root.querySelector("[data-hcmp-data]")!.textContent!);
     const cols = [...root.querySelectorAll<HTMLElement>(".hcmp__col")];
-    const best = (h: H) => Object.entries(h.prices).sort((a, b) => a[1] - b[1])[0];
     const render = () => {
       const picked = cols.map((c) => data.find((h) => h.id === c.querySelector("select")!.value)!);
-      const lows = picked.map((h) => best(h)[1]);
+      const lows = picked.map((h) => h.low);
       cols.forEach((c, i) => {
-        const h = picked[i]; const [site, low] = best(h);
-        const rows = Object.entries(h.prices).sort((a, b) => a[1] - b[1]).map(([s, p]) =>
-          `<li class="${p === low ? "is-best" : ""}"><span>${s}</span><strong>$${p}</strong>${p === low ? '<em>Cheapest</em>' : ""}</li>`).join("");
+        const h = picked[i];
+        const best = h.rows[0];
+        const rows = h.rows.map((r) =>
+          `<li class="${r.price === h.low ? "is-best" : ""}"><a href="${esc(r.link)}" target="_blank" rel="sponsored noopener" class="book-btn" data-category="Compare"><span>${esc(r.source)}</span><strong>$${r.price}</strong>${r.price === h.low ? "<em>Cheapest</em>" : ""}</a></li>`).join("");
+        const perks = [...(h.freeCancellation ? ["Free cancellation"] : []), ...h.amenities].slice(0, 3);
         c.querySelector("[data-card]")!.innerHTML = `
-          <div class="hcmp__photo"><img src="${h.photo}" alt="Room at ${h.name}" loading="lazy"><span>${"★".repeat(h.stars)}</span></div>
-          <p class="hcmp__area">${h.area}</p>
-          <p class="hcmp__rating"><b>${h.rating}</b> Guest rating · ${h.reviews.toLocaleString()} reviews</p>
-          <ul class="hcmp__perks">${h.perks.map((p) => `<li>${p}</li>`).join("")}</ul>
-          <p class="hcmp__label">Price per night</p>
+          <div class="hcmp__photo">${h.photo ? `<img src="${esc(h.photo)}" alt="${esc(h.room || "Room")} at ${esc(h.name)}" loading="lazy">` : ""}${h.stars ? `<span>${"★".repeat(h.stars)}</span>` : ""}</div>
+          ${h.room ? `<p class="hcmp__area"><b>${esc(h.room.split(" - ")[0])}</b></p>` : ""}
+          <p class="hcmp__area">${esc(h.address)}</p>
+          <p class="hcmp__rating"><b>${h.rating}</b> / 5 · ${h.reviews.toLocaleString()} reviews</p>
+          <ul class="hcmp__perks">${perks.map((p) => `<li>${esc(p)}</li>`).join("")}</ul>
+          <p class="hcmp__label">Price per night · ${h.sites} sites checked</p>
           <ul class="hcmp__prices">${rows}</ul>
-          <a class="btn btn--primary book-btn hcmp__book${lows[i] === Math.min(...lows) ? " is-cheaper" : ""}" href="#" data-category="Compare">Book on ${site} · $${low}</a>`;
+          <a class="btn btn--primary book-btn hcmp__book" href="${esc(best.link)}" target="_blank" rel="sponsored noopener" data-category="Compare">Book on ${esc(best.source)} · $${best.price}</a>`;
       });
       const [a, b] = picked;
       const diff = Math.abs(lows[0] - lows[1]);
+      const cheaper = lows[0] <= lows[1] ? a : b;
+      const better = a.rating >= b.rating ? a : b;
       root.querySelector("[data-verdict]")!.innerHTML = a.id === b.id ? "Pick two different hotels to compare."
-        : `<b>${lows[0] < lows[1] ? a.name : b.name}</b> is $${diff} cheaper per night. <b>${a.rating >= b.rating ? a.name : b.name}</b> has the higher guest rating.`;
+        : `${diff ? `<b>${esc(cheaper.name)}</b> is $${diff} cheaper per night.` : "Both cost the same per night."} ${a.rating === b.rating ? "Both have the same guest rating." : `<b>${esc(better.name)}</b> has the higher guest rating.`}`;
     };
     cols.forEach((c) => c.querySelector("select")!.addEventListener("change", render));
     render();
