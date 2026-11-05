@@ -82,15 +82,17 @@ document.addEventListener("click", (e) => {
   box.replaceChildren(f);
 });
 
-/* Hero background video: only on wide screens, no reduced motion, no data saver */
+/* Hero background video: autoplays like v1; skipped only when the visitor has data saver on */
 const heroVideo = document.querySelector<HTMLVideoElement>("[data-hero-video]");
 if (heroVideo) {
   const conn = (navigator as any).connection;
-  const ok = matchMedia("(min-width: 721px)").matches && !matchMedia("(prefers-reduced-motion: reduce)").matches && !(conn && conn.saveData);
   const toggle = document.querySelector<HTMLButtonElement>("[data-video-toggle]");
-  if (ok) {
-    heroVideo.src = heroVideo.dataset.src!;
-    heroVideo.addEventListener("playing", () => { heroVideo.classList.add("is-playing"); if (toggle) toggle.hidden = false; }, { once: true });
+  if (conn && conn.saveData) {
+    heroVideo.pause();
+    heroVideo.removeAttribute("src");
+    heroVideo.load();
+  } else {
+    if (toggle) toggle.hidden = false;
     heroVideo.play().catch(() => {});
     toggle?.addEventListener("click", () => {
       const paused = heroVideo.paused;

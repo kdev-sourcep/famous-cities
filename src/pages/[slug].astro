@@ -33,7 +33,7 @@ const jsonld = [
 ---
 <BaseLayout title={city.seo.title} description={city.seo.description} keywords={city.seo.keywords} path={path} image={city.image ? `images/${city.image}` : undefined} jsonld={jsonld} cityPage>
   <section class="city-hero" style={regionStyle(city.region)}>
-    {city.video && <video class="city-hero__video" data-hero-video data-src={url(city.video)} muted loop playsinline preload="none" aria-hidden="true"></video>}
+    {city.video && <video class="city-hero__video" data-hero-video src={url(city.video)} poster={url("posters/" + city.video.split("/").pop()!.replace(/\.mp4$/, ".jpg"))} autoplay muted loop playsinline preload="auto" aria-hidden="true"></video>}
     <div class="city-hero__shade"></div>
     <div class="container city-hero__inner">
       <nav class="breadcrumb" aria-label="Breadcrumb">
