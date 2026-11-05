@@ -178,7 +178,7 @@
   }
 
   function stayMapSrc(city, inD, outD, adults, has) {
-    var p = { aid: encodeURIComponent(FC_AFF.stay22_aid), address: encodeURIComponent(city), mapstyle: "dark", maincolor: "478ac9", listviewexpand: "true", adults: adults, campaign: "famouscities" };
+    var p = { aid: encodeURIComponent(FC_AFF.stay22_aid), address: encodeURIComponent(city), mapstyle: "light", maincolor: "6b4eff", listviewexpand: "true", adults: adults, campaign: "famouscities" };
     if (has) { p.checkin = inD; p.checkout = outD; }
     return "https://www.stay22.com/embed/gm?" + q(p);
   }
