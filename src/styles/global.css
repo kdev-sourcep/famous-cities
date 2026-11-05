@@ -430,3 +430,4 @@ html[data-theme="dark"] .legend__item.is-active { border-color: #5a4fb0; }
 .nav__link, .nav__btn { white-space: nowrap; }
 @media (max-width: 1320px) { .site-header .theme-btn { width: 36px; padding: 0; justify-content: center; } .site-header .theme-btn b { display: none; } }
 html[data-theme="dark"] .skip, html[data-theme="dark"] .btn--dark, html[data-theme="dark"] .btn--gofundme, html[data-theme="dark"] .trip-btn:hover, html[data-theme="dark"] .sec-nav__links a.is-active { background: #6b4eff; border-color: #6b4eff; color: #fff; }
+.theme-btn svg { flex: none; width: 16px; height: 16px; max-width: none; }
