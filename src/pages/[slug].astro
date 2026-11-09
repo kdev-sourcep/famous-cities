@@ -153,7 +153,7 @@ const jsonld = [
       {city.randomFacts.length > 0 && (
         <div class="surprise" data-random-facts={JSON.stringify(city.randomFacts)}>
           <div><strong>Random {city.name} fact</strong><p data-fact-out aria-live="polite">Tap the button for a random fact about {city.name}.</p></div>
-          <button class="btn btn--light" type="button"><Icon name="shuffle" size={18} />Surprise me</button>
+          <button class="btn btn--light" type="button"><span class="emoji" aria-hidden="true">🎲</span>Surprise me</button>
         </div>
       )}
     </div>

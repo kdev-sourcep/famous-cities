@@ -1,6 +1,5 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import Icon from "../components/Icon.astro";
 import pages from "../data/pages.json";
 import { rich, KOFI_URL, GOFUNDME_URL } from "../lib/site";
 const p = pages.support;
@@ -11,8 +10,8 @@ const p = pages.support;
     <div class="container prose">
       <Fragment set:html={rich(p.html)} />
       <div class="donate-row" id="sec-donate">
-        <a class="btn btn--kofi donate-btn" href={KOFI_URL} target="_blank" rel="noopener"><span aria-hidden="true">☕</span> Support on Ko-fi</a>
-        <a class="btn btn--gofundme gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener"><span aria-hidden="true">❤️</span> Support on GoFundMe</a>
+        <a class="btn btn--kofi donate-btn" href={KOFI_URL} target="_blank" rel="noopener"><span class="emoji" aria-hidden="true">☕</span> Support on Ko-fi</a>
+        <a class="btn btn--gofundme gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener"><span class="emoji" aria-hidden="true">❤️</span> Support on GoFundMe</a>
       </div>
     </div>
   </section>

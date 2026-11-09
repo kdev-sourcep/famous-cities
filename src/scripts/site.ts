@@ -66,7 +66,7 @@ if (drawer && openBtn) {
   openBtn.addEventListener("click", () => set(true));
   drawer.querySelectorAll("[data-drawer-close]").forEach((b) => b.addEventListener("click", () => set(false)));
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !drawer.hidden) set(false); });
-  matchMedia("(min-width: 960px)").addEventListener("change", (m) => m.matches && set(false));
+  matchMedia("(min-width: 1200px)").addEventListener("change", (m) => m.matches && set(false));
 }
 
 /* Lite YouTube */
