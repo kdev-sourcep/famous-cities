@@ -30,3 +30,11 @@
     header.parentNode.insertBefore(strip, header.nextSibling);
   } catch (e) {}
 })();
+
+/* Copy deterrent: block selecting, copying and right-click outside form fields */
+(function () {
+  function inField(e) { var t = e.target; return t && t.closest && t.closest("input, textarea, select, [contenteditable]"); }
+  ["copy", "cut", "contextmenu", "dragstart", "selectstart"].forEach(function (type) {
+    document.addEventListener(type, function (e) { if (!inField(e)) e.preventDefault(); });
+  });
+})();
