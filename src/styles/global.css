@@ -165,8 +165,11 @@ a.chip:hover { border-color: #c9c3ea; }
 .support-band h2 { color: #fff; }
 .support-band p { margin: var(--s3) 0 0; opacity: .95; max-width: 52ch; }
 .support-band__btns { display: flex; flex-wrap: wrap; gap: var(--s3); justify-content: flex-end; position: relative; z-index: 1; }
-.btn--kofi { background: #FFFFFF; color: var(--ink); }
-.btn--gofundme { background: var(--ink); color: #fff; }
+.btn--kofi, .btn--gofundme, .prose a.btn--kofi, .prose a.btn--gofundme { color: #fff; letter-spacing: .5px; text-shadow: 0 1px 2px rgba(0,0,0,.25); transition: transform .15s, box-shadow .15s, background-color .15s; }
+.btn--kofi { background: #f5b301; box-shadow: 0 4px 14px rgba(245,179,1,.4); }
+.btn--kofi:hover { background: #ffc733; color: #fff; transform: translateY(-2px); box-shadow: 0 6px 18px rgba(245,179,1,.6); }
+.btn--gofundme { background: #00b964; box-shadow: 0 4px 14px rgba(0,185,100,.4); }
+.btn--gofundme:hover { background: #00d376; color: #fff; transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,185,100,.6); }
 @media (max-width: 760px) { .support-band { grid-template-columns: 1fr; padding: var(--s6) var(--s5); } .support-band__btns { justify-content: flex-start; } }
 
 /* Prose */
@@ -433,7 +436,7 @@ html[data-theme="dark"] .social-dot--x { border: 1px solid #3a3566; }
 html[data-theme="dark"] .legend__item.is-active { border-color: #5a4fb0; }
 .nav__link, .nav__btn { white-space: nowrap; }
 @media (max-width: 1320px) { .site-header .theme-btn { width: 36px; padding: 0; justify-content: center; } .site-header .theme-btn b { display: none; } }
-html[data-theme="dark"] .skip, html[data-theme="dark"] .btn--dark, html[data-theme="dark"] .btn--gofundme, html[data-theme="dark"] .trip-btn:hover, html[data-theme="dark"] .sec-nav__links a.is-active { background: #6b4eff; border-color: #6b4eff; color: #fff; }
+html[data-theme="dark"] .skip, html[data-theme="dark"] .btn--dark, html[data-theme="dark"] .trip-btn:hover, html[data-theme="dark"] .sec-nav__links a.is-active { background: #6b4eff; border-color: #6b4eff; color: #fff; }
 .theme-btn svg { flex: none; width: 16px; height: 16px; max-width: none; }
 .hcmp__tabs { display: flex; gap: 6px; margin-bottom: var(--s3); overflow-x: auto; scrollbar-width: none; }
 .hcmp__tab { flex: none; font: inherit; font-size: 14px; font-weight: 700; padding: 8px 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }

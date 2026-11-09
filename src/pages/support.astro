@@ -11,8 +11,8 @@ const p = pages.support;
     <div class="container prose">
       <Fragment set:html={rich(p.html)} />
       <div class="donate-row" id="sec-donate">
-        <a class="btn btn--primary gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener"><Icon name="heart" size={18} />Support on GoFundMe</a>
-        <a class="btn btn--light donate-btn" href={KOFI_URL} target="_blank" rel="noopener"><Icon name="coffee" size={18} />Support on Ko-fi</a>
+        <a class="btn btn--kofi donate-btn" href={KOFI_URL} target="_blank" rel="noopener"><span aria-hidden="true">☕</span> Support on Ko-fi</a>
+        <a class="btn btn--gofundme gofundme-btn" href={GOFUNDME_URL} target="_blank" rel="noopener"><span aria-hidden="true">❤️</span> Support on GoFundMe</a>
       </div>
     </div>
   </section>
