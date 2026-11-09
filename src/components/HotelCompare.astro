@@ -1,14 +1,16 @@
 ---
-// Two-at-a-time compare box (hotels, hotel brands, homes, flights). Data are snapshots from
-// scripts/fetch-hotels.mjs and scripts/fetch-flights.mjs (Google Hotels / Google Flights via SerpApi).
-interface Props { slug: string }
+// Two-at-a-time compare box (hotels, hotel brands, homes, flights, tours, travel extras). Stay/flight data are
+// snapshots from scripts/fetch-hotels.mjs and scripts/fetch-flights.mjs (Google Hotels / Google Flights via SerpApi).
+import extras from "../data/extras.json";
+type Tour = { icon?: string; title: string; desc: string; viator?: string; getyourguide?: string };
+interface Props { slug: string; name: string; tours?: Tour[] }
 type Price = { source: string; price: number; official: boolean; link: string };
 type Stay = { id: string; name: string; address: string; brand?: string; info?: string[]; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; prices: Price[] };
 type StaySnap = { city: string; checkIn: string; checkOut: string; adults: number; fetchedAt: string; hotels: Stay[] };
 type Flight = { id: string; airline: string; logo: string; price: number; stops: number; duration: number; depart: string; arrive: string; route: string[]; layovers: { airport: string; minutes: number }[]; flightNumbers: string[]; cabin: string; extensions: string[] };
 type FlightSnap = { from: string; to: string; outDate: string; retDate: string; adults: number; fetchedAt: string; googleUrl: string; flights: Flight[] };
 
-const { slug } = Astro.props;
+const { slug, name: city, tours = [] } = Astro.props;
 const stayFiles = import.meta.glob<{ default: StaySnap }>("../data/hotels/*.json", { eager: true });
 const flightFiles = import.meta.glob<{ default: FlightSnap }>("../data/flights/*.json", { eager: true });
 
@@ -48,8 +50,26 @@ const flights = fl && fl.flights.length >= 2 ? {
   credit: `Round-trip prices for ${fl.adults} adults in total, ${fl.from} to ${fl.to}, ${fmt(fl.outDate)}–${fmt(fl.retDate)}, from Google Flights (checked ${fmt(fl.fetchedAt)}). Outbound flight shown. Prices change; confirm on the booking site.`,
 } : null;
 
-const panels = [stay("hotels", "Hotels", "hotel"), stay("brands", "Hotel brands", "hotel"), stay("homes", "Homes", "home"), flights].filter(Boolean) as NonNullable<ReturnType<typeof stay> | typeof flights>[];
-const city = Object.values(stayFiles).find((f) => f.default.city && Object.keys(stayFiles).some((k) => k.includes(`/${slug}.`) && stayFiles[k] === f))?.default.city ?? slug;
+const q = (s: string) => encodeURIComponent(s);
+const tourPanel = tours.length >= 2 ? {
+  kind: "tours", type: "tour", label: "Tours", noun: "tour",
+  items: tours.map((t, i) => ({ id: `tour-${i}`, icon: t.icon || "🎟️", title: t.title, desc: t.desc, links: [
+    t.viator && { source: "Viator", link: t.viator },
+    t.getyourguide && { source: "GetYourGuide", link: t.getyourguide },
+    { source: "Klook", link: `https://www.klook.com/search/result/?query=${q(`${t.title} ${city}`)}` },
+    { source: "Tiqets", link: `https://www.tiqets.com/en/search?q=${q(`${t.title} ${city}`)}` },
+  ].filter(Boolean) })),
+  badge: `Top things to book in ${city}`,
+  credit: "Tour prices change by date and group size, so each site opens with your search ready to check today's price.",
+} : null;
+const extrasPanel = {
+  kind: "extras", type: "extra", label: "Travel extras", noun: "extra",
+  items: extras.items.map((x) => ({ ...x, url: x.id === "discovercars" ? x.url + q(city) : x.url })),
+  badge: "Insurance, mobile data and car rental",
+  credit: `Starting prices checked on ${fmt(extras.checked)} on each company's site. Prices depend on age, country and dates; confirm before you buy.`,
+};
+
+const panels = [stay("hotels", "Hotels", "hotel"), stay("brands", "Hotel brands", "hotel"), stay("homes", "Homes", "home"), flights, tourPanel, extrasPanel].filter(Boolean) as any[];
 ---
 {panels.length > 0 && (
 <div class="hcmp" data-hcmp>
@@ -69,7 +89,7 @@ const city = Object.values(stayFiles).find((f) => f.default.city && Object.keys(
         {[0, 1].map((slot) => (
           <div class="hcmp__col">
             <select class="hcmp__select" aria-label={`${p.label}: option ${slot + 1}`}>
-              {p.items.map((h: any, j: number) => <option value={h.id} selected={j === slot}>{p.type === "flight" ? `${h.airline} · ${h.depart.slice(11)} · $${h.price.toLocaleString()}` : h.brand ? `${h.brand} · ${h.name}` : h.name}</option>)}
+              {p.items.map((h: any, j: number) => <option value={h.id} selected={j === slot}>{p.type === "flight" ? `${h.airline} · ${h.depart.slice(11)} · $${h.price.toLocaleString()}` : p.type === "tour" ? h.title : p.type === "extra" ? `${h.name} · ${h.kind}` : h.brand ? `${h.brand} · ${h.name}` : h.name}</option>)}
             </select>
             <div class="hcmp__card" data-card></div>
           </div>
@@ -116,8 +136,27 @@ const city = Object.values(stayFiles).find((f) => f.default.city && Object.keys(
       ${link(f.links[0].link, "btn btn--primary book-btn hcmp__book", `See it on Google Flights · $${f.price.toLocaleString()}`)}`;
   };
 
+  type Tour = { id: string; icon: string; title: string; desc: string; links: { source: string; link: string }[] };
+  type Extra = { id: string; icon: string; name: string; kind: string; what: string[]; price: string; url: string };
+
+  const tourCard = (t: Tour) => `
+      <div class="hcmp__hero"><span class="hcmp__emoji" aria-hidden="true">${t.icon}</span><b>${esc(t.title)}</b></div>
+      <p class="hcmp__area">${esc(t.desc)}</p>
+      <p class="hcmp__label">Compare on ${t.links.length} sites</p>
+      <ul class="hcmp__prices">${t.links.map((l) => `<li>${link(l.link, "book-btn", `<span>${esc(l.source)}</span><strong>Check<span class="hcmp__wide"> price</span></strong>`)}</li>`).join("")}</ul>
+      ${link(t.links[0].link, "btn btn--primary book-btn hcmp__book", `See it on ${esc(t.links[0].source)}`)}`;
+
+  const extraCard = (x: Extra) => `
+      <div class="hcmp__hero"><span class="hcmp__emoji" aria-hidden="true">${x.icon}</span><span><b>${esc(x.name)}</b><small>${esc(x.kind)}</small></span></div>
+      <ul class="hcmp__list">${x.what.map((w) => `<li>${esc(w)}</li>`).join("")}</ul>
+      <p class="hcmp__label">Starting price</p>
+      <p class="hcmp__xprice">${x.price ? esc(x.price) : "Depends on your trip"}</p>
+      ${link(x.url, "btn btn--primary book-btn hcmp__book", `${x.price ? "Get" : "Check prices on"} ${esc(x.name)}`)}`;
+
   const verdict = (type: string, noun: string, a: any, b: any) => {
     if (a.id === b.id) return `Pick two different ${noun}s to compare.`;
+    if (type === "tour") return `Open both on Viator and GetYourGuide for your date. The same tour often costs less on one of them.`;
+    if (type === "extra") return `<b>${esc(a.name)}</b> and <b>${esc(b.name)}</b> do different jobs, so many travelers get both.`;
     const name = (x: any) => esc(type === "flight" ? `${x.airline} ${x.depart.slice(11)}` : x.name);
     const pa = type === "flight" ? a.price : a.low, pb = type === "flight" ? b.price : b.low;
     const diff = Math.abs(pa - pb);
@@ -136,7 +175,7 @@ const city = Object.values(stayFiles).find((f) => f.default.city && Object.keys(
       const cols = [...panel.querySelectorAll<HTMLElement>(".hcmp__col")];
       const render = () => {
         const picked = cols.map((c) => data.find((h) => h.id === c.querySelector("select")!.value)!);
-        cols.forEach((c, i) => { c.querySelector("[data-card]")!.innerHTML = type === "flight" ? flightCard(picked[i]) : stayCard(picked[i]); });
+        cols.forEach((c, i) => { c.querySelector("[data-card]")!.innerHTML = type === "flight" ? flightCard(picked[i]) : type === "tour" ? tourCard(picked[i]) : type === "extra" ? extraCard(picked[i]) : stayCard(picked[i]); });
         panel.querySelector("[data-verdict]")!.innerHTML = verdict(type, noun, picked[0], picked[1]);
       };
       cols.forEach((c) => c.querySelector("select")!.addEventListener("change", render));

@@ -1,0 +1,8 @@
+{
+  "checked": "2026-11-09",
+  "items": [
+    { "id": "safetywing", "icon": "🛡️", "name": "SafetyWing", "kind": "Travel medical insurance", "what": ["Subscription you can start while already abroad", "Renews every 4 weeks, cancel anytime", "Medical and travel cover in most countries"], "price": "US$62.72 every 4 weeks (ages 10–39)", "url": "https://safetywing.com/nomad-insurance/" },
+    { "id": "airalo", "icon": "📱", "name": "Airalo", "kind": "eSIM mobile data", "what": ["Install a data plan on your phone before you fly", "No physical SIM or roaming bill", "Local, regional and global plans"], "price": "", "url": "https://www.airalo.com/" },
+    { "id": "discovercars", "icon": "🚗", "name": "DiscoverCars", "kind": "Car rental comparison", "what": ["Compares rental companies in one search", "Shows deposit and fuel policy upfront", "Optional full coverage add-on"], "price": "", "url": "https://www.discovercars.com/search?q=" }
+  ]
+}
