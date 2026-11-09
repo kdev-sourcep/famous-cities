@@ -160,3 +160,9 @@ themeBtns.forEach((b) => b.addEventListener("click", () => {
   syncTheme();
 }));
 syncTheme();
+
+/* Copy deterrent: block selecting, copying and right-click outside form fields */
+const inField = (e: Event) => (e.target as Element | null)?.closest?.("input, textarea, select, [contenteditable]");
+for (const type of ["copy", "cut", "contextmenu", "dragstart", "selectstart"]) {
+  document.addEventListener(type, (e) => { if (!inField(e)) e.preventDefault(); });
+}

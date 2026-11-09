@@ -15,6 +15,9 @@
 [hidden] { display: none !important; }
 html { -webkit-text-size-adjust: 100%; scroll-padding-top: calc(var(--header) + 56px); }
 body { margin: 0; font-family: var(--font); font-size: 16px; line-height: 1.6; color: var(--ink); background: var(--white); -webkit-font-smoothing: antialiased; }
+body { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+input, textarea, select, [contenteditable] { -webkit-user-select: text; user-select: text; }
+img, video { -webkit-user-drag: none; }
 img, video, iframe, svg { max-width: 100%; display: block; }
 a { color: inherit; }
 p { margin: 0 0 var(--s4); }
