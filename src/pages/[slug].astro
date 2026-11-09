@@ -96,7 +96,7 @@ const jsonld = [
         <div class="glance__links">
           {city.social.wikipedia && <a href={city.social.wikipedia} target="_blank" rel="noopener"><span class="social-dot social-dot--wikipedia"><BrandIcon name="wikipedia" size={16} /></span>Wikipedia</a>}
           {city.social.facebook && <a href={city.social.facebook} target="_blank" rel="noopener"><span class="social-dot social-dot--facebook"><BrandIcon name="facebook" size={16} /></span>Facebook</a>}
-          {city.social.twitter && <a href={city.social.twitter} target="_blank" rel="noopener"><span class="social-dot social-dot--x"><BrandIcon name="x" size={14} /></span>X</a>}
+          {city.social.twitter && <a href={city.social.twitter.replace(/^https?:\/\/(www\.)?twitter\.com\//, "https://x.com/")} target="_blank" rel="noopener"><span class="social-dot social-dot--x"><BrandIcon name="x" size={14} /></span>X (Twitter)</a>}
         </div>
       </aside>
     </div>
@@ -108,7 +108,7 @@ const jsonld = [
       <div class="grid grid--4">
         {city.topThings.map((t, i) => (
           <article class="card top-card" style={regionStyle(city.region)}>
-            <span class="tile"><Icon name={topIcon(t.title, t.desc)} size={20} /></span>
+            {t.icon ? <span class="top-card__emoji" aria-hidden="true">{t.icon}</span> : <span class="tile"><Icon name={topIcon(t.title, t.desc)} size={20} /></span>}
             <h3>{t.title}</h3>
             <p class="muted">{t.desc}</p>
             <div class="top-card__links">
