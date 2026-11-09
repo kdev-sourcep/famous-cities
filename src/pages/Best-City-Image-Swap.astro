@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import Icon from "../components/Icon.astro";
 import SupportBand from "../components/SupportBand.astro";
 import Legend from "../components/Legend.astro";
-import { categories, CATEGORY_ICONS, CATEGORY_COLORS as COLORS, cities, cityHref } from "../lib/site";
+import { categories, CATEGORY_EMOJI, CATEGORY_COLORS as COLORS, cities, cityHref } from "../lib/site";
 ---
 <BaseLayout title="How We Rank Cities: The 6 Categories | Famous Cities" description="People, location, promotion, prosperity, programming and product: the six categories used to judge the world's best cities." path="Best-City-Image-Swap.html">
   <section class="page-hero">
@@ -22,7 +22,7 @@ import { categories, CATEGORY_ICONS, CATEGORY_COLORS as COLORS, cities, cityHref
         const examples = cities.filter((x) => x.highlights.includes(c.key)).slice(0, 6);
         return (
           <article class="card cat-card cat-card--lg" id={c.key} style={COLORS[c.key]}>
-            <span class="tile tile--lg"><Icon name={CATEGORY_ICONS[c.key]} size={20} /></span>
+            <span class="cat-emoji cat-emoji--lg" aria-hidden="true">{CATEGORY_EMOJI[c.key]}</span>
             <h2>{c.label}</h2>
             <p>{c.desc}</p>
             {examples.length > 0 && <div class="chips"><span class="muted small">Strong here:</span>{examples.map((x) => <a class="chip" href={cityHref(x.slug)}>{x.name}</a>)}</div>}

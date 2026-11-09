@@ -1,6 +1,6 @@
 ---
 import Icon from "./Icon.astro";
-import { categories, CATEGORY_ICONS, CATEGORY_COLORS, url } from "../lib/site";
+import { categories, CATEGORY_EMOJI, CATEGORY_COLORS, url } from "../lib/site";
 interface Props { active?: string[] }
 const { active = [] } = Astro.props;
 ---
@@ -9,7 +9,7 @@ const { active = [] } = Astro.props;
   <ul class="legend__grid">
     {categories.map((c) => (
       <li><a class:list={["legend__item", { "is-active": active.includes(c.key) }]} href={url(`Best-City-Image-Swap.html#${c.key}`)} style={CATEGORY_COLORS[c.key]}>
-        <span class="tile"><Icon name={CATEGORY_ICONS[c.key]} size={20} /></span>{c.label}
+        <span class="cat-emoji" aria-hidden="true">{CATEGORY_EMOJI[c.key]}</span>{c.label}
       </a></li>
     ))}
   </ul>

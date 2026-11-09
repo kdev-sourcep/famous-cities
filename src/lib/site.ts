@@ -66,6 +66,11 @@ export function factTitle(s: string): string {
 
 export const CATEGORY_COLORS: Record<string, string> = { people: "--c1:#FF4FA3;--c2:#8B5CF6", location: "--c1:#0EA5E9;--c2:#6366F1", promotion: "--c1:#FF5A5F;--c2:#FF8A3D", prosperity: "--c1:#0FB5A2;--c2:#22C55E", programming: "--c1:#6B4EFF;--c2:#A855F7", product: "--c1:#F59E0B;--c2:#FB7185" };
 
+export const CATEGORY_EMOJI: Record<string, string> = {
+  people: "🧑", location: "📍", promotion: "📣",
+  prosperity: "💰", programming: "💻", product: "📦",
+};
+
 export const CATEGORY_ICONS: Record<string, string> = {
   people: "users", location: "map-pin", promotion: "megaphone",
   prosperity: "banknote", programming: "drama", product: "landmark",

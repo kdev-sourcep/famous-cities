@@ -275,6 +275,9 @@ a.chip:hover { border-color: #c9c3ea; }
 .social-dot--wikipedia { background: #FFFFFF; color: #000; border: 1px solid var(--line); }
 .top-card { display: flex; flex-direction: column; gap: var(--s3); }
 .top-card p { margin: 0; flex: 1; font-size: 15px; }
+.cat-emoji { display: inline-grid; place-items: center; width: 40px; height: 40px; flex: none; font-size: 28px; line-height: 1; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.cat-emoji--lg { width: 44px; height: 44px; font-size: 32px; }
+.cat-emoji--sm { width: auto; height: auto; font-size: 15px; }
 .top-card__emoji { font-size: 34px; line-height: 1; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
 .top-card__links { display: flex; flex-wrap: wrap; gap: var(--s2); }
 .facts { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }

@@ -5,7 +5,7 @@ import CityCard from "../components/CityCard.astro";
 import SupportBand from "../components/SupportBand.astro";
 import YouTube from "../components/YouTube.astro";
 import speed from "../data/speed-tour.json";
-import { cities, regions, citiesIn, cityHref, url, rankings, rankedCities, categories, CATEGORY_ICONS, regionStyle, regionId, absUrl } from "../lib/site";
+import { cities, regions, citiesIn, cityHref, url, rankings, rankedCities, categories, CATEGORY_EMOJI, regionStyle, regionId, absUrl } from "../lib/site";
 const byName = (n: string) => cities.find((c) => c.name === n)!;
 const popular = ["Paris", "London", "Tokyo", "New York", "Dubai", "Rome", "Barcelona"].map(byName).filter(Boolean);
 const heroCards = ["Paris", "Tokyo", "Rio de Janeiro", "Cape Town"].map(byName).filter(Boolean);
@@ -92,7 +92,7 @@ const jsonld = [{ "@type": "WebSite", "name": "Famous Cities", "url": absUrl("")
       <div class="grid grid--3">
         {categories.map((c) => (
           <a class="card cat-card" href={url(`Best-City-Image-Swap.html#${c.key}`)}>
-            <span class="tile"><Icon name={CATEGORY_ICONS[c.key]} size={20} /></span>
+            <span class="cat-emoji" aria-hidden="true">{CATEGORY_EMOJI[c.key]}</span>
             <h3>{c.label}</h3>
             <p class="muted">{c.desc}</p>
           </a>

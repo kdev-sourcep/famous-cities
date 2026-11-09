@@ -7,7 +7,7 @@ import SupportBand from "../components/SupportBand.astro";
 import Legend from "../components/Legend.astro";
 import YouTube from "../components/YouTube.astro";
 import HotelCompare from "../components/HotelCompare.astro";
-import { cities, citiesIn, url, rich, absUrl, regionStyle, regionId, factTitle, topIcon, CATEGORY_ICONS, categories, type City } from "../lib/site";
+import { cities, citiesIn, url, rich, absUrl, regionStyle, regionId, factTitle, topIcon, CATEGORY_EMOJI, categories, type City } from "../lib/site";
 
 export function getStaticPaths() {
   return cities.map((city) => ({ params: { slug: city.slug }, props: { city } }));
@@ -91,7 +91,7 @@ const jsonld = [
         </dl>
         {city.highlights.length > 0 && (<>
           <h4>Highlights</h4>
-          <div class="chips">{city.highlights.map((h) => <a class="chip" href={url(`Best-City-Image-Swap.html#${h}`)}><Icon name={CATEGORY_ICONS[h]} size={14} />{catLabel(h)}</a>)}</div>
+          <div class="chips">{city.highlights.map((h) => <a class="chip" href={url(`Best-City-Image-Swap.html#${h}`)}><span class="cat-emoji cat-emoji--sm" aria-hidden="true">{CATEGORY_EMOJI[h]}</span>{catLabel(h)}</a>)}</div>
         </>)}
         <div class="glance__links">
           {city.social.wikipedia && <a href={city.social.wikipedia} target="_blank" rel="noopener"><span class="social-dot social-dot--wikipedia"><BrandIcon name="wikipedia" size={16} /></span>Wikipedia</a>}
