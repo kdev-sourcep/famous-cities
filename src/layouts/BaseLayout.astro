@@ -46,6 +46,13 @@ const legacy = ["donate.js", "affiliate.js", ...(cityPage ? ["booking-links.js"]
 <body>
   <a class="skip" href="#main">Skip to content</a>
   <Header />
+  <div class="brand-band" role="note" aria-label="Famous Cities: Discover the world">
+    <div class="container">
+      <p class="brand-band__title">Famous Cities</p>
+      <p class="brand-band__tag">Discover the world</p>
+      <p class="brand-band__line">Interesting places. Incredible stories. Better stays.</p>
+    </div>
+  </div>
   <main id="main"><slot /></main>
   <Footer />
   <slot name="after" />

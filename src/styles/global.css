@@ -96,6 +96,13 @@ a.chip:hover { border-color: #c9c3ea; }
 /* Header */
 .site-header { position: sticky; top: 0; z-index: 50; height: var(--header); background: var(--glass); backdrop-filter: saturate(180%) blur(14px); -webkit-backdrop-filter: saturate(180%) blur(14px); border-bottom: 1px solid var(--line); }
 .site-header .container { height: 100%; display: flex; align-items: center; gap: var(--s4); }
+.brand-band { background: #1c2b45; color: #fff; text-align: center; padding: 22px 0 20px; }
+.brand-band p { margin: 0; }
+.brand-band__title { font-size: 34px; font-weight: 800; letter-spacing: .02em; line-height: 1.15; text-transform: uppercase; }
+.brand-band__tag { margin-top: 6px !important; font-size: 20px; font-weight: 500; letter-spacing: .04em; color: #d4b483; text-transform: uppercase; }
+.brand-band__line { margin-top: 8px !important; font-size: 15px; color: rgba(255,255,255,.88); }
+html[data-theme="dark"] .brand-band { background: #131d31; border-bottom: 1px solid rgba(255,255,255,.08); }
+@media (max-width: 720px) { .brand-band { padding: 16px 0 14px; } .brand-band__title { font-size: 24px; } .brand-band__tag { font-size: 15px; } .brand-band__line { font-size: 13px; } }
 .logo { display: inline-flex; align-items: center; gap: 10px; font-weight: 800; font-size: 18px; letter-spacing: -0.02em; text-decoration: none; color: var(--ink); flex: none; }
 .logo__mark { width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center; color: #fff; background: var(--brand); }
 .nav { display: flex; align-items: center; gap: var(--s1); }
