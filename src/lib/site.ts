@@ -14,7 +14,7 @@ export interface City {
 }
 
 export const SITE_NAME = "Famous Cities";
-export const SITE_URL = "https://kdev-sourcep.github.io";
+export const SITE_URL = (import.meta.env.SITE || "https://kdev-sourcep.github.io").replace(/\/$/, "");
 const BASE = import.meta.env.BASE_URL.replace(/\/$/, "");
 
 /** Every internal href/src goes through this so the base path is always added. */
