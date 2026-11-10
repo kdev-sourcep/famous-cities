@@ -166,6 +166,8 @@ html[data-theme="dark"] .brand-band { background: #131d31; border-bottom: 1px so
 .footer__grid ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; font-size: 15px; }
 .footer__brand p { font-size: 15px; margin-top: var(--s4); max-width: 34ch; }
 .footer__brand .logo { color: #fff; }
+.footer__brand .footer__funding { font-size: 14px; margin-top: var(--s3); }
+.footer__funding a { color: #fff; text-decoration: underline; }
 .footer__bottom { margin-top: var(--s7); padding-top: var(--s5); border-top: 1px solid rgba(255,255,255,.12); font-size: 14px; display: flex; flex-wrap: wrap; gap: var(--s3); justify-content: space-between; }
 @media (max-width: 900px) { .footer__grid { grid-template-columns: 1fr 1fr; } }
 @media (max-width: 560px) { .footer__grid { grid-template-columns: 1fr; } }
