@@ -1,11 +1,12 @@
 ---
 import Icon from "./Icon.astro";
-import { cityHref, regionStyle, type City } from "../lib/site";
+import { cityHref, regionStyle, url, type City } from "../lib/site";
 interface Props { city: City; size?: "md" | "lg"; showRank?: boolean; tagline?: boolean }
 const { city, size = "md", showRank = false, tagline = false } = Astro.props;
 const tag = city.tagline.replace(/<[^>]+>/g, "");
 ---
 <a class:list={["city-card", size === "lg" && "city-card--lg"]} href={cityHref(city.slug)} style={regionStyle(city.region)}>
+  {city.video && <img class="city-card__photo" src={url(`cards/${city.slug}.webp`)} alt="" width="560" height="340" loading="lazy" decoding="async" />}
   {showRank && city.rank2026 && <span class="city-card__rank">#{city.rank2026}</span>}
   <span class="city-card__go"><Icon name="arrow-right" size={16} /></span>
   <span class="city-card__name">{city.name}</span>
