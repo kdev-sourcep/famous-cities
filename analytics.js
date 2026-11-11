@@ -1,7 +1,7 @@
 (function () {
   // Paste your Google Analytics 4 Measurement ID here (looks like "G-ABC123XYZ").
   // Leave it empty and nothing is loaded or tracked.
-  var GA_MEASUREMENT_ID = "";
+  var GA_MEASUREMENT_ID = "G-9P504155XN";
 
   if (!GA_MEASUREMENT_ID) return;
 
