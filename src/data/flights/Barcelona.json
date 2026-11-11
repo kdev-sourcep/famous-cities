@@ -1,0 +1,255 @@
+{
+  "from": "JFK",
+  "to": "BCN",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDQkNOGh4SCjIwMjYtMTItMTZqBwgBEgNCQ05yBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1324,
+      "stops": 1,
+      "duration": 640,
+      "depart": "2026-12-09 18:40",
+      "arrive": "2026-12-10 11:20",
+      "route": [
+        "JFK",
+        "LHR",
+        "BCN"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 85
+        }
+      ],
+      "flightNumbers": [
+        "BA 174",
+        "BA 476"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1369,
+      "stops": 0,
+      "duration": 460,
+      "depart": "2026-12-09 18:55",
+      "arrive": "2026-12-10 08:35",
+      "route": [
+        "JFK",
+        "BCN"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 168"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1406,
+      "stops": 1,
+      "duration": 600,
+      "depart": "2026-12-09 01:00",
+      "arrive": "2026-12-09 17:00",
+      "route": [
+        "JFK",
+        "CDG",
+        "BCN"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 70
+        }
+      ],
+      "flightNumbers": [
+        "AF 11",
+        "AF 1548"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Below average legroom (29 in)"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 2029,
+      "stops": 0,
+      "duration": 480,
+      "depart": "2026-12-09 20:25",
+      "arrive": "2026-12-10 10:25",
+      "route": [
+        "JFK",
+        "BCN"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 66"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Tap Air Portugal",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TP.png",
+      "price": 1231,
+      "stops": 1,
+      "duration": 980,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-10 20:20",
+      "route": [
+        "JFK",
+        "LIS",
+        "BCN"
+      ],
+      "layovers": [
+        {
+          "airport": "LIS",
+          "minutes": 445
+        }
+      ],
+      "flightNumbers": [
+        "TP 210",
+        "TP 1038"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1522,
+      "stops": 1,
+      "duration": 650,
+      "depart": "2026-12-09 21:50",
+      "arrive": "2026-12-10 14:40",
+      "route": [
+        "JFK",
+        "LHR",
+        "BCN"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 100
+        }
+      ],
+      "flightNumbers": [
+        "BA 114",
+        "BA 482"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1744,
+      "stops": 1,
+      "duration": 665,
+      "depart": "2026-12-09 20:40",
+      "arrive": "2026-12-10 13:45",
+      "route": [
+        "JFK",
+        "LHR",
+        "BCN"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 115
+        }
+      ],
+      "flightNumbers": [
+        "BA 172",
+        "BA 480"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Iberia",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+      "price": 1769,
+      "stops": 1,
+      "duration": 585,
+      "depart": "2026-12-09 21:00",
+      "arrive": "2026-12-10 12:45",
+      "route": [
+        "JFK",
+        "MAD",
+        "BCN"
+      ],
+      "layovers": [
+        {
+          "airport": "MAD",
+          "minutes": 75
+        }
+      ],
+      "flightNumbers": [
+        "IB 326",
+        "IB 411"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

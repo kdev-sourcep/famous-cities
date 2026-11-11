@@ -1,0 +1,234 @@
+{
+  "from": "JFK",
+  "to": "LHR",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDTEhSGh4SCjIwMjYtMTItMTZqBwgBEgNMSFJyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 1599,
+      "stops": 0,
+      "duration": 415,
+      "depart": "2026-12-09 18:25",
+      "arrive": "2026-12-10 06:20",
+      "route": [
+        "JFK",
+        "LHR"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 100"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1657,
+      "stops": 0,
+      "duration": 415,
+      "depart": "2026-12-09 08:05",
+      "arrive": "2026-12-09 20:00",
+      "route": [
+        "JFK",
+        "LHR"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "BA 178"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1682,
+      "stops": 0,
+      "duration": 425,
+      "depart": "2026-12-09 20:00",
+      "arrive": "2026-12-10 08:05",
+      "route": [
+        "JFK",
+        "LHR"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 1"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Aer Lingus",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+      "price": 1586,
+      "stops": 1,
+      "duration": 605,
+      "depart": "2026-12-09 17:00",
+      "arrive": "2026-12-10 08:05",
+      "route": [
+        "JFK",
+        "DUB",
+        "LHR"
+      ],
+      "layovers": [
+        {
+          "airport": "DUB",
+          "minutes": 125
+        }
+      ],
+      "flightNumbers": [
+        "EI 104",
+        "EI 152"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Aer Lingus",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EI.png",
+      "price": 1586,
+      "stops": 1,
+      "duration": 585,
+      "depart": "2026-12-09 19:25",
+      "arrive": "2026-12-10 10:10",
+      "route": [
+        "JFK",
+        "DUB",
+        "LHR"
+      ],
+      "layovers": [
+        {
+          "airport": "DUB",
+          "minutes": 105
+        }
+      ],
+      "flightNumbers": [
+        "EI 108",
+        "EI 156"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 1599,
+      "stops": 0,
+      "duration": 420,
+      "depart": "2026-12-09 10:10",
+      "arrive": "2026-12-09 22:10",
+      "route": [
+        "JFK",
+        "LHR"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 142"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 1599,
+      "stops": 0,
+      "duration": 420,
+      "depart": "2026-12-09 21:15",
+      "arrive": "2026-12-10 09:15",
+      "route": [
+        "JFK",
+        "LHR"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 104"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Tap Air Portugal",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TP.png",
+      "price": 1608,
+      "stops": 1,
+      "duration": 750,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-10 15:30",
+      "route": [
+        "JFK",
+        "LIS",
+        "LHR"
+      ],
+      "layovers": [
+        {
+          "airport": "LIS",
+          "minutes": 160
+        }
+      ],
+      "flightNumbers": [
+        "TP 210",
+        "TP 1368"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "city": "Madrid",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQ45Sfk4XegJqFARoNL2cvMTF5bHFia2R0YhAC",
+      "name": "Plaza de España Skyline - Suite Terrace Skyline",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "2 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 5,
+      "reviews": 16,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Kid-friendly",
+        "Crib"
+      ],
+      "prices": [
+        {
+          "source": "freecancellations.com",
+          "price": 190,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygYhbwAHsvgO2dc_G5c0AA8VRjbvSCssqD6eCDrOw1US2KiwucnHLN7AcpAD59IFxjxeIVqbFriZSYPdqNeuTCsWInLLvlLMGKQmIP9WNPyuKcg-rBX-y8LXv_ZtpsWKMRn5Ww6uvc0kPnBgVUf5M2JUQzX7yFqcOrptxGhfmgYlsiYY0NPvq-iTVg__clnVdonQdobsHlfHZ0XxGcKRWw&pcurl=https://www.freecancellations.com/search/F2olE1ZdSHRXWVIHXFsFRloMWEplQVVK?adults%3D2%26utm_campaign%3Dvr%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,JcLTh-6zGZNhCXZzzGyLtWu0cOcgJtQf9RKpsArNn3HUZmsHySQLIlwDUHuS02Pf,-bkng-Apartment%26language%3Den%26source%3Dlocaluniversal%26%26prid%3D%26reful%3D&s=ALZo0YJBd5yqBMKcVhcLTXeCyayk&ap=1"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 250,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygE_r095riYrL0HoQKLeJKt4SJYmCUJR6j8SaeSw7nZp8a92yL-KEG7m339t92ejeqeoWafMT3HOFZ2fQoTlPnc-EpJT6sN2bSC2IUFankI3PIll5YR5_1Zi1K5F2xPCFMBszeKq0DElOpH6AWORXF33wTSw_cNSGV-Ufx02AryV_T_IXluCAaaEpM9cg&pcurl=https://www.bluepillow.com/search/65ca38f7671b07d23c6d4408/285806105?begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,luRm7hudOPJklGvlsSMboqBS5i_EIBM3d2cmC_qiiTwhCYE4N-diZx8YdOax2WNK,-bkng-Apartment%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3D&s=ALZo0YJU3Vp5L56I-C9h_DeuOo2g&ap=1"
+        }
+      ]
+    }
+  ]
+}

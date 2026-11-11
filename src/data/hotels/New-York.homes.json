@@ -1,0 +1,83 @@
+{
+  "city": "New York",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChkQvLW5-oy1u6s-Gg0vZy8xMWtqNW5jYjVsEAI",
+      "name": "Charming spacious garden level apt",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 4.89729,
+      "reviews": 41,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Kid-friendly",
+        "Crib"
+      ],
+      "prices": [
+        {
+          "source": "Best Furnished",
+          "price": 179,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygCOsLJFkmVGVeXf8Mun6CUo_WQyPjz05SXM_zqgisREJF8kG3IUZKU6gu5PpbBkzMuDi92LLBm0s7jO2BHgNkC7c8tWK9Jlj0nj-xzXP2xtiwZxzIQidpKeqEhl5s0PdcPs1YHm_W40UbfIsvcT2ortufFj7WKdf0i1o8g6T0Xnti_nubOoAFA&pcurl=https://thebestfurnished.com/product/charming-spacious-garden-level-apt?src%3Dggl%26propertyId%3D49930e7d-fab9-4e22-943d-052421ebfe8a%26arrival%3D2026-12-09%26departure%3D2026-12-11%26checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26guests%3D2&s=ALZo0YLfpUKx2PxLDHF5IE0lGZ2_&ap=1"
+        },
+        {
+          "source": "Whimstay",
+          "price": 182,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygv3tq8vkJI1pend_HZv2OHQK2o3yOkQJE_D7x7-hckslN_n9NbFMO1DzlRfHfdtg3QH75-DVxYgNbSGU14pV9Om1Lyv8R9v40n05Ad8PvcY4c4GR8BfQaChlnBN0RG3HH-ZFnqlmMv2hwDuU26Eg6tDtVuk68yHC-4RlFQybUsYUvxYCwUZFM&pcurl=https://www.whimstay.com/detail/property/324726?check_in%3D2026-12-09%26check_out%3D2026-12-11%26adultsCount%3D2%26childrenCount%3D0%26isgoogle%3Dtrue%26utm_source%3Dgvr%26utm_medium%3Dorganic%26clk_src%3D%26verification%3Dfalse%26allowSameDay%3Dtrue&s=ALZo0YKn5Nbv1t5IQ0UdrxtFNEHP&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChoQprKQxpzRgKP_ARoNL2cvMTFucF9yOWNyZxAC",
+      "name": "Bright Modern Retreat with Balcony",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 6",
+        "2 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 4.383333,
+      "reviews": 18,
+      "room": "",
+      "photo": "homes-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Balcony",
+        "Kid-friendly"
+      ],
+      "prices": [
+        {
+          "source": "Whimstay",
+          "price": 194,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiZPzXDQB8QJjVZWFM-oCFg3qpGIg4laFebx0LwqYEgaBlnMqIsLwuNUNaEubewGPCM-9uuWXj8VRwtH6GieQjv5bUyH-IfF-goak48EkfFH_ALzEYA6Url-uBq_-w8fYSJ6Qakni_StwKOOSij_ges-Ce9KIwX_ZlMTHOSri4c-PNtETcZJQ0&pcurl=https://www.whimstay.com/detail/property/100934274?check_in%3D2026-12-09%26check_out%3D2026-12-11%26adultsCount%3D2%26childrenCount%3D0%26isgoogle%3Dtrue%26utm_source%3Dgvr%26utm_medium%3Dorganic%26clk_src%3D%26verification%3Dfalse%26allowSameDay%3Dtrue&s=ALZo0YLDtO_5KuLKpKEZ9ak-RAPd&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 257,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyitenxarXk2ofTgk2xbek3RBwSIuJiFrgat9Bs3bL3C-rvdiKgjITFHpeEF2RZp37BUwCOTUg6K6EAW-ZG4DCHj0hy6xH7k3C9pVvFryh6ebHL-cI6OUgx3iTPJNIahN3JS9kuQ3xi00YUBLzH3EyL_GwiHxqKw6Br5Cf6A7YNG2TUaKbMrvA&pcurl=https://www.vrbo.com/search?selected%3D128798364%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.128798364.20261209.20261211.DDF.29.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D513.62%26mpj%3D195.44%26mpr%3D125.00%26mpl%3DUSD%26langid%3Den%26rateplanid%3D000421ce9ffd3dc8411a841c13804ef16ad5%26mpm%3D103%26mpn%3D128798364%26mpo%3DEC%26mpe%3D1794303389%26mpp%3D1&s=ALZo0YLT78ahKu0_N_IcO5jWmPEL&ap=1"
+        }
+      ]
+    }
+  ]
+}

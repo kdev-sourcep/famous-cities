@@ -1,0 +1,269 @@
+{
+  "from": "JFK",
+  "to": "BKK",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDQktLGh4SCjIwMjYtMTItMTZqBwgBEgNCS0tyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Qatar Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "price": 2592,
+      "stops": 1,
+      "duration": 1220,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 18:50",
+      "route": [
+        "JFK",
+        "DOH",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "DOH",
+          "minutes": 115
+        }
+      ],
+      "flightNumbers": [
+        "QR 704",
+        "QR 832"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Etihad",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "price": 2719,
+      "stops": 1,
+      "duration": 1235,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-11 06:35",
+      "route": [
+        "JFK",
+        "AUH",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "AUH",
+          "minutes": 100
+        }
+      ],
+      "flightNumbers": [
+        "EY 4",
+        "EY 402"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 2911,
+      "stops": 1,
+      "duration": 1355,
+      "depart": "2026-12-09 00:30",
+      "arrive": "2026-12-10 11:05",
+      "route": [
+        "JFK",
+        "ICN",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "ICN",
+          "minutes": 60
+        }
+      ],
+      "flightNumbers": [
+        "OZ 223",
+        "OZ 743"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Etihad",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "price": 2555,
+      "stops": 1,
+      "duration": 1535,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-11 11:35",
+      "route": [
+        "JFK",
+        "AUH",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "AUH",
+          "minutes": 405
+        }
+      ],
+      "flightNumbers": [
+        "EY 4",
+        "EY 404"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Etihad",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "price": 2669,
+      "stops": 1,
+      "duration": 1240,
+      "depart": "2026-12-09 15:00",
+      "arrive": "2026-12-10 23:40",
+      "route": [
+        "JFK",
+        "AUH",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "AUH",
+          "minutes": 110
+        }
+      ],
+      "flightNumbers": [
+        "EY 2",
+        "EY 400"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 2741,
+      "stops": 1,
+      "duration": 1410,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 22:00",
+      "route": [
+        "JFK",
+        "ICN",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "ICN",
+          "minutes": 110
+        }
+      ],
+      "flightNumbers": [
+        "OZ 221",
+        "OZ 741"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Turkish Airlines + THAI",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2876,
+      "stops": 1,
+      "duration": 1265,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-11 05:20",
+      "route": [
+        "JFK",
+        "IST",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 140
+        }
+      ],
+      "flightNumbers": [
+        "TK 2",
+        "TG 901"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Philippine Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/PR.png",
+      "price": 2963,
+      "stops": 1,
+      "duration": 1340,
+      "depart": "2026-12-09 01:45",
+      "arrive": "2026-12-10 12:05",
+      "route": [
+        "JFK",
+        "MNL",
+        "BKK"
+      ],
+      "layovers": [
+        {
+          "airport": "MNL",
+          "minutes": 125
+        }
+      ],
+      "flightNumbers": [
+        "PR 127",
+        "PR 730"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    }
+  ]
+}

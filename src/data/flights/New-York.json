@@ -1,0 +1,213 @@
+{
+  "from": "LAX",
+  "to": "JFK",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDTEFYcgcIARIDSkZLGh4SCjIwMjYtMTItMTZqBwgBEgNKRktyBwgBEgNMQVhAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 714,
+      "stops": 0,
+      "duration": 317,
+      "depart": "2026-12-09 06:13",
+      "arrive": "2026-12-09 14:30",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 118"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 714,
+      "stops": 0,
+      "duration": 317,
+      "depart": "2026-12-09 08:00",
+      "arrive": "2026-12-09 16:17",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 307"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 714,
+      "stops": 0,
+      "duration": 318,
+      "depart": "2026-12-09 13:50",
+      "arrive": "2026-12-09 22:08",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 4"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 816,
+      "stops": 0,
+      "duration": 325,
+      "depart": "2026-12-09 09:00",
+      "arrive": "2026-12-09 17:25",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 724"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 816,
+      "stops": 0,
+      "duration": 327,
+      "depart": "2026-12-09 10:03",
+      "arrive": "2026-12-09 18:30",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 824"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 816,
+      "stops": 0,
+      "duration": 325,
+      "depart": "2026-12-09 11:35",
+      "arrive": "2026-12-09 20:00",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 424"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 816,
+      "stops": 0,
+      "duration": 326,
+      "depart": "2026-12-09 13:05",
+      "arrive": "2026-12-09 21:31",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 524"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 816,
+      "stops": 0,
+      "duration": 323,
+      "depart": "2026-12-09 14:30",
+      "arrive": "2026-12-09 22:53",
+      "route": [
+        "LAX",
+        "JFK"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 1124"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

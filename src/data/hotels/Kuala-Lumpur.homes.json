@@ -1,0 +1,47 @@
+{
+  "city": "Kuala Lumpur",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQsqunv8qPup30ARoNL2cvMTFucHRsNjI0bBAC",
+      "name": "The Colony & The Luxe, Kuala Lumpur by Canopy Lives",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 2",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 4.086713,
+      "reviews": 2303,
+      "room": "",
+      "photo": "homes-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Balcony"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 40,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjp3TLyX3JOnJT2zYSDXCWb4DIO9wvwTlfOBavt7TIJYzEdemO1vxCSoWAN0h9zoI3kaW7jDbl7KVWL6HBDc661u-j0YRYxIRmUtTCxPAcKsyIsXyUvP4mrdQMEFCUFvWJTKe-qY95Wg_kPgeiKgHMI8SEIW6pAoyOuqpJHThP1wui0pu03QvBGgxmN45Y9JPd9it5kt3XmZ0alZxRfJZs&pcurl=https://www.expedia.com/Hotel-Search?selected%3D90736505%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.90736505.20261209.20261211.DDF.28.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D80.97%26exp_tx%3D16.52%26mpr%3D6.44%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D90736505%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D389154811%26mpm%3D24%26mpn%3D321613962%26mpo%3DEC%26mpe%3D1794331728%26mpp%3D1&s=ALZo0YLr7VVhScEhUTOsJaH6V0Ih&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 40,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhHkPablcF3ZUwzP8rSnTRGFsc2TmFa1DavC0TBw975uR6hgC-nPpkXGBLPlai9BjkiZCJzcdBpOCAmGycpJxDXzc35TTjWmPqZOwZiexPI8ENymfJXPTF2wj7eBxQo6EFE0E3MqogMWHc3nJO57sRPwjMZzx49hnX80CRmdJKDKD51_SPs8YraFEzY&pcurl=https://www.hotels.com/Hotel-Search?selected%3D90736505%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.90736505.20261209.20261211.DDF.28.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D80.97%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D16.52%26mpr%3D6.44%26rateplanid%3D389154811%26mpm%3D24%26mpn%3D321613962%26mpo%3DEC%26mpe%3D1794326697%26mpp%3D1&s=ALZo0YK63hO_-EpTGO4b5bOxorXv&ap=1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "from": "JFK",
+  "to": "MEX",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDTUVYGh4SCjIwMjYtMTItMTZqBwgBEgNNRVhyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Delta + Aeromexico",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1249,
+      "stops": 1,
+      "duration": 690,
+      "depart": "2026-12-09 07:00",
+      "arrive": "2026-12-09 17:30",
+      "route": [
+        "JFK",
+        "LAX",
+        "MEX"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 90
+        }
+      ],
+      "flightNumbers": [
+        "DL 742",
+        "AM 647"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 1461,
+      "stops": 0,
+      "duration": 335,
+      "depart": "2026-12-09 07:00",
+      "arrive": "2026-12-09 11:35",
+      "route": [
+        "JFK",
+        "MEX"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 2995"
+      ],
+      "cabin": "Economy",
+      "legroom": "30 in",
+      "extensions": [
+        "Average legroom (30 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Viva",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/VB.png",
+      "price": 1473,
+      "stops": 0,
+      "duration": 345,
+      "depart": "2026-12-09 14:00",
+      "arrive": "2026-12-09 18:45",
+      "route": [
+        "JFK",
+        "MEX"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "VB 101"
+      ],
+      "cabin": "Economy",
+      "legroom": "28 in",
+      "extensions": [
+        "Below average legroom (28 in)"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1780,
+      "stops": 0,
+      "duration": 340,
+      "depart": "2026-12-09 09:30",
+      "arrive": "2026-12-09 14:10",
+      "route": [
+        "JFK",
+        "MEX"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 625"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Aeromexico",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AM.png",
+      "price": 1780,
+      "stops": 0,
+      "duration": 345,
+      "depart": "2026-12-09 14:30",
+      "arrive": "2026-12-09 19:15",
+      "route": [
+        "JFK",
+        "MEX"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AM 409"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Delta + Aeromexico",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1373,
+      "stops": 1,
+      "duration": 945,
+      "depart": "2026-12-09 09:00",
+      "arrive": "2026-12-09 23:45",
+      "route": [
+        "JFK",
+        "LAX",
+        "MEX"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 347
+        }
+      ],
+      "flightNumbers": [
+        "DL 773",
+        "AM 643"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 1470,
+      "stops": 1,
+      "duration": 559,
+      "depart": "2026-12-09 15:59",
+      "arrive": "2026-12-10 00:18",
+      "route": [
+        "JFK",
+        "MIA",
+        "MEX"
+      ],
+      "layovers": [
+        {
+          "airport": "MIA",
+          "minutes": 131
+        }
+      ],
+      "flightNumbers": [
+        "AA 709",
+        "AA 1798"
+      ],
+      "cabin": "Economy",
+      "legroom": "30 in",
+      "extensions": [
+        "Average legroom (30 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Aeromexico",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AM.png",
+      "price": 1780,
+      "stops": 0,
+      "duration": 352,
+      "depart": "2026-12-09 16:53",
+      "arrive": "2026-12-09 21:45",
+      "route": [
+        "JFK",
+        "MEX"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AM 403"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

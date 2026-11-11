@@ -1,0 +1,241 @@
+{
+  "from": "JFK",
+  "to": "HND",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDSE5EGh4SCjIwMjYtMTItMTZqBwgBEgNITkRyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 2182,
+      "stops": 0,
+      "duration": 885,
+      "depart": "2026-12-09 09:50",
+      "arrive": "2026-12-10 14:35",
+      "route": [
+        "JFK",
+        "HND"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 167"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+      "price": 2322,
+      "stops": 0,
+      "duration": 875,
+      "depart": "2026-12-09 00:35",
+      "arrive": "2026-12-10 05:10",
+      "route": [
+        "JFK",
+        "HND"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "JL 3"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "ANA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+      "price": 2683,
+      "stops": 0,
+      "duration": 875,
+      "depart": "2026-12-09 13:05",
+      "arrive": "2026-12-10 17:40",
+      "route": [
+        "JFK",
+        "HND"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "NH 109"
+      ],
+      "cabin": "Economy",
+      "legroom": "34 in",
+      "extensions": [
+        "Above average legroom (34 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "American + JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2191,
+      "stops": 1,
+      "duration": 1200,
+      "depart": "2026-12-09 07:20",
+      "arrive": "2026-12-10 17:20",
+      "route": [
+        "JFK",
+        "SFO",
+        "HND"
+      ],
+      "layovers": [
+        {
+          "airport": "SFO",
+          "minutes": 100
+        }
+      ],
+      "flightNumbers": [
+        "AA 76",
+        "JL 1"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "American + JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2191,
+      "stops": 1,
+      "duration": 1040,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 17:50",
+      "route": [
+        "JFK",
+        "ORD",
+        "HND"
+      ],
+      "layovers": [
+        {
+          "airport": "ORD",
+          "minutes": 50
+        }
+      ],
+      "flightNumbers": [
+        "AA 2848",
+        "JL 9"
+      ],
+      "cabin": "Economy",
+      "legroom": "30 in",
+      "extensions": [
+        "Average legroom (30 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2215,
+      "stops": 1,
+      "duration": 1085,
+      "depart": "2026-12-09 06:00",
+      "arrive": "2026-12-10 14:05",
+      "route": [
+        "JFK",
+        "ATL",
+        "HND"
+      ],
+      "layovers": [
+        {
+          "airport": "ATL",
+          "minutes": 42
+        }
+      ],
+      "flightNumbers": [
+        "DL 2286",
+        "DL 295"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2215,
+      "stops": 1,
+      "duration": 1085,
+      "depart": "2026-12-09 07:00",
+      "arrive": "2026-12-10 15:05",
+      "route": [
+        "JFK",
+        "MSP",
+        "HND"
+      ],
+      "layovers": [
+        {
+          "airport": "MSP",
+          "minutes": 99
+        }
+      ],
+      "flightNumbers": [
+        "DL 2390",
+        "DL 121"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+      "price": 2322,
+      "stops": 0,
+      "duration": 875,
+      "depart": "2026-12-09 12:20",
+      "arrive": "2026-12-10 16:55",
+      "route": [
+        "JFK",
+        "HND"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "JL 5"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

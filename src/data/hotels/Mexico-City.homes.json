@@ -1,0 +1,95 @@
+{
+  "city": "Mexico City",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQ1NPl76Ow7rP_ARoNL2cvMTF3M2todGozYxAC",
+      "name": "Casa Chopo in Mexico City CDMX",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 2",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 4.7,
+      "reviews": 474,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Ironing board",
+        "Kitchen",
+        "Microwave"
+      ],
+      "prices": [
+        {
+          "source": "Hotels.com",
+          "price": 50,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygI8cdW1cgpJSORVDimEYYnnTjVK-IIddmBXqGPn6HxczhX7C1iA4SMFODztMf550-OtmoWePawoaak-yawYutr1Q4H4pDi3GvO2xXOrJo5T9HBzCiwNzuu56meeQ-Ud-IPr75v_JtzH_ohkCEQdrZnm2Jq9dCyjIBp2nbFF4_BEiZW0WIPDmFkRrvt&pcurl=https://ca.hotels.com/Hotel-Search?selected%3D105672077%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-CA.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.105672077.20261209.20261211.DDF.29.CID..AUDID..RRID.bex_ca_desktop%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D99.19%26mpg%3DUSD%26mpl%3DCAD%26mpj%3D16.19%26mpr%3D0.00%26rateplanid%3D395958905%26mpm%3D24%26mpn%3D324832869%26mpo%3DHC%26mpe%3D1794319836%26mpp%3D1&s=ALZo0YK1qAoq9m6fTqZnCLzNyq1j&ap=1"
+        },
+        {
+          "source": "Expedia.ca",
+          "price": 50,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjqkexeltPX26RbnERRMocZWx0ozjBPUKkN_RK7CpaZEzOVqnDLJzIT3CW0tf7yaGcyFpk2X7URqUnz1-wUk8OQYT8v2I1WI-LAyE3Ph9POTCT-ykp0GG9yS6NVuG7ZwwE39Gm5FdcSMyKFNdUCdxiqykqBnfvNMd60SjLFzc6W7z9GaFte5zLm56Nkmuk28u0KU6nJ-MGjoTkHH4hAsIs&pcurl=https://www.expedia.ca/Hotel-Search?selected%3D105672077%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DCA.META.HPA.ORGANIC-desktop.VR%26adults%3D2%26children%3D%26MDPDTL%3DHTL.105672077.20261209.20261211.DDF.29.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D99.19%26exp_tx%3D16.19%26mpr%3D0.00%26exp_pg%3Dgoogle%26langid%3D4105%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D105672077%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D395958905%26mpm%3D24%26mpn%3D324832869%26mpo%3DHC%26mpe%3D1794272279%26mpp%3D1&s=ALZo0YK-cFWj2n2YOj7aPm3hoyXF&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 50,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhk5n7NmNwuE8X2xYDfQyaTZLxzRFLXW3WXJFcu9g1_AvCu9VyluY6I0r9uf92gv_LZy7okFcFGxzgJwDAbxz_KMi0Wi1LLAB6bR7JyCrUrwj5DXnQHuIE3k8e0xYpLGrChB2Ozxttvh_DBfVsPx1iu6_VtXUkfjSYload0UPLOSl3a2oKlAQ&pcurl=https://www.vrbo.com/en-ca/search?selected%3D105672077%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DVRBO-CA.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.105672077.20261209.20261211.DDF.29.CID..AUDID..RRID.VRBO%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D99.69%26mpj%3D16.27%26mpr%3D0.00%26mpl%3DUSD%26langid%3Den%26&s=ALZo0YJyYjF6XX2jGGWjiSHirEtb&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkQ9-CzmqzRzIx5Gg0vZy8xMXAxZ3RjNGcwEAI",
+      "name": "Napoles Condo Suite",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 2",
+        "3 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 3.707061,
+      "reviews": 1133,
+      "room": "",
+      "photo": "homes-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Airport shuttle",
+        "Balcony",
+        "Kid-friendly"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 57,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygbR-Pcp4zINbuyK2sELG-ml8pUsyzTt4cBo7AV6jcwDBq8Mb0kn-0AT2UV69KExn7Zcy_7Dq-bnJqZmcmExMBVHwJfzYw-t-dN9IlevQMch0kqGjgpqbC0YMTp7bsRbBWodTR_KjuicnJB8M-dmer5m9noRAywGQ9T7FJY4DXcAT0-USgMuvkOF_FzRFuHO4qi7OZvR2o7pCIgJ46Ev5k&pcurl=https://www.expedia.com/Hotel-Search?selected%3D36973421%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.36973421.20261209.20261211.DDF.29.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D114.86%26exp_tx%3D18.74%26mpr%3D0.00%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D36973421%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D244179904%26mpm%3D24%26mpn%3D213619845%26mpo%3DHC%26mpe%3D1794327164%26mpp%3D1&s=ALZo0YLbMT9LjO6vjK5kQyNG3sau&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 57,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygQf9uDOivLIEN82B2L9qLJpt8xIBsMa58caHynq1DycSoDP9ZahoMwv1pf3dhx7QEgwv3VNG0mgteA7ByDtGyYFfdP8eK1lGi3QyWuiUZ4uqu4zdHPnrEbOYLVkCiVRGm6-lhDLNug_D43RIjjJ04CQr8njdhpUPsF910YKZJmePWpGEmP-i3v6h2Z&pcurl=https://www.hotels.com/Hotel-Search?selected%3D36973421%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.36973421.20261209.20261211.DDF.29.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D114.86%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D18.74%26mpr%3D0.00%26rateplanid%3D244179904%26mpm%3D24%26mpn%3D213619845%26mpo%3DHC%26mpe%3D1794319403%26mpp%3D1&s=ALZo0YJ6nWjqguYUE3W1MvBEnDor&ap=1"
+        },
+        {
+          "source": "freecancellations.com",
+          "price": 59,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhrKiB0wm5d9dB0pmCllat7wV-UvEzz-DHRIllfi9zQT6o5I-qjDpOQfOv1035Ormqt1q4_EdQ3vnzgpslfrIJNviK1OEf7pgXJSj7aP4lcvxgZigEttfRy9IoYfZ4YoBIu1kHSrH-2yNOCPpmURAs9doYfBiit0I3aBT2nC9sN6SYcBOpf8bag6eWvdT6pmAcKSxMPCenT58R1hPxEybg&pcurl=https://www.freecancellations.com/search/FGZyQV0DHHRWDVNVDw5REV9bXRlnFFRA?adults%3D2%26utm_campaign%3Dvr%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,Lo0S1BJx8OGIsnOyzE6aNQh3JNaMFZmIBLWm5h8qjaH_mYKWpo5C55w6M_8TdYl6UWYW9B3yZrajqU32r8IoWA,-bkng-House%26language%3Den%26source%3Dlocaluniversal%26%26prid%3D%26reful%3Docb-FcuXS7PyMwQrLaQ_Gaob2hNoDpx_2IDRSzCywyviw-amFPU_zIhRWzA4fNlo&s=ALZo0YIGyEP_umsSiZx4s6KehMg6&ap=1"
+        }
+      ]
+    }
+  ]
+}

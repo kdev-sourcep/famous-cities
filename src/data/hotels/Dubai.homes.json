@@ -1,0 +1,47 @@
+{
+  "city": "Dubai",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQgf2X_Pqkh_WIARoNL2cvMTFudzU0Z2JxOBAC",
+      "name": "Paramount Midtown Luxury 2-Bedroom with Burj Khalifa View & Infinity Pool, Near Dubai Mall",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 6",
+        "2 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 4.7,
+      "reviews": 18,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Kid-friendly"
+      ],
+      "prices": [
+        {
+          "source": "Booking.com",
+          "price": 325,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Paramount+Midtown+Luxury+2-Bedroom+with+Burj+Khalifa+View+%26+Infinity+Pool%2C+Near+Dubai+Mall%2C+Dubai&checkin=2026-12-09&checkout=2026-12-11&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 391,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiXa7Otkyy4PAhCG7F-FYSqMuJ2DRvf-HPg2B6LNfQpBCwc1OgujpWS3aW_2h8S7dj8Jb3WuPeTTKWUzjzv9AwIhcsE-fVXk6_jux-qCtdw9uQaJC7eWj2mIP3bonzZHIH_Xkq0QlXphuJZhjbMIucJW5DU0j5vSC2DEc5-XJVhLKavSTvew7d7M2YIKA&pcurl=https://www.bluepillow.com/search/69f95239a8387c9ba636a7e3?begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,PeWCXQj1okrQB-rvDk5lDMsiHCR6-RFRkynkSPoWffWU8-NYlBW0n5GycFd5wREJshPW3W-sbwBZd4L4CnJiSw,-bkng-Apartment%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3D&s=ALZo0YKzzX4d4XrHzopeJ69cwnnx&ap=1"
+        }
+      ]
+    }
+  ]
+}

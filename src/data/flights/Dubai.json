@@ -1,0 +1,262 @@
+{
+  "from": "JFK",
+  "to": "DXB",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDRFhCGh4SCjIwMjYtMTItMTZqBwgBEgNEWEJyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Delta + Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1630,
+      "stops": 1,
+      "duration": 1160,
+      "depart": "2026-12-09 19:00",
+      "arrive": "2026-12-10 23:20",
+      "route": [
+        "JFK",
+        "CDG",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 300
+        }
+      ],
+      "flightNumbers": [
+        "DL 262",
+        "AF 662"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 1669,
+      "stops": 1,
+      "duration": 1295,
+      "depart": "2026-12-09 00:20",
+      "arrive": "2026-12-10 06:55",
+      "route": [
+        "JFK",
+        "IST",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 440
+        }
+      ],
+      "flightNumbers": [
+        "TK 12",
+        "TK 762"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Emirates",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+      "price": 2292,
+      "stops": 0,
+      "duration": 750,
+      "depart": "2026-12-09 10:40",
+      "arrive": "2026-12-10 08:10",
+      "route": [
+        "JFK",
+        "DXB"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "EK 204"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1630,
+      "stops": 1,
+      "duration": 1380,
+      "depart": "2026-12-09 01:00",
+      "arrive": "2026-12-10 09:00",
+      "route": [
+        "JFK",
+        "CDG",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 545
+        }
+      ],
+      "flightNumbers": [
+        "AF 11",
+        "AF 658"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Wi-Fi for a fee"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1630,
+      "stops": 1,
+      "duration": 1250,
+      "depart": "2026-12-09 17:30",
+      "arrive": "2026-12-10 23:20",
+      "route": [
+        "JFK",
+        "CDG",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 405
+        }
+      ],
+      "flightNumbers": [
+        "AF 3",
+        "AF 662"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Above average legroom (32 in)"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Delta + Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1630,
+      "stops": 1,
+      "duration": 1505,
+      "depart": "2026-12-09 22:55",
+      "arrive": "2026-12-11 09:00",
+      "route": [
+        "JFK",
+        "CDG",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 630
+        }
+      ],
+      "flightNumbers": [
+        "DL 266",
+        "AF 658"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1840,
+      "stops": 1,
+      "duration": 1010,
+      "depart": "2026-12-09 21:30",
+      "arrive": "2026-12-10 23:20",
+      "route": [
+        "JFK",
+        "CDG",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 160
+        }
+      ],
+      "flightNumbers": [
+        "AF 7",
+        "AF 662"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Above average legroom (32 in)"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 1999,
+      "stops": 1,
+      "duration": 950,
+      "depart": "2026-12-09 00:20",
+      "arrive": "2026-12-10 01:10",
+      "route": [
+        "JFK",
+        "IST",
+        "DXB"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 85
+        }
+      ],
+      "flightNumbers": [
+        "TK 12",
+        "TK 760"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    }
+  ]
+}

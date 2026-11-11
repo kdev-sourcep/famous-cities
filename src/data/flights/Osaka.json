@@ -1,0 +1,281 @@
+{
+  "from": "JFK",
+  "to": "KIX",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDS0lYGh4SCjIwMjYtMTItMTZqBwgBEgNLSVhyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American + JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2220,
+      "stops": 1,
+      "duration": 1271,
+      "depart": "2026-12-09 07:59",
+      "arrive": "2026-12-10 19:10",
+      "route": [
+        "JFK",
+        "LAX",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 123
+        }
+      ],
+      "flightNumbers": [
+        "AA 33",
+        "JL 69"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "JetBlue + JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2236,
+      "stops": 1,
+      "duration": 1269,
+      "depart": "2026-12-09 08:01",
+      "arrive": "2026-12-10 19:10",
+      "route": [
+        "JFK",
+        "LAX",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 125
+        }
+      ],
+      "flightNumbers": [
+        "B6 2223",
+        "JL 69"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "American + JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2251,
+      "stops": 2,
+      "duration": 1310,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 22:20",
+      "route": [
+        "JFK",
+        "ORD",
+        "HND",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "ORD",
+          "minutes": 50
+        },
+        {
+          "airport": "HND",
+          "minutes": 185
+        }
+      ],
+      "flightNumbers": [
+        "AA 2848",
+        "JL 9",
+        "JL 229"
+      ],
+      "cabin": "Economy",
+      "legroom": "30 in",
+      "extensions": [
+        "Average legroom (30 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+      "price": 2282,
+      "stops": 1,
+      "duration": 1075,
+      "depart": "2026-12-09 00:35",
+      "arrive": "2026-12-10 08:30",
+      "route": [
+        "JFK",
+        "HND",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 115
+        }
+      ],
+      "flightNumbers": [
+        "JL 3",
+        "JL 221"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+      "price": 2282,
+      "stops": 1,
+      "duration": 1200,
+      "depart": "2026-12-09 12:20",
+      "arrive": "2026-12-10 22:20",
+      "route": [
+        "JFK",
+        "HND",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 240
+        }
+      ],
+      "flightNumbers": [
+        "JL 5",
+        "JL 229"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "American + JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2220,
+      "stops": 1,
+      "duration": 1385,
+      "depart": "2026-12-09 06:05",
+      "arrive": "2026-12-10 19:10",
+      "route": [
+        "JFK",
+        "LAX",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 240
+        }
+      ],
+      "flightNumbers": [
+        "AA 171",
+        "JL 69"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Delta + Korean Air",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2249,
+      "stops": 2,
+      "duration": 1415,
+      "depart": "2026-12-09 07:10",
+      "arrive": "2026-12-10 20:45",
+      "route": [
+        "JFK",
+        "DTW",
+        "ICN",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "DTW",
+          "minutes": 120
+        },
+        {
+          "airport": "ICN",
+          "minutes": 125
+        }
+      ],
+      "flightNumbers": [
+        "DL 5080",
+        "DL 159",
+        "KE 721"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "JAL + Jetstar",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2279,
+      "stops": 1,
+      "duration": 1375,
+      "depart": "2026-12-09 00:35",
+      "arrive": "2026-12-10 13:30",
+      "route": [
+        "JFK",
+        "HND",
+        "KIX"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 400
+        }
+      ],
+      "flightNumbers": [
+        "JL 3",
+        "GK 215"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "city": "Lisbon",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQ-7_NrY-y6Pv5ARoNL2cvMTF2emJ5bXc2dxAC",
+      "name": "Amazing Castle Views in Historic Center",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 4.4491944,
+      "reviews": 149,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Crib"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 112,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi0FU7MHA7J_HVg7FSUNKpdMA1TkwVIJ6T0f82C60Onqu2BgVe2aR9dCMMZoOuNISuLg43_HIY_daIxtx1dgTsAD21cZtdnMpDyOIm6WAaocMrvWcU7KfC3vNVWzOxXCzusvt9-tg720DjTkhAFGRmzNA5msebd4UZg-XJDBiZ18XLMLBa_WFvwdLoFkkViq_4ivJiFB4cFgIBxOPRf7zI&pcurl=https://www.expedia.com/Hotel-Search?selected%3D125271418%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.125271418.20261209.20261211.DDF.29.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D224.44%26exp_tx%3D79.68%26mpr%3D61.72%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D125271418%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D0001b7df351cde1c4cefa81b9e7c7364f7cf%26mpm%3D103%26mpn%3D125271418%26mpo%3DEC%26mpe%3D1794293517%26mpp%3D1&s=ALZo0YKC2gBNqVJTmYZ3thrKWBKN&ap=1"
+        },
+        {
+          "source": "casamundo.com",
+          "price": 112,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygvLEhwXQNdSSn2wMHi1jSrPd5PJIjbMHyc7l-817futK1u7PafqAv1HPAFszbiWTmiTVGasrmbvMOD_dMZMx8TvSMWsYFDr7SZO5krMvSWB6ZJ0PTUtxWJX5qMffXj9szU6OXpKj4RB7v-6o4_t0vbk50ANwf-zil2NVSqzMXSY7wHNyHbSq-0HhMq&pcurl=https://www.casamundo.com/search/53835ece0b296?arrival%3D2026-12-09%26duration%3D2%26id%3Dbbb8b667cade3136%2540f%2540s%26adults%3D2%26tpp%3Droucrhe.6af2a166%26adword%3Dcm_gvf/us/bbb8b667cade3136/ct%3Ds;tag%3Dgvf_extension/n-a/n-a/53835ece0b296%26utm_source%3Dgvf_hotel_campaign%26aid%3D%26hl%3Den_US%26ghf_acc%3Dcm_gvf%26c%3DUSD%26meas%3Dimperial%26gValidation%3Dfalse&s=ALZo0YKIVWvfqaAHI8RMpgopMx3A&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 112,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyibj5tF2ZZ3FhHEXtXeOt732B3e9faOE2HSAaVyZDgQEl_EGIOlRMendl0wglqf-54syoHhNUyNmAhbq9c7xEVTmAzsoKpJ-LzPWBJfVuFG0wyptcaParDLlqrKAaQzr8-1pqyV_AQ0QEVncbs7ZCoB9DAK6QXw0sPtpc7jcSkhd5hQJvAdtw&pcurl=https://www.vrbo.com/search?selected%3D125271418%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.125271418.20261209.20261211.DDF.29.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D224.44%26mpj%3D79.68%26mpr%3D61.72%26mpl%3DUSD%26langid%3Den%26rateplanid%3D0001b7df351cde1c4cefa81b9e7c7364f7cf%26mpm%3D103%26mpn%3D125271418%26mpo%3DEC%26mpe%3D1794293517%26mpp%3D1&s=ALZo0YLWvRYxqk05618zB06Zb6P7&ap=1"
+        },
+        {
+          "source": "hometogo.com",
+          "price": 112,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygKArwK-kMJ7IMb8kXY6wTj_S8oMjbOxOrVX_mvdRxGeMP2HwC_TmIDgfgdaTyT8TySpiuDCIgQzAAWaGoXiO_ycCb_jAQGvygMzaol2IVB6Usae4vDfFEnCeIPtrg5Bkp-ZEcFMcruvHc73zQHzzCj-lKVGroHzi8YYDBLaEcSGfecjFlMl8-I8QusQT4&pcurl=https://www.hometogo.com/search/53835ece0b296?arrival%3D2026-12-09%26duration%3D2%26id%3Dbbb8b667cade3136%2540f%2540s%26adults%3D2%26tpp%3Droucrhe.6af2a0c4%26adword%3Dgvf/us/bbb8b667cade3136/ct%3Ds;tag%3Dgvf_extension/n-a/n-a/53835ece0b296%26utm_source%3Dgvf_hotel_campaign%26aid%3D%26hl%3Den_US%26ghf_acc%3Dhtg_gvf%26c%3DUSD%26meas%3Dimperial%26gValidation%3Dfalse&s=ALZo0YItwziLKlfPtqLPXzJMISP4&ap=1"
+        },
+        {
+          "source": "Holidu",
+          "price": 115,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiZjKX3MQY4JBpXqadp4-q-fnDBTHEMZX8oGeZHQYbqmbG4ULkCQ8WFiX8nQ6pKcWLxzp1Ore0A9D1mIARmSpdBcNtm8q2FK8_269cLpZQkSQ0EumrHVs_QUxdqFAh2cgGRo1nem4BGkrL0JNPKgO5Wf58nj2k_gotPO77TTWld4ArkwyMU1rgAx7UZvrI6WI7kRnXC&pcurl=https://www.holidu.com/d/69123341?checkin%3D2026-12-09%26checkout%3D2026-12-11%26adults%3D2%26children%3D0%26utm_source%3Dgoogle_vr_holidu%26locale%3Den-US%26currency%3DEUR%26childrenAges%3D%26ref_source%3Dgoogle_vr&s=ALZo0YIDkyMa1nJm_kcmo5orwY8w&ap=1"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 125,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhp5chHL1__SFdqMEaQh7gEj6Ii0lC28-mOjcj6_L8ELd5ds_1YurSp5I5zUzs6eGur1K1TKCH4li8brpXDPKrD1J69sH_IXIpZCSumQs6Pdm8t9TbH1VdEV6b-YQviTWXU2L1b7ubMb2T7cZQ1MpJPwlUSXIuCGcCwT71DlxbpXyZRop1cc2WL3OrRsw&pcurl=https://www.bluepillow.com/search/5a84f9e37c00cb0e04281096?begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,18OiclfoD6ejf2Hqx8OglvGlhqoCto2RKxxDCLgzLT01KE0C1dtNQOXe0eaOwJh6L74XPuwPUYKlGspxQlxuLQ,-bkng-House%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3D&s=ALZo0YLH5iHbmUGsHgFV1C1rR1nV&ap=1"
+        }
+      ]
+    }
+  ]
+}

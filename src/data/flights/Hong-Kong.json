@@ -1,0 +1,255 @@
+{
+  "from": "JFK",
+  "to": "HKG",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDSEtHGh4SCjIwMjYtMTItMTZqBwgBEgNIS0dyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2479,
+      "stops": 1,
+      "duration": 1665,
+      "depart": "2026-12-09 00:20",
+      "arrive": "2026-12-10 17:05",
+      "route": [
+        "JFK",
+        "IST",
+        "HKG"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 455
+        }
+      ],
+      "flightNumbers": [
+        "TK 12",
+        "TK 70"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 2632,
+      "stops": 1,
+      "duration": 1390,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 22:40",
+      "route": [
+        "JFK",
+        "ICN",
+        "HKG"
+      ],
+      "layovers": [
+        {
+          "airport": "ICN",
+          "minutes": 190
+        }
+      ],
+      "flightNumbers": [
+        "OZ 221",
+        "OZ 745"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "ANA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+      "price": 2794,
+      "stops": 1,
+      "duration": 1660,
+      "depart": "2026-12-09 13:05",
+      "arrive": "2026-12-11 05:45",
+      "route": [
+        "JFK",
+        "HND",
+        "HKG"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 485
+        }
+      ],
+      "flightNumbers": [
+        "NH 109",
+        "NH 813"
+      ],
+      "cabin": "Economy",
+      "legroom": "34 in",
+      "extensions": [
+        "Above average legroom (34 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Cathay Pacific",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "price": 3442,
+      "stops": 0,
+      "duration": 965,
+      "depart": "2026-12-09 09:00",
+      "arrive": "2026-12-10 14:05",
+      "route": [
+        "JFK",
+        "HKG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "CX 841"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2500,
+      "stops": 1,
+      "duration": 2080,
+      "depart": "2026-12-09 08:00",
+      "arrive": "2026-12-11 07:40",
+      "route": [
+        "JFK",
+        "LAX",
+        "HKG"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 750
+        }
+      ],
+      "flightNumbers": [
+        "DL 713",
+        "DL 87"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2881,
+      "stops": 1,
+      "duration": 1415,
+      "depart": "2026-12-09 19:05",
+      "arrive": "2026-12-11 07:40",
+      "route": [
+        "JFK",
+        "LAX",
+        "HKG"
+      ],
+      "layovers": [
+        {
+          "airport": "LAX",
+          "minutes": 78
+        }
+      ],
+      "flightNumbers": [
+        "DL 707",
+        "DL 87"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "JAL",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+      "price": 2972,
+      "stops": 1,
+      "duration": 1455,
+      "depart": "2026-12-09 00:35",
+      "arrive": "2026-12-10 13:50",
+      "route": [
+        "JFK",
+        "HND",
+        "HKG"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 265
+        }
+      ],
+      "flightNumbers": [
+        "JL 3",
+        "JL 29"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Cathay Pacific",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "price": 3442,
+      "stops": 0,
+      "duration": 945,
+      "depart": "2026-12-09 01:45",
+      "arrive": "2026-12-10 06:30",
+      "route": [
+        "JFK",
+        "HKG"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "CX 843"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

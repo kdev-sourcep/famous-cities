@@ -1,0 +1,47 @@
+{
+  "city": "Amsterdam",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQnbWJko3PoP_QARoNL2cvMTF5eWZ0ZzBiahAC",
+      "name": "SWEETS - Westerdoksbrug - Apartment with Lake View",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 2",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 5,
+      "reviews": 16,
+      "room": "",
+      "photo": "homes-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Kid-friendly",
+        "Crib"
+      ],
+      "prices": [
+        {
+          "source": "freecancellations.com",
+          "price": 145,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyivqvAJtFOinGkbKoT3N2Kq8BoIxAuY4qkDcxcIS7neNFd3Fytt5tHR2h3bIcecMJdEAAzWoCxH1KWwmi1BtEZWkumWZz0tbP2femrWdSzb2dU-4xdJw8UmkX03S99aJwhBmACA0QXXc_mNCPL43tYuLN_UXeadIzD1yZXvjP4bvWO9xeEFSk89IJL1QSFIVCgS1VORKaZdWQhz8F90RE0&pcurl=https://www.freecancellations.com/search/FD0gFAFSGyZWDVNVDw5QR10MXUg0QVZE?adults%3D2%26utm_campaign%3Dvr%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,friVtlLoMQ7fAb2p6zxKMMZuLFKN1AZoIrvDOAQ3YowPhgtMY0qf592rygh8I8wZXVz6QYnSiSnJgEgpr4tpjA,-bkng-Apartment%26language%3Den%26source%3Dlocaluniversal%26%26prid%3D%26reful%3D&s=ALZo0YJdxoFZpX99rnnlGQMWdOzT&ap=1"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 145,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjFU0iRDUJfmOe3wSMK6TUt4pwcqRwiwwJ2xQH02B2YAIoS6vjpqq2-X18oddqNGCHWPQL1drcdi2qmMb0juBPSn6iW_ll75JM5M9f1G-3USFPaQFif56GOfZFHWWUNgx0JQgb5Ldsssrztdcewrb8E1FYv26SxiwwL11SwK5AeoTNb0POtkvTfvn3fig&pcurl=https://www.bluepillow.com/search/5bffd75e7c00cb134c3fe436?begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,friVtlLoMQ7fAb2p6zxKMMZuLFKN1AZoIrvDOAQ3YowPhgtMY0qf592rygh8I8wZXVz6QYnSiSnJgEgpr4tpjA,-bkng-Apartment%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3D&s=ALZo0YJ1MJB8h_AA7CXnld8FeLiZ&ap=1"
+        }
+      ]
+    }
+  ]
+}

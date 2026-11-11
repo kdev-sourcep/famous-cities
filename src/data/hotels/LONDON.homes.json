@@ -1,0 +1,47 @@
+{
+  "city": "London",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQ1dWD1u-n_vGrARoNL2cvMTFuYnp6Y3IzaxAC",
+      "name": "Chic & Luxurious Covent Garden Penthouse",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 6",
+        "2 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 4.9,
+      "reviews": 28,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Balcony",
+        "Kid-friendly"
+      ],
+      "prices": [
+        {
+          "source": "Livjaza",
+          "price": 714,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhbUwMQkT6FnrRG2ROA6DfBLQ4U9jErkJd5o0KA1JtbW_8KhYxDHQUEEa_j8vZggdJhAlESSlZDbu2JoOwe-n826VHTl3jf-rPgCUV53L01jpL77H9Be7tJnvJz1bhJcpRYcAmD0ON0QLY6yo6EeBIPVMc77RBlx104ERq5hCwuHrs4Nk_wPdzgKgsOOGLwLYCt6ug77Osm_qdpLUbL40DfPXk10fCF9PzTqXv5MA&pcurl=https://livjaza.com/property-details/property/69e8a4fde9112158936a4902?start_date%3D2026-12-09%26end_date%3D2026-12-11%26adults%3D2&s=ALZo0YLo0eC79Ew_HBvDUkms6NaL&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 751,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg2cdsvgdg_VhpZu-JmAwK0_VNNTTVgCv1RxZGu3cTRoWMXZV-sUKx9kSf1P6lfwm2hIgSOTmDO-Os3MnQy3rX5hE5hHt6JG9kjjv5P1ZXi0ZHqz4-y6pEdsedH3ZHbKh7IM3__PKkqGTppzWKSyoHTjLlx5R723hkDiZNzL32QFWuOY_UwDw&pcurl=https://www.vrbo.com/search?selected%3D100933395%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.100933395.20261209.20261211.DDF.29.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D1502.31%26mpj%3D241.94%26mpr%3D241.94%26mpl%3DUSD%26langid%3Den%26rateplanid%3D00014ff9b535826c4d9fad88f9250ed71b23%26mpm%3D103%26mpn%3D100933395%26mpo%3DEC%26mpe%3D1794353361%26mpp%3D1&s=ALZo0YJQ3Hq7hkKUPbsA2cIjKicW&ap=1"
+        }
+      ]
+    }
+  ]
+}

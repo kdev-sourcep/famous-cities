@@ -1,0 +1,220 @@
+{
+  "from": "JFK",
+  "to": "LAS",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDTEFTGh4SCjIwMjYtMTItMTZqBwgBEgNMQVNyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 694,
+      "stops": 0,
+      "duration": 348,
+      "depart": "2026-12-09 06:00",
+      "arrive": "2026-12-09 08:48",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 411"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 694,
+      "stops": 0,
+      "duration": 360,
+      "depart": "2026-12-09 07:05",
+      "arrive": "2026-12-09 10:05",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 607"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 774,
+      "stops": 0,
+      "duration": 365,
+      "depart": "2026-12-09 07:59",
+      "arrive": "2026-12-09 11:04",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 2138"
+      ],
+      "cabin": "Economy",
+      "legroom": "30 in",
+      "extensions": [
+        "Average legroom (30 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 694,
+      "stops": 0,
+      "duration": 347,
+      "depart": "2026-12-09 16:50",
+      "arrive": "2026-12-09 19:37",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 806"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 694,
+      "stops": 0,
+      "duration": 357,
+      "depart": "2026-12-09 19:18",
+      "arrive": "2026-12-09 22:15",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 568"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "JetBlue",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "price": 694,
+      "stops": 0,
+      "duration": 358,
+      "depart": "2026-12-09 19:50",
+      "arrive": "2026-12-09 22:48",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "B6 711"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Alaska",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "price": 713,
+      "stops": 1,
+      "duration": 683,
+      "depart": "2026-12-09 09:30",
+      "arrive": "2026-12-09 17:53",
+      "route": [
+        "JFK",
+        "SFO",
+        "LAS"
+      ],
+      "layovers": [
+        {
+          "airport": "SFO",
+          "minutes": 188
+        }
+      ],
+      "flightNumbers": [
+        "AS 227",
+        "AS 776"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "American",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "price": 774,
+      "stops": 0,
+      "duration": 366,
+      "depart": "2026-12-09 19:00",
+      "arrive": "2026-12-09 22:06",
+      "route": [
+        "JFK",
+        "LAS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "AA 466"
+      ],
+      "cabin": "Economy",
+      "legroom": "30 in",
+      "extensions": [
+        "Average legroom (30 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

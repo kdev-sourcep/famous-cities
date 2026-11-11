@@ -1,0 +1,248 @@
+{
+  "from": "JFK",
+  "to": "IST",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDSVNUGh4SCjIwMjYtMTItMTZqBwgBEgNJU1RyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "KLM",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "price": 1554,
+      "stops": 1,
+      "duration": 695,
+      "depart": "2026-12-09 21:20",
+      "arrive": "2026-12-10 16:55",
+      "route": [
+        "JFK",
+        "AMS",
+        "IST"
+      ],
+      "layovers": [
+        {
+          "airport": "AMS",
+          "minutes": 65
+        }
+      ],
+      "flightNumbers": [
+        "KL 644",
+        "KL 1959"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 1701,
+      "stops": 0,
+      "duration": 590,
+      "depart": "2026-12-09 00:20",
+      "arrive": "2026-12-09 18:10",
+      "route": [
+        "JFK",
+        "IST"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "TK 12"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 1791,
+      "stops": 0,
+      "duration": 575,
+      "depart": "2026-12-09 12:50",
+      "arrive": "2026-12-10 06:25",
+      "route": [
+        "JFK",
+        "IST"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "TK 4"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 1851,
+      "stops": 0,
+      "duration": 595,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-10 14:10",
+      "route": [
+        "JFK",
+        "IST"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "TK 2"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1541,
+      "stops": 1,
+      "duration": 925,
+      "depart": "2026-12-09 18:30",
+      "arrive": "2026-12-10 17:55",
+      "route": [
+        "JFK",
+        "CDG",
+        "IST"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 270
+        }
+      ],
+      "flightNumbers": [
+        "AF 5",
+        "AF 1390"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Average legroom (30 in)"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Delta + KLM",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1554,
+      "stops": 1,
+      "duration": 865,
+      "depart": "2026-12-09 18:30",
+      "arrive": "2026-12-10 16:55",
+      "route": [
+        "JFK",
+        "AMS",
+        "IST"
+      ],
+      "layovers": [
+        {
+          "airport": "AMS",
+          "minutes": 215
+        }
+      ],
+      "flightNumbers": [
+        "DL 48",
+        "KL 1959"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1557,
+      "stops": 1,
+      "duration": 1115,
+      "depart": "2026-12-09 21:50",
+      "arrive": "2026-12-11 00:25",
+      "route": [
+        "JFK",
+        "LHR",
+        "IST"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 465
+        }
+      ],
+      "flightNumbers": [
+        "BA 114",
+        "BA 680"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1699,
+      "stops": 1,
+      "duration": 745,
+      "depart": "2026-12-09 21:30",
+      "arrive": "2026-12-10 17:55",
+      "route": [
+        "JFK",
+        "CDG",
+        "IST"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 95
+        }
+      ],
+      "flightNumbers": [
+        "AF 7",
+        "AF 1390"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Average legroom (30 in)"
+      ]
+    }
+  ]
+}

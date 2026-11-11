@@ -7,7 +7,7 @@ import path from "node:path";
 const [slug, checkIn, checkOut, countArg = "8", kind = "hotels"] = process.argv.slice(2);
 const BRANDS = [["Marriott", /marriott|courtyard|westin|sheraton|m[ée]ridien|renaissance|moxy|ac hotel|autograph|w paris|luxury collection|aloft|citizenm/i], ["Hilton", /hilton|hampton|doubletree|canopy|curio|conrad|waldorf|tapestry/i], ["IHG", /holiday inn|crowne plaza|intercontinental|indigo|kimpton|voco|regent/i], ["Hyatt", /hyatt|andaz/i], ["Accor", /novotel|ibis|mercure|pullman|sofitel|mgallery|adagio|swiss[oô]tel|fairmont|mama shelter|raffles|movenpick|m[öo]venpick/i]];
 const brandOf = (n) => BRANDS.find(([, re]) => re.test(n))?.[0] || "";
-const LIST = () => ({ hotels: {}, brands: { brands: "46,28,17,37,33" }, homes: { vacation_rentals: true, q: cityName } })[kind];
+const LIST = () => ({ hotels: {}, brands: { brands: "46,28,17,37,33" }, homes: { vacation_rentals: true, q: `${cityName}, ${city.country}` } })[kind];
 if (!["hotels", "brands", "homes"].includes(kind)) throw new Error("kind must be hotels, brands or homes");
 const key = process.env.SERPAPI_API_KEY;
 if (!slug || !checkIn || !checkOut) throw new Error("Usage: node scripts/fetch-hotels.mjs <Slug> <checkIn> <checkOut> [count]");

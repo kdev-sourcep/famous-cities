@@ -1,0 +1,269 @@
+{
+  "from": "JFK",
+  "to": "KUL",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDS1VMGh4SCjIwMjYtMTItMTZqBwgBEgNLVUxyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "JAL + Malaysia Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2710,
+      "stops": 1,
+      "duration": 1640,
+      "depart": "2026-12-09 00:35",
+      "arrive": "2026-12-10 16:55",
+      "route": [
+        "JFK",
+        "HND",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 275
+        }
+      ],
+      "flightNumbers": [
+        "JL 3",
+        "MH 89"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Etihad",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "price": 3034,
+      "stops": 1,
+      "duration": 1265,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-11 08:05",
+      "route": [
+        "JFK",
+        "AUH",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "AUH",
+          "minutes": 70
+        }
+      ],
+      "flightNumbers": [
+        "EY 4",
+        "EY 488"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Cathay Pacific",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "price": 3048,
+      "stops": 1,
+      "duration": 1305,
+      "depart": "2026-12-09 01:45",
+      "arrive": "2026-12-10 12:30",
+      "route": [
+        "JFK",
+        "HKG",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "HKG",
+          "minutes": 120
+        }
+      ],
+      "flightNumbers": [
+        "CX 843",
+        "CX 723"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "JAL + Malaysia Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2710,
+      "stops": 1,
+      "duration": 2375,
+      "depart": "2026-12-09 12:20",
+      "arrive": "2026-12-11 16:55",
+      "route": [
+        "JFK",
+        "HND",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 1010
+        }
+      ],
+      "flightNumbers": [
+        "JL 5",
+        "MH 89"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Etihad",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EY.png",
+      "price": 2884,
+      "stops": 1,
+      "duration": 1965,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-11 19:45",
+      "route": [
+        "JFK",
+        "AUH",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "AUH",
+          "minutes": 770
+        }
+      ],
+      "flightNumbers": [
+        "EY 4",
+        "EY 486"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Philippine Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/PR.png",
+      "price": 2906,
+      "stops": 1,
+      "duration": 2070,
+      "depart": "2026-12-09 01:45",
+      "arrive": "2026-12-11 01:15",
+      "route": [
+        "JFK",
+        "MNL",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "MNL",
+          "minutes": 825
+        }
+      ],
+      "flightNumbers": [
+        "PR 127",
+        "PR 529"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "ANA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+      "price": 3513,
+      "stops": 1,
+      "duration": 1720,
+      "depart": "2026-12-09 13:05",
+      "arrive": "2026-12-11 06:45",
+      "route": [
+        "JFK",
+        "HND",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 385
+        }
+      ],
+      "flightNumbers": [
+        "NH 109",
+        "NH 885"
+      ],
+      "cabin": "Economy",
+      "legroom": "34 in",
+      "extensions": [
+        "Above average legroom (34 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Qatar Airways + Malaysia Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 3552,
+      "stops": 1,
+      "duration": 1300,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 21:10",
+      "route": [
+        "JFK",
+        "DOH",
+        "KUL"
+      ],
+      "layovers": [
+        {
+          "airport": "DOH",
+          "minutes": 110
+        }
+      ],
+      "flightNumbers": [
+        "QR 704",
+        "MH 165"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    }
+  ]
+}

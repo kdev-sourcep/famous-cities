@@ -1,0 +1,269 @@
+{
+  "from": "JFK",
+  "to": "OSL",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDT1NMGh4SCjIwMjYtMTItMTZqBwgBEgNPU0xyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Finnair",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AY.png",
+      "price": 1223,
+      "stops": 1,
+      "duration": 710,
+      "depart": "2026-12-09 22:45",
+      "arrive": "2026-12-10 16:35",
+      "route": [
+        "JFK",
+        "HEL",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "HEL",
+          "minutes": 125
+        }
+      ],
+      "flightNumbers": [
+        "AY 16",
+        "AY 915"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Delta + Scandinavian Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1341,
+      "stops": 1,
+      "duration": 715,
+      "depart": "2026-12-09 18:30",
+      "arrive": "2026-12-10 12:25",
+      "route": [
+        "JFK",
+        "AMS",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "AMS",
+          "minutes": 160
+        }
+      ],
+      "flightNumbers": [
+        "DL 48",
+        "SK 822"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "KLM",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "price": 1342,
+      "stops": 1,
+      "duration": 585,
+      "depart": "2026-12-09 17:00",
+      "arrive": "2026-12-10 08:45",
+      "route": [
+        "JFK",
+        "AMS",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "AMS",
+          "minutes": 50
+        }
+      ],
+      "flightNumbers": [
+        "KL 642",
+        "KL 1197"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Delta + Scandinavian Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1319,
+      "stops": 1,
+      "duration": 815,
+      "depart": "2026-12-09 19:00",
+      "arrive": "2026-12-10 14:35",
+      "route": [
+        "JFK",
+        "CDG",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 220
+        }
+      ],
+      "flightNumbers": [
+        "DL 262",
+        "SK 834"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Air France",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "price": 1320,
+      "stops": 1,
+      "duration": 940,
+      "depart": "2026-12-09 18:30",
+      "arrive": "2026-12-10 16:10",
+      "route": [
+        "JFK",
+        "CDG",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "CDG",
+          "minutes": 355
+        }
+      ],
+      "flightNumbers": [
+        "AF 5",
+        "AF 1774"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "On-demand video",
+        "Average legroom (30 in)"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "SWISS",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/LX.png",
+      "price": 1329,
+      "stops": 1,
+      "duration": 825,
+      "depart": "2026-12-09 16:25",
+      "arrive": "2026-12-10 12:10",
+      "route": [
+        "JFK",
+        "ZRH",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "ZRH",
+          "minutes": 205
+        }
+      ],
+      "flightNumbers": [
+        "LX 17",
+        "LX 1210"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Lufthansa",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/LH.png",
+      "price": 1340,
+      "stops": 1,
+      "duration": 690,
+      "depart": "2026-12-09 17:30",
+      "arrive": "2026-12-10 11:00",
+      "route": [
+        "JFK",
+        "MUC",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "MUC",
+          "minutes": 100
+        }
+      ],
+      "flightNumbers": [
+        "LH 411",
+        "LH 2452"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "KLM + Scandinavian Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1341,
+      "stops": 1,
+      "duration": 805,
+      "depart": "2026-12-09 17:00",
+      "arrive": "2026-12-10 12:25",
+      "route": [
+        "JFK",
+        "AMS",
+        "OSL"
+      ],
+      "layovers": [
+        {
+          "airport": "AMS",
+          "minutes": 280
+        }
+      ],
+      "flightNumbers": [
+        "KL 642",
+        "SK 822"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    }
+  ]
+}

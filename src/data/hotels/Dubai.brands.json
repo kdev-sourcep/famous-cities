@@ -1,0 +1,303 @@
+{
+  "city": "Dubai",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChkI7YKMhrTe1clsGg0vZy8xMWJid212N2s2EAE",
+      "name": "The Canvas Dubai- MGallery Hotel Collection",
+      "address": "774P+26G - 23 Kuwait St - Bur Dubai - Port Rashid - Dubai - United Arab Emirates",
+      "brand": "Accor",
+      "info": [],
+      "stars": 5,
+      "rating": 4.5,
+      "reviews": 7879,
+      "room": "Superior Room, 1 King Bed",
+      "photo": "brands-1.jpg",
+      "freeCancellation": true,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Restaurant"
+      ],
+      "prices": [
+        {
+          "source": "trivago DEALS",
+          "price": 83,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygZZx9dQK8689qEQjFr39jMAPp_iC1wlmBYjin9qrLH0GW_LGEzLjiRsHp6t66a5P6RjXfh3rejZfB4KTEJF-oYgi8IDJc1ALs_jFkqXYscJTsIEa1iAO5us4JDxx-vIBK77yUG4b51CmC8n-UmzC8DtMvJLa0zSyBiK_ZsVV4tkLz1gc21JqgPIgWl8dfiXjKRqFtOqx7Y&pcurl=https://www.trivago.deals/hotels/united-arab-emirates_du_dubai/315061_the-canvas-hotel-dubai-mgallery-hotel-collection?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH315061%26campaignName%3DTrivagoDeals_Google_US%26currencyCode%3DUSD%26dealKey%3DCAIQjQYiCwi31c7XBhDgxM10Kk8NAACmQhUAACJDJR-Fy0AtPQoCQjABOPYERQAAJkNKDAit1c7XBhD0nafAA2IKU3VwZXJpb3IgUmgBcK0CggEAjQHs0aZCoAG_iQmoAcgGMI0GOLWdE0DZ-A9IAlIIbZqeXH3SF8RYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D166.00%26priceDisplayedTax%3D38.87%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YKujlA91DwXAbVyRCXs08oi&ap=1"
+        },
+        {
+          "source": "Traveluro",
+          "price": 83,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh63LgWGJxWUVUicXh5q7gmdzxaj6-BdzPI8AlTY4u4Qdv2kFOguDlF5FNbjoNDFHnZmbsnC27yAUZ6YJDBu37cVZbCOmgQjA4fhdTOpljWkMpNtt4ASw1bVktnQMV4FDS9xr0dMgp1z4ugPZlYD5CB2kWuhyb4FKtb3rPcsggLAj-3eFL8zPXr&pcurl=https://www.traveluro.com/hotels/united-arab-emirates_du_dubai/315061_the-canvas-hotel-dubai-mgallery-hotel-collection?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH315061%26campaignName%3DGoogle_US%26currencyCode%3DUSD%26dealKey%3DCAIQqwEiDAiCy87XBhDckNifASpPDQAApkIVAAAiQyUfhctALT0KAkIwATj2BEUAACZDSgwI4crO1wYQ5OjsngFiClN1cGVyaW9yIFJoAXCtAoIBAI0BAIClQqABv4kJqAHIBjCNBji1nRNA2fgPSAJSCLSl0cCJLsomWMgGYgMKASA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D166.00%26priceDisplayedTax%3D38.87%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YLfO53JerklH9GXZT6NvJm1&ap=1"
+        },
+        {
+          "source": "Super.com",
+          "price": 87,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjiptXLN0QDx1GaYywUeKYLcj7tqYyT89MrMS1f72Tp9SYOFVhaBTCLZ82_cR-vHtIaAzcxBYjkg4N9g5Dn4x1O3SrpZ1_h4GAJuVuZZDf4u69ZXNb6cu2i02ruFcgxX3cE2OSUEjEIz_KAPIzO79KvxihbTqF6namynHJ2wy1T8NxpxpO_6jH4rQ&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D158.86%2526total_price%3D169.14%2526retail_price%3D231.55%2526retail_total_price%3D246.54%2526surcharge%3D5.45%2526request_id%3D13708244937297393664%2526ps%3D1642246410%2526pb%3D0-slAkZlDjP06IhVxwa_7Cm1l6YySrxK-VtqigmFpIKOjxSYF12w3eggde14U2B5obS8_z28BN5L33EyluRyojXejpRjySMwy8MDhfRh-jqD57YbFqYKQNg5aAw-9EPbsOj_Wb0g3sh11Rt19Gs1mw%25253D%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1794280112%2526sg%3Db0Vve%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D174.59%26checkin_at%3D2026-12-09%26checkout_at%3D2026-12-11%26provider_hotel_id%3D10004021199%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YIluZDCk4SOPEzQkuFyVsqX&ap=1"
+        },
+        {
+          "source": "Vio.com",
+          "price": 87,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjC0i-Nc4hTF1UAT0d9IyNcRosPIpa3QLFXwpx5JDNAW2XNxOFR8bjx0QPRZM0oFsXlhcHvqOyvlrLPlbbe_lB4VzXsl27_ScxVoylqur_2MAXSkr9R9U5-oC7xZgBi8XlIrI-Kuc_DHISyLqvS-_HzNFq7ymgQhp21UC-HC9iBvoN8fBUzaKQV&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1708757%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D174.00%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1708757%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D174.00%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DqQUXNay4r7Dovow_Cg4IuWgYvx8iA1VTRFIBMhIaFQLcGn0aCzMxUzVya1ZEaExJKAMwwr3O1wY&s=ALZo0YLDHCAUnfUujei5BtGoLAs0&ap=1"
+        },
+        {
+          "source": "dealbase.com",
+          "price": 87,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyignE29CjfCQRqDrksLQPDI7uFUB2dBQPZEN4oO_oiLusYR7pt6txpBTMrCxh_sz4ILAgVHgxLvhexOYz65sHt_972KwIP_kF7ymDEW1HmqEXpDiawGL9D3F2WPS2bcuUOmnjdaG7t1aXK3Mux1YBGktQSXzkmenK5HLniQ80H0Nf5Dy1l2S-f82NiWr_p_DniqUQ&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1708757%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D174.00%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D1708757%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D174.00%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DNMJxkkK4K1zovow_Cg4IuWgYvx8iA1VTRFIBMhIaFQLcGn0aC3UyS3k5LXpnUXlVKAIwn87O1wY&s=ALZo0YIrindXKBqYzLhJkFv87dSJ&ap=1"
+        },
+        {
+          "source": "Stayforlong",
+          "price": 97,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjygk85Mj7UpSKXoM3-PU2pDL43tAu9ZrWpM6poQ_H744YSYG9Aj1hu2kDJ7LSIPzgwGvIX4DpfKFQfbAwS206rAz9n2TTrc8DbwN8XEcdSZdxr8FrOhnCwNYimdF41WVIOB0qHdaqdJXxWUW55OlsiEyr7aFApXp-iAFheZNB6N0sooHpbqj64QRu20g&pcurl=https://www.stayforlong.com/hotel-detail/31553?checkin%3D2026-12-09%26checkout%3D2026-12-11%26adults%3D2%26metadevice%3Ddesktop%26aid%3Dgha%26market%3Dus%26lang%3Den%26total%3D172%26query_type%3Dpull%26ch%3D0%26adclick%3Dfree%26defaultdate%3Dfalse%26googlesite%3Dlocaluniversal%26p%3D1e0f984fb3a89d452c6908ed54dfb80b%26rate_token%3Dv2.z6af3aa5800b4fe56b3594aa8c43acd66%26source%3Dmeta&s=ALZo0YK6MusDz8vX22zA6-X4pQ_g&ap=1"
+        },
+        {
+          "source": "The Canvas Dubai- MGallery Hotel Collection",
+          "price": 111,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjL_ELImb-yfXPVY8tkTSabGp8WSNTTDtxVXvU5sEIjJCofU2amKD-RXlUcKaMXuj3VV1Mrk9fGStw_weg6Nf8NrWnvO30F26d1RprW7iGn02ZtcX8C5XrBPzdE0KP-S5EaMEtGyCV5bTAssTKbtBlWX-YP17FosvcxNeIEB1SPeAihmAs&pcurl=https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client%3DAccor%26channel%3DGHPA%26placement%3Dlocaluniversal%26campaign%3D%26destinationURL%3Dhttps%253A%252F%252Fall.accor.com%252Flien_externe.svlt%253Forigin%253Dmgallery%2526goto%253Drech_resa%2526destination%253DB394%2526dayIn%253D09%2526monthIn%253D12%2526yearIn%253D2026%2526nightNb%253D2%2526adultNumber%253D2%2526childrenNumber%253D0%26amp;hideWDR%3DNO%26amp;hideHotelDetails%3DYES%2526merchantid%253Dseo-meta-google%2526sourceid%253Dx-B394-US-cpc-desktop-selected-0--2-09-12-2026-28-Wednesday-localuniversal--0-0-0%2526utm_source%253Dseo_meta_google%2526utm_medium%253Dpartenariats%2526utm_campaign%253DB394-US-cpc-desktop-selected-0--localuniversal--0-0-0%2526wiz_campaign%253D%26amp;forceResultsList%3DYES&s=ALZo0YJjo4bvVPMXni5Dt5WolYXA&ap=1"
+        },
+        {
+          "source": "Hotelscombined.com",
+          "price": 114,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygAnQiyENwfrrZLVD1gu_9SR40fsbFDRVbPnzvBSbtT4U_WwtTWdinML3yQkZGFSk6QdIVG1wvOceULx5gP8CkBueGmvORfkKF1njyXWYVsA_JgxCp61zUsrPbnPj6n2LZiRbwQpfcYRP944gRb3JmmdqO6X8wx4g-U-B_v5C1bLMoLC1wJG7rFl4u6xHWeOeH6vg&pcurl=https://www.hotelscombined.com/semi/ha/hotel_ads/639241/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D639241%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-12-09%26co%3D2026-12-11%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D48.94%26pdtotal%3D228.84%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2lAkGFN5LH%26k_kct%3D1794349420%26k_gct%3D1794354123%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YI_MgKWanIWO5-UVjNqJZtH&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjmH5zrjzIaRJOAx2z1Y3xO9kaiG4a543RskJEsG4jkh70pZdUTKwze9RWIee487GjfjCQ06lRPMpV8dl4w6Rtykx6yoIp-vB__UKPZ3A1RBiXJAdueuua0JNkBU_D9q3E-9Qu0WF7aifVpqnOUtYHNSc3BRWskHMAgPrx3UuIEfw6lvqn4yDT-cgwz0Z2r&pcurl=https://www.expedia.com/Hotel-Search?selected%3D4649108%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.4649108.20261209.20261211.DDF.28.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D231.25%26mpj%3D51.37%26mpr%3D17.99%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D4649108%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D398348936%26mpm%3D24%26mpn%3D210602820%26mpo%3DEC%26mpe%3D1794288023%26mpp%3D1&s=ALZo0YJUXbXBRTocwH2rsJM6avP4&ap=1"
+        },
+        {
+          "source": "Agoda",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi5oilI3gA0tttV42VqmXgtX_qcaulyy5nvkfk63qSXUlG2C6nU2jltDacnVn8Yit1foYbLbYd51s7ssxBRX9nIUsm1z1Ien0E2kJu3xhG4W9lszNYTkhlT9n5aohW9nZna1NharJRNoRcU1q0oS1jWkxACBa_6KJB9maxEGgB7k2GjvvLirTz57XPKUA&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D09%26CkInMonth%3D12%26CkInYear%3D2026%26CkOutDay%3D11%26campaignid%3D%26CkOutMonth%3D12%26CkOutYear%3D2026%26SearchDateType%3Dselected%26NumberOfAdults%3D2%26LT%3D28%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dlocaluniversal%26los%3D2%26PartnerCurrency%3DAED%26hid%3D5743868%26RoomID%3D57027231%26masterRoomId%3D57027231%26PriceTotal%3D231.26%26PriceTax%3D51.36%26PriceFee%3D17.99%26RatePlan%3D6de0e7af-6f37-d546-c27e-bcfb40e21d86%26UserCountry%3DUS%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3Drow_desktop%26audience_list%3D%26mcid%3D29004%26booking_source%3Dcpc%26adType%3D0%26mpt%3DZ1lZQkphWXhHeGxYRDlwWjlISG4yZ1FBR0dtMWNkamszUTgxY1FUbDc3dkQ4VEs0NUVPVXcwTzVkUVNvSldUNXQwRzd0a3E4VVIzMQ%26original_rr%3DUS%26gaClickSrc%3D%26clickType%3Dhotel%26lang%3Den%26pkgId%3DNoBreakfast_NoDinner_true&s=ALZo0YLblk18mUe5dluRljE17PYZ&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhiTvZWFJ4xWMINA2Y7SNvp77ktDXaz0GYqQLTjM44tifMccM7DYGaNC52E7eQ9KwV3RGn2KvyP5gHXvBgecXG-kjgDxDc_ZD8ldjqtJob7z9lUgW9dNl7H2FF3_RQUZLkSGJjsIDpP0FIkJaFmrRHUsVFqJ9LDalaajdUgkXrhP5LaEOFlP5oAOBotRkM&pcurl=https://www.hotels.com/Hotel-Search?selected%3D4649108%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.4649108.20261209.20261211.DDF.28.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D231.25%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D51.37%26mpr%3D17.99%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.4649108USen-20261209-N-ABW%3D28-camp%3D-aud%3D-N%26rateplanid%3D398348936%26mpm%3D24%26mpn%3D210602820%26mpo%3DEC%26mpe%3D1794335892%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YKgiHzcZAJncokjRJakTRMK&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjIbQRC1KdIGH3AA2Q4LNnuRv16cCFYCUY-0dHrkZ7jp7eRz3GF3OJCHDwqT4rj_nVt0Z9XgzGDxjVzLyl9NLi9-BBOV_kwpLybCtIphKOMI0iw2jTK_Aa82D6t0ytJbHNw38Tucar_gkZtaFy1wexsMnUoNOh3uT2V1JF91AvEMSI7SfdpVafjen6f&pcurl=https://www.travelup.com/en-us/united-arab-emirates/dubai/the-canvas-dubai-mgallery-hotel-collection?prp%3D239445%26cur%3DUSD%26lan%3Den%26CI%3D2026-12-09%26CO%3D2026-12-11%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/united-arab-emirates/dubai/the-canvas-dubai-mgallery-hotel-collection%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D239445&s=ALZo0YIlKewO6_Oosr2QZUC5nz3F&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiUHHHvBvDHHqfJi2aIWdQLJX7xFJktofUZjtXtHqdPg7dhSHFl0WSRdEC0kWvW5Fix_aNtW3yMqeMEBk3mp_ljWI4P2Jw3t8T8BK0VhhziET4QzqZC4A4dU7UPldfUrqsT0oe0xV6PupONUipkPyn8HCpDWRdg7SrSLXhmR6s2Ne-7uoluZ_a0vRN71Oo&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D4649108%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.4649108.20261209.20261211.DDF.28.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D231.25%26mpj%3D51.37%26mpr%3D17.99%26mctc%3D10%26rateplanid%3D398348936%26mpm%3D24%26mpn%3D210602820%26mpo%3DEC%26mpe%3D1794288023%26mpp%3D1&s=ALZo0YJhU1bKo6xULTyXgqKvOTHE&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjfKSHgzpeFStJa9AyGkd0QzM_6UljIvgILG1pz22PJ0MBfwKk2XGrArkWo-kA4j8zlBCSJKXmwjwqxFJjtrtmkxprPHHxLdich-zGV4-AMV4HL392Tv9zU5gbEa4asWFJklKTZHf-1kb-aulOWGcARVR1NK9hWhzXj0-F3g2fIZ0s6WLOVLONeZe7udk7x&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D4649108%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.4649108.20261209.20261211.DDF.28.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D231.25%26mpj%3D51.37%26mpr%3D17.99%26mctc%3D10%26rateplanid%3D398348936%26mpm%3D24%26mpn%3D210602820%26mpo%3DEC%26mpe%3D1794288023%26mpp%3D1&s=ALZo0YLso9vRkG25OSm6caJq3E-Q&ap=1"
+        },
+        {
+          "source": "Closest Hotel",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiKdp0n1LMQIL5gE7c6R_QuiBj-rC7IZsP3ffIz-AUu-uz6cIQySzHOKF7Y6rjSlASRHcOn80Wf_o42ZpjTvyTGQb72_ybJdPEZ6efjyYLLSmzwFtNhcu3BCHtyMg44vQ8VTMS5SkKqJBaRiFfqwoPIMqcZ2_n5Znm0dtgQZTbhFQid_1ZK8mg5n6638_LX2tRdt0UE4R8JHcU2yFID&pcurl=https://closesthotel.com/googleRedirMainSearch.php?checkInYear%3D2026%26checkInMonth%3D12%26checkInDay%3D09%26checkOutYear%3D2026%26checkOutMonth%3D12%26checkOutDay%3D11%26numberOfNights%3D2%26numberOfAdults%3D2%26numberOfChildren%3D0%26numberOfGuests%3D2%26hotelID%3D4649108%26roomID%3D210602820%26currency%3DUSD%26deviceType%3Ddesktop&s=ALZo0YJyANng4OaMDppV87lGAuXc&ap=1"
+        },
+        {
+          "source": "eDreams",
+          "price": 116,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjPnznQmdlTQ6lyqsVnPlm4oS1ZUUByU-5_auoknP4MPZ831SbUm6CpNjTniORC--rMjCkK9w6VaXmeCr3QWkt8LweWQ8go38dvFe2-ofH9OSMN7D7cE0jVUc5i3Gds5Cb8GVcXRnUMNOQ4VXWOQATkqv0E1dGMUOYnUJOarrDEBg_On9QE&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D4649108%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26mpf%3D231.25%26cur%3DUSD%26mpj%3D51.37%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D398348936%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D393200%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING&s=ALZo0YKDD6TW11TlwpTyBO-jxVEA&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 123,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=The+Canvas+Dubai-+MGallery+Hotel+Collection%2C+Dubai&checkin=2026-12-09&checkout=2026-12-11&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Priceline",
+          "price": 123,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhumvl0eMC9aQo5FfznfdyMZrICY_Upfd44ygGhxwBh1BJdoC0wSvHZrXDulzg5oDhFb6kAhZRBFLfqJqk9EX35y7oPwdQWdmTTUA205revndtiNNDcAAn1LK1J5S6Nl_G0pyXphfd8n9V_QvX_8ME-3I8Q845Hxgnpmg1zR__IJO8wQxINnNM4B87t9OiUcuo&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C55677706_localuniversal_2%257C20261209%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C28%257C2%257C0%7C0%7CEN%26hotelid%3D55677706%26checkin%3D20261209%26checkout%3D20261211%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000003658%26adults%3D2%26land%3DL%26metaid%3DGuLkZNMQpml-B9aG2uRGPrw7YggXk0ShH4DVbN8dcqUmazgTLd4dL2EfpMZGZbaJCNuNn62q7zR_JdiZUKpoWGmg4IHTy8z5N0p-bBUgpHHiSAGbqW1gFD7thHJgx3G3Gt5cgVdneT9njiRHQr_qKoGAKxW4PO7PAK_OhOxf0DncMYfoX3u_NXnm7BohjO0kw7bP11tagl5bqe8sPQxy6o7rdpsad4vnZWlzvzKCOakgrQ5b7Yh6k21sJ1H3xTvlrTcnfM9Bvq4ILoiRzqeIXHwMbfnVACpVh4fvOvWaL7GFe3hWPB75PAlAw-gulvC0sjXNsY6XQNNsa8chBvZbcQarDnCGvGHSa0T-QcXqlT1JkTzc8rXj0WmiaZnar2JLQvo-NByCISo8fJ0ai-lhQsWc1R2QWHp5jngPZo8F6ms%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D54.17%26pdf%3D19.23%26pdt%3D246.51%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YLeSRJgxayzmNMcIhrMDlka&ap=1"
+        },
+        {
+          "source": "Evendo",
+          "price": 139,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygOn-BVm5bNW6pQp4tDc2DPU7tPbLe18VXaogFowapddVYZiGtrSeyp9dvc7FDKfsKPd_5_E7xgGM1wwDi49eT67n8FzHVux28ZfTHShhrOTd9kLjDAD4zZqxL_gAbfvbDfQLX_2slDxFFci-aOZETyZdgC03097Dx-EQlHJjMDnxbdn-CJ3MCygY-Aw8dkZw&pcurl=https://evendo.com/stays/the-canvas-hotel-dubai-mgallery-by-sofitel/80694356?check_in%3D2026-12-09%26check_out%3D2026-12-11%26who%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D%257D%255D%26currency%3DUSD%26language%3Den%26country%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dgooglehotels%26utm_campaign%3Dlocaluniversal%26pdtax%3D59.95%26pdtotal%3D278.00%26prid%3D&s=ALZo0YKJSJSwBQaPYvG-uh0rFn5E&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 158,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi9EWEqQMcVBt8fclAHg1v1wJlOtAAw-4G-0LJl0SLQ-VoiBJX7r3CnPSpbPPNI0pvspnLwqYL6v_W1jwQzqCuqdcS16_1HI0EeD42H2txiT5aDEyjLFD1vhHCnbCZhmxpwUafCKpb796R84p47RSl8Y25be7h4vhkx3qZ_4gfBR14fuGofA2W8nvyQLw&pcurl=https://www.tripening.com/hotels/-/4292092-the-canvas-hotel-dubai-mgallery?checkin-date%3D2026-12-09%26checkout-date%3D2026-12-11%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D316.75%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YIxDB7LNrw3dnNmObp_gpi2&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 163,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhcyTyTgKSDvybBUvPRTfAlbXPSRVOTWpfMf8ezLImW7MvH2aqte8PgVW8PYYW5v_UTRptMHArTciHOqsOVNR5y3NddW8WsNzyxS2PLDXKsWbC10uCplTLlYZDFYhqZeqI_o1uV1lWLwKMBrK5KKv7NggMxugElSbaggLNB3sV-PSekirYEuaaRDhjYWFjMv17PwmIb-As&pcurl=https://clicktrip.com/hotels/details/ghL2hvRNNX80lb6M0JiKVoO8SPrKTF_sYwWwC5XWV2LSf2eLhrb9gCXnr3Vs2uv7R7SPNajnnH_AL8GBD1l7zhCQrCVst2Bexu7qy8tqGizWBIkQhTXmEmLyNIEVxUhh0?locale%3Den%26currency%3DUSD%26pos%3DUS%26date_type%3Dselected%26taf%3DpcHJ9sthY83Y3wj0Ci6Rtq7t-Y8ijupJChnA5Ba2LB9_X5NMLpVhdXwvdhScqqPa0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3D&s=ALZo0YJwVLzgBtCJYcRtnoauaXdo&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChoI1NLWpsjijqPKARoNL2cvMTFnOHZwcV9ybBAB",
+      "name": "The Retreat Palm Dubai - MGallery Collection",
+      "address": "East Crescent - Nakhlat Jumeira - Dubai - United Arab Emirates",
+      "brand": "Accor",
+      "info": [],
+      "stars": 5,
+      "rating": 4.7,
+      "reviews": 10855,
+      "room": "Deluxe Room with Balcony",
+      "photo": "brands-2.jpg",
+      "freeCancellation": true,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Public internet workstation"
+      ],
+      "prices": [
+        {
+          "source": "Traveluro",
+          "price": 124,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyikhmFFCvNjwYwRoNG4s5Ka0OjX4H2sf6PkyPn6NRn-21nK1qPwTqSO4TP0-EDHcbScZNknqFpigyZIU_qpgTQjXLVF5LpBn3bJ6ZwLQnTsqZFEFiMxaGp29EQ-VkEUHlsn8WUEkQs9Hq_K2ziQNZtiOGsiuQ-lGf0zkTO29PW-bIdCStILuvYY&pcurl=https://www.traveluro.com/hotels/united-arab-emirates_du_dubai/551016_the-retreat-palm-dubai-mgallery-by-sofitel?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH551016%26campaignName%3DGoogle_US%26currencyCode%3DUSD%26dealKey%3DCAIQqwEiDAiCy87XBhCgkdOgASpMDQAA-EIVAAB0QyUfhRtBLVK4L0IwATi6AkVx_XdDSgwI4crO1wYQgM-FnwFiCkRlbHV4ZSBSb29oAoIBAI0B7NH3QqABvo9MqAHIBjCNBjjo0CFA2fgPSAJSCMtJQA5J58iiWMgGYgMKASA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D247.98%26priceDisplayedTax%3D53.65%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YIEGQkp5GZXqDmUT8Yfbx9d&ap=1"
+        },
+        {
+          "source": "trivago DEALS",
+          "price": 125,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjr3F6BcrXrljReVh1VXY9JsV5PQRerk_QF79RAaffvG3sOYf1aCwSeVzxP8sx0YaULZ36ji5dDszeNKLYwx7wnbGjYWQZsafxgYifI7immFhLBvUaa5MbOMItphaJQE7XJ8E97dK1JmQLziJaglTcW6uEvzWZXRnJMmVN67RZlILTzRf26RQtMYYK_EpejW3BLdRSXqB0S&pcurl=https://www.trivago.deals/hotels/united-arab-emirates_du_dubai/551016_the-retreat-palm-dubai-mgallery-by-sofitel?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH551016%26campaignName%3DTrivagoDeals_Google_US%26currencyCode%3DUSD%26dealKey%3DCAIQjQYiCwi31c7XBhCA1ol2KkwNAAD6QhUAAHRDJc3MHEEtSOEwQjABOLoCRQAAekNKDAiw1c7XBhCQkLqdAWIKRGVsdXhlIFJvb2gCggEAjQGux_lCoAG-j0yoAcgGMI0GOOjQIUDZ-A9IAlII5iGL439TyExYyAZiAwoBIA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D250.00%26priceDisplayedTax%3D54.02%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YLxQjxR9jQbB8ue71m9JXhz&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 135,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygczWXlLl1ifFvJmcUNekw8JpXOl1ebC2w31zjhqjejGJbl_apP-JsXkr9ZUhFB2OAc2zXBqH63gX-c3KVF__9ApV8mN9AC8QiFhLlJpsNP-_qn9Tsme1is12aX5SUlACausKr4sEU-fp2KNXxGKczyZesbD7Y57dGscx0uZVwJtvo0JnA5XZorQLo-O01MDR_oyJoDiYE&pcurl=https://clicktrip.com/hotels/details/XXIwgux-7G6oVKQOlV5HN-MPfx2Zb_ULCueE3CHKunh53z9MEfvLaahj7XgKF1jOP8xfcXW-0SwV0Bi63QwuNX5eSIGO4ZvlKOfnVG2uVhg1?locale%3Den%26currency%3DUSD%26pos%3DUS%26date_type%3Dselected%26taf%3Dv0QEHH1KLxrQGnHwFW5phcjuW8cKH3TsTDftMNmNJ7U3xmSrCM3b9XVj_f68d_CT0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3D&s=ALZo0YIZ7rtPEqJfHdrw5kWzzGd9&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 147,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyieul9YOEt3_9on0n2SJCXKAjDJPN40K0pYxcJoupdpTBE8XFxf_pFmpMrHSEqTTE4T002mfszBFgONuIAoQ6ToKt6TlSTVmqk3ls4bWvVYd3lGs3OJ_8NsowSFnwi-UAWbZpd1pRfUXrfI-JzC-r39CfpS_gRwJjH0fwfC_uTUQ9g9tQEu&pcurl=https://www.qantas.com/hotels/properties/1199317?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D1199317%26hotelID%3D1199317%26hotel_campaign%3D&s=ALZo0YJpYg5HXDtKHtet_vecq3q3&ap=1"
+        },
+        {
+          "source": "Stayforlong",
+          "price": 150,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhWoOK_2ljG3xAa6QOLJKaMQvMB0yrPLML8rbF-KQlzLebfJgJpU4HqIRcHaW6WmcpfhJAHscMXjc5yV5MMl1ftTalnTgtf3fX8WFJlG4t_hGfTJip9wla6nR_Q6bCDwKHuvMQMMWHJ6Pft3p47dCoIerHI2Yplw-sQAWur_1vIryDe7z7Vfs-ol6dj1A&pcurl=https://www.stayforlong.com/hotel-detail/161579?checkin%3D2026-12-09%26checkout%3D2026-12-11%26adults%3D2%26metadevice%3Ddesktop%26aid%3Dgha%26market%3Dus%26lang%3Den%26total%3D289%26query_type%3Dpull%26ch%3D0%26adclick%3Dfree%26defaultdate%3Dfalse%26googlesite%3Dlocaluniversal%26p%3Dbac810f955190b0eb66c96b2f1155396%26rate_token%3Dv2.z6af3aa5800b4232acf6d5f9fbd3c604e%26source%3Dmeta&s=ALZo0YIa5EEzNUrTYZl9rsi64eqw&ap=1"
+        },
+        {
+          "source": "Hotelscombined.com",
+          "price": 150,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhcSHM0vcv2CqTRS-x_s09gZELOGNMjwZeMgqxcAdZb84I_PKM_1hGCxke1wU6ynAzYcR6GNlYdNLc_J5FkaHvMb6kcw7ucZ21eixM0_Wp6AVjnIHJxz07tb2s4JvE_miYuCdxlBVR1ZUwpTuCzu0V7jQhlWx9CPGDALDLLir_Oq9VTMDfQSucvA_TPzbJuD2ZanA&pcurl=https://www.hotelscombined.com/semi/ha/hotel_ads/880642/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D880642%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-12-09%26co%3D2026-12-11%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D61.43%26pdtotal%3D300.33%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2lBkCI7xgL%26k_kct%3D1794335186%26k_gct%3D1794354119%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YKKWuwcWQT6xLpQGKP1S6jw&ap=1"
+        },
+        {
+          "source": "momondo.com",
+          "price": 150,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjLmeM5k4ymWmczs_sRG3eMT62QwlLHmBz37DoFPX-lvCUIDTKY0vEQ5p3sX3lNFPPj1UyPMCIvVQHPG2r0iA6QGl2LgIrDu6RbHfJ1YZQvCyD61pmwVSibTAd8r7D_JJptCfiZ2VpnkrwFv3K436r0dNZ1Ftce_vkdRJyMwJJ15LIc1wa4tA&pcurl=https://www.momondo.com/semi/ha/hotel_ads/880642/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D880642%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-12-09%26co%3D2026-12-11%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D61.43%26pdtotal%3D300.33%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UFJJQ0VMSU5FQ09SRQ%26k_rt%3D%26k_sid%3D2aBkNL59bD%26k_kct%3D1794334920%26k_gct%3D1794335074%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YKOm5I5VYkUeGHKETR0plIq&ap=1"
+        },
+        {
+          "source": "goseek.com",
+          "price": 150,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg9k3eXm1XoXHIe3tnFa1sI0My6eHxEiCAMiKxEPCguKs_oU23utWsrOl7Bcbs0fzm1Xgl8WmGJn3eyXhF7sxUcXzDG07temSkmnzX3iL2SQdvhKXPMrd37LvbihuCC1INdHME6a4nUEnr9WwZlNrVZoHzeDbr2rpHBBoddDVFnqTJqn4gWbOfM4X5hUtNR-w&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D3530695%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D299.91%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D3530695%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D299.91%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253D1zf0vXJhynOjSyDRChUIirkBGJ4xIgNVU0QogLTi2AZSATISGhWluOa3GgswZ292ZjNCTFlDMCgDMMjWztcG&s=ALZo0YIZP42vCkdpnoEFIm8q7fQA&ap=1"
+        },
+        {
+          "source": "Etrip.net",
+          "price": 150,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygG_L4W3A8IsGkjwfkHSy2MFX0BMA2s4rAbLACOQ-L9MIwHvdYe6nCd_y15bPlLzcBiUG4lhl4Q7THtAvbNhUJjCIlWMYdPO_46fO9Bfn_gOmq5GtZxvoMq_KGe3xlHs5DFSvLTMd0pSx_-UN1w11ksnCIBFE4r9DkAq2Zbx0pvjUi-Aqc&pcurl=https://deals.etrip.net/?sig%3De9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335%26turl%3Dhttps%253A%252F%252Fsearch.etrip.net%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D3530695%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D299.91%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D3530695%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D299.91%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253D0kdoQdNFKnOjSyDRChUIirkBGJ4xIgNVU0QogLTi2AZSATISGhWluOa3GgswZ292ZjNCTFlDMCgCMJXMztcG&s=ALZo0YLnrAtR0m9VQhtZ8cJAhG-B&ap=1"
+        },
+        {
+          "source": "dealbase.com",
+          "price": 150,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyikdT2OCwEQtEpe1_q4IogU0ILBuicOweb8woAKFWy808s_6apo49gpOqbwOX1V7HvTnAcV78Yn-zfiZyvn-UbK0-PpvMKhsPHcg9hi7Xm3hb_oixofku1SvGRLBtAqGm52ICp9goyMxVdhxhfBa7_2k8k8ZKYaby32i-Ot-e-WtctMsYGi3PrKsMJnD40zRrSBiA&pcurl=https://deals.dealbase.com/?sig%3Dd24b78db5ff27b2a7633c125e8c1eb65fcdd29bfbe8d2468da3702f8e475011131373338383435313339%26turl%3Dhttps%253A%252F%252Fwww.dealbase.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D3530695%2526userCountry%253DUS%2526profile%253Dr2d2m73kn8%2526preferredRate%253D299.91%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D3530695%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D299.91%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DnZqpqxAxwV-jSyDRChUIirkBGJ4xIgNVU0QogLTi2AZSATISGhWluOa3GgswZ292ZjNCTFlDMCgCMJ_OztcG&s=ALZo0YKQYqQjr7GIc7-csrHYcXEq&ap=1"
+        },
+        {
+          "source": "The Retreat Palm Dubai - MGallery Collection",
+          "price": 152,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh3zL5ZeU1cUrp2KWn47jM-QyXtxEkcTvK0aQ25WwzyoB3H6tJSm35pwXYftHhxVf1pj9IJe1YxIV6gIJ72Z2NQPqMzm6Ofe8NxDf20Tmeh77sly0i4HQCQFeYU93kLpL4UaFKfodgkptR_NlUMcDiZColhGk3Ov1ZFH7Lbuvh1MiwRBXc&pcurl=https://travel-productads.koddi.com/PropertyAdvocateAPI/ClickRedirect?client%3DAccor%26channel%3DGHPA%26placement%3Dlocaluniversal%26campaign%3D%26destinationURL%3Dhttps%253A%252F%252Fall.accor.com%252Flien_externe.svlt%253Forigin%253Dmgallery%2526goto%253Drech_resa%2526destination%253DA9Q6%2526dayIn%253D09%2526monthIn%253D12%2526yearIn%253D2026%2526nightNb%253D2%2526adultNumber%253D2%2526childrenNumber%253D0%26amp;hideWDR%3DNO%26amp;hideHotelDetails%3DYES%2526merchantid%253Dseo-meta-google%2526sourceid%253Dx-A9Q6-US-cpc-desktop-selected-0--2-09-12-2026-28-Wednesday-localuniversal--0-0-0%2526utm_source%253Dseo_meta_google%2526utm_medium%253Dpartenariats%2526utm_campaign%253DA9Q6-US-cpc-desktop-selected-0--localuniversal--0-0-0%2526wiz_campaign%253D%26amp;forceResultsList%3DYES&s=ALZo0YLgrkb5IPeu4P-I3OHrS5sJ&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 152,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjR2GgsewaBl-Qzs2Bt87U5ZQlRxfXihIZbcovzfpgsLywd83sOKhoumvDACjSXOB5mifH6Bm5ZwVfEykWBlIgXWLtIFUJ6AzVq3hOexH8q5Q7DRlOkCadutRNIaWMRpzUVjEUPYUWECcvQ7D1xMn4b1o6KBsYHoG-jpLmmR5uffOFqIObZNjwbHQeK0L39&pcurl=https://www.expedia.com/Hotel-Search?selected%3D18141550%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.18141550.20261209.20261211.DDF.28.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D303.55%26mpj%3D64.64%26mpr%3D23.89%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D18141550%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D392410135%26mpm%3D24%26mpn%3D219646092%26mpo%3DEC%26mpe%3D1794349992%26mpp%3D1&s=ALZo0YIbkx6-70a5U3dos2suxITO&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 152,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=The+Retreat+Palm+Dubai+-+MGallery+Collection%2C+Dubai&checkin=2026-12-09&checkout=2026-12-11&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 152,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhHSaQcE_kWzoQRxUszBao46EsCqLR1asJPJzJ1uWi_aeQMRy5YGgGUMg4vO2HW01pMld10DGaiwpv8rv5yJt3vNNCkOKQtW0s82uFz7c7s5lL2o2oSJcH1kqGZ5ZlW2UKk7o3cEfBK73Cv_cAPw_dhUSqhs6OhKcUzOe4WPsrDPPD1AJ3fv67_ZZWKXUA&pcurl=https://www.hotels.com/Hotel-Search?selected%3D18141550%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.18141550.20261209.20261211.DDF.28.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D303.55%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D64.64%26mpr%3D23.89%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.18141550USen-20261209-N-ABW%3D28-camp%3D-aud%3D-N%26rateplanid%3D392410135%26mpm%3D24%26mpn%3D219646092%26mpo%3DEC%26mpe%3D1794350032%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YIiPaY55wtkgnVm07dfF0gl&ap=1"
+        },
+        {
+          "source": "Priceline",
+          "price": 152,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj2hLIdDvUlhtF4b6LS3vnUC2qdleVA7CWxAzQNdhjBXDgDI2011n1jbs-z6h9HIGSaGlS2_C0DSHm9r09kmWn_F3InIVOPlSgD3mTgl1BXnhohi6566rRFOEPMLqMekNwZAnk-hZQ4H2uJ6JlQu-NO2LAv_xeU8MCj-IuktIjJBicBsuh86gcd2ikMfakIcDU&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C70090104_localuniversal_2%257C20261209%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C28%257C2%257C0%7C0%7CEN%26hotelid%3D70090104%26checkin%3D20261209%26checkout%3D20261211%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D5000003658%26adults%3D2%26land%3DL%26metaid%3D_gWEdjlgkW8p_Qan85B071SyXn98Ud_i90UuU5pmmAEvWXF-xJH3VHpoWC-CUUk9RWSY20zW4I8RA5avq-jtPrr5yPbNfLch-qFIQ7JEC50IX-5GOrGlbASlUBbS0p9MNxj86DWSOqQwyhri03Hkm3_cnqAYuRjhIKNtQtX7hOcv77cBFHHpQ2ijIWu0ym6An4fJY-CnKJ3QgG1G50EhNo__4Wb7tX0qrElaPP_3KUwl88lSEW802tTV8zBvWdrLjAQZwMNzn3m_eA1-9yn8-BnllejX0CVUcek8_szfNZWIh-uIye4J4iJdt7UTLgiPtTG9xQYmj4MOT6tz35GylvrZ_VqREtKEKNOCMeTl4D29W1X_IAL7jdULJsAVww4UCkGpqtbpi6P2RBqXutznlgoz231clIAy8MXkTJcxoyzYgE9KN6E1eB6lUAIsp5nH%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D64.65%26pdf%3D23.89%26pdt%3D303.55%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YIp5-Xodn2LjC0aCdVF-vjF&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 152,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygbPdObXH4FOSb0uNdaQ3tQ4JieCaj9KUiVnH27592t4WakT52kCSUZg9D3EKoMnbUMpGQC1bB-jvupLd1qV1mSWysD7VR5ATARe3sRQ--4q2pZZ-i2VakUOheRWZ2Ls0BQAIPGnCUsKSGMlmHR53MX89MhEq4Ull0-Ic95k5OxEytsEUEY5mHXV17Y&pcurl=https://www.travelup.com/en-us/united-arab-emirates/dubai/the-retreat-palm-dubai-mgallery-by-sofitel?prp%3D646204%26cur%3DUSD%26lan%3Den%26CI%3D2026-12-09%26CO%3D2026-12-11%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/united-arab-emirates/dubai/the-retreat-palm-dubai-mgallery-by-sofitel%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D646204&s=ALZo0YIZQBJvhSWCopT2pw2GvH7Z&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 152,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjTI0gOqvP4_XYXYERqUUggeeW_Z2xS2iLr0GYV0NsmyBRCdiVuhs-mDEIeoDCgfoAMfXou_5qVa3sixpvDLFW-OkyRMBYI4A_q4IVFbvA2GFltV5HaAsc5s8hxAwJBe4h-5sLdWEDP9ZdlJBeGRxhLCbIfaYcHsE8MwJX4ZF3B5P2YSN4tJ6B3R3PtKrcK&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D18141550%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.18141550.20261209.20261211.DDF.28.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D303.55%26mpj%3D64.64%26mpr%3D23.89%26mctc%3D10%26rateplanid%3D392410135%26mpm%3D24%26mpn%3D219646092%26mpo%3DEC%26mpe%3D1794349992%26mpp%3D1&s=ALZo0YI1jzodzThdIHJCR4z3zDBr&ap=1"
+        },
+        {
+          "source": "Kiwi.com",
+          "price": 152,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjFEt1nKQvVh5BMbZRvO7JNhuZTIJ8RTL7hbP3YaMC6esifq22VS7hNYp8-eXUBFbj5wYMxVI0VSWUl2oYko-ym59P4nmVT4DCJj_KXe1MPypZ-Ul_gEzNTbVe_oIy_0lFEQjQhx-Z_sEZx-xbZriqBzNdtLT02Yv67nhOYEfuk9il7lKATrzOI5atStyoE4cPc3IZyVJsopA&pcurl=https://hotels-tracker.kiwi.com/?sig%3D863672d43279b952b5170ed2c3497011c1cf2b4bb2c02e0599107fa8b3d0ad44333737%26turl%3Dhttps%253A%252F%252Fhotels.kiwi.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dkiwi%2526utm_medium%253Dcpc%2526utm_referrer%253Dgha%2526hotelId%253D3530695%2526userCountry%253DUS%2526profile%253DH9wkf23b1j%2526preferredRate%253D303.55%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DUS%252526udevice%25253Ddesktop%252526hotel%25253D3530695%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D303.55%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DUS_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253D9WaBmdhmTKqjSyDRChgI07oBEMEIGP8pIgNVU0Qo4Jrg2AZSATISGhVb6HlrGgtKWFV4MkNNeHM0QSgCMLPGztcG&s=ALZo0YIrqHf-jqOW-p3PR4YDl3DR&ap=1"
+        },
+        {
+          "source": "Evendo",
+          "price": 172,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygmSSkktQMvcotpdhZJrH3hPKYt0tZwdmquCuxeqypiG5TChwM07gd-L0VkdtUjtFZLT54kYFOVmdHgXf-ivjkDt6YBlnHjYJSWUS67D3yUR6zOuIFAQft3_37rxOb_r9ocqCQxOwliYGO4k-JsUMgl3gsZEpUE0qm3NOXgJusfibhgX8xOi9--djdpL-dftA&pcurl=https://evendo.com/stays/the-retreat-palm-dubai-mgallery-by-sofitel/00163320?check_in%3D2026-12-09%26check_out%3D2026-12-11%26who%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D%257D%255D%26currency%3DUSD%26language%3Den%26country%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dgooglehotels%26utm_campaign%3Dlocaluniversal%26pdtax%3D72.05%26pdtotal%3D343.86%26prid%3D&s=ALZo0YKw-StncqafghHsNA06OfIV&ap=1"
+        },
+        {
+          "source": "Super.com",
+          "price": 182,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjTRtDEpgL9xqq9_ruIo-tBtfqb3fTi9slMqD24qI9sjFH64C5fhRcX2FO2KbZuI3Jb5ia83STUFnhufrVRU4-4JNI6RNuXOqfLwPZY8K5LKEkbll7-2Ev1ZtkrUh7vHys78yzYwu6QLgasq7z8JlKXSq7xphETb6mU3e7_f8fUoHPc2uv-TJvbFA&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D339.94%2526total_price%3D341.09%2526retail_price%3D347.32%2526retail_total_price%3D348.5%2526surcharge%3D21.99%2526request_id%3D13531316428358305792%2526ps%3D1642246410%2526pb%3D0-slAkZlDjP06IhVxwa_7LNgtXduBYi69fOPEQ3_DeI08BmQ46TSHtAduZ5iYFMQWyVm7t8AI0xoLYjZjIM2eh973jDIm75J_WLFj3PQoKmbYnkNlAmEF7h9v4YWsP7WafmzhBJZJWN4dMuxmPgRRQ%25253D%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1794288559%2526sg%3DWXjiR%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D363.08%26checkin_at%3D2026-12-09%26checkout_at%3D2026-12-11%26provider_hotel_id%3D10009177098%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YJJu7v7XkH32KK0lihKOmNo&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 231,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj6HiBJ1kPOB_ADnwMTJPpZfRL_KaFXl0noQSU8Rro0t9Bj7JBbTskOazJ3_Wl2ayVjBIWl_2mst4lyztbPKQ_5XwzQpbSIreeIO5Uh0yQ5mIbE5hcfM71g6v6JSc2t0AG5Jxku91rJDjJDgL9udIbCAm5RY4q_AeaxEiP3221HoNfX0X_t5G_J6rUSvQ&pcurl=https://www.tripening.com/hotels/-/4635973-the-retreat-palm-dubai-mgallery?checkin-date%3D2026-12-09%26checkout-date%3D2026-12-11%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D461.05%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YLWJY842gYmPAhv2AKdgCXZ&ap=1"
+        }
+      ]
+    }
+  ]
+}

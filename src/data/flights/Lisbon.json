@@ -1,0 +1,127 @@
+{
+  "from": "JFK",
+  "to": "LIS",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDTElTGh4SCjIwMjYtMTItMTZqBwgBEgNMSVNyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "American + British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1303,
+      "stops": 1,
+      "duration": 760,
+      "depart": "2026-12-09 18:25",
+      "arrive": "2026-12-10 12:05",
+      "route": [
+        "JFK",
+        "LHR",
+        "LIS"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 165
+        }
+      ],
+      "flightNumbers": [
+        "AA 100",
+        "BA 504"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1331,
+      "stops": 1,
+      "duration": 745,
+      "depart": "2026-12-09 18:40",
+      "arrive": "2026-12-10 12:05",
+      "route": [
+        "JFK",
+        "LHR",
+        "LIS"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 145
+        }
+      ],
+      "flightNumbers": [
+        "BA 174",
+        "BA 504"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1361,
+      "stops": 0,
+      "duration": 405,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-10 08:00",
+      "route": [
+        "JFK",
+        "LIS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 272"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Tap Air Portugal",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TP.png",
+      "price": 1419,
+      "stops": 0,
+      "duration": 420,
+      "depart": "2026-12-09 22:00",
+      "arrive": "2026-12-10 10:00",
+      "route": [
+        "JFK",
+        "LIS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "TP 210"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

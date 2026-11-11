@@ -1,0 +1,241 @@
+{
+  "from": "JFK",
+  "to": "AMS",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDQU1TGh4SCjIwMjYtMTItMTZqBwgBEgNBTVNyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "KLM",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "price": 1504,
+      "stops": 0,
+      "duration": 420,
+      "depart": "2026-12-09 17:00",
+      "arrive": "2026-12-10 06:00",
+      "route": [
+        "JFK",
+        "AMS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "KL 642"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1504,
+      "stops": 0,
+      "duration": 450,
+      "depart": "2026-12-09 18:30",
+      "arrive": "2026-12-10 08:00",
+      "route": [
+        "JFK",
+        "AMS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 48"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "KLM",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/KL.png",
+      "price": 1504,
+      "stops": 0,
+      "duration": 430,
+      "depart": "2026-12-09 21:20",
+      "arrive": "2026-12-10 10:30",
+      "route": [
+        "JFK",
+        "AMS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "KL 644"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 1504,
+      "stops": 0,
+      "duration": 440,
+      "depart": "2026-12-09 22:40",
+      "arrive": "2026-12-10 12:00",
+      "route": [
+        "JFK",
+        "AMS"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "DL 46"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "ITA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/AZ.png",
+      "price": 1460,
+      "stops": 1,
+      "duration": 755,
+      "depart": "2026-12-09 16:40",
+      "arrive": "2026-12-10 11:15",
+      "route": [
+        "JFK",
+        "FCO",
+        "AMS"
+      ],
+      "layovers": [
+        {
+          "airport": "FCO",
+          "minutes": 95
+        }
+      ],
+      "flightNumbers": [
+        "AZ 609",
+        "AZ 108"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1498,
+      "stops": 1,
+      "duration": 620,
+      "depart": "2026-12-09 18:40",
+      "arrive": "2026-12-10 11:00",
+      "route": [
+        "JFK",
+        "LHR",
+        "AMS"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 115
+        }
+      ],
+      "flightNumbers": [
+        "BA 174",
+        "BA 432"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "American + British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 1498,
+      "stops": 1,
+      "duration": 605,
+      "depart": "2026-12-09 21:15",
+      "arrive": "2026-12-10 13:20",
+      "route": [
+        "JFK",
+        "LHR",
+        "AMS"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 100
+        }
+      ],
+      "flightNumbers": [
+        "AA 104",
+        "BA 436"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "British Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "price": 1498,
+      "stops": 1,
+      "duration": 680,
+      "depart": "2026-12-09 21:50",
+      "arrive": "2026-12-10 15:10",
+      "route": [
+        "JFK",
+        "LHR",
+        "AMS"
+      ],
+      "layovers": [
+        {
+          "airport": "LHR",
+          "minutes": 180
+        }
+      ],
+      "flightNumbers": [
+        "BA 114",
+        "BA 438"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

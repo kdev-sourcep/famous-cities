@@ -1,0 +1,371 @@
+{
+  "city": "Mexico City",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChkItP_M8_T0lNG_ARoML2cvMWhjMWJzajJzEAE",
+      "name": "Downtown Mexico Hotel",
+      "address": "Isabel La Católica 30-Interior R2, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, Mexico",
+      "brand": "",
+      "info": [],
+      "stars": 5,
+      "rating": 4.3,
+      "reviews": 476,
+      "room": "Room, 1 Queen Bed (Colonial Queen (MI - QUEN))",
+      "photo": "1.jpg",
+      "freeCancellation": true,
+      "amenities": [
+        "Wi-Fi",
+        "Restaurant",
+        "Bar"
+      ],
+      "prices": [
+        {
+          "source": "Trip.com",
+          "price": 82,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg8ydX3ft9RLrWJFVGsz7inXTByriUjInbvsB8xXn8L4bxxrl1cncAUPUEo6jKfC0NLZHSQvwMhae-53D4jJ6mLaGNOmocCt_CK3lpPtlkabPdUDVYvOfZhzRB7Et1zMriimRLQWK61sbFGl9G-rIiaXHI7q3pCZwEjxrgTBHb8WjBmdac&pcurl=https://ca.trip.com/hotels/redirect?hotelid%3D3798484%26city%3D691%26shoppingid%3DMds3xQFZfTnc%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-12-09%26checkout%3D2026-12-11%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1349474%26prid%3DLANG_CA%26trip_sub1%3D09_12_2026_2_localuniversal_3798484_CA_desktop_selected___0_0-LANG_CA-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Py4GKSYBJi4mCUsuPY8Xj9BTYhRiODJ4wW66MDOGYwXnn9nHEFI-MORqYDjEwXGd8E7pBrtY5weMj4TSOm_9DXHIcXjAs-fH7KuICFUYrHN6XYuCLQLSotJC9ZgVHjx8Zz19k8mILYXN0MjU0so2S4mEODXQTBOrdKOUgxOzu6KP5ckL751WUhhyTW1DxdZ8eMy2JdjEwejKsY2bmYDYwMBZg-MQogmxtvaGAxiYnREACHXItFuAAAAA%5Dfgt%5B1%5D%26br%3D163.28%26tf%3D26.65%26display%3Dexavg%26locale%3Den_ca%26crn%3D1%26roomid%3D1779167672&s=ALZo0YIipI29DvDo7e4tavudtyi3&ap=1"
+        },
+        {
+          "source": "Downtown Beds Hostel",
+          "price": 83,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygFRectA1u6Sp9HWSujf7nyQF6jotgi9ORre5Pj7wES3-cGdtFWCjyobzId38QnyND-BjZ9tSf1xcWAKyBXbp2LPOL-rnLs1OwXjfwuJmKOfz4ferOJ5O3zvmzlCilP8qkhbNm_Elgu55am_TqU27wcmTCV9_prn58p7iWRv5ok6lN57yvW3Ggy&pcurl=https://api.cloudbeds.com/adshotel-deeplink/official_site_redirect.php?onlineid%3D6503%26datefrom%3D2026-12-09%26dateto%3D2026-12-11%26culture%3Den%26device%3Ddesktop%26bookingSource%3Dcpc%26pr%3D2%26country%3DCA%26roomid%3D3128%26P%3Dgoogle%26currency%3DUSD%26ghaCampaignId%3D%26advance_booking_window%3D29%26freeClick%3D1%26adults%3D2%26children%3D0%26alternate_hotel_id%3DduY8K4%26rpid%3Ddefault%26price_displayed_total%3D166.81%26length%3D2%26google_site%3Dlocaluniversal%26is_click_type_hotel%3D1%26is_click_type_room%3D0%26is_hotel_campaign%3D1%26is_promoted%3D0%26island_id%3Dga%26origin%3Dgha%26ads_click_source%3D&s=ALZo0YIgY0MKvYqzVBUb2-DAu54m&ap=1"
+        },
+        {
+          "source": "trivago DEALS",
+          "price": 202,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhcoc4RTqzi54-f-_dKyckOsa2vCh2lTLqRZKVTMbWblr9gluQhOLCGLPRaa4skFxz8YTThb9hRMBBtac1OoKuu3RAlbnBvtd00CkbVx6Y_nlbrYFNaLS80PI7iANLkq6a5LPz2wqk_qf0woJ-tnir2Pnnq_CNFJaXbFBmVmyA6zXBOY1TDK-CEv95wB1Y-JPAOjYd2A3Nm&pcurl=https://www.trivago.deals/hotels/mexico_df_mexico-city/330955_downtown-mxico?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH330955%26campaignName%3DTrivagoDeals_Google_CA%26currencyCode%3DUSD%26dealKey%3DCAIQtgYiDAja2M7XBhCMo6ejAipNDQAAj0MVAADDQyUULplCLQAAhkEwATjyAUUAAA9ESgwI1djO1wYQwIXJgQJiClJvb20sIDEgUXVoAXC8AYIBAI0BAACPQ5gBAagByAYwjQY4y5kUQNn4D0gCUghv08DEwvU_-Vh8YgMKASA%26countryCode%3DCA%26languageCode%3Den%26rule%3DGoogle_CA%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D403.12%26priceDisplayedTax%3D65.78%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YI5mzcuxEVznShI9GZBN8-x&ap=1"
+        },
+        {
+          "source": "Traveluro",
+          "price": 215,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjKel7aY_zxlDtqQSprPypsXXyVUKBFZY5G_jiNcg7t9-D6aCobxJom7Ch0q_qi53gliAHKGNBWbLFuWeTMTwD-bxmET6IO9B1HNtC5jx5LZE6ABjBGeFSnsJb5ViknBW8MGDGvKrhlv2rX_7Krt5QU2VWJNsyxrdrm6X3Ffhq9DRpwN67RBOkb&pcurl=https://www.traveluro.com/hotels/mexico_df_mexico-city/330955_downtown-mxico?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH330955%26campaignName%3DGoogle_CA%26currencyCode%3DUSD%26dealKey%3DCAIQ_AEiCwj9zc7XBhD0kK0cKk0NAICYQxUAANJDJQpXo0Itw_WOQTABOPIBRQCAGERKDAignM7XBhDsprT8AmIKU3RhbmRhcmQgUmgBcLwBggEAjQHhuphDmAEBqAHIBjCNBjjLmRRA2fgPSAJSCI2RU5PU9yjDWHxiAwoBIA%26countryCode%3DCA%26languageCode%3Den%26rule%3DGoogle_CA%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D429.90%26priceDisplayedTax%3D70.16%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YKtR7ZzL8GQOT8fnKOEkFSC&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 249,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiBMrR_ekGPom5DMldH8wiCT7LLxADLMD_FCdNj77syLipM-aaCgl21YCn4YMK9tw-JjZKpkoalASQHwn-c1Lc9xuCsvbkZe8tBl7eX8A7oqjEB4t_tg5RForisTT-AXhtsTvWut_z5jb6q-nal_vtlZnOyAKgGB6j-_WfD9QJqdrQTBr7f&pcurl=https://www.qantas.com/hotels/properties/102048?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D102048%26hotelID%3D102048%26hotel_campaign%3D&s=ALZo0YKwAIjrkPFQ8s5T9vk6gVVm&ap=1"
+        },
+        {
+          "source": "Expedia.ca",
+          "price": 250,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhChFBwpJF7GOld4yWGIgQlnDlwEHHevKRT2KEtkUnBDOGt27uAd1dqzxN70cGTLuu3Xk4Vn3-rClyP3kQrQUVpXriqyv0hZAb4CqhecfJpLj-_ZNPBHUwzfraA0F24RYKmHIkXneZzc9Dhe6luN5JOkF3z6dPrVvQ48jH0Fv8Vhkihmr0_PbKuB-CuXKVc&pcurl=https://www.expedia.ca/Hotel-Search?selected%3D4956189%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DCA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.4956189.20261209.20261211.DDF.29.CID..AUDID..RRID.bex_ca_desktop%26adults%3D2%26children%3D%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D499.41%26mpj%3D81.49%26mpr%3D0.00%26mpl%3DCAD%26exp_pg%3Dgoogle%26langid%3D4105%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D4956189%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D393329964%26mpm%3D24%26mpn%3D323995341%26mpo%3DEC%26mpe%3D1794303540%26mpp%3D1&s=ALZo0YKZ-0jBoyQKd_SgKFFhtLHY&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 250,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhgLkwYARwkDkIapEwC-uwL1crFUcSK04961UUmberoVzZJmsPmpR0cjVMVHYyFzww-7VvoQmXVhbeb5TVjPi2d_pE2Mnyys71D1ceeLirY9yvN2XZ4RUbKlC5IfGilU7g-Y7gxSSzY2Zf_6DBMHBGlRn9oc0cbvGhCRBRm1cqfUncNiRe72xP1PrM9Op8&pcurl=https://ca.hotels.com/Hotel-Search?locale%3Den_CA%26selected%3D4956189%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-CA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.4956189.20261209.20261211.DDF.29.CID..AUDID..RRID.ca-desktop%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D499.41%26mpg%3DUSD%26mpl%3DCAD%26mpj%3D81.49%26mpr%3D0.00%26rffrid%3Dsem.hcom.CA.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.4956189CAen-20261209-N-ABW%3D29-camp%3D-aud%3D-N%26rateplanid%3D393329964%26mpm%3D24%26mpn%3D323995341%26mpo%3DEC%26mpe%3D1794353947%26mpp%3D1&s=ALZo0YJWGQPR1MEEPOTaGdn8C-Tm&ap=1"
+        },
+        {
+          "source": "Vio.com",
+          "price": 250,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygZTdRI68HlBp-0Ncod70yiuyfvW46hwJtYStK5qNEzDtDL1x1dbS0U0WvZncA_hFLrpRR6clnWaB8hjeSE-rsWULMsWzTL5TFCgWKMQk0r96uvRKQ6FdE7p9cWgCj62VV1QbpmxeK6EZwygx-NCDN88-M2sfcuaW23TfTHWUbtQPu2UQGXXpgU&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D45424549%2526userCountry%253DCA%2526profile%253Dr2d2m73kn8%2526preferredRate%253D500.86%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DCA%252526udevice%25253Ddesktop%252526hotel%25253D45424549%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D500.86%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DCA_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253Dm-b_Y0mRZzt-kB75ChUI0qMDGOpRIgNTR0Qo0Lzc2AZSATISGhWsT_ZbGgs4U1NNM3FfUERJOCgDMJyuztcG&s=ALZo0YJA4GGcGUfaibx-WpS4LhDk&ap=1"
+        },
+        {
+          "source": "Closest Hotel",
+          "price": 251,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygHMaQ2jkTFCkIcy6U0aBuIJOnSC6nEjcu0-QKk-RVEYbExnLpEnSc9_TEYOMedFm-fr9_1_R-4E--g9EHc8YyCfVfj3DVUiZL4kG82GL5usvLSOawcv5UZansWQ7ixqp7-jIRnLZYIy7P6YJX2gyDsGMzsCH2l4gKw3tXgXWBo6CbHyG5mPu5CzQ_4B0ThJUNTTOT_j5G_odXqlHBo&pcurl=https://closesthotel.com/googleRedirMainSearch.php?checkInYear%3D2026%26checkInMonth%3D12%26checkInDay%3D09%26checkOutYear%3D2026%26checkOutMonth%3D12%26checkOutDay%3D11%26numberOfNights%3D2%26numberOfAdults%3D2%26numberOfChildren%3D0%26numberOfGuests%3D2%26hotelID%3D4956189%26roomID%3D323995341%26currency%3DUSD%26deviceType%3Ddesktop&s=ALZo0YKKpxd8gXuk1-lTlt6wll1Q&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 263,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Downtown+Mexico+Hotel%2C+Mexico+City&checkin=2026-12-09&checkout=2026-12-11&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Priceline",
+          "price": 263,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi0fldJ6hcabWyS9wjzqBYznc0ENQ_7xv8dZk4eCHUcFEx5Nr5IgvBy-Ns9v87ucT-2L2bgow3lDMc_zD7it7XLNDczpl8RkkFhWXoly1MVSEGk8ZRDF9D8ILNfy222gb4ju-G03KuD93LkI3_GzWEKOiNRzD3mJWjKE9qsdFQ3nmBPUkh4LTbpNoO8s99LoWg&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DCA_HP%257C29772404_localuniversal_2%257C20261209%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C29%257C2%257C0%7C0%7CEN%26hotelid%3D29772404%26checkin%3D20261209%26checkout%3D20261211%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DCA%26taxDisplayMode%3DBP%26cityID%3D3000060256%26adults%3D2%26land%3DL%26metaid%3DqXRvZFxfwEhU3GlmSZaJ1BGJ0zN6E8jCj-2NRSsH_QNb86ilGfCZTnEB92eQZc9QZSpU504gzdBp2VEvSvd_PoQYyFq0O366Jv6GzCNMasTN-dQlW9lGVC-_cawNr5dYrsdKqcn1iNEgtvLLOuoS2BmvOUNQJNniwYlognTEmwyiZIQpCBK_uf6mNIlBffncdGyqBPROmvLc9AI5C8NpXVBPKeSFba4EQdPbBHxnXrgohQv3XRj3bkzkbVdgumEgr8PMZXDMpHC6ZNomP3K6Bdzt5ZW9S243LSx6hiGYdhQW6jJh13wLiqXS536eaopsZEPRbKEEjwrNM_7Zr-xn1KVvuMpt-Y5f-9d9rwvKGq7tecttBsP8WGV0WbPKFWHsb8zwgmXdSuULGdxaYeYinLm-f3MeyDHm1o35fnkEirs%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D85.78%26pdf%3D0.00%26pdt%3D525.78%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YLOncOoA9CvhS_coj0gjWbL&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 284,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhwcIcgwOjHUN4hNJB9a343h30YsbVXL8VasMOFVtfMD4Qi5CxGi_MqDM2dazP9x6DL1cQVmtqwzH2-o1moXtkJXs8Egd-uU_3qzeI96J_BOhDbiYldfXdRv1HQVxjlpyovbVmvtX_NPXIPQ--aexajX4UyA_JhRP9-A88QX25NWrqRTm5OB9H0uNK1jqOyrJZFOqsj0P0&pcurl=https://clicktrip.com/hotels/details/IalzVAgZwgpRe8SxhC57YV6k0buVDVovFoijW0EqA-E24CMgt9eMrkYkq_vYSHICP0swmRKIKYAcs-TEzdfOYCByCMk3ISekofaWFZLLcyXsKbHcE4SrYowE8kA57LN_0?locale%3Den%26currency%3DUSD%26pos%3DCA%26date_type%3Dselected%26taf%3Dsh-4YdYKZx55HcOF-ul0VwhmxHPIal_qTR39jIXQQ0fbjTxUMEFWK4EJdO8MHPVf0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3Dnot_domestic&s=ALZo0YJTtVwaW0H9DjKjAHD_ZwZ4&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 297,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjwfmGEI2lTDer_kv5bzmOrEmtLQgVyXXnPB0MW_AXAuKxpYGeGNBB-w3BSAv7E_8BBTySagOoRaH6fHIYuBE18qdv8nSu30ytsFbU48sVB62idflv207jxRbwly4-1A8HLtkCFUZtCI486oODXi7cbamYjbc3nSCJ02HCE91S7wI7zTmWleyqzxA501w&pcurl=https://www.tripening.com/hotels/-/3962624-downtown-mexico-a-member-of-design-hotels?checkin-date%3D2026-12-09%26checkout-date%3D2026-12-11%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3Dbb_package%26rate-rule-id%3D%26google-displayed-price%3D594.84%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YIG4xmWYlaSvkaQGH0dmo0K&ap=1"
+        },
+        {
+          "source": "Prestigia.com",
+          "price": 305,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjKKr-9l_LRjTsOTCDvj5o0FgKe7aAcUUkGslDU7lg9Y-bBmXMzI6MdEb_9ikzVM-rGc3G1Rv0-o0d9Um9Of6VmEgKKW6NlUEqUUPzzKg6Mk3kEmbYWwtzNg3Ec_W0kEutgOnEpsWxFiu1Uk7W_2hnHfmZZZAdDPUEQeu97onGcFzelolylaAfi&pcurl=https://www.prestigia.com/en/produit.php?idTarget%3D356370%26arrivee%3D2026-12-09%26depart%3D2026-12-11%26pid%3D4%26a%3D1000129%26guestsParams%3DW3siYWR1bHRzIjoyLCJjaGlsZHJlbiI6MCwiYWdlcyI6W119XQ%3D%3D%26dev%3D8%26ra%3D1000131%26curr%3DUSD%26verif%3Dfalse%26ad_click%3Dfalse%26campaign_id%3D%26src%3D%26rid%3D&s=ALZo0YI6BedOWBua32XUHE6Bi3lT&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkIraHDqvnTi7IGGg0vZy8xMWZqMzI0c3dxEAE",
+      "name": "Hotel Geneve Mexico City",
+      "address": "Londres 130, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico",
+      "brand": "",
+      "info": [],
+      "stars": 5,
+      "rating": 4.5,
+      "reviews": 7979,
+      "room": "Deluxe Double Room, 2 Double Beds",
+      "photo": "2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Restaurant"
+      ],
+      "prices": [
+        {
+          "source": "Super.com",
+          "price": 101,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyglJF8cM2JX8SScSH3ru_MrTXIiu4w4VqN3_5jY8D13zoK0Q-rvNleXgO1eb7nQ4boA92IMC8z-ArzIo7I09-onAmYY7N94b_4wK9WqwvXJBCbtWd-OPBCW92_HdYI_ggcEGkGSC53c9B3_c0e5dkfGO1C8noIAW-hw6UvF1-x5udeGeO6xc8HBEQ&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D168.99%2526total_price%3D201.94%2526retail_price%3D269.61%2526retail_total_price%3D322.18%2526request_id%3D13724978633048791040%2526ps%3D125358856027%2526pb%3D0-slAkZlDjP06IhVxwa_7D7VuG35Nm3xQB5l-qDNvhg8-2EAM7W_JD_kjO2uGsygdK8l6KG-KlyXATtx4fNfuvw6vL51pPQGwL5IkrpdXffqJXeUm8M20GGQe5I9HLlNzf1yHQ7EhVHKbPe1b8zLUyPJYnaSouTON2G-ypcjmoA%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1794327722%2526sg%3DlAgSl%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DCA%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D201.94%26checkin_at%3D2026-12-09%26checkout_at%3D2026-12-11%26provider_hotel_id%3D10004461645%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-CA%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YKCatPvXbTKMquYQiUewhfK&ap=1"
+        },
+        {
+          "source": "Traveluro",
+          "price": 102,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh8lSi7I-GnbB8nKTEUdt3p2HxRPjgy4DK5RwH43hv4cTlJ-uhRwMXhIp5OdZ8QfqwzZC9IYbPGxQGzDjIqjgtiANUWOP_tyVe8PJGXT-FEJbDZEgiljU7IQXSs4TBafmu0C86KD4cNHTsnOY_jTtbVN8csol4EoD0qBqjfkXedAryNFvWkCSqF&pcurl=https://www.traveluro.com/hotels/mexico_df_mexico-city/122886_hotel-geneve-mexico-city?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH122886%26campaignName%3DGoogle_CA%26currencyCode%3DUSD%26dealKey%3DCAIQ_AEiCwj9zc7XBhD07NEcKkwNAAARQxUAAEhDJexRG0ItCtcHQTABOLoCRQAAkUNKDAignM7XBhDgz7D8AmIKRGVsdXhlIFJvb2gCggEAjQHhehFDoAGX8BioAcgGMI0GOIbAB0DZ-A9IAlIIcLGfszWKzQxYfGIDCgEg%26countryCode%3DCA%26languageCode%3Den%26rule%3DGoogle_CA%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D204.38%26priceDisplayedTax%3D33.35%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YLfzKqUEmTeqZtBYPgvRcf6&ap=1"
+        },
+        {
+          "source": "trivago DEALS",
+          "price": 103,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiZ2o2bh7-_PLabkSUuwCXU_CXJ-3j9ZFhkqpJNX-JrWkkJ-EUkEKr41mkaMGS2EoNT7XsTOOnoQG-iVgpeUEt9Gub3qFsXdfKf_4Ob_oUjFHvtJW98LjQOrTBKVRYjN1R5p55Dz683J9ew40_rfzFcg_e-KAl_vMOPuk1qyyG6l0F8_Yg9DyBahUbMwJLxkB15kO1pLT_j&pcurl=https://www.trivago.deals/hotels/mexico_df_mexico-city/122886_hotel-geneve-mexico-city?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH122886%26campaignName%3DTrivagoDeals_Google_CA%26currencyCode%3DUSD%26dealKey%3DCAIQtgYiDAja2M7XBhDEtryiAipMDQAAEkMVAABIQyVmZhxCLc3MCEEwATi6AkUAAJJDSgwI1djO1wYQgJ3T5gJiCkRlbHV4ZSBSb29oAoIBAI0BmlkSQ6ABl_AYqAHIBjCNBjiGwAdA2fgPSAJSCD2DaQOCPY2vWHxiAwoBIA%26countryCode%3DCA%26languageCode%3Den%26rule%3DGoogle_CA%26site%3Dlocaluniversal%26ads%3D%26origin%3D31%26priceDisplayedTotal%3D205.79%26priceDisplayedTax%3D33.59%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YJtndrNdkh-wDpj6GuA7sNp&ap=1"
+        },
+        {
+          "source": "goseek.com",
+          "price": 105,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiQmAr-CHJSLpHGs-yRli1nOoiD6mpzLzPOO49ARnXnV9j7pCdAytcPUOG8CvgtB3MjjEvVlK8M0f6RfmeLj20ogRUX_URWoaBqd2m9yTtdneKvsIzCDNRLN6TEqgtmhA_SGq2kHBAXhIUm2dTBQIlvim0U6852waJdoWJaLn75KlgV3VQ1b-w_OMCBzD5iXQ&pcurl=https://deals.goseek.com/?sig%3D34c47a49c3e8320dca5a5dda0da2a460c1bc23afde972e2894a4ff0b6052fb53383131303836353931%26turl%3Dhttps%253A%252F%252Fwww.goseek.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1058575%2526userCountry%253DCA%2526profile%253Dr2d2m73kn8%2526preferredRate%253D210.46%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DCA%252526udevice%25253Ddesktop%252526hotel%25253D1058575%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D210.46%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DCA_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253DDOytOtopGwauJP-WCg8ImIoBGKIaIgNVU0RSATISGhUSl-tjGgs3QUVlaGd1czdjOCgDMLW2ztcG&s=ALZo0YLYK1iRSmMD0bRgLyUL9bRm&ap=1"
+        },
+        {
+          "source": "Trip.com",
+          "price": 107,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg7ZwTyE6_d54FjaaeJYOcJ5weE9Ep7XMyQgnvmFJsQG8SfloPTmLdT-1HfhvOiU9-0-Scx3dtyWT70ZX5QWMv-zvUIfhXYDDjWNFffNnQi_4xM514W41C6_s6blySowwekKXGdm_Q2h4oMYbTnHFK61M-iuvug9Xkg2lzm18vjr4nzUhA&pcurl=https://ca.trip.com/hotels/redirect?hotelid%3D2198173%26city%3D691%26shoppingid%3DM3if8w23vIOv%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-12-09%26checkout%3D2026-12-11%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1349474%26prid%3DLANG_CA%26trip_sub1%3D09_12_2026_2_localuniversal_2198173_CA_desktop_selected___0_0-LANG_CA-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-MK5WKSYBJi4mCU8uY4tPv5Zg4hLkNDIwsLU1MDAyOD7xwWx6MDOGYwzp3axriDkekiYxoIHIt3eMgoss79YdWfIocXjCtunu5lWsDCuJDV42EVUFjFQYrH1zgzzaLcyLjM079MgVHj2alz19k8mILYzEycLIwso2S4mEODXQS_acT0H9oq5SDF7OzoovhzQfrmV5eFHJJYU_N0nR0zLot1MTJ5MK5iZOdiNjAyFGD6xMiPbG68mcEkJkZDAE5NUb7EAAAA%5Dfgt%5B1%5D%26br%3D214.08%26tf%3D34.94%26display%3Dexavg%26locale%3Den_ca%26crn%3D1%26roomid%3D2256133570&s=ALZo0YIM4vXRRKprHc2HjmBlWwCZ&ap=1"
+        },
+        {
+          "source": "Agoda",
+          "price": 108,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi7x00wkcvxnkctIKrm954AL6o9XpeUcRFSrZRAemSDqHJvEFUMGbDXqiO8ttOcOJ3bCzyKzHIq5wWZgLgjXWmO_MY-veNoVTVTxicV6DNnOZ1ltc4Ra7ioJ5LFju0mJvGXI5wbUGUSxJFwJlpE36XKE23POFLfrS0U7UMdOxEhiS26hWpcvDhbjewS2g&pcurl=https://www.agoda.com/partners/partnersearch.aspx?site_id%3D1917614%26CkInDay%3D09%26CkInMonth%3D12%26CkInYear%3D2026%26CkOutDay%3D11%26campaignid%3D%26CkOutMonth%3D12%26CkOutYear%3D2026%26SearchDateType%3Dselected%26NumberOfAdults%3D2%26LT%3D29%26NumberOfChildren%3D0%26childages%3D%26NumberOfRooms%3D1%26gsite%3Dlocaluniversal%26los%3D2%26PartnerCurrency%3DMXN%26hid%3D1917%26RoomID%3D1412833394%26masterRoomId%3D3967436%26PriceTotal%3D216.37%26PriceTax%3D35.31%26PriceFee%3D0.00%26RatePlan%3D5d905a29-03f5-abdb-02ea-5dd02547306c%26UserCountry%3DCA%26Currency%3DUSD%26UserDevice%3Ddesktop%26Verif%3Dfalse%26rr%3DCA%26audience_list%3D%26mcid%3D28281%26booking_source%3Dcpc%26adType%3D0%26mpt%3DeVJaTWdPa21mZFBTU0FqZlkvazZ5VmUyUnRLTXFISWxoUHJ1QmVqbUpIZyt1Q2NzbkRLVy9jYmFuRWQwL0NSVWZ1eEZORTJzbWM3NQ%26original_rr%3DCA%26gaClickSrc%3D%26clickType%3Dhotel%26lang%3Den%26pkgId%3DNoBreakfast_NoDinner_false&s=ALZo0YIGlW5CBqFlHhf_37vG84SO&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 109,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=Hotel+Geneve+Mexico+City%2C+Mexico+City&checkin=2026-12-09&checkout=2026-12-11&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Vio.com",
+          "price": 109,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhMAp252tPmyInQxligHZTsG9AWEzNbEAsswwvUzLOuByobBxxu1Vtt__L3KEkawTRcfAr9q---uBo39n3g4nUxDfgzs4nTsG_J2HQFo6_3mg9cNO5Oc3nAyPs9TBUJqFh185RKujrUQ1mO-AyqotVNCgGw9jzHLah58arkq4pZJ2K-ARag8iUZ&pcurl=https://deals.vio.com/?sig%3D73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233%26turl%3Dhttps%253A%252F%252Fwww.vio.com%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1058575%2526userCountry%253DCA%2526profile%253Dr2d2m73kn8%2526preferredRate%253D218.72%2526deviceType%253Ddesktop%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DCA%252526udevice%25253Ddesktop%252526hotel%25253D1058575%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D218.72%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DCA_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253D57lwQpRfoC6uJP-WChUIy48BGKkbIgNVU0QooOTU2AZSATISGhUfVzDqGgtMOEc4WUdEeVNsSSgCMKG1ztcG&s=ALZo0YKR-RwYrhzyi1LHBZxrnm5i&ap=1"
+        },
+        {
+          "source": "Etrip.net",
+          "price": 109,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygGOKJs7x5pWYE2rb6oDf8KI7V0JSCcJ5MEee43YgfGM4R0ZOd2bXE7QqNedDGqUg8wlcAB47kgfrbimCly-VHZeGQYJjbVuNqwFaEH0Kc_Tevq-jJ0nsoMg_jkxr_m-Mq7OSIHv8e37fJrmhIouqWUsgLilwRKEjcBo2oCtCWjBW1s2jc&pcurl=https://deals.etrip.net/?sig%3De9cc68956712e1e5d60f579a67e54afadd83f5d631dc9782cc50d47864de2f2c2d32303330363031313335%26turl%3Dhttps%253A%252F%252Fsearch.etrip.net%252FHotel%252FSearch%253FcheckIn%253D2026-12-09%2526checkOut%253D2026-12-11%2526currency%253DUSD%2526forceCurrencyChange%253D1%2526lang%253Den%2526forceLanguageChange%253D1%2526rooms%253D2%253A%2526utm_source%253Dgha%2526utm_medium%253Dcpc%2526hotelId%253D1058575%2526userCountry%253DCA%2526profile%253Dr2d2m73kn8%2526preferredRate%253D218.72%2526label%253Dsrc%25253Dgha%252526cltype%25253Dhotel%252526datype%25253Dselected%252526gsite%25253Dlocaluniversal%252526vf%25253D0%252526ucountry%25253DCA%252526udevice%25253Ddesktop%252526hotel%25253D1058575%252526day%25253D09%252526month%25253D12%252526year%25253D2026%252526los%25253D2%252526price%25253D218.72%252526currency%25253DUSD%252526cid%25253D%252526listid%25253D%252526rateid%25253DCA_D%252526closerateid%25253D%252526promo%25253D0%252526isPrivateRate%25253D0%252526isAudienceUser%25253D0%252526isPaidClick%25253D0%252526%2526cp%253D57lwQpRfoC6uJP-WChUIy48BGKkbIgNVU0QooOTU2AZSATISGhUfVzDqGgtMOEc4WUdEeVNsSSgCMKG1ztcG&s=ALZo0YI1ZHkwNT3vMQ_mjI_lL6Xo&ap=1"
+        },
+        {
+          "source": "Clicktrip.com",
+          "price": 110,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh7kAYDUN1VXxWj2cmI_Cmt2dnn2m6guHgPHWXaX8T3hnGlfb_dxNxBIvv_vSqMjJrvaoxh05o-pnn_TKeYQCR5XQ13wCROqpsL7r23aS2P7MjomnVA8bETrAoZKV1y8z68gbfTzOylLkZwBn1RkE5rOVZIR2DSeABr7tWIF-QW6iV0lk_Ds3YhyeZLWtcjgOEram-3o2w&pcurl=https://clicktrip.com/hotels/details/lgSc5uzvqRs-uma_tl0ixhGfNgTL8w3WZ29gwuBhgohHPr9ZGpA3labV-zqHlFxb1awRCxbo-LP4b8KLEJ29gTmTPwpPDGo67j-DkzaSBj40W9a_leSWCmnRmkVumRjT0?locale%3Den%26currency%3DUSD%26pos%3DCA%26date_type%3Dselected%26taf%3Dsh-4YdYKZx55HcOF-ul0V_NkoeaoOoIbSP84s9a6zAcUS4u0pORfaL8hPMf2FBzm0%26verification%3Dfalse%26clk_src%3D%26utm_source%3Dgha%26rate_rule_id%3Dnot_domestic&s=ALZo0YLZQsgMnbsmzcBDuvC9eUEy&ap=1"
+        },
+        {
+          "source": "Evendo",
+          "price": 112,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygdp5vi9XfpDDB-uOEd_KArckRzipmgxMMzJoJa_chwBxLcUYSgn2ajuXgIoPqpowEyZawWU09e3lyYSjCedhgeX9ISDDqhUPrv8Z1Z6SWkv8YYsvszgAmVV6bzLNBXwiOuRI1_MNghuorkV7goE4ePpXxz8EjSu23_9HU38I1xGn-7oRs0CzPo2mHR4dp3Gw&pcurl=https://evendo.com/stays/geneve-ciudad-de-mexico/00060363?check_in%3D2026-12-09%26check_out%3D2026-12-11%26who%3D%255B%257B%2522adults%2522:2,%2522children%2522:%255B%255D%257D%255D%26currency%3DUSD%26language%3Den%26country%3DCA%26utm_source%3Dgoogle%26utm_medium%3Dgooglehotels%26utm_campaign%3Dlocaluniversal%26pdtax%3D36.60%26pdtotal%3D224.32%26prid%3D&s=ALZo0YJtQlGMP0N9DApn4gtK4KgK&ap=1"
+        },
+        {
+          "source": "Geneve",
+          "price": 113,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh1BNkxCKU4UsvZXUY5pqvae_RaMk096QszEUVM_LfX1jObn_DhOL8_0YK4Wzd5-8-0p2-PmQKPoHPFjWAofk2lpJuJKM9W7Ai9I50WnDbqt6jYCsE4wYIAXekkNTuRwh3vTtRu5IxBfMWcQer7JDBV27aWgCHERPJiNz5hdnopYQPVH64KTYJ0&pcurl=https://reservation.mirai.com/Forwarder/googleFrontDispatcher.htm?idtokenprovider%3D100380392%26checkin%3D09/12/2026%26nights%3D2%26lang%3Den%26hsri%3D02040%26adults%3D2%26children%3D0%26ages%3D%26babies%3D0%26googlecrawler%3Dfalse%26utm_source%3Dhotelfinder%26utm_medium%3Dorganic%26utm_campaign%3Dorganic%26currency%3DUSD%26rates%3DNzA1NjN8ODM2Nzd8NTM1ODc3YjB8NTE4MDh8NTE4NDk0%26tracking%3D%26utm_content%3DCA%26UserDevice%3Ddesktop%26clickorigin%3DNOT-RBM%26date_type%3Dselected%26campaign_id%3Dorganic%26googlesite%3Dlocaluniversal%26tt_meta%3Dgha%26PPA1%3DFALSE%26user_list_id%3D%26clk_src%3D%26prid%3Dmirai_desktop_club%26totalPrice%3D225.39%26taxes%3D36.78%26otherFees%3D0.00&s=ALZo0YI36A_6OyWvgBCVEmUyJD-C&ap=1"
+        },
+        {
+          "source": "Tripening Hotels",
+          "price": 127,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiCorwZKxEPITMrUy2C6qJWY8M8zEuQO8LU20XMxer8THX5mbZX0PJf2mS2Z0YBDvLL7QE_2L5qq5WVz4o7LW3RolJa4ZBeh7mCNRVZOFeuJulogyPIZh8rYqEI1YWawXo4ez1fFyK5jL3GMgqHKXvT4nAm3SQA7d2-WdpNR0wP_X5pvnPfa80r54ZqbA&pcurl=https://www.tripening.com/hotels/-/3959279-hotel-geneve-cd-de-mexico?checkin-date%3D2026-12-09%26checkout-date%3D2026-12-11%26adults%3D2%26currency%3DUSD%26lang%3Den%26google-package-id%3D%26rate-rule-id%3D%26google-displayed-price%3D253.88%26children%3D0%26google-displayed-tax%3D0.00%26google-displayed-currency%3DUSD%26utm_source%3Dgoogle_hotel_ads%26utm_medium%3Dfree%26utm_campaign%3Dgha_property&s=ALZo0YIfNyPID_BMnH91kjDUQ3yU&ap=1"
+        },
+        {
+          "source": "Expedia.ca",
+          "price": 161,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjxvrlBrBpp7zhx6rH2xvfLghF8g7ULIY2uKm8JMpI4QZd3k3qy1tleljywXJRsV_VKKyxOGBcjz7kFcLyqoYjvxQlg8ZRF0j54ts8BJXBUipTg1fqJW03-57EURk1i6wlJpNS4rRRyRQrEHOgKX_1wVykuVNGGjEu86l5OVkcy8I5_5idb7RdM4x7WeQdS&pcurl=https://www.expedia.ca/Hotel-Search?selected%3D8165%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DCA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.8165.20261209.20261211.DDF.29.CID..AUDID..RRID.bex_ca_desktop%26adults%3D2%26children%3D%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D321.23%26mpj%3D52.42%26mpr%3D0.00%26mpl%3DCAD%26exp_pg%3Dgoogle%26langid%3D4105%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D8165%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D206365435%26mpm%3D24%26mpn%3D6036%26mpo%3DEC%26mpe%3D1794280868%26mpp%3D1&s=ALZo0YL15PGtqO8Y4BUZ54xdoUiT&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 161,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygZI187dXGb_zYjd4UZkHxVkEro1lNqCOkTyHvkCoYTEOUlWS4AcEXo7O2kjomWgh4veooqeBQ8R_l8sjIgbuLw7pARRD72gopQgX8gBTi7FQhdUZc-2CstbW8rr1ntDXnpeugGyJR4TxX2XiFgDj6zfUPLYTk9myYV-flmjZeMPAGrXfrFw2z1PPim2_s&pcurl=https://ca.hotels.com/Hotel-Search?locale%3Den_CA%26selected%3D8165%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-CA.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.8165.20261209.20261211.DDF.29.CID..AUDID..RRID.ca-desktop%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D321.23%26mpg%3DUSD%26mpl%3DCAD%26mpj%3D52.42%26mpr%3D0.00%26rffrid%3Dsem.hcom.CA.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.8165CAen-20261209-N-ABW%3D29-camp%3D-aud%3D-N%26rateplanid%3D206365435%26mpm%3D24%26mpn%3D6036%26mpo%3DEC%26mpe%3D1794353947%26mpp%3D1&s=ALZo0YJYGVtsJwFAAKuEVqYT29yv&ap=1"
+        },
+        {
+          "source": "Priceline",
+          "price": 161,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygfLtlDGHMH0WPWRrpOsNNY2JkKKKFLx-KpKYcd6NmGkSBIIsdmvL_FnatTI5TW2hK5icmUrHR_8mg2C0vL73Dk74eMhZFIKdYT01dQYPZhZPKNal22-O1x3_wsMBwQO_cOgjmhm9GynLsVNklBimcNPTyKs90OIbhiNqIH51hgj001BEhAmADL8Qtq8B0x0CA&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DCA_HP%257C4392505_localuniversal_2%257C20261209%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C29%257C2%257C0%7C0%7CEN%26hotelid%3D4392505%26checkin%3D20261209%26checkout%3D20261211%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DCA%26taxDisplayMode%3DBP%26cityID%3D3000060256%26adults%3D2%26land%3DL%26metaid%3DgAT5z3KKnzIISF5y2gimlm50eDRPIPsnr6CCCxUkoB3EfO6h_jMMoD2ZwUjel3VkbqJB9PWpVdPADFU7hogPTaN56eRBVntj70DBk_Zm43kTnjb0cOKWpopKrmhPwjioHEFNEQOr_ZPOHtJnlVMDLH1_A2Pg0EIUyh_3LNoX1DKyzuK8w1PcCXP1DduutPPNzWreU6i9uNToy0cXBdjv2AHJwo2QfK0iknFCkclrPG35FWKpYcnB11BUQYPcFufX__X1BaEGwbIMU2D6ejBklVqcvTFAXaUYs2DRvca68QWx7ehgKj-hW9NBt46VHwEgoFicLO26JBreRi58yl6m4bYPEkA8Rvedq4rLYRjKLNYFT1qmCZyKDMAx2VWpuL5X7bUMDOXvGfj2YLjgHIgNz4xEKyAhueQK54r9DpFdRrM-mUfIc8ac-bamm1nvyExr%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D52.44%26pdf%3D0.00%26pdt%3D321.32%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YKF1TKF55h0hYGCa-jCgnmo&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChoIxrLQqPa-_NSkARoNL2cvMTFuNjB6M2Y1YhAB",
+      "name": "The Ritz-Carlton, Mexico City",
+      "address": "Av. P.º de la Reforma 509, Cuauhtémoc, 06500 Ciudad de México, CDMX, Mexico",
+      "brand": "",
+      "info": [],
+      "stars": 5,
+      "rating": 4.7,
+      "reviews": 2260,
+      "room": "Deluxe Guest room with 2 Queen, City view",
+      "photo": "3.jpg",
+      "freeCancellation": true,
+      "amenities": [
+        "Wi-Fi",
+        "Wi-Fi in public areas",
+        "Public internet workstation"
+      ],
+      "prices": [
+        {
+          "source": "KAYAK.com",
+          "price": 444,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygLVb-8LLQe-0KlOi6ELEqxv11Qc03EARMNs2BJx1gsOkn2QAFXX_tvVvzSNsm3gw604qGIYqZygtOd0eq2L7V20xy780R1b2YyEk9mlOPx4quTHOpNv7nGpBSv0cfRTypzLS4QnzQy4RqOFx_F1r9XjAMrsOPsxRelgjawrzB_9jLanppajC2EDA&pcurl=https://www.kayak.com/semi/ha/hotel_ads/7507602/en.html?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D7507602%26adType%3D0%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26ci%3D2026-12-09%26co%3D2026-12-11%26gs%3Dlocaluniversal%26l%3D2%26pc%3DUSD%26rid%3D%26pdtax%3D140.25%26pdtotal%3D888.41%26rpid%3D%26uc%3DUS%26ucuc%3DUSD%26d%3Ddesktop%26lc%3Den%26v%3Dfalse%26rrid%3DUFJJQ0VMSU5FQ09SRQ%26k_pc%3D~UENMTkhPVEVMV0hJU0tZ%26k_rt%3D%26k_sid%3D2lAET_B7WK%26k_kct%3D1794353515%26k_gct%3D1794354073%26g%3D2%26r%3D1%26ac%3D2%26k_cc%3Dus%26dt%3Dselected%26cmpid%3D%26cmptrack%3D&s=ALZo0YIoVmmWm-U8cMOZbxMa8cer&ap=1"
+        },
+        {
+          "source": "Super.com",
+          "price": 515,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj1Jc-CZZUZHXxrUs1VMIxmYn0CvLJz5_nSzuJsEVozQkLL4gfU8bSRPEKHl2rj7ItFAav68ZDjwPN_5Cpvyj44BJCy7PbqhVNK5N4vAo1LssScK2BakWibwdn6Z-swfBykiZM9j9-pX9vzjp7Wq2GdDZPdWg-b4vWrv1XnXBLtAXtEtycFLR5vQw&pcurl=https://www.super.com/travel/transition/?data%3Dprice%3D861.14%2526total_price%3D1029.06%2526request_id%3D13161745268707401728%2526ps%3D2049849428%2526pb%3D0-slAkZlDjP06IhVxwa_7FrFFXK2y5oW9n9w-Q6D7LarvcfUCDkCkxfSMkYss_n-yoUTjKvwsfECC9kSY9drUppREPECRkSmegRAU15luj49WS8DPgh5hHZyl8uP4BhCMDRynlClCRaBikng9bI-IuMI4F6G-G5Fl_oiODK26pM%25253D%2526gha_pull_request%3DTrue%2526alwd_rand%3Dfalse%2526gt%3D1794352261%2526sg%3D0c-2w%2526sid%3DGHA_MD4%2526cmab_id%3D33%2526ib%3Dfalse%2526all_inclusive%3Dfalse%26utm_source%3Dgha%26utm_content%3Dlocaluniversal%26currency%3DUSD%26user_country%3DUS%26verification%3Dfalse%26rate_rule_ids%3D%26date_type%3Dselected%26rate_rule_id%3Dsignedout_desktop%26display_currency%3DUSD%26display_all_inclusive_price%3D1029.00%26checkin_at%3D2026-12-09%26checkout_at%3D2026-12-11%26provider_hotel_id%3D10015363754%26provider%3Dhtl%26num_adults%3D2%26children%3D%5B%5D%26hotel_campaign%3D%26utm_campaign%3D%26user_locale%3Den-US%26user_list_id%3D%26utm_medium%3Dorganic%26utm_id%3Dgha_organic&s=ALZo0YLJDIsCkjoWt577a3sfLdDC&ap=1"
+        },
+        {
+          "source": "Qantas Hotels",
+          "price": 640,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygUpWlAYsbYv_M8FqGBaCBzseHFSFN3kK0AVjYRgaXypgTi9mPgKbZe_yEChrjT2r9ExEF3VaUi7GacoSxnAE3F6TDCK1qigeaBLEtfbowvRnbpHxneLcfBVLQjTZM6SvGzweOtLW-sHJaUTFAsu14cAy3L2lBMb1BpgIJHIdvnhWQ9ZdbQ&pcurl=https://www.qantas.com/hotels/properties/852081?adults%3D2%26children%3D0%26infants%3D0%26checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26utm_campaign%3DGoogleHotels%26adType%3D0%26utm_medium%3Dorganic-search%26utm_source%3DGoogle-Hotels%26utm_term%3D852081%26hotelID%3D852081%26hotel_campaign%3D&s=ALZo0YLDL0A55eqgMEqA_Me6nsvl&ap=1"
+        },
+        {
+          "source": "The Ritz-Carlton, Mexico City",
+          "price": 645,
+          "official": true,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhh2PMR6BxeIr4ICBQuYuPDy_C4sVmfYQLfvSCWKLtNYtnpF2vpzGg7gT8F57hy6EVDAho91yAjawzS2K9WlDgUIlwxxXm4zxhO_22ChFU0P0HSR5n6UR2FNWMSMC_YKyw1OwHrvQnKV9bOaeexOZ5iqVNPVfsCfW0gnuPDJGYFuILb72CcNHOoUbg&pcurl=https://marriottclk.koddi.com/clk?destination%3Dhttps%253A%252F%252Fad.doubleclick.net%252Fclk%253B269275299%253B95398642%253Bk%253Bu%253Dkoddi%2526sv2%253Dkoddi_hpa_US_MEXRZ_localuniversal_2_desktop_12/09/2026_non-distributable__selected___organic%253Fhttps%253A%252F%252Fwww.marriott.com%252Freservation%252FavailabilitySearch.mi%253Fcid%253DOMS_GLB0002Y27_GLE00070C9_GLF000C1AH%2526pId%253D%2526isSearch%253Dfalse%2526propertyCode%253DMEXRZ%2526fromDate%253D12%252F09%252F2026%2526toDate%253D12%252F11%252F2026%2526numberOfRooms%253D1%2526numberOfGuests%253D2%2526currency%253DUSD&s=ALZo0YJA76xb1c75fTxWahtpLHu0&ap=1"
+        },
+        {
+          "source": "Expedia.com",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyif9wICERvQibT6s-82u9jrGB0WS0utX6H1OEXI0sCYQQPeBoBlkFmskE36guQcKKD5s84hkFtGg4Iqhxdd4Eg4J9RKrk5deO_4jgAkVXlxetabquY83247GDmaRHngwQcpZIRlUqeSaRlPbWFwZZ2R2wdkf8r8kiaTYnrvj-JGrj6EFL7HROmcRP6PGes3&pcurl=https://www.expedia.com/Hotel-Search?selected%3D68635348%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.68635348.20261209.20261211.DDF.29.CID..AUDID..RRID.bex_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D1289.12%26mpj%3D210.38%26mpr%3D0.00%26mpl%3DUSD%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D68635348%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26langid%3D1033%26adults%3D2%26children%3D%26rrid%3Dbex_us_desktop%26rateplanid%3D390898978%26mpm%3D24%26mpn%3D314329720%26mpo%3DEC%26mpe%3D1794186428%26mpp%3D1&s=ALZo0YKs_VyvqcDZFXs05_MOXW9V&ap=1"
+        },
+        {
+          "source": "Tripadvisor.com",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiDTpuO4WivZl7sKzQ06ayggXIp4e4HZyv8vyEppE8ooPMmODiJiodsyO0oldM_-DQnbs22i6DWBiG8mKgdI2qLqwNNVY7HQvrfLYGOhmDBZ38Q1CnrB6DxyER1trMAN8T_KnPEfiBkQ5HDTqM_YK5Nc7jBDBW7KECF23TRWrz4nNuRnELlw-p5Zrc&pcurl=https://www.tripadvisor.com/HotelHighlight?detail%3D20098631%26m%3D66081%26staydates%3D2026_12_09_2026_12_11%26uguests%3D1_2_%26supdv%3Ddesktop%26supbl%3Dlocaluniversal%26supkl%3Dselected%26supuc%3DUS%26supul%3Den%26supia%3D0%26supip%3D0%26supmb%3DZcF544Fvw065IER1mp6HBW_dwlCZyEF-u_aye6Q5p7BN0y4nBSwKgSyqXL2bIDUmWN0U_PFSZMlQQsoUcPW8-E1JiS6H67yrTFXU-1tKk0YIBmxqxhdIqW4-5RKhAfULQvANwOvTVFLtpw-E8RbJ6Kw2fz14Ra1oG4mtDtMZ1PU70NOTcl7jW9GmdrMd1s%26supmc%3Dbnf8UTCDSRGVSK4WUlQxfg2C0FBTiSaLnlJDNB1VbTwYBdkEW6TBebZTQq9jQrK39ITq%26supts%3D%26supey%3Dm%7C108054%7CPL_GPC_query%26supcd%3D%26suptp%3Dd6c4SRFnnFLco_-yABEBIznuo2xyToGgGWYdsvwlhAuok4VcUZ54oFKe17e8oMXQooJ3XogQPrPDkXgvNeQXDF_SospqgT-YfetOY3W1WK-ONFYKZkZc_d6okSUAQg4bjbv9wXT56R9FXSNiaYI6ECNo58WL26C4oLjRJKhrk-4933ZW-0QYJtTJjR57Yn%26supas%3D&s=ALZo0YIhG-2lWTqB954OFe2oDHlF&ap=1"
+        },
+        {
+          "source": "Priceline",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjoBlOQg6UghVX2M2-Vbvqx-DhFv7HDUgmqAqxEjvz_44en6AourwjZfBaNf9tJIs0usn2tYYA8dAb-uH8sicWB2I7BREEYOVd_DwPhlklM9BjSvJ3PXBzgcELK5vg-w-1UXirr_6jfCkLIZEpAK-oGPZRINT_9hJNcku6nOZyt9WDP-uwRuBMMC2bFX4-6kVI&pcurl=https://www.priceline.com/r/?channel%3Dmeta%26product%3Dhotel%26theme%3DGoogle-L%26refid%3DPLGOOGLEMSS%26refclickid%3DUS_HP%257C146862504_localuniversal_2%257C20261209%257Cdesktop%257Cuserdate%7Cpublic%7C%7C%7C29%257C2%257C0%7C0%7CEN%26hotelid%3D146862504%26checkin%3D20261209%26checkout%3D20261211%26rooms%3D1%26cur%3DUSD%26POSCountryCode%3DUS%26taxDisplayMode%3DBP%26cityID%3D3000060257%26adults%3D2%26land%3DL%26metaid%3D56Xu6RCIMp7LhYKLB_ENBa-YCRZgRlDD0t1OTZxHysgxQYZOj6eAzOcENC8E100ru53oWynhuFBipa2sakc6KSy0Rv9zWPojJDVCdnCmfZZLbE_SHorox78ywFCUD31EqeKwF3AsNTiXNGihkfoNXxtfvPL7Y0XkqaxakwnkHfTPmBs00ZEs2fZcBda05jgnJf4I1V83vV-c4DYXqLA7xEvF52YP7Imr_hYJwCsPUxi9ov7zzUItfNnwwJKBuUXlCqqtrG9It-CwT1minTMNHzM0ToNMLYEsZeaHAlWB8igqWHCBct92c8Z-4dZm7RbjyHfweFl_a4nrxBT0OivsdkcAW0DRnfrdtaTpfewG-2EJvdOU2KFl1MzHT3qcDzoMtoGIDZwDBYMtGljJuTS0GpVmSv2TxyPc1Fe6yiKbUbAvTHfnMM8dh5_kW8HY_HYHjecuMuN5k6G1XKwK0EADJjQoptwLm_veLgPUfewo2Rl2YQfJqBuDbGhSIQgeuNMXXLsP21Sg7i-BMeKyQ5qF0A%26dblcnt%3Dtrue%26hc%3D1%26pdtax%3D210.31%26pdf%3D0.00%26pdt%3D1289.12%26locale%3Den-us%26ad-src%3D%26numChild%3D0%26aid%3D%26selAdults%3D2&s=ALZo0YL0VxNvU5T9RZ2AZFQTUKGY&ap=1"
+        },
+        {
+          "source": "Hotels.com",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh3NxV2AFVyMPBHbI-jXQDrxvGrLfiCIoiYRheWTQmzsuaYvY0CqSI2u6Agi_mO1jtKRvtvqJq_pLei6gviWkRy5WAVPqywBkflZpUc1cxPgfqq8eBNbiRFD-bhPcT17mvZIxbbJVUXwdysM_EYsjge45oQcuSPXTKvFgTHqvBV_1BnL_IXYytE1Zdo6WU&pcurl=https://www.hotels.com/Hotel-Search?selected%3D68635348%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26mdpcid%3DHCOM-US.META.HPA.HOTEL-ORGANIC-desktop.HOTEL%26MDPDTL%3DHTL.68635348.20261209.20261211.DDF.29.CID..AUDID.%26adults%3D2%26children%3D%26mctc%3D10%26mpf%3D1289.12%26mpg%3DUSD%26mpl%3DUSD%26mpj%3D210.38%26mpr%3D0.00%26rffrid%3Dsem.hcom.US.156.024.localuniversal.02.desktop-2.kwrd%3DGGMETA.68635348USen-20261209-N-ABW%3D29-camp%3D-aud%3D-N%26rateplanid%3D390898978%26mpm%3D24%26mpn%3D314329720%26mpo%3DEC%26mpe%3D1794349656%26mpp%3D1%26locale%3Den_US%26siteid%3D300000001&s=ALZo0YInM6tPKeX1wRdEY-tbNNzT&ap=1"
+        },
+        {
+          "source": "Luxury Escapes",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyirBeiEMiSmI_BTdbNH-HaAagghup3e2cS0F-1fSKVSo8VWVVAg4ePlwn8eFSwnQTgAubd6sEvizx5LSabEsHvik5OpLvSyJc_oPzCOtwXe9wxtXE_z_ri5Aw6g74Yhehg_0paQydksxyIrEr02jNvFtzWB5gKZYkj8db3t6zByyducgnmomEJUNKyBD2u-HEdn&pcurl=https://luxuryescapes.com/us/metasearch/f2b8b2cc-2bc4-40b9-81d2-e5bdeefa1387?utm_bp%3D3%26source%3Dmetasearch%26checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26propertyName%3DThe%2520Ritz-Carlton,%2520Mexico%2520City%26propertyId%3Dbedbank%253Af2b8b2cc-2bc4-40b9-81d2-e5bdeefa1387%26roomTypeId%3De01561d7-0368-4517-866f-641c5e7ce195%26roomRateId%3Dbf0_dn0_int1_park0_ref0_S1_pkg%26adults%3D2%26children%3Dnone%26sourceTax%3D210.38%26sourceTotal%3D1289.12%26sourceFees%3D0.00%26utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_content%3Dgha-lpp%26currency%3DUSD%26priceTotal%3D1289.12%26ruleId%3Db~USD~S1~M11-12~B~P~DUNK~D~A~US%26userCountry%3DUS%26accountType%3Dscoopon%26gpid%3DCQAAAAAAAAAAAAAAAAAAAACQf7cB95QAAAACAABQ8o49LIE.3%26adsClickSource%3D&s=ALZo0YLGLNqOdx5oMv8dViUgSF0E&ap=1"
+        },
+        {
+          "source": "TravelUp",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjKoN9DqEeN_3bwEfs9t9HC_2nSkaaZUtukO6ZtX8agDoNKTPKVScqeAvKSPUBN4yq8eY7ItE7OTks2uDcA7bQZj0_tZVKw2UwljvIkUKPA7f-v9BOG2-CCbJYIXS3prbtXuObz93Z5FaaThFQdztp9lGA0S36YlZ2eICPHL4KYjufRoiuUul8EbSTT&pcurl=https://www.travelup.com/en-us/mexico/mexico-city/the-ritz-carlton-mexico-city?prp%3D1282284%26cur%3DUSD%26lan%3Den%26CI%3D2026-12-09%26CO%3D2026-12-11%26rm1_a%3D2%26rm1_c%3Dnull%26ref%3Dgoogle_en-us%26utm_campaign%3Den-us%26utm_content%3D/mexico/mexico-city/the-ritz-carlton-mexico-city%26utm_medium%3Dmetasearch_hotel%26utm_source%3Dgoogle_en-us%26utm_term%3D1282284&s=ALZo0YJzb_DoHZ5upmg4-ExgW_Gr&ap=1"
+        },
+        {
+          "source": "Orbitz.com",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiInRuYB2UVLzGyhCYiWRpEpfS78slIyUbx8MyHnD7O-cIsirJBVYFRpjrevkXg5X5t5re85CFjp9BI5VKom5K2isheFi7pbwbq9En9lteUADp4KCqN98Jyh3KZf5pNCWTsV7n5aKso5Leo-ynEGnlPjHs3h_wi1n-ZlJFab-yLniHGmtVJzliOImfsezo&pcurl=https://www.orbitz.com/Hotel-Search?selected%3D68635348%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DORBITZ-US.META.HPA.ORGANIC-desktop.HOTEL%26MDPDTL%3Dhtl.68635348.20261209.20261211.DDF.29.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1289.12%26mpj%3D210.38%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D390898978%26mpm%3D24%26mpn%3D314329720%26mpo%3DEC%26mpe%3D1794186428%26mpp%3D1&s=ALZo0YJuTvb96vJYhEbotdsG9aTV&ap=1"
+        },
+        {
+          "source": "Travelocity.com",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh7n8pQq9ullPwiqOq4-QTK1-3OMz6ozjRZOR1ylMzzTY3ox-arXNdWemun_CVKyONJxiGTxevK8pgBbMx1ehIhtKLaBGzKhAayEbgu75sz9ejP5ZFDdj1PO-PgMa-yrzarFJNLGgM49Kz55wc6O6kG8Aj7f0UuQC6CJmMoPYhfASW9Q1vfyZ1NWsRXPcnQ&pcurl=https://www.travelocity.com/Hotel-Search?selected%3D68635348%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3Dtravelocity-US.META.HPA.ORGANIC.HOTEL%26MDPDTL%3DHTL.68635348.20261209.20261211.DDF.29.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1289.12%26mpj%3D210.38%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D390898978%26mpm%3D24%26mpn%3D314329720%26mpo%3DEC%26mpe%3D1794186428%26mpp%3D1&s=ALZo0YJvd4QPg2nET82aPhbek_Nz&ap=1"
+        },
+        {
+          "source": "CheapTickets.com",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiJT5aD7UP9IeEwxQQ77CxriQV8PiYX3T4DvyxaiEjCNpHQ5BSdTwX_UePJSEiyMqQOkRozpT6gRN1KL5L_TlxR7y6erfJpevEQiD9SIkm6IHHYqMDeSevjDdNo5mnELSVmq1AFK927Xqrt5h2J9TpY92yzl-yr5SLYBfVu3xlDXpW-hz_Tei0fLeKI-7l3EVDLeDo&pcurl=https://www.cheaptickets.com/Hotel-Search?selected%3D68635348%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DCHEAPTICKETS-US.META.HPA.ORGANIC-desktop.HOTEL%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3Dhtl.68635348.20261209.20261211.DDF.29.CID..AUDID..localuniversal%26mpg%3DUSD%26mpf%3D1289.12%26mpj%3D210.38%26mpr%3D0.00%26mctc%3D10%26rateplanid%3D390898978%26rateplanid%3D390898978%26mpm%3D24%26mpn%3D314329720%26mpo%3DEC%26mpe%3D1794186428%26mpp%3D1&s=ALZo0YJ4W559eh1oLfJv0uQCOeb-&ap=1"
+        },
+        {
+          "source": "Closest Hotel",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyiJ69LO9whiGv8eCNN_5M9LMmw_kAw5hnAt6fskMEJgFz1RXq2NgdTcIQtZ004n2KuHwOAyG5I-glsa7U0Ujt-_PrgUHl7-P5jGLaW7sLYwTZyjvpSArvFIQoZBkxc7cmFHpLt-Y9B2Ky9KrxiDtu-NRZWF3i_VWPZRQa7wLx-nf6C6RHBMHwVwu68Jl9dTvopFqgJw05h0rnO3TNC7&pcurl=https://closesthotel.com/googleRedirMainSearch.php?checkInYear%3D2026%26checkInMonth%3D12%26checkInDay%3D09%26checkOutYear%3D2026%26checkOutMonth%3D12%26checkOutDay%3D11%26numberOfNights%3D2%26numberOfAdults%3D2%26numberOfChildren%3D0%26numberOfGuests%3D2%26hotelID%3D68635348%26roomID%3D314329709%26currency%3DUSD%26deviceType%3Ddesktop&s=ALZo0YIkCqaUF7oLAAUrqnRFysCP&ap=1"
+        },
+        {
+          "source": "eDreams",
+          "price": 645,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyh3ogAtCG1zvT6Yp78TSj4CwWy0YVbGqgbZ5oflxZMik96UJH91mjMHLnjXRjFLcWYpfJQV6QsI2gYDkiR7dDENNbRRtVXQNAQw9CRdq97RMLcn0xPOuqBzG3K2Cd95EhzIgJQ1baD-iUDWUrjCn1AYXRwS02muM8pic1k7cifd0wp0T5e1&pcurl=https://accommodation.edreams.net/Hotel-Search?selected%3D68635348%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26mpf%3D1289.12%26cur%3DUSD%26mpj%3D210.38%26MDPCID%3DeDreams-US.DPS.Edreams.MetaSearch-GHA.HOTEL%26mpl%3DUSD%26numberOfRooms%3D1%26locale%3Den_US%26rffrid%3Dh4p.hcom.US.ghaodigeo.000.000.kwrd%3D%26pos%3DEDREAMS_US%26rateplanid%3D390898978%26mctc%3D10%26utm_medium%3Dmetasearch%26utm_campaign%3D2197331136%26utm_term%3Dhotel%26utm_source%3DFREEBOOKING&s=ALZo0YLYayubC8Q9gJY977wdtVAL&ap=1"
+        },
+        {
+          "source": "BusinessHotels.com",
+          "price": 655,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjv8xj9ms8dBZ7OPICo8qXSaRlFUIvrWya8yAyXCmTxF40-yP7Ey8mYNy4mtkPxv3CJD7pIfTILGjn8b94ydfsbQr83KuYCo2LD1ZhAaGGPCtdzPiaz27YDlfiJS_aVk9kCs9IHAWShe_MdKK5-hiipO5v5fugjOHf1BCsxUNvDII2FTlpKvkf-t4ELf_10Tm2Y&pcurl=https://www.businesshotels.com/gha_landing.php?hotel-id%3D705254292%26checkin-date%3D2026-12-09%26checkout-date%3D2026-12-11%26language%3Den%26USER-CURRENCY%3DUSD%26USER-COUNTRY%3DUS%26NUM-ADULTS%3D2%26NUM-CHILDREN%3D0%26is_google%3Dfalse%26alternate_hotel_id%3D705254292BH2115762876!%26ts%3D20261209%26ts2%3D20261211%26sig%3DGL705254292705254292BH2115762876!%26src%3Dfree%26click_type%3Dhotel%26google_site%3Dlocaluniversal%26campaign_id%3D%26user_lang%3Den&s=ALZo0YKqz-7edtuIUzMOwW7_DtPE&ap=1"
+        },
+        {
+          "source": "Traveluro",
+          "price": 669,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygjKDE_2eTlpn7cHK6aKMX6D6d2sLGnMil72anwA4F8iJBpn4yF86EfHQySYrh2JYZnNvA-9BFiMWFTb3Np41szJWy-FKnTKJ-we4Ysd_cnbAcJ6vR-aVyxRlVhMoq7rmO1udmaUmnxg11Wwp9Xv1h_jzSbUL4C_y6hf5lEptRLTWoad9JNBtnp&pcurl=https://www.traveluro.com/hotels/mexico_df_mexico-city/4164874_the-ritz-carlton-mexico-city?checkIn%3D2026-12-09%26checkOut%3D2026-12-11%26placeId%3DH4164874%26campaignName%3DGoogle_US%26currencyCode%3DUSD%26dealKey%3DCAIQqwEiDAj8zc7XBhD0lu7QAypODQBAJ0QVAMCjRCVmJjNDLY_CHEIwATi6AkVSQKdESgwIoJzO1wYQlLXP_AJiCkRlbHV4ZSBLaW5oAoIBAI0BPVonRKABt6yVtwSoAcgGMI0GOIqa_gFA2fgPSAJSCDAkYJdmNaAmWMgGYgMKASA%26countryCode%3DUS%26languageCode%3Den%26rule%3DGoogle_US%26site%3Dlocaluniversal%26origin%3D31%26ads%3D%26priceDisplayedTotal%3D1338.00%26priceDisplayedTax%3D218.38%26device%3Ddesktop%26adults%3D2%26children%3D0&s=ALZo0YLSLQk5DeYueGAHxAE8VtZy&ap=1"
+        },
+        {
+          "source": "Booking.com",
+          "price": 895,
+          "official": false,
+          "link": "https://www.booking.com/searchresults.html?ss=The+Ritz-Carlton%2C+Mexico+City%2C+Mexico+City&checkin=2026-12-09&checkout=2026-12-11&group_adults=2&aid=2243524"
+        },
+        {
+          "source": "Reserving",
+          "price": 895,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygl-WfsslWcLIOFxvPorL3TwvFhUGikjP_pMYj6ceNBmrtwL627SdaLVi8zp5uweVkEEFhQiOgV5W9RBvCw7C0olmxZAs6ccm3MFiPLur8u0PFoEcC1DzO-Crh8OSXrfju9QW0NeQiDUxlcQOmecjRfwRiIzHK9yyA3-JyVA-inKVqwlmrgR1jn9S63eNip-Q&pcurl=https://h-en.reserving.com/search?i%3D7103%26rf%3DGOOGLEHOTELS%26portal%3Drsvcom%26lang%3Den%26auto%3D1%26tipo%3DS%26id%3D937830%26numero_habs%3D1%26no_adultos_hab1%3D2%26no_ninos_hab1%3D0%26fecha_entrada%3D09%252F12%252F2026%26fecha_salida%3D11%252F12%252F2026%26refp%3D1790.56%26campaing-id%3D%26tp%3D%26moneda%3DUSD%26device%3Ddesktop%26pais_dom%3DUS%26sg%3Db%3D1556.68,b$%3DUSD,bhab%3D954,big%3D2026-12-07T06:59:00%2B01:00,bmid%3D100,bpd%3Dmx,bpt%3D214.71,breg%3D11,bt%3D46.97,bwp%3DfdMfa6itKlc,ts%3D2026-11-11T00:25:39%2B01:00/B:42FC09C9D0A0AC54DD0BA877E635A0DE6999574245F703DE7A21ACB0%26c3%3Dmode%3DP,d%3D2,ts_id%3D35313982558253%26r%3DCAMPAIGN-ID%3D;TRACKING-PARAM%3D;RATE-RULE%3DBASERATE;PRICE-DISPLAYED-TOTAL%3D1790.56;DEFAULT-DATE%3D0;CLICK-TYPE%3Dhotel;USER-COUNTRY%3DUS;DEVICE%3Ddesktop;SITE%3Dlocaluniversal;USER-LANGUAGE%3Den;USER-CURRENCY%3DUSD;POS%3DALL-ALL-ALL-RSVCOM;AD-CLICK%3D0;PAYMENT-ID%3Dfree;C2%3Db%3D1556.68,b$%3DUSD,bhab%3D954,big%3D2026-12-07T06:59:00%2B01:00,bmid%3D100,bpd%3Dmx,bpt%3D214.71,breg%3D11,bt%3D46.97,bwp%3DfdMfa6itKlc,ts%3D2026-11-11T00:25:39%2B01:00/B:42FC09C9D0A0AC54DD0BA877E635A0DE6999574245F703DE7A21A;C3%3Dmode%3DP,d%3D2,ts_id%3D35313982558253&s=ALZo0YKvuuAwvo6BU3GYuaWdwlTf&ap=1"
+        },
+        {
+          "source": "Trip.com",
+          "price": 1755,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygytl-8IaVUstay6Zu7-1cO9oE_WXp-gaf2SFdMSm6Oz2S49mo7EVbBsoXREvT1voJ5O6NZCJLe9CQom7SKYz_QH4Zn29PIACfBjaVqTsS2FSLFdDzSHeG_kgZYGHRuoG392jaLkqaYwdU55VEoH7lipQkrJZIdLLNRzIBl0GmwQ2Ysgnw&pcurl=https://us.trip.com/hotels/redirect?hotelid%3D119308199%26city%3D691%26shoppingid%3DMu3TrzDw8YyS%26adult%3D2%26children%3D0%26ages%3D%26checkin%3D2026-12-09%26checkout%3D2026-12-11%26curr%3DUSD%26Allianceid%3D15214%26Sid%3D1209572%26prid%3DLANG_US%26trip_sub1%3D09_12_2026_2_localuniversal_119308199_US_desktop_selected___0_0-LANG_US-landing%26hpaopts%3Dstand%5BH4sIAAAAAAAA_-Ny4WKSYBJi4mCUsuI4uvLLX1YhRiMDTotPggEcMxiX__9osYKRcQcj00VGBhD4Ms3hIeOSAluu67mrHV4wbuyb_JNxAQujFI9vqXFIUZVLuUVkZbACo8ba4-eus3kwBbE5mVq6GTpGyXAxhwa7CH7TiOk_tFXKQQrEU4TxklhT83RDgzMui3UxMnkwrmJk52I2MDIUYPrEyI9sbryRIQC6BDggrwAAAA%5Dfgt%5B1%5D%26br%3D3510.88%26tf%3D572.88%26display%3Dexavg%26locale%3Den_us%26crn%3D1%26roomid%3D1606227141%26allianceid%3D15214%26sid%3D1209572&s=ALZo0YKixfZnsBsWPvPL8pEJRUdc&ap=1"
+        }
+      ]
+    }
+  ]
+}

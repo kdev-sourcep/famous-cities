@@ -1,0 +1,269 @@
+{
+  "from": "JFK",
+  "to": "SIN",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDU0lOGh4SCjIwMjYtMTItMTZqBwgBEgNTSU5yBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2260,
+      "stops": 1,
+      "duration": 1485,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-11 10:00",
+      "route": [
+        "JFK",
+        "IST",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 265
+        }
+      ],
+      "flightNumbers": [
+        "TK 2",
+        "TK 208"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2450,
+      "stops": 1,
+      "duration": 1295,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-11 06:50",
+      "route": [
+        "JFK",
+        "IST",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 70
+        }
+      ],
+      "flightNumbers": [
+        "TK 2",
+        "TK 22"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Qatar Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "price": 2528,
+      "stops": 1,
+      "duration": 1305,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 21:15",
+      "route": [
+        "JFK",
+        "DOH",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "DOH",
+          "minutes": 120
+        }
+      ],
+      "flightNumbers": [
+        "QR 704",
+        "QR 944"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2198,
+      "stops": 1,
+      "duration": 1700,
+      "depart": "2026-12-09 00:20",
+      "arrive": "2026-12-10 17:40",
+      "route": [
+        "JFK",
+        "IST",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 460
+        }
+      ],
+      "flightNumbers": [
+        "TK 12",
+        "TK 54"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2370,
+      "stops": 1,
+      "duration": 1740,
+      "depart": "2026-12-09 12:50",
+      "arrive": "2026-12-11 06:50",
+      "route": [
+        "JFK",
+        "IST",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 535
+        }
+      ],
+      "flightNumbers": [
+        "TK 4",
+        "TK 22"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "ANA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+      "price": 2507,
+      "stops": 1,
+      "duration": 1730,
+      "depart": "2026-12-09 13:05",
+      "arrive": "2026-12-11 06:55",
+      "route": [
+        "JFK",
+        "HND",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 405
+        }
+      ],
+      "flightNumbers": [
+        "NH 109",
+        "NH 843"
+      ],
+      "cabin": "Economy",
+      "legroom": "34 in",
+      "extensions": [
+        "Above average legroom (34 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Qatar Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "price": 2846,
+      "stops": 1,
+      "duration": 1365,
+      "depart": "2026-12-09 21:00",
+      "arrive": "2026-12-11 08:45",
+      "route": [
+        "JFK",
+        "DOH",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "DOH",
+          "minutes": 180
+        }
+      ],
+      "flightNumbers": [
+        "QR 702",
+        "QR 942"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Emirates",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+      "price": 2881,
+      "stops": 1,
+      "duration": 1325,
+      "depart": "2026-12-09 10:40",
+      "arrive": "2026-12-10 21:45",
+      "route": [
+        "JFK",
+        "DXB",
+        "SIN"
+      ],
+      "layovers": [
+        {
+          "airport": "DXB",
+          "minutes": 115
+        }
+      ],
+      "flightNumbers": [
+        "EK 204",
+        "EK 352"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}

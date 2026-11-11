@@ -1,0 +1,248 @@
+{
+  "from": "JFK",
+  "to": "ICN",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDSUNOGh4SCjIwMjYtMTItMTZqBwgBEgNJQ05yBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2716,
+      "stops": 1,
+      "duration": 1130,
+      "depart": "2026-12-09 07:00",
+      "arrive": "2026-12-10 15:50",
+      "route": [
+        "JFK",
+        "MSP",
+        "ICN"
+      ],
+      "layovers": [
+        {
+          "airport": "MSP",
+          "minutes": 59
+        }
+      ],
+      "flightNumbers": [
+        "DL 2390",
+        "DL 171"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 3342,
+      "stops": 0,
+      "duration": 945,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 16:15",
+      "route": [
+        "JFK",
+        "ICN"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "OZ 221"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 3504,
+      "stops": 0,
+      "duration": 940,
+      "depart": "2026-12-09 00:30",
+      "arrive": "2026-12-10 06:10",
+      "route": [
+        "JFK",
+        "ICN"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "OZ 223"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "Korean Air",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+      "price": 4087,
+      "stops": 0,
+      "duration": 945,
+      "depart": "2026-12-09 12:00",
+      "arrive": "2026-12-10 17:45",
+      "route": [
+        "JFK",
+        "ICN"
+      ],
+      "layovers": [],
+      "flightNumbers": [
+        "KE 82"
+      ],
+      "cabin": "Economy",
+      "legroom": "33 in",
+      "extensions": [
+        "Above average legroom (33 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Turkish Airlines + Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "price": 2348,
+      "stops": 1,
+      "duration": 1660,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-11 13:55",
+      "route": [
+        "JFK",
+        "IST",
+        "ICN"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 465
+        }
+      ],
+      "flightNumbers": [
+        "TK 2",
+        "OZ 552"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2348,
+      "stops": 1,
+      "duration": 1925,
+      "depart": "2026-12-09 20:15",
+      "arrive": "2026-12-11 18:20",
+      "route": [
+        "JFK",
+        "IST",
+        "ICN"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 730
+        }
+      ],
+      "flightNumbers": [
+        "TK 2",
+        "TK 90"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2716,
+      "stops": 1,
+      "duration": 1180,
+      "depart": "2026-12-09 07:10",
+      "arrive": "2026-12-10 16:50",
+      "route": [
+        "JFK",
+        "DTW",
+        "ICN"
+      ],
+      "layovers": [
+        {
+          "airport": "DTW",
+          "minutes": 120
+        }
+      ],
+      "flightNumbers": [
+        "DL 5080",
+        "DL 159"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Qatar Airways",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+      "price": 3173,
+      "stops": 1,
+      "duration": 1410,
+      "depart": "2026-12-09 21:00",
+      "arrive": "2026-12-11 10:30",
+      "route": [
+        "JFK",
+        "DOH",
+        "ICN"
+      ],
+      "layovers": [
+        {
+          "airport": "DOH",
+          "minutes": 165
+        }
+      ],
+      "flightNumbers": [
+        "QR 702",
+        "QR 862"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "In-seat power & USB outlets",
+        "On-demand video"
+      ]
+    }
+  ]
+}

@@ -88,7 +88,7 @@ const panels = [stay("hotels", "Hotels", "hotel"), stay("brands", "Hotel brands"
       <div class="hcmp__grid">
         {[0, 1].map((slot) => (
           <div class="hcmp__col">
-            <select class="hcmp__select" aria-label={`${p.label}: option ${slot + 1}`}>
+            <select class="hcmp__select" autocomplete="off" aria-label={`${p.label}: option ${slot + 1}`}>
               {p.items.map((h: any, j: number) => <option value={h.id} selected={j === slot}>{p.type === "flight" ? `${h.airline} · ${h.depart.slice(11)} · $${h.price.toLocaleString()}` : p.type === "tour" ? h.title : p.type === "extra" ? `${h.name} · ${h.kind}` : h.brand ? `${h.brand} · ${h.name}` : h.name}</option>)}
             </select>
             <div class="hcmp__card" data-card></div>
@@ -178,7 +178,7 @@ const panels = [stay("hotels", "Hotels", "hotel"), stay("brands", "Hotel brands"
         cols.forEach((c, i) => { c.querySelector("[data-card]")!.innerHTML = type === "flight" ? flightCard(picked[i]) : type === "tour" ? tourCard(picked[i]) : type === "extra" ? extraCard(picked[i]) : stayCard(picked[i]); });
         panel.querySelector("[data-verdict]")!.innerHTML = verdict(type, noun, picked[0], picked[1]);
       };
-      cols.forEach((c) => c.querySelector("select")!.addEventListener("change", render));
+      cols.forEach((c, i) => { const s = c.querySelector("select")!; s.selectedIndex = Math.min(i, s.options.length - 1); s.addEventListener("change", render); });
       render();
     });
     const tabs = [...root.querySelectorAll<HTMLButtonElement>(".hcmp__tab")];

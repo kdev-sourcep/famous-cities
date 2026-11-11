@@ -1,0 +1,89 @@
+{
+  "city": "Rome",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChkQgbmnpPDptcdiGg0vZy8xMXRnZ3Bwa3p4EAI",
+      "name": "Times Rome Colosseum, wide in wonderful location front Coliseum",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 9",
+        "3 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 4.725085,
+      "reviews": 472,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Heating",
+        "Ironing board"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 225,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyj63qa0xkmKioFQCb5FcjR-U6fRW79LpkbSkwfqKyPtMFoWKALYghhlqgkRcr9wiGcGK-oPQPo0l1FYcM-GICL-H3ToxPUDvRIUYximKASULx5pzL67_BoWDW8fDQkKRmWgU3nxT8e7Hh-F2kF1ik4i0GGGWwMlKMpBQSNb-iGNgac04C-no1Z0FKv9CYRKkq-g2dWOrw8Pr6GF5kJLzZ0&pcurl=https://www.expedia.com/Hotel-Search?selected%3D18976097%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.18976097.20261209.20261211.DDF.28.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D450.00%26exp_tx%3D34.78%26mpr%3D7.86%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D18976097%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D00019899edf6bd434a7a95a9d9b95725e67c%26mpm%3D103%26mpn%3D18976097%26mpo%3DEC%26mpe%3D1794286483%26mpp%3D1&s=ALZo0YJV782DnofAbY5-G4h8b_dx&ap=1"
+        },
+        {
+          "source": "freecancellations.com",
+          "price": 254,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyhjPKb4J5a0LaYgASfSEcOB4d3_4RPQfhf32lEMQMPuL7enPOLQz-68rHd_1Kmp_ORcNUAsgTysZ_oN7-tdD0RfWI8cqTt5kGE3TGV2t7kj-COBUiGPdF1kDKTL0t9DGTEgvSUSBvqibRFZ5vvd1IQEmPfFIirhOXJh4cCW1SSStQwxF-ntGo59P0rG1JkZTd0ymX96FWzax9GIIjlu_dY&pcurl=https://www.freecancellations.com/search/F213RFNTHSACClMHCVkCEF1eDRY3EVMR?adults%3D2%26utm_campaign%3Dvr%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,FGEhb_ILfprgUdYuGmadVqKv9WtThJsxtKV-NSRE-tt7lZFxCM7oB2LhUMRoZzqi,-bpvr-Apartment%26language%3Den%26source%3Dlocaluniversal%26%26prid%3D%26reful%3DczKNMfyBnAIHMIXTpC4CecSzKP9Wpno1TjccZh8YMIs&s=ALZo0YJsKaN_xLeSpRiHDHeTHbJm&ap=1"
+        },
+        {
+          "source": "Bluepillow.com",
+          "price": 254,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyi4V1Amo6tsoyKWQXLu1ifYYNNmMtMwpI355_hjAmEMX8vtVTdZrMxxBHu6_ydjxgUsj_YCXpi4ElAPCiEegteqZMkJ6VNlILVjkyVkdjKFASS8HjQdTGiuvE2F9lFlc78qiBMWSg_MymdrhANmGX-u1YHRqGO94zRNBPo2Uv-W1mXjN22-wX2bt4WvZw&pcurl=https://www.bluepillow.com/search/6216663ccd0be5cd41c8fd6c?begin%3D2026-12-09%26end%3D2026-12-11%26block_id%3D-b,FGEhb_ILfprgUdYuGmadVqKv9WtThJsxtKV-NSRE-tt7lZFxCM7oB2LhUMRoZzqi,-bpvr-Apartment%26adults%3D2%26childs%3D0%26infants%3D0%26childrens%3D0%26country%3DUS%26currency%3DUSD%26language%3Den%26source%3Dlocaluniversal%26utm_campaign%3Dvr%26prid%3D&s=ALZo0YKG822cDsEmRtccPqgNWrFK&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChkQnOv73KWHqO99Gg0vZy8xMXpoZjFieGI3EAI",
+      "name": "BDC - Prestige 3Bdr 3Bath in Monti District",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 6",
+        "3 bedrooms"
+      ],
+      "stars": 0,
+      "rating": 4.599104,
+      "reviews": 145,
+      "room": "",
+      "photo": "homes-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Airport shuttle",
+        "Balcony"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 272,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygPQ-QPoXH0pBcCFzEZgmcF3xTbXT8SzTgc-LcngQVFJZunmZoQr-CSh8juDtT0Sa4EHcoMAyDooDA-SydisxylxPBc0jLqqhlK-Lvhove220ECi0Mbu3UboPe-8xi4zQQQIhAEtQBzQkQFi1igTyAn0mGIa_JWWzgZFjO9Q25bbfiYf_K7JFwC0YdQNAE7ftLiqQw_U1GmT-wesKFI2sM&pcurl=https://www.expedia.com/Hotel-Search?selected%3D91860483%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.91860483.20261209.20261211.DDF.28.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D544.75%26exp_tx%3D127.92%26mpr%3D100.98%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D91860483%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D00019a27f4ad7d874b8287a255793375fe5b%26mpm%3D103%26mpn%3D91860483%26mpo%3DEC%26mpe%3D1794353708%26mpp%3D1&s=ALZo0YIGCFoToBHdGdN34EjUh5o4&ap=1"
+        },
+        {
+          "source": "Holidu",
+          "price": 290,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygdBgIvY8NVkdGEhgJLsB62BygDckxyv-0_ay9IRY_eFfj970sL4gJdaQo0bnpQRoU1_6f3Kf9gO4wrO26Yi8tHBmHcm5UE_i4ZDNUm-VV7i4J0bcvlwebBeDQ_G4Jw1sMdEtEMPhyMcJt3W3JjiP2QgH-KbScEd5Zj8qbDbTs9xr50vk6pRA12kdf4JDC8Q4Crq5XMFPUe14o&pcurl=https://www.holidu.com/d/68096721?checkin%3D2026-12-09%26checkout%3D2026-12-11%26adults%3D2%26children%3D0%26utm_source%3Dgoogle_vr_eb%26locale%3Den-US%26currency%3DEUR%26childrenAges%3D%26ref_source%3Dgoogle_vr%26utm_source%3Dgoogle_vr_eb&s=ALZo0YJly1UqULcrJTDoGmUcRxnZ&ap=1"
+        }
+      ]
+    }
+  ]
+}

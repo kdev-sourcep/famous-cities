@@ -1,0 +1,83 @@
+{
+  "city": "Las Vegas",
+  "checkIn": "2026-12-09",
+  "checkOut": "2026-12-11",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Hotels via SerpApi",
+  "hotels": [
+    {
+      "id": "ChoQkMLDspe2-cvuARoNL2cvMTFudzUzNWozMBAC",
+      "name": "MGM Signature Penthouse Jr. StripView, Balcony, Pool NO Resort fee, FREE Parking",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "1 bedroom"
+      ],
+      "stars": 0,
+      "rating": 4.918182,
+      "reviews": 22,
+      "room": "",
+      "photo": "homes-1.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Balcony",
+        "Elevator"
+      ],
+      "prices": [
+        {
+          "source": "Expedia.com",
+          "price": 225,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjB4rmRMj-IR9as3Oy7hiN51dPN90s40OyUGDu7xEril2RNIbUTiUVCsBqdtC8LC611Wb4REiNplpyoyPmIlZKqU0Q2Yx8uHFzB7r-_gGF0Xhb8v59nNvBeWBMFea1NfDpbmqsQOG5vhPoy0PhBfj1OEJ680NHwK00Ds4Tw7kVWUNGNMLN655ZJlMIv2nH8TF9NPpsZDEtKevv9XBapFPw&pcurl=https://www.expedia.com/Hotel-Search?selected%3D110405781%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26MDPCID%3DUS.META.HPA.ORGANIC-desktop.VR%26langid%3D1033%26adults%3D2%26children%3D%26MDPDTL%3DHTL.110405781.20261209.20261211.DDF.29.CID..AUDID.%26mctc%3D10%26ct%3Dhotel%26exp_curr%3DUSD%26exp_dp%3D449.69%26exp_tx%3D231.69%26mpr%3D202.52%26exp_pg%3Dgoogle%26langid%3Den%26ad%3D2%26tp%3D%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_term%3D110405781%26utm_content%3Dlocaluniversal%26utm_campaign%3DHotelAds%26rateplanid%3D0000d067c2fe2ee1460081a83461cf7a797c%26mpm%3D103%26mpn%3D110405781%26mpo%3DEC%26mpe%3D1794336037%26mpp%3D1&s=ALZo0YLLdcoLHddRx4few3lvMfMZ&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 225,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyjnj1_GRmIlsNxxk7B-t3mKrmi_MKhj5Ik8-O4toCcKks4xRUdMaFjkf8y-9XdXM_Nb-kaYZG9AzNVQ6voAz4fUHSMur51MvzuaHey4g0H3RGrtXQrz661nHkHRnCvCAMacPMW3APTSX9u6ACMNFX78P_PvTgn8vs7FbRCWGdsEtKmYPu4dSA&pcurl=https://www.vrbo.com/search?selected%3D110405781%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.110405781.20261209.20261211.DDF.29.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D449.69%26mpj%3D231.69%26mpr%3D202.52%26mpl%3DUSD%26langid%3Den%26rateplanid%3D0000d067c2fe2ee1460081a83461cf7a797c%26mpm%3D103%26mpn%3D110405781%26mpo%3DEC%26mpe%3D1794336037%26mpp%3D1&s=ALZo0YKFX2SVhLlz68H9ZgPjJrOu&ap=1"
+        }
+      ]
+    },
+    {
+      "id": "ChoQp_G8oJTjx4eaARoNL2cvMTFudHJ4Z3hkaxAC",
+      "name": "MGM Signature Penthouse w/ F1 Strip View & Balcony",
+      "address": "",
+      "brand": "",
+      "info": [
+        "Entire apartment",
+        "Sleeps 4",
+        "1 bathroom"
+      ],
+      "stars": 0,
+      "rating": 4.857393,
+      "reviews": 242,
+      "room": "",
+      "photo": "homes-2.jpg",
+      "freeCancellation": false,
+      "amenities": [
+        "Air conditioning",
+        "Balcony",
+        "Kid-friendly"
+      ],
+      "prices": [
+        {
+          "source": "Whimstay",
+          "price": 211,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEygemqteBkSHltt1XfrSsAOknkzC1uaYQ7r4bvfnLgX8qI_IlNceB6W7y42NTGDOsiCRmvEjurEVJFNDH10kn628UTgP696Wr3C9Gdvc_yZgFNfAJBCzz-lxHqxoN3BCB_5TMgb7mJP-dhWsVDwtzzNyR4QUlIyQ_1eCV--5rIRCGvau-A-PUGA&pcurl=https://www.whimstay.com/detail/property/100863513?check_in%3D2026-12-09%26check_out%3D2026-12-11%26adultsCount%3D2%26childrenCount%3D0%26isgoogle%3Dtrue%26utm_source%3Dgvr%26utm_medium%3Dorganic%26clk_src%3D%26verification%3Dfalse%26allowSameDay%3Dtrue&s=ALZo0YK6bENXuOa5zzxAJg7DghQN&ap=1"
+        },
+        {
+          "source": "Vrbo.com",
+          "price": 265,
+          "official": false,
+          "link": "https://www.google.com/travel/lodging/clk?pc=AJ0xEyg-9aNZCBVQJ4uQ36tD9zjPNYDRaK6CJUM4siZL-YLep-Qua1FjwtKOuwBHx8ICcIMzavBu-LMPBbFNbRkieUICO7juSjvLRfiH_k4zhwVH1nt58rEJOUQYmLU6aaX683BYm_bO1ncFe9j6uboXS-QfzdXZWri_n4x2CLyojBnDOAsVyEPDZg&pcurl=https://www.vrbo.com/search?selected%3D60339113%26startDate%3D2026-12-09%26endDate%3D2026-12-11%26adults%3D2%26children%3D%26MDPCID%3DVRBO-US.META.HPA.ORGANIC-desktop.VR%26MDPDTL%3DHTL.60339113.20261209.20261211.DDF.29.CID..AUDID..RRID.vrbo_us_desktop%26mctc%3D10%26ct%3Dhotel%26mpg%3DUSD%26mpf%3D529.06%26mpj%3D212.06%26mpr%3D154.00%26mpl%3DUSD%26langid%3Den%26rateplanid%3D0004176dde076e1f4a5993794494f5052b6e%26mpm%3D103%26mpn%3D60339113%26mpo%3DEC%26mpe%3D1794350240%26mpp%3D1&s=ALZo0YKFvbMrlR_OWZJGvanE5tOa&ap=1"
+        }
+      ]
+    }
+  ]
+}

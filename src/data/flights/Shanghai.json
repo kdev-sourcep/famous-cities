@@ -1,0 +1,269 @@
+{
+  "from": "JFK",
+  "to": "PVG",
+  "outDate": "2026-12-09",
+  "retDate": "2026-12-16",
+  "adults": 2,
+  "currency": "USD",
+  "fetchedAt": "2026-11-10",
+  "source": "Google Flights via SerpApi",
+  "googleUrl": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDSkZLcgcIARIDUFZHGh4SCjIwMjYtMTItMTZqBwgBEgNQVkdyBwgBEgNKRktAAUABSAFwAZgBAQ&tfu=EgIIAQ",
+  "flights": [
+    {
+      "id": "1",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 2183,
+      "stops": 1,
+      "duration": 1345,
+      "depart": "2026-12-09 10:30",
+      "arrive": "2026-12-10 21:55",
+      "route": [
+        "JFK",
+        "ICN",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "ICN",
+          "minutes": 270
+        }
+      ],
+      "flightNumbers": [
+        "OZ 221",
+        "OZ 367"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "2",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2244,
+      "stops": 1,
+      "duration": 1640,
+      "depart": "2026-12-09 12:50",
+      "arrive": "2026-12-11 05:10",
+      "route": [
+        "JFK",
+        "IST",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 455
+        }
+      ],
+      "flightNumbers": [
+        "TK 4",
+        "TK 280"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "3",
+      "airline": "Delta",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "price": 2248,
+      "stops": 1,
+      "duration": 1145,
+      "depart": "2026-12-09 07:10",
+      "arrive": "2026-12-10 15:15",
+      "route": [
+        "JFK",
+        "DTW",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "DTW",
+          "minutes": 35
+        }
+      ],
+      "flightNumbers": [
+        "DL 5080",
+        "DL 389"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Free Wi-Fi",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "4",
+      "airline": "ANA",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+      "price": 3018,
+      "stops": 1,
+      "duration": 1390,
+      "depart": "2026-12-09 13:05",
+      "arrive": "2026-12-11 01:15",
+      "route": [
+        "JFK",
+        "HND",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "HND",
+          "minutes": 300
+        }
+      ],
+      "flightNumbers": [
+        "NH 109",
+        "NH 967"
+      ],
+      "cabin": "Economy",
+      "legroom": "34 in",
+      "extensions": [
+        "Above average legroom (34 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "5",
+      "airline": "Cathay Pacific",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "price": 3076,
+      "stops": 1,
+      "duration": 1185,
+      "depart": "2026-12-09 09:00",
+      "arrive": "2026-12-10 17:45",
+      "route": [
+        "JFK",
+        "HKG",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "HKG",
+          "minutes": 60
+        }
+      ],
+      "flightNumbers": [
+        "CX 841",
+        "CX 380"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "6",
+      "airline": "Turkish Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/TK.png",
+      "price": 2210,
+      "stops": 1,
+      "duration": 1670,
+      "depart": "2026-12-09 00:20",
+      "arrive": "2026-12-10 17:10",
+      "route": [
+        "JFK",
+        "IST",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "IST",
+          "minutes": 460
+        }
+      ],
+      "flightNumbers": [
+        "TK 12",
+        "TK 26"
+      ],
+      "cabin": "Economy",
+      "legroom": "31 in",
+      "extensions": [
+        "Average legroom (31 in)",
+        "Wi-Fi for a fee",
+        "On-demand video"
+      ]
+    },
+    {
+      "id": "7",
+      "airline": "Asiana Airlines",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+      "price": 2897,
+      "stops": 1,
+      "duration": 1235,
+      "depart": "2026-12-09 00:30",
+      "arrive": "2026-12-10 10:05",
+      "route": [
+        "JFK",
+        "ICN",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "ICN",
+          "minutes": 175
+        }
+      ],
+      "flightNumbers": [
+        "OZ 223",
+        "OZ 361"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    },
+    {
+      "id": "8",
+      "airline": "Cathay Pacific",
+      "logo": "https://www.gstatic.com/flights/airline_logos/70px/CX.png",
+      "price": 3076,
+      "stops": 1,
+      "duration": 1250,
+      "depart": "2026-12-09 01:45",
+      "arrive": "2026-12-10 11:35",
+      "route": [
+        "JFK",
+        "HKG",
+        "PVG"
+      ],
+      "layovers": [
+        {
+          "airport": "HKG",
+          "minutes": 145
+        }
+      ],
+      "flightNumbers": [
+        "CX 843",
+        "CX 316"
+      ],
+      "cabin": "Economy",
+      "legroom": "32 in",
+      "extensions": [
+        "Above average legroom (32 in)",
+        "Wi-Fi for a fee",
+        "In-seat power & USB outlets"
+      ]
+    }
+  ]
+}
