@@ -166,3 +166,22 @@ const inField = (e: Event) => (e.target as Element | null)?.closest?.("input, te
 for (const type of ["copy", "cut", "contextmenu", "dragstart", "selectstart"]) {
   document.addEventListener(type, (e) => { if (!inField(e)) e.preventDefault(); });
 }
+
+/* Language picker: Google Translate, loaded only after a visitor picks a language other than English */
+const lang = (document.cookie.match(/(?:^|; )googtrans=\/en\/([^;]+)/) || [])[1] || "en";
+document.querySelectorAll<HTMLSelectElement>("[data-lang]").forEach((s) => {
+  s.value = lang;
+  const label = s.parentElement!.querySelector("[data-lang-label]");
+  if (label) label.textContent = lang.slice(0, 2).toUpperCase();
+  s.addEventListener("change", () => {
+    const off = s.value === "en" ? "; expires=Thu, 01 Jan 1970 00:00:00 GMT" : "";
+    for (const d of ["", `; domain=${location.hostname}`, `; domain=.${location.hostname}`]) document.cookie = `googtrans=/en/${s.value}; path=/${d}${off}`;
+    location.reload();
+  });
+});
+if (lang !== "en") {
+  (window as any).googleTranslateElementInit = () => new (window as any).google.translate.TranslateElement({ pageLanguage: "en", autoDisplay: false }, "gt-el");
+  const gt = document.createElement("script");
+  gt.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
+  document.head.appendChild(gt);
+}

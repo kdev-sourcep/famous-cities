@@ -1,6 +1,7 @@
 ---
 import Icon from "./Icon.astro";
 import { regions, citiesIn, cityHref, url, regionStyle, regionId } from "../lib/site";
+const langs = [["en", "English"], ["es", "Español"], ["de", "Deutsch"], ["ja", "日本語"], ["fr", "Français"], ["pt", "Português"], ["ru", "Русский"], ["it", "Italiano"], ["nl", "Nederlands"], ["pl", "Polski"], ["tr", "Türkçe"], ["zh-CN", "中文"]];
 const links = [
   { href: url("cities.html"), label: "All cities" },
   { href: url("best-cities-2026.html"), label: "Best Cities 2026" },
@@ -10,7 +11,7 @@ const links = [
 ---
 <header class="site-header">
   <div class="container">
-    <a class="logo" href={url("")}><span class="logo__mark"><Icon name="globe" size={20} /></span>Famous Cities</a>
+    <a class="logo" translate="no" href={url("")}><span class="logo__mark"><Icon name="globe" size={20} /></span>Famous Cities</a>
     <nav class="nav" aria-label="Main">
       <button class="nav__btn" type="button" aria-expanded="false" aria-controls="mega" data-mega-toggle>Destinations <Icon name="chevron-down" size={16} /></button>
       {links.map((l) => <a class="nav__link" href={l.href}>{l.label}</a>)}
@@ -21,6 +22,7 @@ const links = [
       <input class="search__input" type="search" placeholder="Search cities" aria-label="Search cities" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
       <ul class="search__list" role="listbox" hidden></ul>
     </div>
+    <label class="lang-btn lang-btn--bar notranslate" translate="no" title="Translate this page"><Icon name="languages" size={16} /><b data-lang-label>EN</b><select data-lang aria-label="Language">{langs.map(([v, n]) => <option value={v}>{n}</option>)}</select></label>
     <button class="theme-btn" type="button" aria-pressed="false" aria-label="Dark mode" data-theme-toggle><span data-when="light"><Icon name="moon" size={16} /><b>Dark</b></span><span data-when="dark"><Icon name="sun" size={16} /><b>Light</b></span></button>
     <a class="btn btn--primary btn--sm btn--support" href={url("support.html")}><Icon name="heart" size={16} /> Support</a>
     <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" data-drawer-open><Icon name="menu" size={20} /></button>
@@ -39,7 +41,7 @@ const links = [
     <div class="drawer__scrim" data-drawer-close></div>
     <div class="drawer__panel" role="dialog" aria-modal="true" aria-label="Menu">
       <div class="drawer__top">
-        <a class="logo" href={url("")}><span class="logo__mark"><Icon name="globe" size={20} /></span>Famous Cities</a>
+        <a class="logo" translate="no" href={url("")}><span class="logo__mark"><Icon name="globe" size={20} /></span>Famous Cities</a>
         <button class="menu-btn" style="display:inline-flex" type="button" aria-label="Close menu" data-drawer-close><Icon name="x" size={20} /></button>
       </div>
       <div class="search" data-search>
@@ -47,6 +49,7 @@ const links = [
         <input class="search__input" type="search" placeholder="Search cities" aria-label="Search cities" autocomplete="off" role="combobox" aria-expanded="false" aria-autocomplete="list" />
         <ul class="search__list" role="listbox" hidden></ul>
       </div>
+      <label class="lang-btn notranslate" translate="no" title="Translate this page"><Icon name="languages" size={16} /><b data-lang-label>EN</b><select data-lang aria-label="Language">{langs.map(([v, n]) => <option value={v}>{n}</option>)}</select></label>
       <button class="theme-btn" type="button" aria-pressed="false" aria-label="Dark mode" data-theme-toggle><span data-when="light"><Icon name="moon" size={16} /><b>Dark</b></span><span data-when="dark"><Icon name="sun" size={16} /><b>Light</b></span></button>
       <div class="drawer__links">{links.map((l) => <a href={l.href}>{l.label}</a>)}</div>
       <div>
@@ -60,4 +63,5 @@ const links = [
       <a class="btn btn--primary" href={url("support.html")}><Icon name="heart" size={16} /> Support Famous Cities</a>
     </div>
   </div>
+  <div id="gt-el" hidden></div>
 </header>
