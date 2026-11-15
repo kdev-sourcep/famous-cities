@@ -180,7 +180,7 @@ const jsonld = [
 
   <section class="section section--surface">
     <div class="container">
-      <div class="section-head"><div><span class="eyebrow">Keep exploring</span><h2>More cities in {city.region}</h2></div><a class="btn btn--light btn--sm" href={url(`cities.html#${regionId(city.region)}`)}>All {city.region} cities<Icon name="arrow-right" size={16} /></a></div>
+      <div class="section-head"><div><span class="eyebrow">Keep exploring</span><h2>More cities in {city.region}</h2></div><div class="section-head__btns"><a class="btn btn--light btn--sm" href={url(`city-vs-city.html?a=${city.slug}`)}><Icon name="scale" size={16} />Compare {city.name} with another city</a><a class="btn btn--light btn--sm" href={url(`cities.html#${regionId(city.region)}`)}>All {city.region} cities<Icon name="arrow-right" size={16} /></a></div></div>
       <div class="city-grid">{more.map((c) => <CityCard city={c} />)}</div>
     </div>
   </section>

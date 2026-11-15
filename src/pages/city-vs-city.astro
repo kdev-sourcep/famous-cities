@@ -1,0 +1,96 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { cities, url, cityHref, REGION_COLORS } from "../lib/site";
+type Snap = { checkIn: string; checkOut: string; fetchedAt: string; hotels: { rating: number; prices: { price: number }[] }[] };
+type Fl = { from: string; outDate: string; retDate: string; adults: number; flights: { price: number }[] };
+const hotelFiles = import.meta.glob<{ default: Snap }>("../data/hotels/*.json", { eager: true });
+const flightFiles = import.meta.glob<{ default: Fl }>("../data/flights/*.json", { eager: true });
+const file = (p: string) => p.split("/").pop()!.replace(/\.json$/, "");
+const hotels = new Map(Object.entries(hotelFiles).filter(([p]) => !file(p).includes(".")).map(([p, m]) => [file(p), m.default]));
+const flights = new Map(Object.entries(flightFiles).map(([p, m]) => [file(p), m.default]));
+const median = (a: number[]) => { const s = [...a].sort((x, y) => x - y); return s.length ? Math.round(s.length % 2 ? s[(s.length - 1) / 2] : (s[s.length / 2 - 1] + s[s.length / 2]) / 2) : 0; };
+const strip = (s = "") => s.replace(/<[^>]+>/g, "").trim();
+const data = [...cities].sort((a, b) => a.name.localeCompare(b.name)).map((c: any) => {
+  const h = hotels.get(c.slug), f = flights.get(c.slug);
+  const lows = h?.hotels.filter((x) => x.prices?.length).map((x) => Math.min(...x.prices.map((p) => p.price))) || [];
+  const fp = f?.flights.length ? Math.round(Math.min(...f.flights.map((x) => x.price)) / f.adults) : 0;
+  const famous = (c.faq || []).find((q: any) => /famous for/i.test(q.q));
+  const [c1, c2] = REGION_COLORS[c.region] || ["#FF4FA3", "#8B5CF6"];
+  return {
+    s: c.slug, n: c.name, co: c.country, rg: c.region, m: c.metro, rk: c.rank2026 || 0, sp: !!c.speedTour,
+    img: c.video ? url(`cards/${c.slug}.webp`) : "", g: `linear-gradient(135deg, ${c1}, ${c2})`,
+    u: cityHref(c.slug), b: url(`book.html?city=${c.slug}`),
+    hl: lows.length ? Math.min(...lows) : 0, hm: median(lows),
+    hr: h ? Math.round((h.hotels.reduce((t, x) => t + x.rating, 0) / h.hotels.length) * 10) / 10 : 0,
+    hd: h ? [h.checkIn, h.checkOut] : null,
+    fp, fd: f ? [f.outDate, f.retDate, f.from] : null,
+    fam: strip(famous?.a), top: (c.topThings || []).slice(0, 4).map((t: any) => t.title),
+    fact: strip((c.randomFacts || [])[0])
+  };
+});
+---
+<BaseLayout title="City vs City: Compare Famous Cities Side by Side | Famous Cities" description="Compare two famous cities side by side: population, Time Out 2026 rank, hotel and flight prices, what each city is famous for and the top things to do." path="city-vs-city.html">
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow"><Icon name="scale" size={16} />City vs City</span>
+      <h1>Which city should you visit?</h1>
+      <p>Pick two cities and compare them side by side, from hotel and flight prices to what each one is famous for.</p>
+      <form class="vs-pick card" data-vs-form>
+        <label class="book-field"><span>First city</span><select name="a">{data.map((c) => <option value={c.s}>{c.n}, {c.co}</option>)}</select></label>
+        <button class="vs-swap" type="button" data-vs-swap aria-label="Swap cities"><Icon name="arrow-left-right" size={18} /></button>
+        <label class="book-field"><span>Second city</span><select name="b">{data.map((c) => <option value={c.s}>{c.n}, {c.co}</option>)}</select></label>
+      </form>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <div class="vs-table card" data-vs-table aria-live="polite"></div>
+      <p class="book-note">Hotel prices are per night, incl. taxes, from Google Hotels for the sample dates shown. Flight prices are the cheapest round trip per person from the airport shown, from Google Flights. Prices change constantly; the booking site shows the final price before you pay.</p>
+    </div>
+  </section>
+  <script type="application/json" id="vs-data" set:html={JSON.stringify(data)} />
+</BaseLayout>
+
+<script>
+  type C = { s: string; n: string; co: string; rg: string; m: string; rk: number; sp: boolean; img: string; g: string; u: string; b: string; hl: number; hm: number; hr: number; hd: string[] | null; fp: number; fd: string[] | null; fam: string; top: string[]; fact: string };
+  const data = JSON.parse(document.getElementById("vs-data")!.textContent!) as C[];
+  const form = document.querySelector<HTMLFormElement>("[data-vs-form]")!;
+  const table = document.querySelector<HTMLElement>("[data-vs-table]")!;
+  const f = form.elements as any;
+  const by = (s: string) => data.find((c) => c.s === s);
+  const esc = (s: string) => s.replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[ch]!);
+  const nice = (s: string) => new Date(s + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+  const p = new URLSearchParams(location.search);
+  f.a.value = by(p.get("a") || "") ? p.get("a") : "Tokyo";
+  f.b.value = by(p.get("b") || "") && p.get("b") !== f.a.value ? p.get("b") : f.a.value === "Seoul" ? "Tokyo" : "Seoul";
+  const na = "<span class=\"vs-na\">Not added yet</span>";
+  const win = (x: number, y: number, low: boolean) => x && y && x !== y && (low ? x < y : x > y);
+  const render = () => {
+    const a = by(f.a.value)!, b = by(f.b.value)!;
+    history.replaceState(null, "", `?a=${a.s}&b=${b.s}`);
+    document.title = `${a.n} vs ${b.n}: City Comparison | Famous Cities`;
+    const head = (c: C) => `<div class="vs-head" style="background:${c.g}">${c.img ? `<img src="${c.img}" alt="" width="560" height="340">` : ""}<span class="vs-head__name">${esc(c.n)}</span><span class="vs-head__meta">${esc(c.co)}</span></div>`;
+    const row = (label: string, fn: (c: C, o: C) => string) => `<div class="vs-row"><div class="vs-label">${label}</div><div class="vs-cell">${fn(a, b)}</div><div class="vs-cell">${fn(b, a)}</div></div>`;
+    const tag = (on: boolean, t: string) => on ? ` <span class="vs-win">${t}</span>` : "";
+    table.innerHTML = `<div class="vs-row vs-row--head"><div class="vs-label"></div><div class="vs-cell">${head(a)}</div><div class="vs-cell">${head(b)}</div></div>` +
+      row("Region", (c) => esc(c.rg)) +
+      row("Metro population", (c) => esc(c.m || "–")) +
+      row("Time Out Best Cities 2026", (c, o) => c.rk ? `#${c.rk}${tag(win(c.rk, o.rk, true), "Ranked higher")}` : "Not ranked") +
+      row("Hotels from", (c, o) => c.hl ? `<b>$${c.hl}</b> /night${tag(win(c.hl, o.hl, true), "Cheaper")}` : na) +
+      row("Typical hotel", (c, o) => c.hm ? `$${c.hm} /night${tag(win(c.hm, o.hm, true), "Cheaper")}<small>${nice(c.hd![0])}–${nice(c.hd![1])}</small>` : na) +
+      row("Hotel guest rating", (c, o) => c.hr ? `${c.hr.toFixed(1)} / 5${tag(win(c.hr, o.hr, false), "Higher")}` : na) +
+      row("Round-trip flight", (c, o) => c.fp ? `<b>$${c.fp.toLocaleString("en-US")}</b> per person${tag(win(c.fp, o.fp, true), "Cheaper")}<small>From ${c.fd![2]} · ${nice(c.fd![0])}–${nice(c.fd![1])}</small>` : na) +
+      row("Famous for", (c) => c.fam ? esc(c.fam) : "–") +
+      row("Top things to do", (c) => c.top.length ? `<ul>${c.top.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>` : "–") +
+      row("Did you know?", (c) => c.fact ? esc(c.fact) : "–") +
+      row("IShowSpeed streamed here", (c) => c.sp ? "Yes" : "No") +
+      `<div class="vs-row vs-row--cta"><div class="vs-label"></div>${[a, b].map((c) => `<div class="vs-cell"><a class="btn btn--primary" href="${c.b}">Find hotels in ${esc(c.n)}</a><a class="btn btn--light" href="${c.u}">Read the ${esc(c.n)} guide</a></div>`).join("")}</div>`;
+  };
+  form.addEventListener("change", (e) => {
+    if (f.a.value === f.b.value) { const t = e.target as HTMLSelectElement; const other = t.name === "a" ? f.b : f.a; other.value = data.find((c) => c.s !== t.value)!.s; }
+    render();
+  });
+  document.querySelector("[data-vs-swap]")!.addEventListener("click", () => { [f.a.value, f.b.value] = [f.b.value, f.a.value]; render(); });
+  render();
+</script>
