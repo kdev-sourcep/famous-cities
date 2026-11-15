@@ -93,9 +93,15 @@ if (heroVideo) {
     heroVideo.load();
   } else {
     if (toggle) toggle.hidden = false;
+    let userPaused = false;
     heroVideo.play().catch(() => {});
+    new IntersectionObserver(([en]) => {
+      if (userPaused) return;
+      en.isIntersecting ? heroVideo.play().catch(() => {}) : heroVideo.pause();
+    }).observe(heroVideo);
     toggle?.addEventListener("click", () => {
       const paused = heroVideo.paused;
+      userPaused = !paused;
       paused ? heroVideo.play() : heroVideo.pause();
       toggle.setAttribute("aria-pressed", String(!paused));
       toggle.querySelector("[data-play]")!.toggleAttribute("hidden", !paused ? false : true);
@@ -115,7 +121,8 @@ if (secNav) {
       if (!en.isIntersecting) return;
       links.forEach((a) => a.classList.toggle("is-active", a.hash === "#" + en.target.id));
       const cur = links.find((a) => a.hash === "#" + en.target.id);
-      cur?.scrollIntoView({ block: "nearest", inline: "nearest" });
+      const bar = cur?.parentElement;
+      if (cur && bar) bar.scrollBy({ left: cur.getBoundingClientRect().left - bar.getBoundingClientRect().left - (bar.clientWidth - cur.offsetWidth) / 2, behavior: "smooth" });
     });
   }, { rootMargin: "-45% 0px -50% 0px" });
   targets.forEach((t) => obs.observe(t));
