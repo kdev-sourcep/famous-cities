@@ -1,0 +1,63 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { url } from "../lib/site";
+const email = "thekunsaw@gmail.com";
+const subject = "Authentic Dining Feature Request – [Restaurant Name] ([City, State])";
+const letter = `Hi Famous Cities team,
+
+We would love to be featured as an authentic local dining destination on your [City, State] travel and city guide page. Since your visitors are planning vacations and exploring what makes [City, State] famous, we believe our food offers travelers a genuine taste of the local culture.
+
+Here are the details and assets for our restaurant feature card:
+
+- Restaurant Name: [Official Business Name]
+- City & State: [e.g., Pensacola, Florida]
+- Street Address: [Full Address]
+- What Makes Our Food Authentic (1–2 sentences): [e.g., Family-owned for 30 years, serving fresh, locally caught Gulf seafood and traditional coastal recipes.]
+- Signature Dish / Cuisine Type: [e.g., Authentic Gulf Seafood / Traditional Southern]
+- Clickable Menu Link (URL): [Direct link to online menu or PDF]
+- Preferred Feature / Sponsorship Tier: [e.g., Standard Feature Card / Top City Spotlight]
+- Contact Name & Role: [Owner / Manager Name]
+- Email & Phone Number: [Best Contact Info]
+
+Photo Attachment & Permission:
+I have attached a high-resolution photo showcasing our restaurant and authentic cuisine for our clickable feature card. I confirm that we own the rights to this photo and grant Famous Cities (famouscities.world) permission to display it on the website.
+
+Please let us know the next steps regarding placement options, fees, and getting our menu featured for your travelers.
+
+Best regards,
+[Owner/Manager Name]
+[Restaurant Name]
+[Restaurant Website / Social Media Handle]`;
+const mailto = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(letter)}`;
+---
+<BaseLayout title="Feature your restaurant | Famous Cities" description="Showcase your authentic local cuisine to travelers planning trips. Send us your restaurant details and menu link to be featured on a Famous Cities city guide." path="feature-restaurant.html">
+  <section class="page-hero page-hero--center"><div class="container">
+    <span class="eyebrow">For restaurants</span>
+    <h1>Showcase your authentic local cuisine to visitors</h1>
+    <p>Become a culinary stop on our city guides.</p>
+  </div></section>
+  <section class="section"><div class="container">
+    <div class="feature-why">
+      <div class="card feature-why__item"><Icon name="plane" /><h3>Travelers, not scrollers</h3><p>Our visitors are booking hotels and planning trips, and they want authentic local food instead of generic chains.</p></div>
+      <div class="card feature-why__item"><Icon name="landmark" /><h3>Cultural discovery</h3><p>Your restaurant appears as part of what makes your city famous, right next to its top sights and things to do.</p></div>
+      <div class="card feature-why__item"><Icon name="image" /><h3>A visual, clickable card</h3><p>Your photo leads straight to your menu, so visitors can plan where to eat before they even arrive in town.</p></div>
+    </div>
+    <div class="section-head feature-head"><div><span class="eyebrow">How to apply</span><h2>Send us this letter</h2><p>Fill in the brackets, attach a photo you own, and email it to <a href={`mailto:${email}`}>{email}</a>. It's free to apply. Any paid placement is clearly labeled "Sponsored" on the site.</p></div></div>
+    <div class="card feature-letter">
+      <p class="feature-letter__subject"><strong>Subject:</strong> {subject}</p>
+      <pre id="feature-letter">{letter}</pre>
+      <div class="trip-card__links">
+        <a class="btn btn--dark btn--sm" href={mailto}><Icon name="mail" /> Email us this letter</a>
+        <button type="button" class="btn btn--light btn--sm" id="copy-letter">Copy letter</button>
+      </div>
+    </div>
+    <p class="muted picks-note">See who's featured right now on <a href={url("picks.html")}>This week's picks</a>.</p>
+  </div></section>
+  <script is:inline>
+    document.getElementById("copy-letter").addEventListener("click", function () {
+      var b = this, t = "Subject: " + document.querySelector(".feature-letter__subject").textContent.replace(/^Subject:\s*/, "") + "\n\n" + document.getElementById("feature-letter").textContent;
+      navigator.clipboard.writeText(t).then(function () { b.textContent = "Copied!"; setTimeout(function () { b.textContent = "Copy letter"; }, 2000); });
+    });
+  </script>
+</BaseLayout>

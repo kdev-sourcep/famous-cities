@@ -612,3 +612,10 @@ body { top: 0 !important; }
 .pick-card__img img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .pick-card__img figcaption { position: absolute; right: 6px; bottom: 6px; padding: 1px 6px; border-radius: 6px; background: rgba(0,0,0,.55); color: #fff; font-size: 10px; }
 .pick-card__img figcaption a { color: #fff; }
+.feature-why { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s4); }
+.feature-why__item { padding: var(--s4); } .feature-why__item h3 { margin: 8px 0 4px; font-size: 18px; } .feature-why__item p { margin: 0; }
+.feature-head { margin-top: var(--s6); }
+.feature-letter { padding: var(--s5); }
+.feature-letter__subject { margin: 0 0 var(--s3); }
+.feature-letter pre { white-space: pre-wrap; word-break: break-word; font-family: inherit; font-size: 15px; line-height: 1.6; margin: 0 0 var(--s4); padding: var(--s4); border-radius: 12px; background: var(--bg-soft, #f6f5fb); border: 1px solid var(--line); }
+@media (max-width: 860px) { .feature-why { grid-template-columns: 1fr; } .feature-letter { padding: var(--s4); } }
