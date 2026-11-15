@@ -9,6 +9,7 @@ import YouTube from "../components/YouTube.astro";
 import HotelCompare from "../components/HotelCompare.astro";
 import BookTripCard from "../components/BookTripCard.astro";
 import PickRestaurants from "../components/PickRestaurants.astro";
+import LocalFavorites from "../components/LocalFavorites.astro";
 import weekly from "../data/weekly.json";
 import { cities, citiesIn, url, rich, absUrl, regionStyle, regionId, factTitle, topIcon, CATEGORY_EMOJI, categories, type City } from "../lib/site";
 
@@ -113,6 +114,7 @@ const jsonld = [
       <PickRestaurants />
     </div></section>
   )}
+  <LocalFavorites city={city} />
 
   <section class="section section--surface" id="things-to-do">
     <div class="container">

@@ -1,0 +1,26 @@
+---
+import Icon from "./Icon.astro";
+import featured from "../data/featured.json";
+import { url } from "../lib/site";
+type Fav = { city: string; name: string; cuisine: string; address: string; desc: string; menu: string; website?: string; img?: string; sponsored?: boolean };
+const { city } = Astro.props as { city: { slug: string; name: string } };
+const list = (featured as Fav[]).filter((f) => f.city === city.slug).sort((a, b) => Number(!!b.sponsored) - Number(!!a.sponsored));
+const cityImg = url(`cards/${city.slug}.webp`);
+---
+{list.length > 0 && (
+  <section class="section" id="local-favorites"><div class="container">
+    <div class="section-head"><div><span class="eyebrow">Local favorites</span><h2>Authentic places to eat in {city.name}</h2><p>Independent restaurants featured on Famous Cities. <a href={url("feature-restaurant.html")}>Own a restaurant here?</a></p></div></div>
+    <div class="picks-grid">
+      {list.map((r) => (
+        <article class="card pick-card">
+          <a class="pick-card__img" href={r.menu} target="_blank" rel={r.sponsored ? "sponsored noopener" : "noopener"}><img src={r.img ? url(r.img) : cityImg} alt={r.img ? r.name : city.name} loading="lazy" width="400" height="260" /></a>
+          <div class="pick-card__top"><span class="pick-tag">{r.cuisine}</span>{r.sponsored && <span class="pick-tag pick-tag--give">Sponsored</span>}</div>
+          <h3>{r.name}</h3>
+          <p class="pick-card__area muted"><Icon name="map-pin" size={14} />{r.address}</p>
+          <p>{r.desc}</p>
+          <div class="trip-card__links"><a class="btn btn--dark btn--sm" data-category="Local favorites" href={r.menu} target="_blank" rel={r.sponsored ? "sponsored noopener" : "noopener"}>See menu</a>{r.website && <a class="btn btn--light btn--sm" data-category="Local favorites" href={r.website} target="_blank" rel={r.sponsored ? "sponsored noopener" : "noopener"}>Website</a>}</div>
+        </article>
+      ))}
+    </div>
+  </div></section>
+)}
