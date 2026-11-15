@@ -1,0 +1,19 @@
+---
+import Icon from "./Icon.astro";
+import w from "../data/weekly.json";
+import { cities, url } from "../lib/site";
+const city = cities.find((c) => c.slug === w.city)!;
+const cityImg = url(`cards/${city.slug}.webp`);
+---
+    <div class="picks-grid">
+      {w.restaurants.map((r) => (
+        <article class="card pick-card">
+          <figure class="pick-card__img"><img src={r.img ? url(r.img) : cityImg} alt={r.img ? r.name : city.name} loading="lazy" width="400" height="260" />{r.img ? <figcaption><a href={r.creditUrl} target="_blank" rel="noopener">Photo: {r.credit}</a></figcaption> : <figcaption>{city.name}</figcaption>}</figure>
+          <div class="pick-card__top"><span class="pick-tag">{r.cuisine}</span><span class="muted">{r.price}</span></div>
+          <h3>{r.name}</h3>
+          <p class="pick-card__area muted"><Icon name="map-pin" size={14} />{r.area}</p>
+          <p>{r.desc}</p>
+          <div class="trip-card__links"><a class="btn btn--dark btn--sm" data-category="Picks" href={r.menu || r.url} target="_blank" rel="noopener">{r.menu ? "See menu" : "Website & menu"}</a>{r.menu && <a class="btn btn--light btn--sm" data-category="Picks" href={r.url} target="_blank" rel="noopener">Website</a>}</div>
+        </article>
+      ))}
+    </div>

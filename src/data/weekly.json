@@ -2,17 +2,95 @@
   "week": "November 15, 2026",
   "city": "Paris",
   "restaurants": [
-    { "name": "Bouillon Chartier", "cuisine": "Classic French", "area": "Grands Boulevards, 9th", "price": "€", "desc": "A huge Belle Époque dining hall serving cheap French classics since 1896. No reservations, so expect a short line.", "url": "https://www.bouillon-chartier.com/" },
-    { "name": "Le Procope", "cuisine": "Traditional French", "area": "Saint-Germain, 6th", "price": "€€", "desc": "Opened in 1686 and often called the oldest café in Paris. Known for coq au vin and its history with Voltaire and Benjamin Franklin.", "url": "https://www.procope.com/" },
-    { "name": "Chez Janou", "cuisine": "Provençal bistro", "area": "Le Marais, 3rd", "price": "€€", "desc": "A lively bistro near Place des Vosges with southern French cooking, a long pastis list and a famous chocolate mousse.", "url": "https://www.chezjanou.com/" },
-    { "name": "Le Train Bleu", "cuisine": "French brasserie", "area": "Gare de Lyon, 12th", "price": "€€€", "desc": "A painted, gilded dining room inside the Gare de Lyon station, open since 1901. Worth it even just for a drink in the bar.", "url": "https://www.le-train-bleu.com/" },
-    { "name": "Septime", "cuisine": "Modern French", "area": "Charonne, 11th", "price": "€€€", "desc": "A Michelin-starred neighborhood spot with seasonal tasting menus. Tables open online and go fast, so book weeks ahead.", "url": "https://www.septime-charonne.fr/" }
+    {
+      "name": "Bouillon Chartier",
+      "cuisine": "Classic French",
+      "area": "Grands Boulevards, 9th",
+      "price": "€",
+      "desc": "A huge Belle Époque dining hall serving cheap French classics since 1896. No reservations, so expect a short line.",
+      "url": "https://www.bouillon-chartier.com/",
+      "img": "picks/chartier.webp",
+      "credit": "Benoît Prieur, CC0",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Restaurant_Bouillon_Chartier_Grands_Boulevards_ao%C3%BBt_2023.JPG",
+      "menu": "https://www.bouillon-chartier.com/la-carte/"
+    },
+    {
+      "name": "Le Procope",
+      "cuisine": "Traditional French",
+      "area": "Saint-Germain, 6th",
+      "price": "€€",
+      "desc": "Opened in 1686 and often called the oldest café in Paris. Known for coq au vin and its history with Voltaire and Benjamin Franklin.",
+      "url": "https://www.procope.com/",
+      "img": "picks/procope.webp",
+      "credit": "Jean-Marie Hullot, CC BY-SA 2.0",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Le_Procope_1,_Paris_2010.jpg",
+      "menu": "https://www.procope.com/menus-carte/"
+    },
+    {
+      "name": "Chez Janou",
+      "cuisine": "Provençal bistro",
+      "area": "Le Marais, 3rd",
+      "price": "€€",
+      "desc": "A lively bistro near Place des Vosges with southern French cooking, a long pastis list and a famous chocolate mousse.",
+      "url": "https://www.chezjanou.com/",
+      "menu": "https://www.chezjanou.com/la-carte"
+    },
+    {
+      "name": "Le Train Bleu",
+      "cuisine": "French brasserie",
+      "area": "Gare de Lyon, 12th",
+      "price": "€€€",
+      "desc": "A painted, gilded dining room inside the Gare de Lyon station, open since 1901. Worth it even just for a drink in the bar.",
+      "url": "https://www.le-train-bleu.com/",
+      "img": "picks/train-bleu.webp",
+      "credit": "Arnaud 25, public domain",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Train_bleu_01.jpg"
+    },
+    {
+      "name": "Septime",
+      "cuisine": "Modern French",
+      "area": "Charonne, 11th",
+      "price": "€€€",
+      "desc": "A Michelin-starred neighborhood spot with seasonal tasting menus. Tables open online and go fast, so book weeks ahead.",
+      "url": "https://www.septime-charonne.fr/",
+      "menu": "https://www.septime-charonne.fr/#menu"
+    }
   ],
   "fundraisers": [
-    { "name": "Copperhill Flood Emergency Fund", "org": "United Way of the Ocoee Region", "tag": "Disaster relief", "desc": "Helps families and businesses in Copperhill, Tennessee recover from the historic November 4–5 floods.", "url": "https://www.unitedwayocoee.org/copperhill" },
-    { "name": "Green Acres Learjet Crash Fund", "org": "Emergency Assistance Foundation (501(c)(3))", "tag": "Disaster relief", "desc": "Direct financial help for residents forced to leave their homes after the November 1 crash at Green Acres Mobile Home Community.", "url": "https://pff.emergencyassistancefdn.org/campaign/863285/donate" },
-    { "name": "World Central Kitchen", "org": "World Central Kitchen", "tag": "Food relief", "desc": "Chef José Andrés's nonprofit that cooks fresh meals for people hit by disasters and crises around the world.", "url": "https://wck.org/donate/" },
-    { "name": "Doctors Without Borders", "org": "Médecins Sans Frontières", "tag": "Medical aid", "desc": "Independent medical teams working in conflict zones, epidemics and disasters in more than 70 countries.", "url": "https://www.doctorswithoutborders.org/" },
-    { "name": "Direct Relief", "org": "Direct Relief", "tag": "Medical aid", "desc": "Sends medicine and medical supplies to health workers after disasters and in communities with little access to care.", "url": "https://www.directrelief.org/" }
+    {
+      "name": "Copperhill Flood Emergency Fund",
+      "org": "United Way of the Ocoee Region",
+      "tag": "Disaster relief",
+      "desc": "Helps families and businesses in Copperhill, Tennessee recover from the historic November 4–5 floods.",
+      "url": "https://www.unitedwayocoee.org/copperhill"
+    },
+    {
+      "name": "Green Acres Learjet Crash Fund",
+      "org": "Emergency Assistance Foundation (501(c)(3))",
+      "tag": "Disaster relief",
+      "desc": "Direct financial help for residents forced to leave their homes after the November 1 crash at Green Acres Mobile Home Community.",
+      "url": "https://pff.emergencyassistancefdn.org/campaign/863285/donate"
+    },
+    {
+      "name": "World Central Kitchen",
+      "org": "World Central Kitchen",
+      "tag": "Food relief",
+      "desc": "Chef José Andrés's nonprofit that cooks fresh meals for people hit by disasters and crises around the world.",
+      "url": "https://wck.org/donate/"
+    },
+    {
+      "name": "Doctors Without Borders",
+      "org": "Médecins Sans Frontières",
+      "tag": "Medical aid",
+      "desc": "Independent medical teams working in conflict zones, epidemics and disasters in more than 70 countries.",
+      "url": "https://www.doctorswithoutborders.org/"
+    },
+    {
+      "name": "Direct Relief",
+      "org": "Direct Relief",
+      "tag": "Medical aid",
+      "desc": "Sends medicine and medical supplies to health workers after disasters and in communities with little access to care.",
+      "url": "https://www.directrelief.org/"
+    }
   ]
 }

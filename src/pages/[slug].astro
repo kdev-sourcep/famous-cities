@@ -8,6 +8,8 @@ import Legend from "../components/Legend.astro";
 import YouTube from "../components/YouTube.astro";
 import HotelCompare from "../components/HotelCompare.astro";
 import BookTripCard from "../components/BookTripCard.astro";
+import PickRestaurants from "../components/PickRestaurants.astro";
+import weekly from "../data/weekly.json";
 import { cities, citiesIn, url, rich, absUrl, regionStyle, regionId, factTitle, topIcon, CATEGORY_EMOJI, categories, type City } from "../lib/site";
 
 export function getStaticPaths() {
@@ -104,6 +106,13 @@ const jsonld = [
   </section>
 
   <BookTripCard city={city} />
+
+  {weekly.city === city.slug && (
+    <section class="section" id="where-to-eat"><div class="container">
+      <div class="section-head"><div><span class="eyebrow">This week's picks</span><h2>Where to eat in {city.name}</h2><p>5 independent local restaurants, picked for the week of {weekly.week}. <a href={url("picks.html")}>See all of this week's picks</a>.</p></div></div>
+      <PickRestaurants />
+    </div></section>
+  )}
 
   <section class="section section--surface" id="things-to-do">
     <div class="container">
