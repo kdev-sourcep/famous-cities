@@ -1,0 +1,45 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import w from "../data/weekly.json";
+import { cities, cityHref, url } from "../lib/site";
+const city = cities.find((c) => c.slug === w.city)!;
+---
+<BaseLayout title={`This Week's Picks: Where to Eat in ${city.name} & Fundraisers to Support | Famous Cities`} description={`5 local restaurants in ${city.name} and 5 fundraisers worth supporting, picked by Famous Cities for the week of ${w.week}.`} path="picks.html">
+  <section class="page-hero page-hero--center"><div class="container">
+    <span class="eyebrow">Week of {w.week}</span>
+    <h1>This week's picks</h1>
+    <p class="lead">5 local restaurants and 5 fundraisers, picked every week.</p>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="section-head"><div><span class="eyebrow">Where to eat</span><h2>5 local restaurants in {city.name}</h2><p>Independent spots, no chains. <a href={cityHref(city.slug)}>Read our {city.name} guide</a>.</p></div></div>
+    <div class="picks-grid">
+      {w.restaurants.map((r) => (
+        <article class="card pick-card">
+          <div class="pick-card__top"><span class="pick-tag">{r.cuisine}</span><span class="muted">{r.price}</span></div>
+          <h3>{r.name}</h3>
+          <p class="pick-card__area muted"><Icon name="map-pin" size={14} />{r.area}</p>
+          <p>{r.desc}</p>
+          <a class="btn btn--light btn--sm" data-category="Picks" href={r.url} target="_blank" rel="noopener">Website &amp; menu</a>
+        </article>
+      ))}
+    </div>
+  </div></section>
+
+  <section class="section section--surface"><div class="container">
+    <div class="section-head"><div><span class="eyebrow">Fundraisers</span><h2>5 causes worth supporting</h2><p>Run by registered charities and relief organizations.</p></div></div>
+    <div class="picks-grid">
+      {w.fundraisers.map((f) => (
+        <article class="card pick-card">
+          <div class="pick-card__top"><span class="pick-tag pick-tag--give">{f.tag}</span></div>
+          <h3>{f.name}</h3>
+          <p class="pick-card__area muted">{f.org}</p>
+          <p>{f.desc}</p>
+          <a class="btn btn--dark btn--sm" data-category="Picks" href={f.url} target="_blank" rel="noopener">Donate on their site</a>
+        </article>
+      ))}
+    </div>
+    <p class="muted picks-note">Picks are chosen by Famous Cities. Nobody pays to be listed and we earn nothing from these links. Donations go directly to each organization through its own website; check their page before you give. <a href={url("support.html")}>Want to support Famous Cities itself?</a></p>
+  </div></section>
+</BaseLayout>
