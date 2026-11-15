@@ -1,0 +1,182 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { cities, url } from "../lib/site";
+type Price = { source: string; price: number; official: boolean; link: string };
+type Stay = { id: string; name: string; address: string; info?: string[]; stars: number; rating: number; reviews: number; room: string; photo: string; freeCancellation: boolean; amenities: string[]; prices: Price[] };
+type Snap = { checkIn: string; checkOut: string; adults: number; fetchedAt: string; hotels: Stay[] };
+const files = import.meta.glob<{ default: Snap }>("../data/hotels/*.json", { eager: true });
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+const stays: any[] = [];
+const snaps: Record<string, { in: string; out: string; at: string }> = {};
+for (const [path, mod] of Object.entries(files)) {
+  const [slug, kind = "hotels"] = path.split("/").pop()!.replace(/\.json$/, "").split(".");
+  const s = mod.default;
+  snaps[slug] ??= { in: s.checkIn, out: s.checkOut, at: s.fetchedAt };
+  for (const h of s.hotels) {
+    if (!h.prices?.length || stays.some((x) => x.c === slug && x.n === h.name)) continue;
+    stays.push({ c: slug, n: h.name, k: kind === "homes" ? "home" : "hotel", s: h.stars || 0, r: Math.round(h.rating * 10) / 10, v: h.reviews || 0,
+      rm: h.room || (h.info || []).join(" · "), ad: h.address || "", p: h.photo ? `${base}/hotel-photos/${slug}/${h.photo}` : "",
+      fc: !!h.freeCancellation, a: (h.amenities || []).slice(0, 4), lo: Math.min(...h.prices.map((p) => p.price)), sites: h.prices.length,
+      ci: s.checkIn, co: s.checkOut });
+  }
+}
+const list = [...cities].sort((a, b) => a.name.localeCompare(b.name)).map((c) => ({ slug: c.slug, name: c.name, country: c.country, has: stays.some((s) => s.c === c.slug) }));
+const data = { stays, cities: list };
+---
+<BaseLayout title="Book Hotels and Homes | Famous Cities" description="Search hotels and vacation homes in the world's most famous cities, compare photos, ratings and prices, and reserve on Hotels.com or Expedia." path="book.html">
+  <section class="page-hero book-hero">
+    <div class="container">
+      <span class="eyebrow"><Icon name="hotel" size={16} />Book a stay</span>
+      <h1>Find your room</h1>
+      <p>Pick a city and dates, compare hotels and homes side by side, then reserve on Hotels.com or Expedia.</p>
+      <form class="book-search card" data-book-form>
+        <label class="book-field book-field--dest"><span>Going to</span>
+          <select name="city" required>
+            {list.map((c) => <option value={c.slug}>{c.name}, {c.country}</option>)}
+          </select>
+        </label>
+        <label class="book-field"><span>Check-in</span><input type="date" name="in" required /></label>
+        <label class="book-field"><span>Check-out</span><input type="date" name="out" required /></label>
+        <label class="book-field book-field--sm"><span>Travelers</span>
+          <select name="adults">{[1, 2, 3, 4, 5, 6].map((n) => <option value={n} selected={n === 2}>{n} {n === 1 ? "adult" : "adults"}</option>)}</select>
+        </label>
+        <button class="btn btn--primary book-go" type="submit"><Icon name="search" size={18} /> Search</button>
+      </form>
+    </div>
+  </section>
+  <section class="section book-section">
+    <div class="container book-layout">
+      <details class="book-filters card" data-book-filters open>
+        <summary><h2>Filter by</h2><Icon name="chevron-down" size={18} /></summary>
+        <fieldset><legend>Property type</legend>
+          <label><input type="checkbox" name="type" value="hotel" checked /> Hotels</label>
+          <label><input type="checkbox" name="type" value="home" checked /> Homes</label>
+        </fieldset>
+        <fieldset><legend>Your budget per night</legend>
+          <label class="book-range"><span>Up to <b data-price-out>any price</b></span><input type="range" name="max" min="50" max="1500" step="50" value="1500" /></label>
+        </fieldset>
+        <fieldset><legend>Guest rating</legend>
+          <label><input type="radio" name="rating" value="0" checked /> Any</label>
+          <label><input type="radio" name="rating" value="4" /> 4.0+ Very good</label>
+          <label><input type="radio" name="rating" value="4.5" /> 4.5+ Wonderful</label>
+        </fieldset>
+        <fieldset><legend>Star rating</legend>
+          <label><input type="radio" name="stars" value="0" checked /> Any</label>
+          <label><input type="radio" name="stars" value="3" /> 3 stars and up</label>
+          <label><input type="radio" name="stars" value="4" /> 4 stars and up</label>
+          <label><input type="radio" name="stars" value="5" /> 5 stars</label>
+        </fieldset>
+        <fieldset><legend>Booking options</legend>
+          <label><input type="checkbox" name="fc" /> Free cancellation</label>
+        </fieldset>
+      </details>
+      <div class="book-main">
+        <div class="book-bar">
+          <p class="book-count" aria-live="polite" data-book-count></p>
+          <label class="book-sort">Sort by
+            <select data-book-sort>
+              <option value="rec">Recommended</option>
+              <option value="price">Price: low to high</option>
+              <option value="price-d">Price: high to low</option>
+              <option value="rating">Guest rating</option>
+            </select>
+          </label>
+        </div>
+        <div class="book-list" data-book-list></div>
+        <p class="book-note">Prices shown are the lowest per-night price we found on Google Hotels for the sample dates on each card, including taxes. Your price for your dates is shown on Hotels.com or Expedia before you pay. Famous Cities may earn a commission when you book, at no extra cost to you.</p>
+      </div>
+    </div>
+  </section>
+  <script type="application/json" id="book-data" set:html={JSON.stringify(data)} />
+</BaseLayout>
+
+<script>
+  type S = { c: string; n: string; k: string; s: number; r: number; v: number; rm: string; ad: string; p: string; fc: boolean; a: string[]; lo: number; sites: number; ci: string; co: string };
+  const data = JSON.parse(document.getElementById("book-data")!.textContent!) as { stays: S[]; cities: { slug: string; name: string; country: string; has: boolean }[] };
+  const form = document.querySelector<HTMLFormElement>("[data-book-form]")!;
+  const filters = document.querySelector<HTMLElement>("[data-book-filters]")!;
+  const listEl = document.querySelector<HTMLElement>("[data-book-list]")!;
+  const countEl = document.querySelector<HTMLElement>("[data-book-count]")!;
+  const sortEl = document.querySelector<HTMLSelectElement>("[data-book-sort]")!;
+  const priceOut = document.querySelector<HTMLElement>("[data-price-out]")!;
+  const f = form.elements as any;
+  if (matchMedia("(max-width: 960px)").matches) filters.removeAttribute("open");
+  const iso = (d: Date) => d.toISOString().slice(0, 10);
+  const addDays = (s: string, n: number) => { const d = new Date(s + "T12:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return iso(d); };
+  const nice = (s: string) => new Date(s + "T12:00:00Z").toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+  const esc = (s: string) => s.replace(/[&<>"]/g, (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[ch]!);
+  const q = encodeURIComponent;
+
+  const params = new URLSearchParams(location.search);
+  const today = iso(new Date());
+  f.city.value = data.cities.some((c) => c.slug === params.get("city")) ? params.get("city") : "Paris";
+  f.in.min = today;
+  f.in.value = params.get("in") && params.get("in")! >= today ? params.get("in") : addDays(today, 14);
+  f.out.value = params.get("out") && params.get("out")! > f.in.value ? params.get("out") : addDays(f.in.value, 2);
+  f.out.min = addDays(f.in.value, 1);
+  if (params.get("adults")) f.adults.value = params.get("adults");
+  f.in.addEventListener("change", () => { f.out.min = addDays(f.in.value, 1); if (f.out.value <= f.in.value) f.out.value = addDays(f.in.value, 2); });
+
+  const links = (dest: string, home: boolean) => {
+    const d = `startDate=${f.in.value}&endDate=${f.out.value}&adults=${f.adults.value}`;
+    return home
+      ? [{ name: "Vrbo", href: `https://www.vrbo.com/search?destination=${q(dest)}&${d}` }, { name: "Expedia", href: `https://www.expedia.com/Hotel-Search?destination=${q(dest)}&${d}` }]
+      : [{ name: "Hotels.com", href: `https://www.hotels.com/Hotel-Search?destination=${q(dest)}&${d}` }, { name: "Expedia", href: `https://www.expedia.com/Hotel-Search?destination=${q(dest)}&${d}` }];
+  };
+  const btns = (ls: { name: string; href: string }[], cat: string) => ls.map((l, i) =>
+    `<a class="btn ${i === 0 ? "btn--primary" : "btn--light"} book-btn" data-category="${cat}" href="${esc(l.href)}" target="_blank" rel="sponsored noopener">${i === 0 ? "Reserve on " : ""}${l.name}</a>`).join("");
+
+  const render = () => {
+    const city = data.cities.find((c) => c.slug === f.city.value)!;
+    listEl.dataset.city = city.name;
+    const types = [...filters.querySelectorAll<HTMLInputElement>("[name=type]:checked")].map((i) => i.value);
+    const max = +filters.querySelector<HTMLInputElement>("[name=max]")!.value;
+    const minR = +filters.querySelector<HTMLInputElement>("[name=rating]:checked")!.value;
+    const minS = +filters.querySelector<HTMLInputElement>("[name=stars]:checked")!.value;
+    const fc = filters.querySelector<HTMLInputElement>("[name=fc]")!.checked;
+    priceOut.textContent = max >= 1500 ? "any price" : `$${max}`;
+    const all = data.stays.filter((s) => s.c === city.slug);
+    let rows = all.filter((s) => types.includes(s.k) && (max >= 1500 || s.lo <= max) && s.r >= minR && (minS === 0 || s.s >= minS) && (!fc || s.fc));
+    const sort = sortEl.value;
+    rows = [...rows].sort((a, b) => sort === "price" ? a.lo - b.lo : sort === "price-d" ? b.lo - a.lo : sort === "rating" ? b.r - a.r || b.v - a.v : b.r * Math.log10(b.v + 10) - a.r * Math.log10(a.v + 10));
+    const nights = Math.max(1, Math.round((+new Date(f.out.value) - +new Date(f.in.value)) / 864e5));
+    const search = `${city.name}, ${city.country}`;
+    countEl.innerHTML = all.length
+      ? `<b>${rows.length}</b> ${rows.length === 1 ? "property" : "properties"} in ${esc(city.name)} · ${nice(f.in.value)}–${nice(f.out.value)} · ${nights} ${nights === 1 ? "night" : "nights"}`
+      : `${esc(city.name)} · ${nice(f.in.value)}–${nice(f.out.value)}`;
+    const more = `<div class="book-more card"><div><h3>See every hotel in ${esc(city.name)}</h3><p>${all.length ? "Want more choices? " : "We haven't added hand-picked stays for this city yet. "}Search all available hotels and homes for your dates.</p></div><div class="book-more__btns">${btns([...links(search, false), links(search, true)[0]], "Hotels")}</div></div>`;
+    listEl.innerHTML = rows.map((s) => {
+      const home = s.k === "home";
+      const dest = home ? search : `${s.n}, ${city.name}`;
+      return `<article class="book-card card">
+        <div class="book-card__img">${s.p ? `<img src="${esc(s.p)}" alt="${esc(s.n)}" loading="lazy" width="320" height="240">` : ""}${s.fc ? `<span class="book-tag">Free cancellation</span>` : ""}</div>
+        <div class="book-card__body">
+          <h3>${esc(s.n)}</h3>
+          <p class="book-card__meta">${home ? "Home" : s.s ? "★".repeat(s.s) + ` ${s.s}-star hotel` : "Hotel"}${s.ad ? ` · ${esc(s.ad)}` : ""}</p>
+          ${s.rm ? `<p class="book-card__room">${esc(s.rm)}</p>` : ""}
+          ${s.a.length ? `<ul class="book-card__am">${s.a.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+          <p class="book-card__rating"><span class="book-score">${s.r.toFixed(1)}</span> ${s.r >= 4.5 ? "Wonderful" : s.r >= 4 ? "Very good" : "Good"} · ${s.v.toLocaleString("en-US")} reviews</p>
+        </div>
+        <div class="book-card__price">
+          <p class="book-card__from">from</p>
+          <p class="book-card__amt">$${s.lo}<small> /night</small></p>
+          <p class="book-card__fine">Lowest of ${s.sites} sites for ${nice(s.ci)}–${nice(s.co)}, incl. taxes</p>
+          <div class="book-card__btns">${btns(links(dest, home), home ? "Homes" : "Hotels")}</div>
+        </div>
+      </article>`;
+    }).join("") + (all.length && !rows.length ? `<p class="empty-state">No stays match those filters. Try widening your budget or rating.</p>` : "") + more;
+  };
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const p = new URLSearchParams({ city: f.city.value, in: f.in.value, out: f.out.value, adults: f.adults.value });
+    history.replaceState(null, "", "?" + p);
+    render();
+    listEl.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+  f.city.addEventListener("change", render);
+  filters.addEventListener("input", render);
+  sortEl.addEventListener("change", render);
+  render();
+</script>
