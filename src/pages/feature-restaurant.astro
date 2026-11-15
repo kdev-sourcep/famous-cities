@@ -16,7 +16,7 @@ Here are the details and assets for our restaurant feature card:
 - What Makes Our Food Authentic (1–2 sentences): [e.g., Family-owned for 30 years, serving fresh, locally caught Gulf seafood and traditional coastal recipes.]
 - Signature Dish / Cuisine Type: [e.g., Authentic Gulf Seafood / Traditional Southern]
 - Clickable Menu Link (URL): [Direct link to online menu or PDF]
-- Preferred Feature / Sponsorship Tier: [e.g., Standard Feature Card / Top City Spotlight]
+- Preferred Feature / Sponsorship Tier: [Standard Feature Card (free) / City Spotlight ($25/month)]
 - Contact Name & Role: [Owner / Manager Name]
 - Email & Phone Number: [Best Contact Info]
 
@@ -43,7 +43,13 @@ const mailto = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${en
       <div class="card feature-why__item"><Icon name="landmark" /><h3>Cultural discovery</h3><p>Your restaurant appears as part of what makes your city famous, right next to its top sights and things to do.</p></div>
       <div class="card feature-why__item"><Icon name="image" /><h3>A visual, clickable card</h3><p>Your photo leads straight to your menu, so visitors can plan where to eat before they even arrive in town.</p></div>
     </div>
-    <div class="section-head feature-head"><div><span class="eyebrow">How to apply</span><h2>Send us this letter</h2><p>Fill in the brackets, attach a photo you own, and email it to <a href={`mailto:${email}`}>{email}</a>. It's free to apply. Any paid placement is clearly labeled "Sponsored" on the site.</p></div></div>
+    <div class="section-head feature-head"><div><span class="eyebrow">Options</span><h2>Choose your feature</h2></div></div>
+    <div class="feature-tiers">
+      <div class="card feature-tier"><span class="pick-tag pick-tag--give">Free</span><h3>Standard Feature Card</h3><p class="feature-tier__price">$0</p><ul><li>Photo card on your city's page</li><li>Clicks go straight to your menu</li><li>Reviewed and approved by our team</li></ul></div>
+      <div class="card feature-tier feature-tier--top"><span class="pick-tag">Sponsored</span><h3>City Spotlight</h3><p class="feature-tier__price">$25<span>/month</span></p><ul><li>Top spot on your city's page</li><li>Larger photo card linking to your menu</li><li>Only 3 spotlights per city</li><li>Cancel any time</li></ul></div>
+    </div>
+    <p class="muted picks-note">City Spotlight cards are always labeled "Sponsored". We only feature independent restaurants we're happy to recommend, paid or not. We'll send a secure payment link after we approve your listing. Our weekly picks are chosen independently and can't be bought.</p>
+    <div class="section-head feature-head"><div><span class="eyebrow">How to apply</span><h2>Send us this letter</h2><p>Fill in the brackets, pick a tier, attach a photo you own, and email it to <a href={`mailto:${email}`}>{email}</a>.</p></div></div>
     <div class="card feature-letter">
       <p class="feature-letter__subject"><strong>Subject:</strong> {subject}</p>
       <pre id="feature-letter">{letter}</pre>
