@@ -1,0 +1,144 @@
+{
+  "slug": "Gwangju",
+  "name": "Gwangju",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "1,420,000",
+  "seo": {
+    "title": "Gwangju Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Gwangju travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Gwangju.",
+    "keywords": "Gwangju, Gwangju travel guide, things to do in Gwangju, Gwangju fun facts, where to stay in Gwangju, Famous Cities"
+  },
+  "image": "Gwangju.jpg",
+  "video": "videos/gwangju.mp4",
+  "youtube": null,
+  "tagline": "South Korea's southwestern art city is famous for its democracy movement, the Gwangju Biennale and some of the richest food in the country, beneath Mudeungsan National Park.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Gwangju",
+    "twitter": "https://twitter.com/search?q=visit%20Gwangju",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gwangju"
+  },
+  "overview": [
+    "Gwangju is the largest city in Korea's southwest and the capital of the Jeolla region's culture. It is closely tied to the May 18 Democratic Uprising of 1980, when citizens rose up against military rule; the movement is remembered at the May 18th National Cemetery and the 5·18 Memorial Park.",
+    "Art is central here. The Gwangju Biennale, founded in 1995, was Asia's first contemporary art biennale, and the Asia Culture Center in the old provincial office area is one of the largest cultural complexes in Asia. Penguin Village and Yangnim-dong's old missionary houses make good walks.",
+    "Jeolla cooking is famous across Korea for its many side dishes, and Gwangju's tteokgalbi, grilled minced rib patties, is a local signature. Mudeungsan National Park rises right at the city's edge, with its basalt column cliffs and autumn colour."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Gwangju&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Gwangju",
+    "flights": "https://www.skyscanner.net/transport/flights/to/kwj/cheap-flights-to-gwangju.html"
+  },
+  "topThings": [
+    {
+      "icon": "🎨",
+      "title": "Asia Culture Center",
+      "desc": "Art, exhibitions and performances downtown.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gwangju%20Asia%20Culture%20Center",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gwangju%20Asia%20Culture%20Center"
+    },
+    {
+      "icon": "🕊️",
+      "title": "May 18 Memorial",
+      "desc": "Learn the story of the 1980 democratic uprising.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gwangju%20May%2018%20democracy%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gwangju%20May%2018%20democracy%20tour"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Mudeungsan National Park",
+      "desc": "Hike to the basalt cliffs of Seoseokdae.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mudeungsan%20hiking%20Gwangju",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mudeungsan%20hiking%20Gwangju"
+    },
+    {
+      "icon": "🍖",
+      "title": "Jeolla Food Tour",
+      "desc": "Tteokgalbi and a table full of side dishes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gwangju%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gwangju%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ASIA'S FIRST BIENNALE",
+      "text": "The Gwangju Biennale, launched in 1995, was Asia's first contemporary art biennale."
+    },
+    {
+      "title": "CITY OF DEMOCRACY",
+      "text": "The May 18 Uprising of 1980 is remembered as a turning point for Korean democracy."
+    },
+    {
+      "title": "UNESCO ARCHIVES",
+      "text": "Records of the May 18 movement are on UNESCO's Memory of the World register."
+    },
+    {
+      "title": "CITY OF LIGHT",
+      "text": "Gwangju's name means 'province of light'."
+    },
+    {
+      "title": "BASALT CLIFFS",
+      "text": "Mudeungsan has rare columnar basalt formations near its summit."
+    },
+    {
+      "title": "SIDE-DISH CAPITAL",
+      "text": "Jeolla meals are known for many banchan side dishes."
+    },
+    {
+      "title": "TTEOKGALBI STREET",
+      "text": "Songjeong has a whole street of tteokgalbi restaurants."
+    },
+    {
+      "title": "A HUGE ARTS HUB",
+      "text": "The Asia Culture Center opened in 2015 on the site of the old provincial office."
+    },
+    {
+      "title": "PENGUIN VILLAGE",
+      "text": "An old neighbourhood decorated with found objects and art."
+    },
+    {
+      "title": "WORLD SWIMMING HOST",
+      "text": "Gwangju hosted the 2019 World Aquatics Championships."
+    }
+  ],
+  "randomFacts": [
+    "The Gwangju Biennale, launched in 1995, was Asia's first contemporary art biennale.",
+    "The May 18 Uprising of 1980 is remembered as a turning point for Korean democracy.",
+    "Records of the May 18 movement are on UNESCO's Memory of the World register.",
+    "Gwangju's name means 'province of light'.",
+    "Mudeungsan has rare columnar basalt formations near its summit.",
+    "Jeolla meals are known for many banchan side dishes.",
+    "Songjeong has a whole street of tteokgalbi restaurants.",
+    "The Asia Culture Center opened in 2015 on the site of the old provincial office.",
+    "An old neighbourhood decorated with found objects and art.",
+    "Gwangju hosted the 2019 World Aquatics Championships.",
+    "Gwangju is about 1 hour 40 minutes from Seoul by KTX.",
+    "Yangnim-dong has early 20th-century missionary houses.",
+    "The Gwangju Kimchi Festival celebrates the region's kimchi.",
+    "Mudeungsan became a national park in 2013.",
+    "Damyang's bamboo forest is a short trip from Gwangju."
+  ],
+  "faq": [
+    {
+      "q": "Where is Gwangju located?",
+      "a": "Gwangju is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Gwangju?",
+      "a": "The greater Gwangju area is home to about 1,420,000 people."
+    },
+    {
+      "q": "What is Gwangju famous for?",
+      "a": "South Korea's southwestern art city is famous for its democracy movement, the Gwangju Biennale and some of the richest food in the country, beneath Mudeungsan National Park."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Kgw1226 / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gwangju_Mudeungsan.jpg"
+  }
+}

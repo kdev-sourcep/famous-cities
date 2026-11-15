@@ -69,6 +69,7 @@ const jsonld = [
         <span data-pause><Icon name="pause" size={16} /></span><span data-play hidden><Icon name="play" size={16} /></span>
       </button>
     )}
+    {city.photoCredit && <a class="photo-credit" href={city.photoCredit.url} target="_blank" rel="noopener">{city.photoCredit.text}</a>}
   </section>
 
   <nav class="sec-nav" aria-label="On this page" data-section-nav>

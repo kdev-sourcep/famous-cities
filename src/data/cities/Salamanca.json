@@ -1,0 +1,144 @@
+{
+  "slug": "Salamanca",
+  "name": "Salamanca",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "200,000",
+  "seo": {
+    "title": "Salamanca Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Salamanca travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Salamanca.",
+    "keywords": "Salamanca, Salamanca travel guide, things to do in Salamanca, Salamanca fun facts, where to stay in Salamanca, Famous Cities"
+  },
+  "image": "Salamanca.jpg",
+  "video": "videos/salamanca.mp4",
+  "youtube": null,
+  "tagline": "Built of honey-coloured sandstone that glows at sunset, Salamanca has one of Europe's oldest universities, two cathedrals and perhaps the most beautiful Plaza Mayor in Spain.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Salamanca",
+    "twitter": "https://twitter.com/search?q=visit%20Salamanca",
+    "wikipedia": "https://en.wikipedia.org/wiki/Salamanca"
+  },
+  "overview": [
+    "Salamanca, in Castile and León, is home to the University of Salamanca, founded in 1218 and the oldest university in Spain still running. Its golden Villamayor sandstone buildings make the whole old town glow, and it is a UNESCO World Heritage Site.",
+    "The 18th-century Plaza Mayor, an enclosed baroque square, is the city's living room, especially at night when it is lit up. Salamanca has two cathedrals joined together, the Romanesque Old Cathedral and the Gothic New Cathedral, and their towers can be climbed through the Ieronimus tour.",
+    "The university's ornate façade hides a small carved frog on a skull, and spotting it is said to bring luck in exams. The Casa de las Conchas is covered in carved shells, and students fill the city's tapas bars, giving Salamanca a youthful buzz."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Salamanca&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Salamanca",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mad/cheap-flights-to-madrid.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Old Town & University",
+      "desc": "Plaza Mayor, cathedrals and the frog.",
+      "viator": "https://www.viator.com/searchResults/all?text=Salamanca%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Salamanca%20walking%20tour"
+    },
+    {
+      "icon": "⛪",
+      "title": "Ieronimus Towers",
+      "desc": "Climb the cathedral towers.",
+      "viator": "https://www.viator.com/searchResults/all?text=Salamanca%20cathedral%20towers%20Ieronimus",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Salamanca%20cathedral%20towers%20Ieronimus"
+    },
+    {
+      "icon": "🚌",
+      "title": "Day Trip from Madrid",
+      "desc": "Salamanca highlights in a day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Salamanca%20day%20trip%20from%20Madrid",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Salamanca%20day%20trip%20from%20Madrid"
+    },
+    {
+      "icon": "🍷",
+      "title": "Tapas & Ibérico Tour",
+      "desc": "Ham from nearby Guijuelo and more.",
+      "viator": "https://www.viator.com/searchResults/all?text=Salamanca%20tapas%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Salamanca%20tapas%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "AN ANCIENT UNIVERSITY",
+      "text": "The University of Salamanca was founded in 1218."
+    },
+    {
+      "title": "THE LUCKY FROG",
+      "text": "A tiny frog is carved into the university's façade."
+    },
+    {
+      "title": "TWO CATHEDRALS",
+      "text": "Salamanca's Old and New Cathedrals are joined together."
+    },
+    {
+      "title": "GOLDEN STONE",
+      "text": "Villamayor sandstone gives Salamanca its golden colour."
+    },
+    {
+      "title": "A GRAND SQUARE",
+      "text": "The Plaza Mayor was completed in the 1750s."
+    },
+    {
+      "title": "AN ASTRONAUT IN STONE",
+      "text": "A carved astronaut was added to the New Cathedral during a 1990s restoration."
+    },
+    {
+      "title": "HOUSE OF SHELLS",
+      "text": "Casa de las Conchas has about 300 carved shells on its walls."
+    },
+    {
+      "title": "COLUMBUS CAME HERE",
+      "text": "Columbus presented his plans to scholars in Salamanca."
+    },
+    {
+      "title": "A STUDENT CITY",
+      "text": "Salamanca is a top destination for learning Spanish."
+    },
+    {
+      "title": "IBÉRICO COUNTRY",
+      "text": "Guijuelo, near Salamanca, is famous for Ibérico ham."
+    }
+  ],
+  "randomFacts": [
+    "The University of Salamanca was founded in 1218.",
+    "A tiny frog is carved into the university's façade.",
+    "Salamanca's Old and New Cathedrals are joined together.",
+    "Villamayor sandstone gives Salamanca its golden colour.",
+    "The Plaza Mayor was completed in the 1750s.",
+    "A carved astronaut was added to the New Cathedral during a 1990s restoration.",
+    "Casa de las Conchas has about 300 carved shells on its walls.",
+    "Columbus presented his plans to scholars in Salamanca.",
+    "Salamanca is a top destination for learning Spanish.",
+    "Guijuelo, near Salamanca, is famous for Ibérico ham.",
+    "Salamanca is about 1 hour 40 minutes from Madrid by train.",
+    "The Roman Bridge crosses the Tormes river.",
+    "Salamanca was European Capital of Culture in 2002.",
+    "Hornazo is a local meat-filled pie.",
+    "The Art Nouveau and Art Deco Museum is in Casa Lis."
+  ],
+  "faq": [
+    {
+      "q": "Where is Salamanca located?",
+      "a": "Salamanca is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Salamanca?",
+      "a": "The greater Salamanca area is home to about 200,000 people."
+    },
+    {
+      "q": "What is Salamanca famous for?",
+      "a": "Built of honey-coloured sandstone that glows at sunset, Salamanca has one of Europe's oldest universities, two cathedrals and perhaps the most beautiful Plaza Mayor in Spain."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: muffinn from Worcester, UK / CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Salamanca_-_Plaza_Mayor_(13347610863).jpg"
+  }
+}

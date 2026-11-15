@@ -1,0 +1,144 @@
+{
+  "slug": "Lodz",
+  "name": "Łódź",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Łódź Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Łódź travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Łódź.",
+    "keywords": "Łódź, Łódź travel guide, things to do in Łódź, Łódź fun facts, where to stay in Łódź, Famous Cities"
+  },
+  "image": "Lodz.jpg",
+  "video": "videos/lodz.mp4",
+  "youtube": null,
+  "tagline": "Poland's former textile powerhouse turns red-brick factories into museums, lofts and shopping streets, with long Piotrkowska Street, murals and a famous film school.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20%C5%81%C3%B3d%C5%BA",
+    "twitter": "https://twitter.com/search?q=visit%20%C5%81%C3%B3d%C5%BA",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA"
+  },
+  "overview": [
+    "Łódź grew from a small town into Poland's industrial giant in the 19th century, when textile mills drew workers and entrepreneurs from across Europe. Polish, Jewish, German and Russian communities built the city together, and its palaces of factory owners still stand beside rows of red-brick mills.",
+    "Piotrkowska Street, about 4 km long, is the city's main promenade, lined with restored townhouses, restaurants and bars. Manufaktura, the former Poznański textile works, is now a huge complex of shops, a hotel and the Museum of the Factory, while the OFF Piotrkowska courtyard is full of bars and creative studios.",
+    "The National Film School in Łódź trained Roman Polański, Andrzej Wajda and Krzysztof Kieślowski, earning the city the nickname 'Hollywoodż'. Large murals cover many walls, and the Jewish Cemetery and Radegast Station recall the wartime ghetto."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Lodz&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=%C5%81%C3%B3d%C5%BA",
+    "flights": "https://www.skyscanner.net/transport/flights/to/lcj/cheap-flights-to-lodz.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏭",
+      "title": "Manufaktura & Factory Museum",
+      "desc": "A vast 19th-century textile works reborn.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lodz%20Manufaktura%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lodz%20Manufaktura%20tour"
+    },
+    {
+      "icon": "🚶",
+      "title": "Piotrkowska Street Walk",
+      "desc": "Townhouses, statues and OFF Piotrkowska.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lodz%20Piotrkowska%20street%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lodz%20Piotrkowska%20street%20walking%20tour"
+    },
+    {
+      "icon": "🎬",
+      "title": "Film & Murals Tour",
+      "desc": "The film school city and its street art.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lodz%20street%20art%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lodz%20street%20art%20tour"
+    },
+    {
+      "icon": "🕯️",
+      "title": "Jewish Łódź",
+      "desc": "The cemetery and Radegast Station memorial.",
+      "viator": "https://www.viator.com/searchResults/all?text=Lodz%20Jewish%20heritage%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Lodz%20Jewish%20heritage%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE POLISH MANCHESTER",
+      "text": "Łódź was nicknamed the Polish Manchester for its textile mills."
+    },
+    {
+      "title": "A 4-KM MAIN STREET",
+      "text": "Piotrkowska is one of Europe's longest commercial streets."
+    },
+    {
+      "title": "FILM SCHOOL LEGENDS",
+      "text": "Polański, Wajda and Kieślowski studied at the Łódź Film School."
+    },
+    {
+      "title": "HOLLYWOODŻ",
+      "text": "The film heritage gave Łódź the playful nickname Hollywoodż."
+    },
+    {
+      "title": "MILLS TO MALLS",
+      "text": "Manufaktura turned a 19th-century factory into one of Poland's biggest leisure complexes."
+    },
+    {
+      "title": "FOUR CULTURES",
+      "text": "Polish, Jewish, German and Russian communities shaped Łódź's growth."
+    },
+    {
+      "title": "A HUGE JEWISH CEMETERY",
+      "text": "Łódź's Jewish Cemetery is one of the largest in Europe."
+    },
+    {
+      "title": "FACTORY PALACES",
+      "text": "Industrialists like Izrael Poznański built grand palaces next to their mills."
+    },
+    {
+      "title": "WALK OF FAME",
+      "text": "Piotrkowska has a Walk of Fame of Polish film stars."
+    },
+    {
+      "title": "MURALS EVERYWHERE",
+      "text": "Łódź has more than 150 large murals."
+    }
+  ],
+  "randomFacts": [
+    "Łódź was nicknamed the Polish Manchester for its textile mills.",
+    "Piotrkowska is one of Europe's longest commercial streets.",
+    "Polański, Wajda and Kieślowski studied at the Łódź Film School.",
+    "The film heritage gave Łódź the playful nickname Hollywoodż.",
+    "Manufaktura turned a 19th-century factory into one of Poland's biggest leisure complexes.",
+    "Polish, Jewish, German and Russian communities shaped Łódź's growth.",
+    "Łódź's Jewish Cemetery is one of the largest in Europe.",
+    "Industrialists like Izrael Poznański built grand palaces next to their mills.",
+    "Piotrkowska has a Walk of Fame of Polish film stars.",
+    "Łódź has more than 150 large murals.",
+    "Łódź's name means 'boat'.",
+    "Łódź Fabryczna is one of Poland's most modern railway stations.",
+    "The EC1 power plant is now a science and culture centre.",
+    "Łódź is about 1 hour 20 minutes from Warsaw by train.",
+    "The city holds a light festival each autumn."
+  ],
+  "faq": [
+    {
+      "q": "Where is Łódź located?",
+      "a": "Łódź is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Łódź?",
+      "a": "The greater Łódź area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Łódź famous for?",
+      "a": "Poland's former textile powerhouse turns red-brick factories into museums, lofts and shopping streets, with long Piotrkowska Street, murals and a famous film school."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: WrS.tm.pl / Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Piotrkowska_Street_in_%C5%81%C3%B3d%C5%BA_at_the_intersection_with_Tuwima_Street._July_2023,_%C5%81%C3%B3dz,_Poland.jpg"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Busan",
+  "name": "Busan",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "3,300,000",
+  "seo": {
+    "title": "Busan Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Busan travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Busan.",
+    "keywords": "Busan, Busan travel guide, things to do in Busan, Busan fun facts, where to stay in Busan, Famous Cities"
+  },
+  "image": "Busan.jpg",
+  "video": "videos/busan.mp4",
+  "youtube": null,
+  "tagline": "South Korea's second city curves around sandy beaches, seafood markets and hillside villages, with a temple on the sea cliffs and Asia's biggest film festival every autumn.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Busan",
+    "twitter": "https://twitter.com/search?q=visit%20Busan",
+    "wikipedia": "https://en.wikipedia.org/wiki/Busan"
+  },
+  "overview": [
+    "Busan is Korea's largest port and second-largest city, spread between mountains and the sea on the peninsula's southeastern tip. Its neighbourhoods climb steep hillsides above the harbour, linked by tunnels, bridges and the Gwangan Bridge that lights up over the bay at night.",
+    "The city is best known for its beaches. Haeundae is the busiest, lined with hotels and towers, while Gwangalli has bridge views and a lively café strip. Jagalchi Market, on the waterfront, is the country's largest seafood market, where you can pick fish downstairs and have it cooked upstairs.",
+    "Away from the sea, the pastel houses of Gamcheon Culture Village stack up a hillside once settled by refugees during the Korean War, and Haedong Yonggungsa Temple sits right on the coastal rocks. Every October the Busan International Film Festival fills the Centum City district."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Busan&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Busan",
+    "flights": "https://www.skyscanner.net/transport/flights/to/pus/cheap-flights-to-busan.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏘️",
+      "title": "Gamcheon Culture Village",
+      "desc": "Pastel hillside lanes, murals and harbour views.",
+      "viator": "https://www.viator.com/searchResults/all?text=Busan%20Gamcheon%20Culture%20Village%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Busan%20Gamcheon%20Culture%20Village%20tour"
+    },
+    {
+      "icon": "🛕",
+      "title": "Haedong Yonggungsa Temple",
+      "desc": "A seaside temple on the rocks with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Busan%20Haedong%20Yonggungsa%20temple%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Busan%20Haedong%20Yonggungsa%20temple%20tour"
+    },
+    {
+      "icon": "🐟",
+      "title": "Jagalchi Market Food Tour",
+      "desc": "Korea's biggest fish market and local street food.",
+      "viator": "https://www.viator.com/searchResults/all?text=Busan%20food%20tour%20Jagalchi%20market",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Busan%20food%20tour%20Jagalchi%20market"
+    },
+    {
+      "icon": "⛵",
+      "title": "Gwangalli Night Yacht",
+      "desc": "Sail under the lit-up Gwangan Bridge.",
+      "viator": "https://www.viator.com/searchResults/all?text=Busan%20night%20yacht%20tour%20Gwangalli",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Busan%20night%20yacht%20tour%20Gwangalli"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "KOREA'S BIGGEST PORT",
+      "text": "Busan handles most of South Korea's container shipping and is one of the busiest ports in the world."
+    },
+    {
+      "title": "A WARTIME CAPITAL",
+      "text": "During the Korean War, Busan served as the temporary capital of South Korea."
+    },
+    {
+      "title": "SIX BEACHES IN ONE CITY",
+      "text": "Haeundae, Gwangalli, Songjeong, Songdo, Dadaepo and Ilgwang beaches are all within the city."
+    },
+    {
+      "title": "A REFUGEE VILLAGE TURNED ART",
+      "text": "Gamcheon Culture Village was built by war refugees and later repainted by local artists."
+    },
+    {
+      "title": "A TEMPLE BY THE SEA",
+      "text": "Haedong Yonggungsa is one of the few Korean temples built right on the seashore."
+    },
+    {
+      "title": "ASIA'S BIG FILM FESTIVAL",
+      "text": "The Busan International Film Festival, held each October since 1996, is one of Asia's most important."
+    },
+    {
+      "title": "PICK IT, THEN EAT IT",
+      "text": "At Jagalchi Market you choose seafood on the ground floor and restaurants upstairs cook it for you."
+    },
+    {
+      "title": "A BRIDGE THAT GLOWS",
+      "text": "The 7.4-km Gwangan Bridge is lit with changing LED light shows after dark."
+    },
+    {
+      "title": "HOT SPRINGS IN TOWN",
+      "text": "The Haeundae and Dongnae areas have natural hot springs that have been used for centuries."
+    },
+    {
+      "title": "THE CITY'S OWN SOUP",
+      "text": "Dwaeji gukbap, a pork and rice soup, is Busan's signature comfort food."
+    }
+  ],
+  "randomFacts": [
+    "Busan handles most of South Korea's container shipping and is one of the busiest ports in the world.",
+    "During the Korean War, Busan served as the temporary capital of South Korea.",
+    "Haeundae, Gwangalli, Songjeong, Songdo, Dadaepo and Ilgwang beaches are all within the city.",
+    "Gamcheon Culture Village was built by war refugees and later repainted by local artists.",
+    "Haedong Yonggungsa is one of the few Korean temples built right on the seashore.",
+    "The Busan International Film Festival, held each October since 1996, is one of Asia's most important.",
+    "At Jagalchi Market you choose seafood on the ground floor and restaurants upstairs cook it for you.",
+    "The 7.4-km Gwangan Bridge is lit with changing LED light shows after dark.",
+    "The Haeundae and Dongnae areas have natural hot springs that have been used for centuries.",
+    "Dwaeji gukbap, a pork and rice soup, is Busan's signature comfort food.",
+    "The KTX bullet train links Busan and Seoul in about two and a half hours.",
+    "Shinsegae Centum City in Busan has been recognised by Guinness as the world's largest department store.",
+    "Taejongdae park ends in cliffs and a lighthouse overlooking the sea.",
+    "Ssiat hotteok, a pancake stuffed with seeds and nuts, is a Busan street-food favourite.",
+    "Ferries from Busan reach Fukuoka in Japan in a few hours."
+  ],
+  "faq": [
+    {
+      "q": "Where is Busan located?",
+      "a": "Busan is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Busan?",
+      "a": "The greater Busan area is home to about 3,300,000 people."
+    },
+    {
+      "q": "What is Busan famous for?",
+      "a": "South Korea's second city curves around sandy beaches, seafood markets and hillside villages, with a temple on the sea cliffs and Asia's biggest film festival every autumn."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: StephNurnberg / CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Haeundae_Beach_in_Busan.jpg"
+  }
+}

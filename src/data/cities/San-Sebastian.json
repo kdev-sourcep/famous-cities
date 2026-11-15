@@ -1,0 +1,144 @@
+{
+  "slug": "San-Sebastian",
+  "name": "San Sebastián",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "440,000",
+  "seo": {
+    "title": "San Sebastián Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "San Sebastián travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in San Sebastián.",
+    "keywords": "San Sebastián, San Sebastián travel guide, things to do in San Sebastián, San Sebastián fun facts, where to stay in San Sebastián, Famous Cities"
+  },
+  "image": "San-Sebastian.jpg",
+  "video": "videos/san-sebastian.mp4",
+  "youtube": null,
+  "tagline": "A belle-époque seaside city on the Basque coast, San Sebastián curves around La Concha bay and has one of the world's great food scenes, from pintxos bars to Michelin stars.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20San%20Sebasti%C3%A1n",
+    "twitter": "https://twitter.com/search?q=visit%20San%20Sebasti%C3%A1n",
+    "wikipedia": "https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n"
+  },
+  "overview": [
+    "San Sebastián, or Donostia in Basque, sits on the Bay of Biscay near the French border. It became a fashionable resort in the 19th century when the Spanish royal family summered here, leaving elegant promenades, a seafront casino and the Miramar Palace.",
+    "La Concha, a shell-shaped bay with a sandy city beach, is framed by Monte Urgull and Monte Igueldo, whose old funicular climbs to a famous viewpoint. Ondarreta beach and Zurriola, a surfing beach, complete the waterfront.",
+    "The city is famous for food: it has one of the highest numbers of Michelin stars per person in the world, and the Parte Vieja's bars are piled with pintxos. The San Sebastián International Film Festival takes place every September, and the Jazzaldia festival in July."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=San%20Sebastian&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=San%20Sebasti%C3%A1n",
+    "flights": "https://www.skyscanner.net/transport/flights/to/eas/cheap-flights-to-san%20sebastian.html"
+  },
+  "topThings": [
+    {
+      "icon": "🍢",
+      "title": "Pintxos Tour",
+      "desc": "Old Town bars and Basque bites.",
+      "viator": "https://www.viator.com/searchResults/all?text=San%20Sebastian%20pintxos%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=San%20Sebastian%20pintxos%20tour"
+    },
+    {
+      "icon": "🚞",
+      "title": "Monte Igueldo Funicular",
+      "desc": "Views over La Concha bay.",
+      "viator": "https://www.viator.com/searchResults/all?text=Monte%20Igueldo%20San%20Sebastian",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Monte%20Igueldo%20San%20Sebastian"
+    },
+    {
+      "icon": "🏄",
+      "title": "Surf Lesson at Zurriola",
+      "desc": "Learn to surf on the city beach.",
+      "viator": "https://www.viator.com/searchResults/all?text=San%20Sebastian%20surf%20lesson",
+      "getyourguide": "https://www.getyourguide.com/s/?q=San%20Sebastian%20surf%20lesson"
+    },
+    {
+      "icon": "🧀",
+      "title": "Basque Countryside Tour",
+      "desc": "Cider houses and cheese farms.",
+      "viator": "https://www.viator.com/searchResults/all?text=San%20Sebastian%20Basque%20countryside%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=San%20Sebastian%20Basque%20countryside%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "MICHELIN CITY",
+      "text": "San Sebastián has one of the highest concentrations of Michelin stars per capita."
+    },
+    {
+      "title": "A ROYAL SUMMER RESORT",
+      "text": "Queen Maria Christina made the city a royal summer retreat in the 1880s."
+    },
+    {
+      "title": "SHELL-SHAPED BAY",
+      "text": "La Concha means 'the shell'."
+    },
+    {
+      "title": "FILM FESTIVAL",
+      "text": "The San Sebastián Film Festival began in 1953."
+    },
+    {
+      "title": "AN OLD FUNICULAR",
+      "text": "The Monte Igueldo funicular opened in 1912."
+    },
+    {
+      "title": "COOKING CLUBS",
+      "text": "Private gastronomic societies, txokos, are a Basque tradition."
+    },
+    {
+      "title": "TWO NAMES",
+      "text": "The city is Donostia in Basque."
+    },
+    {
+      "title": "A JAZZ FESTIVAL",
+      "text": "Jazzaldia is one of Europe's oldest jazz festivals."
+    },
+    {
+      "title": "WIND SCULPTURES",
+      "text": "Chillida's Comb of the Wind sculptures stand on the rocks at Ondarreta."
+    },
+    {
+      "title": "CULINARY UNIVERSITY",
+      "text": "The Basque Culinary Center is based in San Sebastián."
+    }
+  ],
+  "randomFacts": [
+    "San Sebastián has one of the highest concentrations of Michelin stars per capita.",
+    "Queen Maria Christina made the city a royal summer retreat in the 1880s.",
+    "La Concha means 'the shell'.",
+    "The San Sebastián Film Festival began in 1953.",
+    "The Monte Igueldo funicular opened in 1912.",
+    "Private gastronomic societies, txokos, are a Basque tradition.",
+    "The city is Donostia in Basque.",
+    "Jazzaldia is one of Europe's oldest jazz festivals.",
+    "Chillida's Comb of the Wind sculptures stand on the rocks at Ondarreta.",
+    "The Basque Culinary Center is based in San Sebastián.",
+    "San Sebastián is about 20 minutes from the French border.",
+    "Basque cheesecake was popularised by La Viña bar.",
+    "Santa Clara Island sits in the middle of La Concha bay.",
+    "Tamborrada drums fill the city on 20 January.",
+    "Txakoli wine is poured from a height."
+  ],
+  "faq": [
+    {
+      "q": "Where is San Sebastián located?",
+      "a": "San Sebastián is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of San Sebastián?",
+      "a": "The greater San Sebastián area is home to about 440,000 people."
+    },
+    {
+      "q": "What is San Sebastián famous for?",
+      "a": "A belle-époque seaside city on the Basque coast, San Sebastián curves around La Concha bay and has one of the world's great food scenes, from pintxos bars to Michelin stars."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Ermell / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:San_Sebastian_La_Concha-20120902-RM-125922.jpg"
+  }
+}

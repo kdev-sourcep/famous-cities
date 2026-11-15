@@ -1,0 +1,144 @@
+{
+  "slug": "Toledo",
+  "name": "Toledo",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "85,000",
+  "seo": {
+    "title": "Toledo Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Toledo travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Toledo.",
+    "keywords": "Toledo, Toledo travel guide, things to do in Toledo, Toledo fun facts, where to stay in Toledo, Famous Cities"
+  },
+  "image": "Toledo.jpg",
+  "video": "videos/toledo.mp4",
+  "youtube": null,
+  "tagline": "The 'City of Three Cultures' rises on a rocky hill above the Tagus, where Christian, Muslim and Jewish heritage meet in cathedrals, synagogues and El Greco's paintings.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Toledo",
+    "twitter": "https://twitter.com/search?q=visit%20Toledo",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toledo%2C_Spain"
+  },
+  "overview": [
+    "Toledo stands on a granite hill wrapped on three sides by a bend in the Tagus River, about 70 km south of Madrid. It was the capital of Visigothic Spain and later of Castile, and for centuries Christians, Muslims and Jews lived side by side here, earning it the name 'City of Three Cultures'.",
+    "Its old town is a UNESCO World Heritage Site packed into a maze of steep lanes. Toledo Cathedral is a masterpiece of Spanish Gothic, the Alcázar fortress crowns the hill, and the Synagogue of El Tránsito and Santa María la Blanca recall the Jewish quarter. The Mosque of Cristo de la Luz dates from 999.",
+    "The painter El Greco lived here for nearly 40 years, and his Burial of the Count of Orgaz hangs in the Church of Santo Tomé. Toledo is known for damascene metalwork, swords and marzipan, and the Mirador del Valle gives the classic view across the river."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Toledo%2C%20Spain&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Toledo",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mad/cheap-flights-to-madrid.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Old Town Walking Tour",
+      "desc": "Cathedral, synagogues and lanes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Toledo%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Toledo%20walking%20tour"
+    },
+    {
+      "icon": "🚌",
+      "title": "Day Trip from Madrid",
+      "desc": "Toledo highlights in a day.",
+      "viator": "https://www.viator.com/searchResults/all?text=Toledo%20day%20trip%20from%20Madrid",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Toledo%20day%20trip%20from%20Madrid"
+    },
+    {
+      "icon": "🎨",
+      "title": "El Greco's Toledo",
+      "desc": "Santo Tomé and the El Greco Museum.",
+      "viator": "https://www.viator.com/searchResults/all?text=Toledo%20El%20Greco%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Toledo%20El%20Greco%20tour"
+    },
+    {
+      "icon": "🌄",
+      "title": "Mirador del Valle",
+      "desc": "Panoramic views over the Tagus.",
+      "viator": "https://www.viator.com/searchResults/all?text=Toledo%20panoramic%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Toledo%20panoramic%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "CITY OF THREE CULTURES",
+      "text": "Christians, Muslims and Jews shared Toledo for centuries."
+    },
+    {
+      "title": "VISIGOTHIC CAPITAL",
+      "text": "Toledo was the capital of Visigothic Spain in the 500s–700s."
+    },
+    {
+      "title": "UNESCO HILLTOP",
+      "text": "Toledo's historic city has been a World Heritage Site since 1986."
+    },
+    {
+      "title": "EL GRECO'S HOME",
+      "text": "El Greco lived in Toledo from 1577 until his death in 1614."
+    },
+    {
+      "title": "FAMOUS SWORDS",
+      "text": "Toledo steel swords have been prized since Roman times."
+    },
+    {
+      "title": "MARZIPAN CITY",
+      "text": "Toledo is famous for marzipan made by nuns."
+    },
+    {
+      "title": "A THOUSAND-YEAR MOSQUE",
+      "text": "The Mosque of Cristo de la Luz was built in 999."
+    },
+    {
+      "title": "TRANSLATORS' SCHOOL",
+      "text": "Medieval scholars in Toledo translated Arabic texts into Latin."
+    },
+    {
+      "title": "A RIVER MOAT",
+      "text": "The Tagus surrounds Toledo on three sides."
+    },
+    {
+      "title": "CATHEDRAL TREASURES",
+      "text": "Toledo Cathedral's monstrance is made of gold and silver."
+    }
+  ],
+  "randomFacts": [
+    "Christians, Muslims and Jews shared Toledo for centuries.",
+    "Toledo was the capital of Visigothic Spain in the 500s–700s.",
+    "Toledo's historic city has been a World Heritage Site since 1986.",
+    "El Greco lived in Toledo from 1577 until his death in 1614.",
+    "Toledo steel swords have been prized since Roman times.",
+    "Toledo is famous for marzipan made by nuns.",
+    "The Mosque of Cristo de la Luz was built in 999.",
+    "Medieval scholars in Toledo translated Arabic texts into Latin.",
+    "The Tagus surrounds Toledo on three sides.",
+    "Toledo Cathedral's monstrance is made of gold and silver.",
+    "Toledo is about 33 minutes from Madrid by AVE.",
+    "The Puente de San Martín dates from the 1300s.",
+    "Damascene is gold inlaid on steel.",
+    "Toledo was Spain's capital until 1561.",
+    "Corpus Christi is Toledo's biggest festival."
+  ],
+  "faq": [
+    {
+      "q": "Where is Toledo located?",
+      "a": "Toledo is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Toledo?",
+      "a": "The greater Toledo area is home to about 85,000 people."
+    },
+    {
+      "q": "What is Toledo famous for?",
+      "a": "The 'City of Three Cultures' rises on a rocky hill above the Tagus, where Christian, Muslim and Jewish heritage meet in cathedrals, synagogues and El Greco's paintings."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Ввласенко / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Puente_de_San_Mart%C3%ADn._Toledo,_Spain.jpg"
+  }
+}

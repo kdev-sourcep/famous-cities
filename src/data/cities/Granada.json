@@ -1,0 +1,144 @@
+{
+  "slug": "Granada",
+  "name": "Granada",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "530,000",
+  "seo": {
+    "title": "Granada Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Granada travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Granada.",
+    "keywords": "Granada, Granada travel guide, things to do in Granada, Granada fun facts, where to stay in Granada, Famous Cities"
+  },
+  "image": "Granada.jpg",
+  "video": "videos/granada.mp4",
+  "youtube": null,
+  "tagline": "Beneath the Sierra Nevada, Granada is crowned by the Alhambra, the most famous Moorish palace in the world, with the hillside Albaicín quarter and free tapas with every drink.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Granada",
+    "twitter": "https://twitter.com/search?q=visit%20Granada",
+    "wikipedia": "https://en.wikipedia.org/wiki/Granada"
+  },
+  "overview": [
+    "Granada was the last Muslim kingdom in Spain, surrendering to Ferdinand and Isabella in 1492. Its rulers left the Alhambra, a hilltop fortress and palace complex of carved stucco, tiled halls and fountains, and the Generalife gardens beside it. Together with the Albaicín it is a UNESCO site.",
+    "The Albaicín, the old Moorish quarter, climbs the hill opposite in a maze of white houses and lanes; the Mirador de San Nicolás has the classic view of the Alhambra with the snowy Sierra Nevada behind. Sacromonte's cave houses are known for flamenco.",
+    "Ferdinand and Isabella are buried in the Royal Chapel beside the cathedral. Granada is a student city and one of the last places in Spain where a free tapa comes with every drink, and the Sierra Nevada ski resort is under an hour away."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Granada&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Granada",
+    "flights": "https://www.skyscanner.net/transport/flights/to/grx/cheap-flights-to-granada.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Alhambra & Generalife",
+      "desc": "Moorish palaces and gardens with a guide.",
+      "viator": "https://www.viator.com/searchResults/all?text=Alhambra%20Generalife%20guided%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Alhambra%20Generalife%20guided%20tour"
+    },
+    {
+      "icon": "🏘️",
+      "title": "Albaicín & Sacromonte",
+      "desc": "Old Moorish lanes and cave houses.",
+      "viator": "https://www.viator.com/searchResults/all?text=Granada%20Albaicin%20Sacromonte%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Granada%20Albaicin%20Sacromonte%20walking%20tour"
+    },
+    {
+      "icon": "💃",
+      "title": "Cave Flamenco",
+      "desc": "Flamenco in a Sacromonte cave.",
+      "viator": "https://www.viator.com/searchResults/all?text=Granada%20flamenco%20cave%20show",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Granada%20flamenco%20cave%20show"
+    },
+    {
+      "icon": "🍷",
+      "title": "Tapas Tour",
+      "desc": "Free tapas with every drink.",
+      "viator": "https://www.viator.com/searchResults/all?text=Granada%20tapas%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Granada%20tapas%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SPAIN'S LAST MOORISH KINGDOM",
+      "text": "Granada fell to the Catholic Monarchs in 1492."
+    },
+    {
+      "title": "THE RED CASTLE",
+      "text": "Alhambra comes from the Arabic for 'the red one'."
+    },
+    {
+      "title": "MONARCHS' TOMBS",
+      "text": "Ferdinand and Isabella are buried in Granada's Royal Chapel."
+    },
+    {
+      "title": "FREE TAPAS",
+      "text": "Bars in Granada traditionally serve a free tapa with each drink."
+    },
+    {
+      "title": "COLUMBUS'S DEAL",
+      "text": "Isabella agreed to fund Columbus's voyage in Granada in 1492."
+    },
+    {
+      "title": "A UNESCO TRIO",
+      "text": "The Alhambra, Generalife and Albaicín are World Heritage Sites."
+    },
+    {
+      "title": "CAVE HOMES",
+      "text": "Sacromonte's whitewashed caves are still lived in."
+    },
+    {
+      "title": "LORCA'S CITY",
+      "text": "The poet Federico García Lorca was born near Granada."
+    },
+    {
+      "title": "SKI AND SEA",
+      "text": "You can ski the Sierra Nevada and swim at the coast on the same day."
+    },
+    {
+      "title": "A POMEGRANATE CITY",
+      "text": "Granada means pomegranate in Spanish, and the fruit is its symbol."
+    }
+  ],
+  "randomFacts": [
+    "Granada fell to the Catholic Monarchs in 1492.",
+    "Alhambra comes from the Arabic for 'the red one'.",
+    "Ferdinand and Isabella are buried in Granada's Royal Chapel.",
+    "Bars in Granada traditionally serve a free tapa with each drink.",
+    "Isabella agreed to fund Columbus's voyage in Granada in 1492.",
+    "The Alhambra, Generalife and Albaicín are World Heritage Sites.",
+    "Sacromonte's whitewashed caves are still lived in.",
+    "The poet Federico García Lorca was born near Granada.",
+    "You can ski the Sierra Nevada and swim at the coast on the same day.",
+    "Granada means pomegranate in Spanish, and the fruit is its symbol.",
+    "Alhambra tickets often sell out weeks ahead.",
+    "Granada is about 3.5 hours from Madrid by train.",
+    "The Court of the Lions has 12 marble lions.",
+    "Sierra Nevada is one of Europe's southernmost ski resorts.",
+    "Granada's tea houses recall its Moorish past."
+  ],
+  "faq": [
+    {
+      "q": "Where is Granada located?",
+      "a": "Granada is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Granada?",
+      "a": "The greater Granada area is home to about 530,000 people."
+    },
+    {
+      "q": "What is Granada famous for?",
+      "a": "Beneath the Sierra Nevada, Granada is crowned by the Alhambra, the most famous Moorish palace in the world, with the hillside Albaicín quarter and free tapas with every drink."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Diego Delso / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg"
+  }
+}

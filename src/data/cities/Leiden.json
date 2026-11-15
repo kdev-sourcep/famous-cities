@@ -1,0 +1,144 @@
+{
+  "slug": "Leiden",
+  "name": "Leiden",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "350,000",
+  "seo": {
+    "title": "Leiden Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Leiden travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Leiden.",
+    "keywords": "Leiden, Leiden travel guide, things to do in Leiden, Leiden fun facts, where to stay in Leiden, Famous Cities"
+  },
+  "image": "Leiden.jpg",
+  "video": "videos/leiden.mp4",
+  "youtube": null,
+  "tagline": "The Netherlands' oldest university city has graceful canals, Rembrandt's birthplace, world-class museums and one of the oldest botanical gardens in the world.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Leiden",
+    "twitter": "https://twitter.com/search?q=visit%20Leiden",
+    "wikipedia": "https://en.wikipedia.org/wiki/Leiden"
+  },
+  "overview": [
+    "Leiden is a canal city between Amsterdam and The Hague, famous for Leiden University, founded in 1575 and the oldest in the Netherlands. Its Rapenburg canal is lined with grand 17th-century houses, and students give the old town a lively feel.",
+    "The Hortus Botanicus, founded in 1590, is one of the oldest botanical gardens in the world; it was here that Carolus Clusius planted some of the first tulips in the Netherlands. Leiden also has the National Museum of Antiquities, the Naturalis biodiversity museum and the Museum De Lakenhal.",
+    "Rembrandt was born in Leiden in 1606, and the Pilgrims lived here for over a decade before sailing to America. On 3 October the city celebrates the 1574 relief of its Spanish siege with herring, white bread and hutspot stew. More than 100 poems are painted on walls around town."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Leiden&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Leiden",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ams/cheap-flights-to-amsterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌿",
+      "title": "Hortus Botanicus",
+      "desc": "One of the world's oldest botanical gardens.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hortus%20Botanicus%20Leiden",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hortus%20Botanicus%20Leiden"
+    },
+    {
+      "icon": "🛶",
+      "title": "Leiden Canal Cruise",
+      "desc": "Rapenburg and the old town by boat.",
+      "viator": "https://www.viator.com/searchResults/all?text=Leiden%20canal%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Leiden%20canal%20cruise"
+    },
+    {
+      "icon": "🦖",
+      "title": "Naturalis Museum",
+      "desc": "Dinosaurs and Dutch natural history.",
+      "viator": "https://www.viator.com/searchResults/all?text=Naturalis%20Leiden",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Naturalis%20Leiden"
+    },
+    {
+      "icon": "🎨",
+      "title": "Rembrandt's Leiden",
+      "desc": "Walk past the painter's early haunts.",
+      "viator": "https://www.viator.com/searchResults/all?text=Leiden%20walking%20tour%20Rembrandt",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Leiden%20walking%20tour%20Rembrandt"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "OLDEST DUTCH UNIVERSITY",
+      "text": "Leiden University was founded in 1575."
+    },
+    {
+      "title": "TULIPS STARTED HERE",
+      "text": "Clusius grew early Dutch tulips at the Hortus Botanicus in the 1590s."
+    },
+    {
+      "title": "REMBRANDT'S BIRTHPLACE",
+      "text": "Rembrandt van Rijn was born in Leiden in 1606."
+    },
+    {
+      "title": "A SIEGE REMEMBERED",
+      "text": "Each 3 October Leiden celebrates the end of the 1574 Spanish siege."
+    },
+    {
+      "title": "WALL POEMS",
+      "text": "More than 100 poems are painted on Leiden's walls."
+    },
+    {
+      "title": "PILGRIM HOME",
+      "text": "The Pilgrims lived in Leiden before sailing to America in 1620."
+    },
+    {
+      "title": "HUTSPOT STEW",
+      "text": "Leiden's siege celebration features hutspot, a carrot-and-onion mash."
+    },
+    {
+      "title": "EINSTEIN VISITED",
+      "text": "Albert Einstein was a visiting professor in Leiden."
+    },
+    {
+      "title": "A WINDMILL MUSEUM",
+      "text": "De Valk windmill is a working mill and museum."
+    },
+    {
+      "title": "EGYPTIAN TEMPLE",
+      "text": "The Museum of Antiquities has a real Egyptian temple."
+    }
+  ],
+  "randomFacts": [
+    "Leiden University was founded in 1575.",
+    "Clusius grew early Dutch tulips at the Hortus Botanicus in the 1590s.",
+    "Rembrandt van Rijn was born in Leiden in 1606.",
+    "Each 3 October Leiden celebrates the end of the 1574 Spanish siege.",
+    "More than 100 poems are painted on Leiden's walls.",
+    "The Pilgrims lived in Leiden before sailing to America in 1620.",
+    "Leiden's siege celebration features hutspot, a carrot-and-onion mash.",
+    "Albert Einstein was a visiting professor in Leiden.",
+    "De Valk windmill is a working mill and museum.",
+    "The Museum of Antiquities has a real Egyptian temple.",
+    "Leiden is about 35 minutes from Amsterdam by train.",
+    "De Burcht is a 12th-century fortress mound.",
+    "Leiden has around 28 km of canals.",
+    "Keukenhof is a short bus ride from Leiden.",
+    "The Lakenhal museum is in a former cloth hall."
+  ],
+  "faq": [
+    {
+      "q": "Where is Leiden located?",
+      "a": "Leiden is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Leiden?",
+      "a": "The greater Leiden area is home to about 350,000 people."
+    },
+    {
+      "q": "What is Leiden famous for?",
+      "a": "The Netherlands' oldest university city has graceful canals, Rembrandt's birthplace, world-class museums and one of the oldest botanical gardens in the world."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Roger Veringmeier / CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Rapenburg_Leiden_Centrum.jpg"
+  }
+}

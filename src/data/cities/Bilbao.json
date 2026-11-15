@@ -1,0 +1,144 @@
+{
+  "slug": "Bilbao",
+  "name": "Bilbao",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Bilbao Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Bilbao travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Bilbao.",
+    "keywords": "Bilbao, Bilbao travel guide, things to do in Bilbao, Bilbao fun facts, where to stay in Bilbao, Famous Cities"
+  },
+  "image": "Bilbao.jpg",
+  "video": "videos/bilbao.mp4",
+  "youtube": null,
+  "tagline": "A Basque industrial port reborn as an art city, Bilbao is home to Frank Gehry's titanium Guggenheim Museum, a medieval Old Town and some of Spain's best pintxos.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Bilbao",
+    "twitter": "https://twitter.com/search?q=visit%20Bilbao",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bilbao"
+  },
+  "overview": [
+    "Bilbao, the largest city in the Basque Country, was a centre of iron, steel and shipbuilding until heavy industry declined in the late 20th century. The city reinvented itself, and the opening of Frank Gehry's Guggenheim Museum in 1997 transformed its image, an effect now known as the 'Bilbao effect'.",
+    "The museum's curving titanium walls sit on the Nervión River, guarded by Jeff Koons' flower-covered Puppy and Louise Bourgeois' giant spider, Maman. Riverside walkways link it to the Fine Arts Museum, Calatrava's Zubizuri bridge and the old docks.",
+    "Across the river, the Casco Viejo's Seven Streets are packed with pintxos bars around the Plaza Nueva. The Artxanda funicular climbs to city views, and the UNESCO-listed Vizcaya Bridge, the world's oldest transporter bridge, swings cars and people across the river mouth."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Bilbao&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Bilbao",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bio/cheap-flights-to-bilbao.html"
+  },
+  "topThings": [
+    {
+      "icon": "🎨",
+      "title": "Guggenheim Museum",
+      "desc": "Gehry's titanium masterpiece.",
+      "viator": "https://www.viator.com/searchResults/all?text=Guggenheim%20Museum%20Bilbao%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Guggenheim%20Museum%20Bilbao%20tickets"
+    },
+    {
+      "icon": "🍢",
+      "title": "Pintxos Tour",
+      "desc": "Basque bites in the old town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bilbao%20pintxos%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bilbao%20pintxos%20tour"
+    },
+    {
+      "icon": "🌉",
+      "title": "Vizcaya Bridge",
+      "desc": "UNESCO-listed transporter bridge.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vizcaya%20Bridge%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vizcaya%20Bridge%20tour"
+    },
+    {
+      "icon": "🏝️",
+      "title": "San Juan de Gaztelugatxe",
+      "desc": "Island hermitage up 241 steps.",
+      "viator": "https://www.viator.com/searchResults/all?text=San%20Juan%20de%20Gaztelugatxe%20tour%20from%20Bilbao",
+      "getyourguide": "https://www.getyourguide.com/s/?q=San%20Juan%20de%20Gaztelugatxe%20tour%20from%20Bilbao"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE BILBAO EFFECT",
+      "text": "The Guggenheim's success inspired cities worldwide to build landmark museums."
+    },
+    {
+      "title": "TITANIUM SKIN",
+      "text": "The Guggenheim is clad in about 33,000 thin titanium sheets."
+    },
+    {
+      "title": "A FLOWER PUPPY",
+      "text": "Jeff Koons' Puppy is covered in tens of thousands of flowering plants."
+    },
+    {
+      "title": "OLDEST TRANSPORTER BRIDGE",
+      "text": "The Vizcaya Bridge, from 1893, is the world's oldest of its kind."
+    },
+    {
+      "title": "SEVEN STREETS",
+      "text": "The Casco Viejo grew from seven original streets."
+    },
+    {
+      "title": "BASQUE LANGUAGE",
+      "text": "Basque, or Euskara, is unrelated to any other living language."
+    },
+    {
+      "title": "ATHLETIC CLUB",
+      "text": "Athletic Bilbao traditionally fields only players with Basque ties."
+    },
+    {
+      "title": "A DRAGON SET",
+      "text": "San Juan de Gaztelugatxe was Dragonstone in Game of Thrones."
+    },
+    {
+      "title": "IRON TOWN",
+      "text": "Bilbao grew rich exporting iron ore in the 1800s."
+    },
+    {
+      "title": "FOSTER'S METRO",
+      "text": "Norman Foster designed Bilbao's metro stations."
+    }
+  ],
+  "randomFacts": [
+    "The Guggenheim's success inspired cities worldwide to build landmark museums.",
+    "The Guggenheim is clad in about 33,000 thin titanium sheets.",
+    "Jeff Koons' Puppy is covered in tens of thousands of flowering plants.",
+    "The Vizcaya Bridge, from 1893, is the world's oldest of its kind.",
+    "The Casco Viejo grew from seven original streets.",
+    "Basque, or Euskara, is unrelated to any other living language.",
+    "Athletic Bilbao traditionally fields only players with Basque ties.",
+    "San Juan de Gaztelugatxe was Dragonstone in Game of Thrones.",
+    "Bilbao grew rich exporting iron ore in the 1800s.",
+    "Norman Foster designed Bilbao's metro stations.",
+    "Bilbao is about 1 hour 15 minutes from San Sebastián by bus.",
+    "The Artxanda funicular opened in 1915.",
+    "Bilbao's La Ribera market is one of Europe's largest covered markets.",
+    "Txakoli is the local white wine.",
+    "Aste Nagusia is Bilbao's big summer festival."
+  ],
+  "faq": [
+    {
+      "q": "Where is Bilbao located?",
+      "a": "Bilbao is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Bilbao?",
+      "a": "The greater Bilbao area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Bilbao famous for?",
+      "a": "A Basque industrial port reborn as an art city, Bilbao is home to Frank Gehry's titanium Guggenheim Museum, a medieval Old Town and some of Spain's best pintxos."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: José Ligero Loarte / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim_--_2021_--_Bilbao,_Euskadi,_Espa%C3%B1a.jpg"
+  }
+}

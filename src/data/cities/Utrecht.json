@@ -1,0 +1,144 @@
+{
+  "slug": "Utrecht",
+  "name": "Utrecht",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "900,000",
+  "seo": {
+    "title": "Utrecht Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Utrecht travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Utrecht.",
+    "keywords": "Utrecht, Utrecht travel guide, things to do in Utrecht, Utrecht fun facts, where to stay in Utrecht, Famous Cities"
+  },
+  "image": "Utrecht.jpg",
+  "video": "videos/utrecht.mp4",
+  "youtube": null,
+  "tagline": "A lively student city in the middle of the Netherlands, Utrecht has unique two-level canals with wharf cellars at the water's edge and the Dom Tower, the country's tallest church tower.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Utrecht",
+    "twitter": "https://twitter.com/search?q=visit%20Utrecht",
+    "wikipedia": "https://en.wikipedia.org/wiki/Utrecht"
+  },
+  "overview": [
+    "Utrecht is one of the oldest cities in the Netherlands, founded as a Roman fort around AD 50, and for centuries it was the country's religious centre. Its skyline is still ruled by the Dom Tower, 112 metres tall, which can be climbed for views as far as Amsterdam on a clear day.",
+    "The Oudegracht canal is the city's signature: unlike Amsterdam's canals, it has wharves at water level, with old cellars that once stored goods and now hold cafés and restaurants right by the water. Boats, canoes and paddleboards drift past terraces in summer.",
+    "Utrecht University makes the city young and busy, and bikes are everywhere; the station has the world's largest bicycle parking garage. Miffy creator Dick Bruna was from Utrecht, the Rietveld Schröder House is a UNESCO-listed modernist home, and Castle de Haar is a short ride away."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Utrecht&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Utrecht",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ams/cheap-flights-to-amsterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "⛪",
+      "title": "Dom Tower Climb",
+      "desc": "465 steps to the top of the tallest church tower.",
+      "viator": "https://www.viator.com/searchResults/all?text=Utrecht%20Dom%20Tower%20climb",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Utrecht%20Dom%20Tower%20climb"
+    },
+    {
+      "icon": "🛶",
+      "title": "Oudegracht Canal Cruise",
+      "desc": "Wharf cellars and canals from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Utrecht%20canal%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Utrecht%20canal%20cruise"
+    },
+    {
+      "icon": "🏰",
+      "title": "Castle de Haar",
+      "desc": "A fairy-tale castle near Utrecht.",
+      "viator": "https://www.viator.com/searchResults/all?text=Castle%20de%20Haar%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Castle%20de%20Haar%20tour"
+    },
+    {
+      "icon": "🏠",
+      "title": "Rietveld Schröder House",
+      "desc": "UNESCO-listed modernist house.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rietveld%20Schroder%20House%20Utrecht",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rietveld%20Schroder%20House%20Utrecht"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "TALLEST CHURCH TOWER",
+      "text": "The Dom Tower is 112 metres tall, the tallest in the Netherlands."
+    },
+    {
+      "title": "CANALS WITH CELLARS",
+      "text": "Utrecht's wharf cellars line the canals at water level."
+    },
+    {
+      "title": "A ROMAN START",
+      "text": "Utrecht began as a Roman fort around AD 50."
+    },
+    {
+      "title": "A TOWER WITHOUT A CHURCH",
+      "text": "A storm in 1674 destroyed the cathedral's nave, leaving the tower standing apart."
+    },
+    {
+      "title": "BIKE PARKING RECORD",
+      "text": "Utrecht Centraal has the world's largest bicycle parking, with about 12,500 spaces."
+    },
+    {
+      "title": "MIFFY'S HOMETOWN",
+      "text": "Dick Bruna, creator of Miffy, lived and worked in Utrecht."
+    },
+    {
+      "title": "UNESCO MODERNISM",
+      "text": "The Rietveld Schröder House is a UNESCO World Heritage Site."
+    },
+    {
+      "title": "A DUTCH POPE",
+      "text": "Adrian VI, the only Dutch pope, was born in Utrecht."
+    },
+    {
+      "title": "A TREATY CITY",
+      "text": "The Treaty of Utrecht of 1713 helped end the War of the Spanish Succession."
+    },
+    {
+      "title": "A STUDENT CITY",
+      "text": "Utrecht University is the largest in the Netherlands."
+    }
+  ],
+  "randomFacts": [
+    "The Dom Tower is 112 metres tall, the tallest in the Netherlands.",
+    "Utrecht's wharf cellars line the canals at water level.",
+    "Utrecht began as a Roman fort around AD 50.",
+    "A storm in 1674 destroyed the cathedral's nave, leaving the tower standing apart.",
+    "Utrecht Centraal has the world's largest bicycle parking, with about 12,500 spaces.",
+    "Dick Bruna, creator of Miffy, lived and worked in Utrecht.",
+    "The Rietveld Schröder House is a UNESCO World Heritage Site.",
+    "Adrian VI, the only Dutch pope, was born in Utrecht.",
+    "The Treaty of Utrecht of 1713 helped end the War of the Spanish Succession.",
+    "Utrecht University is the largest in the Netherlands.",
+    "Utrecht is about 25 minutes from Amsterdam by train.",
+    "Utrecht Centraal is the busiest station in the Netherlands.",
+    "The Miffy Museum is popular with families.",
+    "Castle de Haar is the largest castle in the Netherlands.",
+    "Utrecht's Dom Tower has 14 bells."
+  ],
+  "faq": [
+    {
+      "q": "Where is Utrecht located?",
+      "a": "Utrecht is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Utrecht?",
+      "a": "The greater Utrecht area is home to about 900,000 people."
+    },
+    {
+      "q": "What is Utrecht famous for?",
+      "a": "A lively student city in the middle of the Netherlands, Utrecht has unique two-level canals with wharf cellars at the water's edge and the Dom Tower, the country's tallest church tower."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Michielverbeek / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Utrecht,_de_Domtoren_(RM36075)_vanaf_de_Oudegracht_230_ongeveer_foto5_2015-11-01_08.56.jpg"
+  }
+}

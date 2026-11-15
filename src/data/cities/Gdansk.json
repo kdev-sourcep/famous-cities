@@ -1,0 +1,144 @@
+{
+  "slug": "Gdansk",
+  "name": "Gdańsk",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "1,100,000",
+  "seo": {
+    "title": "Gdańsk Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Gdańsk travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Gdańsk.",
+    "keywords": "Gdańsk, Gdańsk travel guide, things to do in Gdańsk, Gdańsk fun facts, where to stay in Gdańsk, Famous Cities"
+  },
+  "image": "Gdansk.jpg",
+  "video": "videos/gdansk.mp4",
+  "youtube": null,
+  "tagline": "A Baltic port with a thousand-year history, Gdańsk has a rebuilt Hanseatic old town, amber shops on Mariacka Street and the shipyard where Solidarity began.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Gda%C5%84sk",
+    "twitter": "https://twitter.com/search?q=visit%20Gda%C5%84sk",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gda%C5%84sk"
+  },
+  "overview": [
+    "Gdańsk sits at the mouth of the Vistula on the Baltic Sea and was one of the richest members of the Hanseatic League. Merchants from across Europe built the tall, decorated townhouses on the Royal Way, which runs from the Golden Gate along Long Street to Long Market and the Neptune Fountain.",
+    "World War II began here at Westerplatte in 1939, and the old town was badly damaged, then carefully rebuilt. The riverside Long Embankment is lined with cafés and the medieval wooden crane, and Mariacka Street is famous for amber jewellery. St Mary's is one of the largest brick churches in the world.",
+    "In 1980, strikes at the Gdańsk Shipyard led to Solidarity, the movement that helped end communism in Eastern Europe; the European Solidarity Centre tells that story. Gdańsk forms the Tricity with the seaside resort of Sopot and the port of Gdynia."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Gdansk&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Gda%C5%84sk",
+    "flights": "https://www.skyscanner.net/transport/flights/to/gdn/cheap-flights-to-gdansk.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Royal Way Walk",
+      "desc": "Long Street, Neptune Fountain and the crane.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gdansk%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gdansk%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "✊",
+      "title": "Solidarity & Shipyard",
+      "desc": "European Solidarity Centre and the shipyard.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gdansk%20Solidarity%20shipyard%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gdansk%20Solidarity%20shipyard%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Malbork Castle",
+      "desc": "The world's largest brick castle by area.",
+      "viator": "https://www.viator.com/searchResults/all?text=Malbork%20Castle%20tour%20from%20Gdansk",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Malbork%20Castle%20tour%20from%20Gdansk"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Sopot & Tricity",
+      "desc": "Sopot's pier and the Gdynia waterfront.",
+      "viator": "https://www.viator.com/searchResults/all?text=Tricity%20tour%20Gdansk%20Sopot%20Gdynia",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Tricity%20tour%20Gdansk%20Sopot%20Gdynia"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WHERE WWII BEGAN",
+      "text": "The first shots of World War II were fired at Westerplatte in Gdańsk on 1 September 1939."
+    },
+    {
+      "title": "BIRTHPLACE OF SOLIDARITY",
+      "text": "The Solidarity movement was founded at the Gdańsk Shipyard in 1980."
+    },
+    {
+      "title": "A MEDIEVAL CRANE",
+      "text": "The wooden Żuraw on the river was one of the largest port cranes in medieval Europe."
+    },
+    {
+      "title": "A GIANT BRICK CHURCH",
+      "text": "St Mary's Basilica is one of the largest brick churches in the world."
+    },
+    {
+      "title": "AMBER CAPITAL",
+      "text": "Gdańsk has long been a centre of the Baltic amber trade."
+    },
+    {
+      "title": "REBUILT BY HAND",
+      "text": "The old town was largely reconstructed after World War II."
+    },
+    {
+      "title": "HANSEATIC RICHES",
+      "text": "Gdańsk was among the wealthiest cities of the Hanseatic League."
+    },
+    {
+      "title": "A FREE CITY",
+      "text": "Between the world wars Gdańsk was the Free City of Danzig."
+    },
+    {
+      "title": "GOLDWASSER",
+      "text": "Gdańsk is known for Goldwasser, a herbal liqueur with gold flakes."
+    },
+    {
+      "title": "A LONG PIER",
+      "text": "Nearby Sopot has a wooden pier over 500 metres long."
+    }
+  ],
+  "randomFacts": [
+    "The first shots of World War II were fired at Westerplatte in Gdańsk on 1 September 1939.",
+    "The Solidarity movement was founded at the Gdańsk Shipyard in 1980.",
+    "The wooden Żuraw on the river was one of the largest port cranes in medieval Europe.",
+    "St Mary's Basilica is one of the largest brick churches in the world.",
+    "Gdańsk has long been a centre of the Baltic amber trade.",
+    "The old town was largely reconstructed after World War II.",
+    "Gdańsk was among the wealthiest cities of the Hanseatic League.",
+    "Between the world wars Gdańsk was the Free City of Danzig.",
+    "Gdańsk is known for Goldwasser, a herbal liqueur with gold flakes.",
+    "Nearby Sopot has a wooden pier over 500 metres long.",
+    "Neptune Fountain has stood on Long Market since the 1600s.",
+    "Gdańsk was called Danzig in German.",
+    "Lech Wałęsa led the 1980 shipyard strikes.",
+    "The Museum of the Second World War opened in 2017.",
+    "Gdańsk is about 3 hours from Warsaw by train."
+  ],
+  "faq": [
+    {
+      "q": "Where is Gdańsk located?",
+      "a": "Gdańsk is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Gdańsk?",
+      "a": "The greater Gdańsk area is home to about 1,100,000 people."
+    },
+    {
+      "q": "What is Gdańsk famous for?",
+      "a": "A Baltic port with a thousand-year history, Gdańsk has a rebuilt Hanseatic old town, amber shops on Mariacka Street and the shipyard where Solidarity began."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Diego Delso / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Calle_Dlugie_Pobrzeze,_Gdansk,_Polonia,_2013-05-20,_DD_06.jpg"
+  }
+}

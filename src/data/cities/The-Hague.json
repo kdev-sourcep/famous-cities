@@ -1,0 +1,144 @@
+{
+  "slug": "The-Hague",
+  "name": "The Hague",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "1,100,000",
+  "seo": {
+    "title": "The Hague Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "The Hague travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in The Hague.",
+    "keywords": "The Hague, The Hague travel guide, things to do in The Hague, The Hague fun facts, where to stay in The Hague, Famous Cities"
+  },
+  "image": "The-Hague.jpg",
+  "video": "videos/the-hague.mp4",
+  "youtube": null,
+  "tagline": "The seat of the Dutch government and royal family has the historic Binnenhof, the Peace Palace and Vermeer's Girl with a Pearl Earring, with Scheveningen beach on its doorstep.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20The%20Hague",
+    "twitter": "https://twitter.com/search?q=visit%20The%20Hague",
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Hague"
+  },
+  "overview": [
+    "The Hague is the Netherlands' political centre: parliament, the government and the king all work here, even though Amsterdam is the capital. The Binnenhof, a cluster of buildings around the medieval Ridderzaal beside the Hofvijver pond, has been the seat of Dutch politics for centuries.",
+    "It is also an international city of justice. The Peace Palace houses the International Court of Justice, and the International Criminal Court is based here too. The Mauritshuis, a 17th-century mansion museum, holds Vermeer's Girl with a Pearl Earring and Rembrandt's Anatomy Lesson of Dr Nicolaes Tulp.",
+    "Scheveningen, The Hague's seaside district, has a wide sandy beach, a pier with a Ferris wheel and seafood stalls. Madurodam's miniature Netherlands, the Escher in Het Paleis museum and leafy embassy streets round out a calm, elegant city."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=The%20Hague&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=The%20Hague",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ams/cheap-flights-to-amsterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "🖼️",
+      "title": "Mauritshuis Museum",
+      "desc": "Vermeer's Girl with a Pearl Earring.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mauritshuis%20The%20Hague%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mauritshuis%20The%20Hague%20tickets"
+    },
+    {
+      "icon": "⚖️",
+      "title": "Peace Palace",
+      "desc": "Home of the International Court of Justice.",
+      "viator": "https://www.viator.com/searchResults/all?text=Peace%20Palace%20The%20Hague%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Peace%20Palace%20The%20Hague%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Scheveningen Beach",
+      "desc": "Pier, Ferris wheel and North Sea sands.",
+      "viator": "https://www.viator.com/searchResults/all?text=Scheveningen%20beach%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Scheveningen%20beach%20tour"
+    },
+    {
+      "icon": "🏘️",
+      "title": "Madurodam",
+      "desc": "The Netherlands in miniature.",
+      "viator": "https://www.viator.com/searchResults/all?text=Madurodam%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Madurodam%20tickets"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "GOVERNMENT, NOT CAPITAL",
+      "text": "The Hague is the seat of government, but Amsterdam is the capital."
+    },
+    {
+      "title": "A MEDIEVAL PARLIAMENT",
+      "text": "The Binnenhof has been a centre of Dutch politics since the 13th century."
+    },
+    {
+      "title": "CITY OF PEACE AND JUSTICE",
+      "text": "The International Court of Justice sits in the Peace Palace."
+    },
+    {
+      "title": "THE PEARL EARRING",
+      "text": "Vermeer's Girl with a Pearl Earring hangs in the Mauritshuis."
+    },
+    {
+      "title": "A ROYAL CITY",
+      "text": "The Dutch king works from Noordeinde Palace in The Hague."
+    },
+    {
+      "title": "BEACH IN THE CITY",
+      "text": "Scheveningen is part of The Hague."
+    },
+    {
+      "title": "A TINY COUNTRY",
+      "text": "Madurodam shows Dutch landmarks at 1:25 scale."
+    },
+    {
+      "title": "ESCHER'S PALACE",
+      "text": "A former royal palace now displays M.C. Escher's art."
+    },
+    {
+      "title": "PRINSJESDAG",
+      "text": "Each September the king rides in a carriage to open the parliamentary year."
+    },
+    {
+      "title": "THE 'HAGUE' NAME",
+      "text": "Its Dutch name, Den Haag, comes from 's-Gravenhage, the count's hedge."
+    }
+  ],
+  "randomFacts": [
+    "The Hague is the seat of government, but Amsterdam is the capital.",
+    "The Binnenhof has been a centre of Dutch politics since the 13th century.",
+    "The International Court of Justice sits in the Peace Palace.",
+    "Vermeer's Girl with a Pearl Earring hangs in the Mauritshuis.",
+    "The Dutch king works from Noordeinde Palace in The Hague.",
+    "Scheveningen is part of The Hague.",
+    "Madurodam shows Dutch landmarks at 1:25 scale.",
+    "A former royal palace now displays M.C. Escher's art.",
+    "Each September the king rides in a carriage to open the parliamentary year.",
+    "Its Dutch name, Den Haag, comes from 's-Gravenhage, the count's hedge.",
+    "The Hague is about 50 minutes from Amsterdam by train.",
+    "The Ridderzaal dates from the 13th century.",
+    "Scheveningen's pier has a Ferris wheel over the sea.",
+    "The Hague has more than 160 international organisations.",
+    "Haring, raw herring, is sold from stalls at the beach."
+  ],
+  "faq": [
+    {
+      "q": "Where is The Hague located?",
+      "a": "The Hague is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of The Hague?",
+      "a": "The greater The Hague area is home to about 1,100,000 people."
+    },
+    {
+      "q": "What is The Hague famous for?",
+      "a": "The seat of the Dutch government and royal family has the historic Binnenhof, the Peace Palace and Vermeer's Girl with a Pearl Earring, with Scheveningen beach on its doorstep."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Michielverbeek / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Den_Haag,_het_Binnenhof_diverse_RM_met_de_Hofvijver_op_de_voorgrond_foto8_2015-08-05_18.56.jpg"
+  }
+}

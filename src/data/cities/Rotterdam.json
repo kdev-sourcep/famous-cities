@@ -1,0 +1,144 @@
+{
+  "slug": "Rotterdam",
+  "name": "Rotterdam",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Rotterdam Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Rotterdam travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Rotterdam.",
+    "keywords": "Rotterdam, Rotterdam travel guide, things to do in Rotterdam, Rotterdam fun facts, where to stay in Rotterdam, Famous Cities"
+  },
+  "image": "Rotterdam.jpg",
+  "video": "videos/rotterdam.mp4",
+  "youtube": null,
+  "tagline": "Rebuilt boldly after 1940, Rotterdam is the Netherlands' city of modern architecture, from the Cube Houses and Markthal to the Erasmus Bridge, beside Europe's largest port.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Rotterdam",
+    "twitter": "https://twitter.com/search?q=visit%20Rotterdam",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rotterdam"
+  },
+  "overview": [
+    "Rotterdam's centre was largely destroyed by bombing in May 1940, and instead of recreating the old city, planners and architects rebuilt it as a testing ground for new ideas. The result is a skyline unlike anywhere else in the Netherlands, crossed by the white Erasmus Bridge over the Maas.",
+    "Piet Blom's tilted yellow Cube Houses sit beside the Markthal, a horseshoe-shaped market hall whose ceiling is covered by a giant artwork. The Depot Boijmans Van Beuningen, a mirrored bowl, lets visitors see the museum's full art collection in storage, and the Euromast tower gives views over the city.",
+    "The Port of Rotterdam is the largest in Europe, stretching some 40 km toward the North Sea, and harbour boat tours show its scale. Historic Delfshaven, where the Pilgrims set sail in 1620, and the 19 windmills of Kinderdijk nearby add older Dutch scenery."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Rotterdam&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Rotterdam",
+    "flights": "https://www.skyscanner.net/transport/flights/to/rtm/cheap-flights-to-rotterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "🧊",
+      "title": "Cube Houses & Markthal",
+      "desc": "Rotterdam's famous modern architecture.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rotterdam%20architecture%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rotterdam%20architecture%20tour"
+    },
+    {
+      "icon": "🚢",
+      "title": "Harbour Boat Tour",
+      "desc": "See Europe's largest port from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Rotterdam%20harbour%20cruise%20Spido",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Rotterdam%20harbour%20cruise%20Spido"
+    },
+    {
+      "icon": "🌬️",
+      "title": "Kinderdijk Windmills",
+      "desc": "UNESCO windmills a short trip away.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kinderdijk%20windmills%20tour%20from%20Rotterdam",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kinderdijk%20windmills%20tour%20from%20Rotterdam"
+    },
+    {
+      "icon": "🗼",
+      "title": "Euromast",
+      "desc": "Views over the city from 185 metres.",
+      "viator": "https://www.viator.com/searchResults/all?text=Euromast%20Rotterdam",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Euromast%20Rotterdam"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "EUROPE'S LARGEST PORT",
+      "text": "The Port of Rotterdam is the biggest in Europe by cargo."
+    },
+    {
+      "title": "REBUILT AFTER 1940",
+      "text": "Rotterdam's centre was destroyed in the bombing of 14 May 1940."
+    },
+    {
+      "title": "TILTED HOMES",
+      "text": "Piet Blom's Cube Houses are tilted 45 degrees."
+    },
+    {
+      "title": "A MARKET UNDER ART",
+      "text": "The Markthal's arched ceiling is covered by an 11,000 m² artwork."
+    },
+    {
+      "title": "THE SWAN",
+      "text": "The Erasmus Bridge is nicknamed 'the Swan' for its shape."
+    },
+    {
+      "title": "PILGRIMS' PORT",
+      "text": "The Pilgrims sailed from Delfshaven in 1620 on their way to America."
+    },
+    {
+      "title": "A MIRRORED MUSEUM",
+      "text": "Depot Boijmans Van Beuningen is the world's first publicly accessible art depot."
+    },
+    {
+      "title": "TALLEST SKYLINE",
+      "text": "Rotterdam has many of the Netherlands' tallest buildings."
+    },
+    {
+      "title": "ERASMUS'S CITY",
+      "text": "The scholar Erasmus was born in Rotterdam around 1466."
+    },
+    {
+      "title": "A DIVERSE CITY",
+      "text": "Rotterdam is home to people of more than 170 nationalities."
+    }
+  ],
+  "randomFacts": [
+    "The Port of Rotterdam is the biggest in Europe by cargo.",
+    "Rotterdam's centre was destroyed in the bombing of 14 May 1940.",
+    "Piet Blom's Cube Houses are tilted 45 degrees.",
+    "The Markthal's arched ceiling is covered by an 11,000 m² artwork.",
+    "The Erasmus Bridge is nicknamed 'the Swan' for its shape.",
+    "The Pilgrims sailed from Delfshaven in 1620 on their way to America.",
+    "Depot Boijmans Van Beuningen is the world's first publicly accessible art depot.",
+    "Rotterdam has many of the Netherlands' tallest buildings.",
+    "The scholar Erasmus was born in Rotterdam around 1466.",
+    "Rotterdam is home to people of more than 170 nationalities.",
+    "Rotterdam is about 40 minutes from Amsterdam by train.",
+    "The SS Rotterdam ocean liner is now a hotel.",
+    "Kinderdijk's 19 windmills were built around 1740.",
+    "Fenix, a new migration museum, opened in a harbour warehouse in 2025.",
+    "Rotterdam hosted the Eurovision Song Contest in 2021."
+  ],
+  "faq": [
+    {
+      "q": "Where is Rotterdam located?",
+      "a": "Rotterdam is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Rotterdam?",
+      "a": "The greater Rotterdam area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Rotterdam famous for?",
+      "a": "Rebuilt boldly after 1940, Rotterdam is the Netherlands' city of modern architecture, from the Cube Houses and Markthal to the Erasmus Bridge, beside Europe's largest port."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Kristoffer Trolle from Copenhagen, Denmark / CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Erasmus_bridge_and_Rotterdam_skyline_(21458216300).jpg"
+  }
+}

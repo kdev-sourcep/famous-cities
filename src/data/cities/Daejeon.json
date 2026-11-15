@@ -1,0 +1,144 @@
+{
+  "slug": "Daejeon",
+  "name": "Daejeon",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "1,450,000",
+  "seo": {
+    "title": "Daejeon Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Daejeon travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Daejeon.",
+    "keywords": "Daejeon, Daejeon travel guide, things to do in Daejeon, Daejeon fun facts, where to stay in Daejeon, Famous Cities"
+  },
+  "image": "Daejeon.jpg",
+  "video": "videos/daejeon.mp4",
+  "youtube": null,
+  "tagline": "Korea's science city sits at the heart of the country, home to Daedeok Innopolis research labs, the 1993 Expo park, hot springs and calm mountain trails.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Daejeon",
+    "twitter": "https://twitter.com/search?q=visit%20Daejeon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daejeon"
+  },
+  "overview": [
+    "Daejeon is a central crossroads where Korea's main railway lines meet, about an hour from Seoul by KTX. It grew from a small town into a major city after the railway arrived in the early 1900s, and today it is best known as the country's centre for science and research.",
+    "Daedeok Innopolis hosts dozens of government research institutes, university labs and tech companies, along with KAIST, one of Korea's top science universities. The 1993 Daejeon Expo left behind Expo Science Park and the Hanbit Tower, and the National Science Museum is one of the largest in Korea.",
+    "The city is also known for Yuseong Hot Springs, Ppuri Park with its family-name monuments, and Sung Sim Dang, a bakery founded in 1956 that has become a destination in its own right. Gyejoksan's barefoot red-clay trail and Daecheong Lake are easy escapes nearby."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Daejeon&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Daejeon",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sel/cheap-flights-to-seoul.html"
+  },
+  "topThings": [
+    {
+      "icon": "🔬",
+      "title": "Expo Science Park",
+      "desc": "Hanbit Tower and the 1993 Expo grounds.",
+      "viator": "https://www.viator.com/searchResults/all?text=Daejeon%20Expo%20Science%20Park",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Daejeon%20Expo%20Science%20Park"
+    },
+    {
+      "icon": "♨️",
+      "title": "Yuseong Hot Springs",
+      "desc": "Soak in the city's historic hot-spring district.",
+      "viator": "https://www.viator.com/searchResults/all?text=Daejeon%20Yuseong%20hot%20springs",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Daejeon%20Yuseong%20hot%20springs"
+    },
+    {
+      "icon": "🥖",
+      "title": "Sung Sim Dang Bakery",
+      "desc": "Taste the famous fried soboro bread.",
+      "viator": "https://www.viator.com/searchResults/all?text=Daejeon%20food%20tour%20Sung%20Sim%20Dang",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Daejeon%20food%20tour%20Sung%20Sim%20Dang"
+    },
+    {
+      "icon": "🌲",
+      "title": "Gyejoksan Red Clay Trail",
+      "desc": "A barefoot walk on a 14-km red clay path.",
+      "viator": "https://www.viator.com/searchResults/all?text=Gyejoksan%20red%20clay%20trail%20Daejeon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Gyejoksan%20red%20clay%20trail%20Daejeon"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "KOREA'S SILICON VALLEY",
+      "text": "Daedeok Innopolis is one of Asia's largest research clusters."
+    },
+    {
+      "title": "A RAILWAY CITY",
+      "text": "Daejeon grew up around the Gyeongbu and Honam railway lines."
+    },
+    {
+      "title": "EXPO '93",
+      "text": "Daejeon hosted the 1993 World Expo, Korea's first."
+    },
+    {
+      "title": "A FAMOUS BAKERY",
+      "text": "Sung Sim Dang, opened in 1956, is so popular people travel to Daejeon just for it."
+    },
+    {
+      "title": "HOME OF KAIST",
+      "text": "KAIST, Korea's leading science university, is based in Daejeon."
+    },
+    {
+      "title": "BAREFOOT HIKING",
+      "text": "Gyejoksan's red clay trail is meant to be walked barefoot."
+    },
+    {
+      "title": "HOT SPRINGS HISTORY",
+      "text": "Yuseong Hot Springs have been used for hundreds of years."
+    },
+    {
+      "title": "FAMILY-NAME PARK",
+      "text": "Ppuri Park has monuments for Korean family clans."
+    },
+    {
+      "title": "KOREA'S GOVERNMENT TWIN",
+      "text": "Many national government agencies moved to the Daejeon Government Complex."
+    },
+    {
+      "title": "A LAKE NEARBY",
+      "text": "Daecheong Lake, a large reservoir, lies on the city's edge."
+    }
+  ],
+  "randomFacts": [
+    "Daedeok Innopolis is one of Asia's largest research clusters.",
+    "Daejeon grew up around the Gyeongbu and Honam railway lines.",
+    "Daejeon hosted the 1993 World Expo, Korea's first.",
+    "Sung Sim Dang, opened in 1956, is so popular people travel to Daejeon just for it.",
+    "KAIST, Korea's leading science university, is based in Daejeon.",
+    "Gyejoksan's red clay trail is meant to be walked barefoot.",
+    "Yuseong Hot Springs have been used for hundreds of years.",
+    "Ppuri Park has monuments for Korean family clans.",
+    "Many national government agencies moved to the Daejeon Government Complex.",
+    "Daecheong Lake, a large reservoir, lies on the city's edge.",
+    "Daejeon is about 50 minutes from Seoul by KTX.",
+    "Kalguksu, knife-cut noodle soup, is a Daejeon favourite.",
+    "The National Science Museum has a planetarium and space hall.",
+    "Hanbat Arboretum is one of Korea's largest urban arboretums.",
+    "Daejeon's name means 'big field'."
+  ],
+  "faq": [
+    {
+      "q": "Where is Daejeon located?",
+      "a": "Daejeon is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Daejeon?",
+      "a": "The greater Daejeon area is home to about 1,450,000 people."
+    },
+    {
+      "q": "What is Daejeon famous for?",
+      "a": "Korea's science city sits at the heart of the country, home to Daedeok Innopolis research labs, the 1993 Expo park, hot springs and calm mountain trails."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Jo / CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Korea-Daejeon-Uam_Historic_Park-01.jpg"
+  }
+}

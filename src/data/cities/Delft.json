@@ -1,0 +1,144 @@
+{
+  "slug": "Delft",
+  "name": "Delft",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "105,000",
+  "seo": {
+    "title": "Delft Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Delft travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Delft.",
+    "keywords": "Delft, Delft travel guide, things to do in Delft, Delft fun facts, where to stay in Delft, Famous Cities"
+  },
+  "image": "Delft.jpg",
+  "video": "videos/delft.mp4",
+  "youtube": null,
+  "tagline": "Canal-laced Delft is the city of Vermeer and blue-and-white Delftware, with a market square between two great churches and the tombs of the Dutch royal family.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Delft",
+    "twitter": "https://twitter.com/search?q=visit%20Delft",
+    "wikipedia": "https://en.wikipedia.org/wiki/Delft"
+  },
+  "overview": [
+    "Delft is a small, picture-perfect city of canals, bridges and gabled houses between Rotterdam and The Hague. Its Markt is framed by the Renaissance City Hall and the New Church, whose tower can be climbed and whose crypt holds the Dutch royal family.",
+    "The painter Johannes Vermeer was born and worked here; his View of Delft and The Little Street show the city in the 1600s, and the Vermeer Centrum explains his life and techniques. The Old Church, with its leaning tower, is where Vermeer is buried.",
+    "Delft gave its name to Delftware, the blue-and-white pottery made since the 17th century, and Royal Delft still paints it by hand. Delft University of Technology is the country's largest technical university, giving the old town a young population."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Delft&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Delft",
+    "flights": "https://www.skyscanner.net/transport/flights/to/rtm/cheap-flights-to-rotterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏺",
+      "title": "Royal Delft Factory",
+      "desc": "Watch Delft Blue painted by hand.",
+      "viator": "https://www.viator.com/searchResults/all?text=Royal%20Delft%20factory%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Royal%20Delft%20factory%20tour"
+    },
+    {
+      "icon": "🖼️",
+      "title": "Vermeer Centrum",
+      "desc": "The life and art of Johannes Vermeer.",
+      "viator": "https://www.viator.com/searchResults/all?text=Vermeer%20Centrum%20Delft",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Vermeer%20Centrum%20Delft"
+    },
+    {
+      "icon": "⛪",
+      "title": "New Church Tower",
+      "desc": "Climb for views over the canals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Delft%20New%20Church%20tower",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Delft%20New%20Church%20tower"
+    },
+    {
+      "icon": "🛶",
+      "title": "Delft Canal Cruise",
+      "desc": "See the old town from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Delft%20canal%20boat%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Delft%20canal%20boat%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "VERMEER'S CITY",
+      "text": "Johannes Vermeer was born in Delft in 1632."
+    },
+    {
+      "title": "DELFT BLUE",
+      "text": "Delftware has been made here since the 1600s."
+    },
+    {
+      "title": "ROYAL TOMBS",
+      "text": "Members of the House of Orange are buried in the New Church."
+    },
+    {
+      "title": "A LEANING TOWER",
+      "text": "The Old Church's tower leans about 2 metres."
+    },
+    {
+      "title": "WILLIAM OF ORANGE",
+      "text": "The founder of the Netherlands was assassinated in Delft in 1584."
+    },
+    {
+      "title": "TECH UNIVERSITY",
+      "text": "TU Delft is the largest technical university in the Netherlands."
+    },
+    {
+      "title": "GUNPOWDER BLAST",
+      "text": "The Delft Thunderclap of 1654 destroyed much of the city."
+    },
+    {
+      "title": "HUGO GROTIUS",
+      "text": "The legal scholar Hugo Grotius was born in Delft."
+    },
+    {
+      "title": "MICROSCOPE PIONEER",
+      "text": "Antonie van Leeuwenhoek discovered bacteria with microscopes in Delft."
+    },
+    {
+      "title": "A ROYAL CERAMIC MAKER",
+      "text": "Royal Delft is the last remaining 17th-century pottery."
+    }
+  ],
+  "randomFacts": [
+    "Johannes Vermeer was born in Delft in 1632.",
+    "Delftware has been made here since the 1600s.",
+    "Members of the House of Orange are buried in the New Church.",
+    "The Old Church's tower leans about 2 metres.",
+    "The founder of the Netherlands was assassinated in Delft in 1584.",
+    "TU Delft is the largest technical university in the Netherlands.",
+    "The Delft Thunderclap of 1654 destroyed much of the city.",
+    "The legal scholar Hugo Grotius was born in Delft.",
+    "Antonie van Leeuwenhoek discovered bacteria with microscopes in Delft.",
+    "Royal Delft is the last remaining 17th-century pottery.",
+    "Delft is about 15 minutes from The Hague by tram.",
+    "The Markt holds a weekly market on Thursdays.",
+    "Vermeer's View of Delft hangs in the Mauritshuis.",
+    "Delft's East Gate dates from around 1400.",
+    "The Prinsenhof museum is where William of Orange was shot."
+  ],
+  "faq": [
+    {
+      "q": "Where is Delft located?",
+      "a": "Delft is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Delft?",
+      "a": "The greater Delft area is home to about 105,000 people."
+    },
+    {
+      "q": "What is Delft famous for?",
+      "a": "Canal-laced Delft is the city of Vermeer and blue-and-white Delftware, with a market square between two great churches and the tombs of the Dutch royal family."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Natubico (non-nature images) / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Delft_city_view_2.JPG"
+  }
+}

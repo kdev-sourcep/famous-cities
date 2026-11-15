@@ -1,0 +1,144 @@
+{
+  "slug": "Krakow",
+  "name": "Kraków",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "1,500,000",
+  "seo": {
+    "title": "Kraków Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Kraków travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Kraków.",
+    "keywords": "Kraków, Kraków travel guide, things to do in Kraków, Kraków fun facts, where to stay in Kraków, Famous Cities"
+  },
+  "image": "Krakow.jpg",
+  "video": "videos/krakow.mp4",
+  "youtube": null,
+  "tagline": "Poland's former royal capital has one of Europe's largest medieval market squares, Wawel Castle above the Vistula and the historic Jewish quarter of Kazimierz.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Krak%C3%B3w",
+    "twitter": "https://twitter.com/search?q=visit%20Krak%C3%B3w",
+    "wikipedia": "https://en.wikipedia.org/wiki/Krak%C3%B3w"
+  },
+  "overview": [
+    "Kraków was Poland's capital for more than 500 years, and unlike Warsaw its old town survived World War II largely intact. The historic centre was among the first places listed by UNESCO in 1978, and Rynek Główny, its 13th-century main square, is one of the largest medieval squares in Europe.",
+    "The square is framed by the Cloth Hall, a Renaissance market hall, and St Mary's Basilica, where a trumpeter plays the hejnał from the tower every hour and stops mid-tune. The Royal Road leads south to Wawel Hill, with the royal castle and the cathedral where most Polish kings were crowned and buried.",
+    "Kazimierz, the old Jewish quarter, is now full of synagogues, cafés and bars, and across the river Oskar Schindler's factory is a museum on the wartime occupation. Day trips go to the Wieliczka Salt Mine and to the Auschwitz-Birkenau memorial."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Krakow&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Krak%C3%B3w",
+    "flights": "https://www.skyscanner.net/transport/flights/to/krk/cheap-flights-to-krakow.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Wawel Castle & Old Town",
+      "desc": "Royal castle, cathedral and Rynek Główny.",
+      "viator": "https://www.viator.com/searchResults/all?text=Krakow%20Old%20Town%20and%20Wawel%20Castle%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Krakow%20Old%20Town%20and%20Wawel%20Castle%20tour"
+    },
+    {
+      "icon": "🧂",
+      "title": "Wieliczka Salt Mine",
+      "desc": "Underground chapels carved out of salt.",
+      "viator": "https://www.viator.com/searchResults/all?text=Wieliczka%20Salt%20Mine%20tour%20from%20Krakow",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Wieliczka%20Salt%20Mine%20tour%20from%20Krakow"
+    },
+    {
+      "icon": "🕍",
+      "title": "Kazimierz & Schindler's Factory",
+      "desc": "Jewish heritage and WWII history.",
+      "viator": "https://www.viator.com/searchResults/all?text=Krakow%20Kazimierz%20Schindler%20factory%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Krakow%20Kazimierz%20Schindler%20factory%20tour"
+    },
+    {
+      "icon": "🕯️",
+      "title": "Auschwitz-Birkenau Memorial",
+      "desc": "Guided visit to the memorial and museum.",
+      "viator": "https://www.viator.com/searchResults/all?text=Auschwitz%20Birkenau%20tour%20from%20Krakow",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Auschwitz%20Birkenau%20tour%20from%20Krakow"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "CAPITAL FOR 500 YEARS",
+      "text": "Kraków was Poland's capital until the royal court moved to Warsaw around 1596."
+    },
+    {
+      "title": "A GIANT MEDIEVAL SQUARE",
+      "text": "Rynek Główny covers about 4 hectares, one of Europe's largest medieval squares."
+    },
+    {
+      "title": "THE BROKEN TUNE",
+      "text": "The hourly trumpet call from St Mary's stops abruptly, recalling a legendary guard shot mid-call."
+    },
+    {
+      "title": "AMONG UNESCO'S FIRST",
+      "text": "Kraków's historic centre was on UNESCO's first World Heritage list in 1978."
+    },
+    {
+      "title": "KINGS IN THE CATHEDRAL",
+      "text": "Most Polish monarchs were crowned and buried in Wawel Cathedral."
+    },
+    {
+      "title": "A DRAGON ON THE HILL",
+      "text": "Legend says the Wawel Dragon lived in a cave below the castle; a statue there breathes fire."
+    },
+    {
+      "title": "A SALT CATHEDRAL",
+      "text": "The Wieliczka mine's Chapel of St Kinga is carved entirely from rock salt."
+    },
+    {
+      "title": "AN ANCIENT UNIVERSITY",
+      "text": "Jagiellonian University, founded in 1364, is one of Europe's oldest; Copernicus studied there."
+    },
+    {
+      "title": "OBWARZANEK",
+      "text": "Ring-shaped obwarzanek bread rolls are sold from carts all over town."
+    },
+    {
+      "title": "SPARED BY WAR",
+      "text": "Kraków's old town came through World War II with little damage."
+    }
+  ],
+  "randomFacts": [
+    "Kraków was Poland's capital until the royal court moved to Warsaw around 1596.",
+    "Rynek Główny covers about 4 hectares, one of Europe's largest medieval squares.",
+    "The hourly trumpet call from St Mary's stops abruptly, recalling a legendary guard shot mid-call.",
+    "Kraków's historic centre was on UNESCO's first World Heritage list in 1978.",
+    "Most Polish monarchs were crowned and buried in Wawel Cathedral.",
+    "Legend says the Wawel Dragon lived in a cave below the castle; a statue there breathes fire.",
+    "The Wieliczka mine's Chapel of St Kinga is carved entirely from rock salt.",
+    "Jagiellonian University, founded in 1364, is one of Europe's oldest; Copernicus studied there.",
+    "Ring-shaped obwarzanek bread rolls are sold from carts all over town.",
+    "Kraków's old town came through World War II with little damage.",
+    "Kraków's Cloth Hall has been a market for over 700 years.",
+    "Pope John Paul II was archbishop of Kraków.",
+    "Planty park circles the old town where the walls once stood.",
+    "Pierogi are found on almost every Kraków menu.",
+    "Kraków was European Capital of Culture in 2000."
+  ],
+  "faq": [
+    {
+      "q": "Where is Kraków located?",
+      "a": "Kraków is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Kraków?",
+      "a": "The greater Kraków area is home to about 1,500,000 people."
+    },
+    {
+      "q": "What is Kraków famous for?",
+      "a": "Poland's former royal capital has one of Europe's largest medieval market squares, Wawel Castle above the Vistula and the historic Jewish quarter of Kazimierz."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Andrzej Otrębski / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Krakow_Rynek_Glowny_panorama_2.jpg"
+  }
+}

@@ -11,6 +11,7 @@ export interface City {
   topThings: { icon: string; title: string; desc: string; viator?: string; getyourguide?: string }[];
   funFacts: { title: string; text: string }[]; randomFacts: string[]; faq: { q: string; a: string }[];
   speedTour: boolean; rank2026: number | null;
+  photoCredit?: { text: string; url: string };
 }
 
 export const SITE_NAME = "Famous Cities";

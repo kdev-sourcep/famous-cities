@@ -1,0 +1,144 @@
+{
+  "slug": "Haarlem",
+  "name": "Haarlem",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "250,000",
+  "seo": {
+    "title": "Haarlem Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Haarlem travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Haarlem.",
+    "keywords": "Haarlem, Haarlem travel guide, things to do in Haarlem, Haarlem fun facts, where to stay in Haarlem, Famous Cities"
+  },
+  "image": "Haarlem.jpg",
+  "video": "videos/haarlem.mp4",
+  "youtube": null,
+  "tagline": "Fifteen minutes from Amsterdam, Haarlem has a grand Grote Markt, the Frans Hals Museum, hidden almshouse courtyards and the tulip fields of Keukenhof nearby.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Haarlem",
+    "twitter": "https://twitter.com/search?q=visit%20Haarlem",
+    "wikipedia": "https://en.wikipedia.org/wiki/Haarlem"
+  },
+  "overview": [
+    "Haarlem is the capital of North Holland and a relaxed alternative to nearby Amsterdam. Its Grote Markt, one of the most beautiful squares in the country, is dominated by the Great Church of St Bavo, whose organ was played by a young Mozart.",
+    "The city was a centre of the Dutch Golden Age, and the Frans Hals Museum shows portraits by the master who lived here. The Teylers Museum, opened in 1784, is the oldest museum in the Netherlands, and dozens of hofjes, quiet almshouse courtyards, hide behind doors around the centre.",
+    "Haarlem is surrounded by the bulb fields of the Bollenstreek, which bloom in spring, and Keukenhof gardens are a short ride away. The dunes and beach at Zandvoort are about 15 minutes by train, and De Adriaan windmill stands on the Spaarne river."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Haarlem&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Haarlem",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ams/cheap-flights-to-amsterdam.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌷",
+      "title": "Keukenhof & Tulip Fields",
+      "desc": "Spring flowers in the bulb region.",
+      "viator": "https://www.viator.com/searchResults/all?text=Keukenhof%20tour%20from%20Haarlem",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Keukenhof%20tour%20from%20Haarlem"
+    },
+    {
+      "icon": "🖼️",
+      "title": "Frans Hals Museum",
+      "desc": "Golden Age portraits in an almshouse.",
+      "viator": "https://www.viator.com/searchResults/all?text=Frans%20Hals%20Museum%20Haarlem",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Frans%20Hals%20Museum%20Haarlem"
+    },
+    {
+      "icon": "⛪",
+      "title": "Grote Markt & St Bavo",
+      "desc": "The square and Mozart's organ.",
+      "viator": "https://www.viator.com/searchResults/all?text=Haarlem%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Haarlem%20walking%20tour"
+    },
+    {
+      "icon": "🌬️",
+      "title": "Windmill De Adriaan",
+      "desc": "Climb a working windmill on the Spaarne.",
+      "viator": "https://www.viator.com/searchResults/all?text=Windmill%20De%20Adriaan%20Haarlem",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Windmill%20De%20Adriaan%20Haarlem"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "MOZART PLAYED HERE",
+      "text": "A 10-year-old Mozart played St Bavo's Müller organ in 1766."
+    },
+    {
+      "title": "OLDEST MUSEUM",
+      "text": "Teylers Museum, opened in 1784, is the oldest museum in the Netherlands."
+    },
+    {
+      "title": "HIDDEN COURTYARDS",
+      "text": "Haarlem has around 20 hofjes, historic almshouse courtyards."
+    },
+    {
+      "title": "FRANS HALS'S HOME",
+      "text": "The painter Frans Hals lived and worked in Haarlem."
+    },
+    {
+      "title": "TULIP COUNTRY",
+      "text": "Haarlem lies at the edge of the Bollenstreek bulb region."
+    },
+    {
+      "title": "HARLEM'S NAMESAKE",
+      "text": "New York's Harlem was named after Haarlem."
+    },
+    {
+      "title": "A BRAVE HERO",
+      "text": "Corrie ten Boom's family hid refugees in their Haarlem home during WWII."
+    },
+    {
+      "title": "BEACH BY TRAIN",
+      "text": "Zandvoort beach is about 15 minutes away by train."
+    },
+    {
+      "title": "OLD RAILWAY",
+      "text": "The first Dutch railway ran between Amsterdam and Haarlem in 1839."
+    },
+    {
+      "title": "JOPENBIER",
+      "text": "Haarlem's Jopen brewery operates in a former church."
+    }
+  ],
+  "randomFacts": [
+    "A 10-year-old Mozart played St Bavo's Müller organ in 1766.",
+    "Teylers Museum, opened in 1784, is the oldest museum in the Netherlands.",
+    "Haarlem has around 20 hofjes, historic almshouse courtyards.",
+    "The painter Frans Hals lived and worked in Haarlem.",
+    "Haarlem lies at the edge of the Bollenstreek bulb region.",
+    "New York's Harlem was named after Haarlem.",
+    "Corrie ten Boom's family hid refugees in their Haarlem home during WWII.",
+    "Zandvoort beach is about 15 minutes away by train.",
+    "The first Dutch railway ran between Amsterdam and Haarlem in 1839.",
+    "Haarlem's Jopen brewery operates in a former church.",
+    "Haarlem is about 15 minutes from Amsterdam by train.",
+    "Haarlem station is one of the oldest in the Netherlands.",
+    "The Corrie ten Boom House is now a museum.",
+    "Haarlem hosts a flower parade in spring.",
+    "The Amsterdamse Poort is the last remaining city gate."
+  ],
+  "faq": [
+    {
+      "q": "Where is Haarlem located?",
+      "a": "Haarlem is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Haarlem?",
+      "a": "The greater Haarlem area is home to about 250,000 people."
+    },
+    {
+      "q": "What is Haarlem famous for?",
+      "a": "Fifteen minutes from Amsterdam, Haarlem has a grand Grote Markt, the Frans Hals Museum, hidden almshouse courtyards and the tulip fields of Keukenhof nearby."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: This Photo was taken by Wolfgang Moroder. Feel free to use my photos,  / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Grote_Markt_Stadthuis_Harlem.jpg"
+  }
+}

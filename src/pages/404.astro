@@ -5,7 +5,7 @@ import CityCard from "../components/CityCard.astro";
 import { cities, url } from "../lib/site";
 const picks = ["Paris", "London", "Tokyo", "New York"].map((n) => cities.find((c) => c.name === n)!).filter(Boolean);
 ---
-<BaseLayout title="Page not found | Famous Cities" description="That page doesn't exist. Search for a city or browse all 92 guides." path="404.html" noindex>
+<BaseLayout title="Page not found | Famous Cities" description={`That page doesn't exist. Search for a city or browse all ${cities.length} guides.`} path="404.html" noindex>
   <section class="page-hero page-hero--center">
     <div class="container">
       <span class="eyebrow">Error 404</span>

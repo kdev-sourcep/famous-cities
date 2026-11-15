@@ -1,0 +1,144 @@
+{
+  "slug": "Valencia",
+  "name": "Valencia",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "1,600,000",
+  "seo": {
+    "title": "Valencia Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Valencia travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Valencia.",
+    "keywords": "Valencia, Valencia travel guide, things to do in Valencia, Valencia fun facts, where to stay in Valencia, Famous Cities"
+  },
+  "image": "Valencia.jpg",
+  "video": "videos/valencia.mp4",
+  "youtube": null,
+  "tagline": "Spain's third city mixes the futuristic City of Arts and Sciences with a medieval old town, a nine-kilometre riverbed park, beaches and the birthplace of paella.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Valencia",
+    "twitter": "https://twitter.com/search?q=visit%20Valencia",
+    "wikipedia": "https://en.wikipedia.org/wiki/Valencia"
+  },
+  "overview": [
+    "Valencia sits on Spain's Mediterranean coast and is the country's third-largest city. After a flood in 1957, the Turia River was diverted, and its old bed became the Jardín del Turia, a nine-kilometre park that winds through the city.",
+    "At the park's end rises the City of Arts and Sciences, Santiago Calatrava's white complex of museums, an opera house and Europe's largest aquarium. The old town has the cathedral, which claims to hold the Holy Grail, the Gothic Silk Exchange (a UNESCO site) and the Central Market, one of Europe's largest.",
+    "Valencia is the home of paella, cooked with rice from the Albufera lagoon just south of town. Malvarrosa beach is a tram ride away, and every March the Fallas festival fills the streets with giant figures that are burned on the final night."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Valencia&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Valencia",
+    "flights": "https://www.skyscanner.net/transport/flights/to/vlc/cheap-flights-to-valencia.html"
+  },
+  "topThings": [
+    {
+      "icon": "🔭",
+      "title": "City of Arts and Sciences",
+      "desc": "Calatrava's futuristic complex.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valencia%20City%20of%20Arts%20and%20Sciences%20tickets",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valencia%20City%20of%20Arts%20and%20Sciences%20tickets"
+    },
+    {
+      "icon": "🥘",
+      "title": "Paella Cooking Class",
+      "desc": "Learn to cook paella where it began.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valencia%20paella%20cooking%20class",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valencia%20paella%20cooking%20class"
+    },
+    {
+      "icon": "🚣",
+      "title": "Albufera Boat Trip",
+      "desc": "Rice fields and lagoon at sunset.",
+      "viator": "https://www.viator.com/searchResults/all?text=Albufera%20boat%20tour%20Valencia",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Albufera%20boat%20tour%20Valencia"
+    },
+    {
+      "icon": "🚲",
+      "title": "Turia Gardens Bike Tour",
+      "desc": "Ride the old riverbed park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Valencia%20bike%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Valencia%20bike%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "PAELLA'S HOME",
+      "text": "Paella was first cooked in the Valencia region."
+    },
+    {
+      "title": "A RIVER TURNED PARK",
+      "text": "The Turia's old riverbed is now a 9-km park."
+    },
+    {
+      "title": "EUROPE'S LARGEST AQUARIUM",
+      "text": "L'Oceanogràfic is the largest aquarium in Europe."
+    },
+    {
+      "title": "A HOLY GRAIL CLAIM",
+      "text": "Valencia Cathedral holds a cup venerated as the Holy Grail."
+    },
+    {
+      "title": "UNESCO SILK EXCHANGE",
+      "text": "La Lonja de la Seda is a World Heritage Site."
+    },
+    {
+      "title": "FIRE FESTIVAL",
+      "text": "Las Fallas sees huge figures burned every March."
+    },
+    {
+      "title": "A GIANT MARKET",
+      "text": "The Mercado Central is one of Europe's oldest-running markets."
+    },
+    {
+      "title": "ORANGE COUNTRY",
+      "text": "Valencian oranges are famous throughout Europe."
+    },
+    {
+      "title": "HORCHATA",
+      "text": "Horchata de chufa, a tiger-nut drink, is a local favourite."
+    },
+    {
+      "title": "WATER COURT",
+      "text": "The Water Tribunal has met outside the cathedral for centuries."
+    }
+  ],
+  "randomFacts": [
+    "Paella was first cooked in the Valencia region.",
+    "The Turia's old riverbed is now a 9-km park.",
+    "L'Oceanogràfic is the largest aquarium in Europe.",
+    "Valencia Cathedral holds a cup venerated as the Holy Grail.",
+    "La Lonja de la Seda is a World Heritage Site.",
+    "Las Fallas sees huge figures burned every March.",
+    "The Mercado Central is one of Europe's oldest-running markets.",
+    "Valencian oranges are famous throughout Europe.",
+    "Horchata de chufa, a tiger-nut drink, is a local favourite.",
+    "The Water Tribunal has met outside the cathedral for centuries.",
+    "Valencia is about 1 hour 50 minutes from Madrid by train.",
+    "Valencia was European Green Capital in 2024.",
+    "The Albufera lagoon is a natural park.",
+    "Malvarrosa beach is lined with paella restaurants.",
+    "Valencia hosted the America's Cup in 2007 and 2010."
+  ],
+  "faq": [
+    {
+      "q": "Where is Valencia located?",
+      "a": "Valencia is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Valencia?",
+      "a": "The greater Valencia area is home to about 1,600,000 people."
+    },
+    {
+      "q": "What is Valencia famous for?",
+      "a": "Spain's third city mixes the futuristic City of Arts and Sciences with a medieval old town, a nine-kilometre riverbed park, beaches and the birthplace of paella."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Choinowski / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:City_of_Arts_and_Sciences_Valencia_in_2014.jpg"
+  }
+}

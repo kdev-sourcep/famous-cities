@@ -1,0 +1,144 @@
+{
+  "slug": "Cordoba-Spain",
+  "name": "Córdoba",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "320,000",
+  "seo": {
+    "title": "Córdoba Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Córdoba travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Córdoba.",
+    "keywords": "Córdoba, Córdoba travel guide, things to do in Córdoba, Córdoba fun facts, where to stay in Córdoba, Famous Cities"
+  },
+  "image": "Cordoba-Spain.jpg",
+  "video": "videos/cordoba-spain.mp4",
+  "youtube": null,
+  "tagline": "Once the greatest city of Islamic Spain, Córdoba is famous for the Mezquita, a mosque-cathedral of striped arches, a Roman bridge and flower-filled patios.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20C%C3%B3rdoba",
+    "twitter": "https://twitter.com/search?q=visit%20C%C3%B3rdoba",
+    "wikipedia": "https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Spain"
+  },
+  "overview": [
+    "Córdoba, on the Guadalquivir River in Andalusia, was the capital of the Caliphate of Córdoba in the 10th century and one of the largest, most learned cities in Europe. Muslims, Christians and Jews lived and worked here, and its scholars included the philosophers Averroes and Maimonides.",
+    "Its great monument is the Mezquita, a mosque begun in 785 with a forest of red-and-white striped arches; after 1236 it became a cathedral, and a Renaissance nave was built in its centre. The Roman Bridge leads to it across the river, and the historic centre is a UNESCO World Heritage Site.",
+    "The Judería, the old Jewish quarter, has a medieval synagogue and narrow white lanes. In May, the Patios Festival opens private courtyards covered in flowerpots to visitors, and the Alcázar de los Reyes Cristianos has terraced gardens and Roman mosaics. Medina Azahara, a ruined caliphal city, lies just outside town."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Cordoba%2C%20Spain&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=C%C3%B3rdoba",
+    "flights": "https://www.skyscanner.net/transport/flights/to/svq/cheap-flights-to-seville.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Mezquita-Catedral",
+      "desc": "Striped arches of the mosque-cathedral.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cordoba%20Mezquita%20guided%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cordoba%20Mezquita%20guided%20tour"
+    },
+    {
+      "icon": "🌸",
+      "title": "Patios & Judería",
+      "desc": "Flower courtyards and the Jewish quarter.",
+      "viator": "https://www.viator.com/searchResults/all?text=Cordoba%20patios%20Jewish%20quarter%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Cordoba%20patios%20Jewish%20quarter%20tour"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Medina Azahara",
+      "desc": "Ruins of a 10th-century palace city.",
+      "viator": "https://www.viator.com/searchResults/all?text=Medina%20Azahara%20tour%20from%20Cordoba",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Medina%20Azahara%20tour%20from%20Cordoba"
+    },
+    {
+      "icon": "🏰",
+      "title": "Alcázar de los Reyes Cristianos",
+      "desc": "Fortress, gardens and mosaics.",
+      "viator": "https://www.viator.com/searchResults/all?text=Alcazar%20Cordoba",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Alcazar%20Cordoba"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A CALIPH'S CAPITAL",
+      "text": "Córdoba was capital of the Caliphate of Córdoba in the 900s."
+    },
+    {
+      "title": "A FOREST OF ARCHES",
+      "text": "The Mezquita has more than 800 columns."
+    },
+    {
+      "title": "A CATHEDRAL INSIDE A MOSQUE",
+      "text": "A Renaissance cathedral was built in the Mezquita's centre in the 1500s."
+    },
+    {
+      "title": "ROMAN ROOTS",
+      "text": "Córdoba's Roman Bridge dates back to the 1st century BC."
+    },
+    {
+      "title": "GREAT THINKERS",
+      "text": "Averroes and Maimonides were born in Córdoba."
+    },
+    {
+      "title": "SENECA'S CITY",
+      "text": "The Roman philosopher Seneca was born here."
+    },
+    {
+      "title": "FOUR UNESCO LISTINGS",
+      "text": "The Mezquita, historic centre, Patios Festival and Medina Azahara are UNESCO-listed."
+    },
+    {
+      "title": "FLOWER PATIOS",
+      "text": "The May Patios Festival is a UNESCO intangible heritage."
+    },
+    {
+      "title": "SALMOREJO",
+      "text": "Córdoba's thick cold tomato soup is salmorejo."
+    },
+    {
+      "title": "HOT SUMMERS",
+      "text": "Córdoba is one of the hottest cities in Europe in summer."
+    }
+  ],
+  "randomFacts": [
+    "Córdoba was capital of the Caliphate of Córdoba in the 900s.",
+    "The Mezquita has more than 800 columns.",
+    "A Renaissance cathedral was built in the Mezquita's centre in the 1500s.",
+    "Córdoba's Roman Bridge dates back to the 1st century BC.",
+    "Averroes and Maimonides were born in Córdoba.",
+    "The Roman philosopher Seneca was born here.",
+    "The Mezquita, historic centre, Patios Festival and Medina Azahara are UNESCO-listed.",
+    "The May Patios Festival is a UNESCO intangible heritage.",
+    "Córdoba's thick cold tomato soup is salmorejo.",
+    "Córdoba is one of the hottest cities in Europe in summer.",
+    "Córdoba is about 1 hour 45 minutes from Madrid by AVE.",
+    "The Calleja de las Flores is a famous flower-lined alley.",
+    "Córdoba's synagogue dates from 1315.",
+    "Flamenco guitarist Paco Peña is from Córdoba.",
+    "Medina Azahara was built from 936."
+  ],
+  "faq": [
+    {
+      "q": "Where is Córdoba located?",
+      "a": "Córdoba is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Córdoba?",
+      "a": "The greater Córdoba area is home to about 320,000 people."
+    },
+    {
+      "q": "What is Córdoba famous for?",
+      "a": "Once the greatest city of Islamic Spain, Córdoba is famous for the Mezquita, a mosque-cathedral of striped arches, a Roman bridge and flower-filled patios."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: José Luiz / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:La_Mezquita_from_Roman_bridge_-_C%C3%B3rdoba.JPG"
+  }
+}

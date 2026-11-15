@@ -1,0 +1,144 @@
+{
+  "slug": "Suwon",
+  "name": "Suwon",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "1,200,000",
+  "seo": {
+    "title": "Suwon Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Suwon travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Suwon.",
+    "keywords": "Suwon, Suwon travel guide, things to do in Suwon, Suwon fun facts, where to stay in Suwon, Famous Cities"
+  },
+  "image": "Suwon.jpg",
+  "video": "videos/suwon.mp4",
+  "youtube": null,
+  "tagline": "Just south of Seoul, Suwon is wrapped by Hwaseong Fortress, an 18th-century UNESCO-listed wall with gates, watchtowers and a royal palace at its heart.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Suwon",
+    "twitter": "https://twitter.com/search?q=visit%20Suwon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suwon"
+  },
+  "overview": [
+    "Suwon is the capital of Gyeonggi Province and one of Korea's largest cities, easy to reach from Seoul by subway or train. Its historic core is enclosed by Hwaseong Fortress, built between 1794 and 1796 by King Jeongjo, who planned to move the capital here to honour his father.",
+    "The 5.7-km wall can be walked in a few hours, passing grand gates like Paldalmun and Janganmun, archery stations, beacon towers and the Banghwasuryujeong pavilion above a pond. Inside, Hwaseong Haenggung was the king's temporary palace, where a changing-of-the-guard and martial arts shows are held.",
+    "Suwon is also known for galbi, marinated beef ribs, and for being Samsung Electronics' home base. The Korean Folk Village in neighbouring Yongin recreates a Joseon-era town, and Suwon's toilet-shaped Mr. Toilet House is a quirky local museum."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Suwon&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Suwon",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sel/cheap-flights-to-seoul.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Hwaseong Fortress Walk",
+      "desc": "Walk the 18th-century UNESCO walls and gates.",
+      "viator": "https://www.viator.com/searchResults/all?text=Suwon%20Hwaseong%20Fortress%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Suwon%20Hwaseong%20Fortress%20tour"
+    },
+    {
+      "icon": "👑",
+      "title": "Hwaseong Haenggung Palace",
+      "desc": "The king's temporary palace inside the walls.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hwaseong%20Haenggung%20palace%20Suwon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hwaseong%20Haenggung%20palace%20Suwon"
+    },
+    {
+      "icon": "🏡",
+      "title": "Korean Folk Village",
+      "desc": "A recreated Joseon-era village nearby.",
+      "viator": "https://www.viator.com/searchResults/all?text=Korean%20Folk%20Village%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Korean%20Folk%20Village%20tour"
+    },
+    {
+      "icon": "🥩",
+      "title": "Suwon Galbi",
+      "desc": "Taste the city's famous marinated beef ribs.",
+      "viator": "https://www.viator.com/searchResults/all?text=Suwon%20food%20tour%20galbi",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Suwon%20food%20tour%20galbi"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "UNESCO WALLS",
+      "text": "Hwaseong Fortress was listed as a UNESCO World Heritage Site in 1997."
+    },
+    {
+      "title": "BUILT IN TWO YEARS",
+      "text": "The fortress was completed between 1794 and 1796."
+    },
+    {
+      "title": "A KING'S TRIBUTE",
+      "text": "King Jeongjo built Hwaseong partly to honour his father, Crown Prince Sado."
+    },
+    {
+      "title": "REBUILT FROM A BOOK",
+      "text": "A detailed 1801 construction record allowed accurate restoration after war damage."
+    },
+    {
+      "title": "EARLY TECHNOLOGY",
+      "text": "Builders used cranes and pulleys designed by scholar Jeong Yak-yong."
+    },
+    {
+      "title": "GALBI TOWN",
+      "text": "Suwon galbi is famous across Korea."
+    },
+    {
+      "title": "SAMSUNG'S HOME",
+      "text": "Samsung Electronics' headquarters are in Suwon."
+    },
+    {
+      "title": "A TOILET MUSEUM",
+      "text": "Mr. Toilet House was the home of a former mayor who championed public toilets."
+    },
+    {
+      "title": "ARCHERY ON THE WALLS",
+      "text": "Visitors can try traditional Korean archery at the fortress."
+    },
+    {
+      "title": "EASY FROM SEOUL",
+      "text": "Suwon is about an hour from central Seoul on the subway."
+    }
+  ],
+  "randomFacts": [
+    "Hwaseong Fortress was listed as a UNESCO World Heritage Site in 1997.",
+    "The fortress was completed between 1794 and 1796.",
+    "King Jeongjo built Hwaseong partly to honour his father, Crown Prince Sado.",
+    "A detailed 1801 construction record allowed accurate restoration after war damage.",
+    "Builders used cranes and pulleys designed by scholar Jeong Yak-yong.",
+    "Suwon galbi is famous across Korea.",
+    "Samsung Electronics' headquarters are in Suwon.",
+    "Mr. Toilet House was the home of a former mayor who championed public toilets.",
+    "Visitors can try traditional Korean archery at the fortress.",
+    "Suwon is about an hour from central Seoul on the subway.",
+    "The fortress wall is about 5.7 km long.",
+    "Hwahongmun gate sits over a stream with seven arches.",
+    "The Suwon Hwaseong Cultural Festival is held each autumn.",
+    "Suwon Station is served by KTX and subway Line 1.",
+    "Gwanggyo Lake Park is a popular city park."
+  ],
+  "faq": [
+    {
+      "q": "Where is Suwon located?",
+      "a": "Suwon is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Suwon?",
+      "a": "The greater Suwon area is home to about 1,200,000 people."
+    },
+    {
+      "q": "What is Suwon famous for?",
+      "a": "Just south of Seoul, Suwon is wrapped by Hwaseong Fortress, an 18th-century UNESCO-listed wall with gates, watchtowers and a royal palace at its heart."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Bernard Gagnon / CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress_01.jpg"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Maastricht",
+  "name": "Maastricht",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "280,000",
+  "seo": {
+    "title": "Maastricht Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Maastricht travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Maastricht.",
+    "keywords": "Maastricht, Maastricht travel guide, things to do in Maastricht, Maastricht fun facts, where to stay in Maastricht, Famous Cities"
+  },
+  "image": "Maastricht.jpg",
+  "video": "videos/maastricht.mp4",
+  "youtube": null,
+  "tagline": "The Netherlands' southern jewel has Roman roots, a bookstore inside a 13th-century church, caves under Mount Saint Peter and a Burgundian love of food.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Maastricht",
+    "twitter": "https://twitter.com/search?q=visit%20Maastricht",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maastricht"
+  },
+  "overview": [
+    "Maastricht sits on the Maas River in the far south, squeezed between Belgium and Germany, and it feels quite different from the rest of the country: hilly, French-tinged and devoted to good food. It is one of the oldest cities in the Netherlands, with Roman foundations and medieval walls.",
+    "The Vrijthof square is framed by the Basilica of Saint Servatius and St John's Church, and Dominicanen bookshop fills a converted 13th-century Gothic church. The Sint Servaasbrug, one of the oldest bridges in the country, links the old town to the Wyck district.",
+    "Under Sint-Pietersberg hill, centuries of marlstone quarrying left a maze of caves that served as shelters in wartime, and guided tours lead through them. In 1992 the Maastricht Treaty, which created the European Union, was signed here, and the city's carnival is the liveliest in the country."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Maastricht&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Maastricht",
+    "flights": "https://www.skyscanner.net/transport/flights/to/mst/cheap-flights-to-maastricht.html"
+  },
+  "topThings": [
+    {
+      "icon": "📚",
+      "title": "Old Town & Dominicanen",
+      "desc": "Vrijthof and the church-turned-bookshop.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maastricht%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maastricht%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "🕳️",
+      "title": "Caves of Mount Saint Peter",
+      "desc": "Guided tour of the marl caves.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maastricht%20caves%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maastricht%20caves%20tour"
+    },
+    {
+      "icon": "🚤",
+      "title": "Maas River Cruise",
+      "desc": "Cruise the river past the old town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maastricht%20river%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maastricht%20river%20cruise"
+    },
+    {
+      "icon": "🍷",
+      "title": "Limburg Food Tour",
+      "desc": "Vlaai, local cheese and Limburg wine.",
+      "viator": "https://www.viator.com/searchResults/all?text=Maastricht%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Maastricht%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "BIRTHPLACE OF THE EU",
+      "text": "The Maastricht Treaty was signed here in 1992."
+    },
+    {
+      "title": "A BOOKSTORE CHURCH",
+      "text": "Dominicanen bookshop is set in a 13th-century church."
+    },
+    {
+      "title": "CAVES FOR MILES",
+      "text": "Mount Saint Peter's tunnels are said to run for about 80 km."
+    },
+    {
+      "title": "AN OLD BRIDGE",
+      "text": "The Sint Servaasbrug dates from the 13th century."
+    },
+    {
+      "title": "ROMAN ROOTS",
+      "text": "Maastricht grew from a Roman settlement on the Maas."
+    },
+    {
+      "title": "CARNIVAL CAPITAL",
+      "text": "Maastricht's carnival is one of the biggest in the Netherlands."
+    },
+    {
+      "title": "VLAAI",
+      "text": "Limburg fruit tart, vlaai, is the local pastry."
+    },
+    {
+      "title": "AN ART FAIR",
+      "text": "TEFAF Maastricht is one of the world's leading art fairs."
+    },
+    {
+      "title": "HILLS IN HOLLAND",
+      "text": "The surrounding Limburg countryside is hilly, unusual for the Netherlands."
+    },
+    {
+      "title": "HIDDEN ART",
+      "text": "The Night Watch was hidden in the caves during World War II."
+    }
+  ],
+  "randomFacts": [
+    "The Maastricht Treaty was signed here in 1992.",
+    "Dominicanen bookshop is set in a 13th-century church.",
+    "Mount Saint Peter's tunnels are said to run for about 80 km.",
+    "The Sint Servaasbrug dates from the 13th century.",
+    "Maastricht grew from a Roman settlement on the Maas.",
+    "Maastricht's carnival is one of the biggest in the Netherlands.",
+    "Limburg fruit tart, vlaai, is the local pastry.",
+    "TEFAF Maastricht is one of the world's leading art fairs.",
+    "The surrounding Limburg countryside is hilly, unusual for the Netherlands.",
+    "The Night Watch was hidden in the caves during World War II.",
+    "Maastricht is about 2.5 hours from Amsterdam by train.",
+    "Belgium is a few kilometres from the city centre.",
+    "Helpoort is the oldest surviving city gate in the Netherlands.",
+    "André Rieu holds summer concerts on the Vrijthof.",
+    "Maastricht University is known for its international students."
+  ],
+  "faq": [
+    {
+      "q": "Where is Maastricht located?",
+      "a": "Maastricht is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Maastricht?",
+      "a": "The greater Maastricht area is home to about 280,000 people."
+    },
+    {
+      "q": "What is Maastricht famous for?",
+      "a": "The Netherlands' southern jewel has Roman roots, a bookstore inside a 13th-century church, caves under Mount Saint Peter and a Burgundian love of food."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Waltie / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sint-Servaasbrug_Maastricht_Maas.jpg"
+  }
+}

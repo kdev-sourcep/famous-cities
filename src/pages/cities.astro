@@ -6,7 +6,7 @@ import SupportBand from "../components/SupportBand.astro";
 import { regions, citiesIn, regionStyle, regionId, cities, absUrl, cityHref } from "../lib/site";
 const jsonld = [{ "@type": "CollectionPage", "name": "All cities", "url": absUrl("cities.html"), "hasPart": cities.map((c) => ({ "@type": "TouristDestination", "name": c.name, "url": absUrl(cityHref(c.slug).replace(/^.*\//, "")) })) }];
 ---
-<BaseLayout title="All Cities | Famous Cities" description="Browse all 92 Famous Cities guides by region: Europe, Asia, the Middle East, Africa, North America, South America and Oceania." path="cities.html" jsonld={jsonld}>
+<BaseLayout title="All Cities | Famous Cities" description={`Browse all ${cities.length} Famous Cities guides by region: Europe, Asia, the Middle East, Africa, North America, South America and Oceania.`} path="cities.html" jsonld={jsonld}>
   <section class="page-hero">
     <div class="container">
       <span class="eyebrow">All destinations</span>

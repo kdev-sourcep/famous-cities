@@ -1,0 +1,144 @@
+{
+  "slug": "Zakopane",
+  "name": "Zakopane",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "27,000",
+  "seo": {
+    "title": "Zakopane Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Zakopane travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Zakopane.",
+    "keywords": "Zakopane, Zakopane travel guide, things to do in Zakopane, Zakopane fun facts, where to stay in Zakopane, Famous Cities"
+  },
+  "image": "Zakopane.jpg",
+  "video": "videos/zakopane.mp4",
+  "youtube": null,
+  "tagline": "Poland's winter capital sits at the foot of the Tatra Mountains, known for highlander culture, wooden villas, ski slopes and hikes to Morskie Oko lake.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Zakopane",
+    "twitter": "https://twitter.com/search?q=visit%20Zakopane",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zakopane"
+  },
+  "overview": [
+    "Zakopane is a mountain town in southern Poland, right below the highest peaks of the Tatras on the Slovak border. It became a fashionable resort in the late 1800s, when artists and writers came for the clean air and the culture of the Górale, the local highlanders.",
+    "The town gave its name to the Zakopane style, wooden architecture with steep roofs and carved details, seen in villas and churches such as the Chapel in Jaszczurówka. Krupówki Street is the busy main strip, and stalls sell oscypek, smoked sheep's cheese, often grilled with cranberry jam.",
+    "In winter Kasprowy Wierch and other slopes offer skiing, and in summer Tatra National Park's trails lead to lakes and peaks, including Morskie Oko, the most famous mountain lake in Poland. The Gubałówka funicular climbs a ridge with views of the whole range."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Zakopane&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Zakopane",
+    "flights": "https://www.skyscanner.net/transport/flights/to/krk/cheap-flights-to-krakow.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏞️",
+      "title": "Morskie Oko Lake",
+      "desc": "Hike to Poland's most famous mountain lake.",
+      "viator": "https://www.viator.com/searchResults/all?text=Morskie%20Oko%20tour%20from%20Zakopane",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Morskie%20Oko%20tour%20from%20Zakopane"
+    },
+    {
+      "icon": "🚠",
+      "title": "Kasprowy Wierch Cable Car",
+      "desc": "Ride up to 1,987 m on the Slovak border.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kasprowy%20Wierch%20cable%20car%20Zakopane",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kasprowy%20Wierch%20cable%20car%20Zakopane"
+    },
+    {
+      "icon": "♨️",
+      "title": "Thermal Pools",
+      "desc": "Soak with mountain views at a thermal spa.",
+      "viator": "https://www.viator.com/searchResults/all?text=Zakopane%20thermal%20pools%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Zakopane%20thermal%20pools%20tour"
+    },
+    {
+      "icon": "🧀",
+      "title": "Highlander Food & Culture",
+      "desc": "Oscypek, folk music and wooden villas.",
+      "viator": "https://www.viator.com/searchResults/all?text=Zakopane%20highlander%20folk%20evening",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Zakopane%20highlander%20folk%20evening"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "WINTER CAPITAL",
+      "text": "Zakopane is often called Poland's winter capital."
+    },
+    {
+      "title": "HIGHEST PEAKS",
+      "text": "The Tatras include Rysy, Poland's highest summit at 2,499 m."
+    },
+    {
+      "title": "A FAMOUS LAKE",
+      "text": "Morskie Oko is the largest lake in the Tatras."
+    },
+    {
+      "title": "ITS OWN STYLE",
+      "text": "The Zakopane style of wooden architecture was created by Stanisław Witkiewicz."
+    },
+    {
+      "title": "SMOKED CHEESE",
+      "text": "Oscypek is a smoked sheep's cheese with EU protected status."
+    },
+    {
+      "title": "A SKI JUMP LEGEND",
+      "text": "The Wielka Krokiew ski jump hosts World Cup events."
+    },
+    {
+      "title": "HIGHLANDER CULTURE",
+      "text": "The Górale have their own dialect, music and costumes."
+    },
+    {
+      "title": "CABLE CAR TO THE BORDER",
+      "text": "The Kasprowy Wierch cable car opened in 1936."
+    },
+    {
+      "title": "ARTISTS' RETREAT",
+      "text": "Composer Karol Szymanowski lived in a villa here."
+    },
+    {
+      "title": "THERMAL WATER",
+      "text": "Hot springs feed several spa pools near Zakopane."
+    }
+  ],
+  "randomFacts": [
+    "Zakopane is often called Poland's winter capital.",
+    "The Tatras include Rysy, Poland's highest summit at 2,499 m.",
+    "Morskie Oko is the largest lake in the Tatras.",
+    "The Zakopane style of wooden architecture was created by Stanisław Witkiewicz.",
+    "Oscypek is a smoked sheep's cheese with EU protected status.",
+    "The Wielka Krokiew ski jump hosts World Cup events.",
+    "The Górale have their own dialect, music and costumes.",
+    "The Kasprowy Wierch cable car opened in 1936.",
+    "Composer Karol Szymanowski lived in a villa here.",
+    "Hot springs feed several spa pools near Zakopane.",
+    "Zakopane is about 2 hours from Kraków.",
+    "Gubałówka has a funicular and a ridge-top market.",
+    "Tatra National Park protects chamois and marmots.",
+    "Krupówki Street is lined with wooden restaurants.",
+    "The Old Church on Kościeliska Street dates from the 1800s."
+  ],
+  "faq": [
+    {
+      "q": "Where is Zakopane located?",
+      "a": "Zakopane is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Zakopane?",
+      "a": "The greater Zakopane area is home to about 27,000 people."
+    },
+    {
+      "q": "What is Zakopane famous for?",
+      "a": "Poland's winter capital sits at the foot of the Tatra Mountains, known for highlander culture, wooden villas, ski slopes and hikes to Morskie Oko lake."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: MARELBU / CC BY 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Zakopane_-_Great_Giewont_(Wielki_Giewont,_1,895_m)_-_panoramio.jpg"
+  }
+}

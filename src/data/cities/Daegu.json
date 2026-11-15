@@ -1,0 +1,144 @@
+{
+  "slug": "Daegu",
+  "name": "Daegu",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "2,400,000",
+  "seo": {
+    "title": "Daegu Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Daegu travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Daegu.",
+    "keywords": "Daegu, Daegu travel guide, things to do in Daegu, Daegu fun facts, where to stay in Daegu, Famous Cities"
+  },
+  "image": "Daegu.jpg",
+  "video": "videos/daegu.mp4",
+  "youtube": null,
+  "tagline": "Ringed by mountains in Korea's southeast, Daegu is known for its centuries-old herbal medicine market, textile heritage, summer heat and lively street-food alleys.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Daegu",
+    "twitter": "https://twitter.com/search?q=visit%20Daegu",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daegu"
+  },
+  "overview": [
+    "Daegu lies in a basin surrounded by mountains, which gives it some of the hottest summers in Korea. It is the country's fourth-largest city and was long the economic centre of the southeast, built on the textile industry that still gives it the nickname 'Textile City'.",
+    "The Yangnyeongsi herbal medicine market has traded ginseng, roots and dried herbs since the 1600s, and its museum explains Korean traditional medicine. Nearby are the Gyesan Cathedral and the Modern History Alleys, a walking route past early 20th-century churches, mission houses and hanok.",
+    "Seomun Market, one of Korea's oldest, turns into a night market with street food in the evenings. Apsan Park's cable car climbs to a viewpoint over the city, and Palgongsan mountain to the north has Donghwasa Temple and a large stone Buddha."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Daegu&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Daegu",
+    "flights": "https://www.skyscanner.net/transport/flights/to/tae/cheap-flights-to-daegu.html"
+  },
+  "topThings": [
+    {
+      "icon": "🌿",
+      "title": "Herbal Medicine Market",
+      "desc": "Yangnyeongsi market and museum, trading since the 1600s.",
+      "viator": "https://www.viator.com/searchResults/all?text=Daegu%20Yangnyeongsi%20herbal%20medicine%20market%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Daegu%20Yangnyeongsi%20herbal%20medicine%20market%20tour"
+    },
+    {
+      "icon": "🏮",
+      "title": "Seomun Night Market",
+      "desc": "One of Korea's oldest markets and its street food.",
+      "viator": "https://www.viator.com/searchResults/all?text=Daegu%20Seomun%20market%20night%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Daegu%20Seomun%20market%20night%20food%20tour"
+    },
+    {
+      "icon": "🚡",
+      "title": "Apsan Park Cable Car",
+      "desc": "Ride up for sweeping views over the basin.",
+      "viator": "https://www.viator.com/searchResults/all?text=Daegu%20Apsan%20cable%20car",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Daegu%20Apsan%20cable%20car"
+    },
+    {
+      "icon": "⛰️",
+      "title": "Palgongsan & Donghwasa",
+      "desc": "Mountain temple and a giant stone Buddha.",
+      "viator": "https://www.viator.com/searchResults/all?text=Palgongsan%20Donghwasa%20temple%20tour%20Daegu",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Palgongsan%20Donghwasa%20temple%20tour%20Daegu"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "KOREA'S HOTTEST CITY",
+      "text": "Daegu's mountain basin regularly gives it some of the highest summer temperatures in Korea."
+    },
+    {
+      "title": "A 1600S HERB MARKET",
+      "text": "Yangnyeongsi has been a herbal medicine market since the Joseon era."
+    },
+    {
+      "title": "TEXTILE CITY",
+      "text": "Daegu was the heart of Korea's textile industry during its rapid growth."
+    },
+    {
+      "title": "APPLES OF DAEGU",
+      "text": "The region was once famous for apples, and Daegu was known for its beautiful 'apple' complexions."
+    },
+    {
+      "title": "HOME OF SAMSUNG'S START",
+      "text": "Samsung began as a small trading company in Daegu in 1938."
+    },
+    {
+      "title": "MODERN HISTORY ON FOOT",
+      "text": "The Modern History Alleys trail links churches, hanok and missionary houses."
+    },
+    {
+      "title": "WORLD ATHLETICS HOST",
+      "text": "Daegu hosted the 2011 World Championships in Athletics."
+    },
+    {
+      "title": "A CITY OF CHICKEN",
+      "text": "Daegu holds a yearly Chimac (chicken and beer) Festival."
+    },
+    {
+      "title": "MOUNTAIN TEMPLES",
+      "text": "Donghwasa on Palgongsan was founded more than 1,500 years ago."
+    },
+    {
+      "title": "MONORAIL VIEWS",
+      "text": "Daegu Metro Line 3 is an elevated monorail with views over the city."
+    }
+  ],
+  "randomFacts": [
+    "Daegu's mountain basin regularly gives it some of the highest summer temperatures in Korea.",
+    "Yangnyeongsi has been a herbal medicine market since the Joseon era.",
+    "Daegu was the heart of Korea's textile industry during its rapid growth.",
+    "The region was once famous for apples, and Daegu was known for its beautiful 'apple' complexions.",
+    "Samsung began as a small trading company in Daegu in 1938.",
+    "The Modern History Alleys trail links churches, hanok and missionary houses.",
+    "Daegu hosted the 2011 World Championships in Athletics.",
+    "Daegu holds a yearly Chimac (chicken and beer) Festival.",
+    "Donghwasa on Palgongsan was founded more than 1,500 years ago.",
+    "Daegu Metro Line 3 is an elevated monorail with views over the city.",
+    "Makchang, grilled pork intestines, is a Daegu speciality.",
+    "Kim Kwang-seok Street honours a beloved folk singer with murals and statues.",
+    "E-World's 83 Tower offers views over the city.",
+    "Daegu's Seomun Market has more than 4,000 shops.",
+    "Daegu is about 1 hour 40 minutes from Seoul by KTX."
+  ],
+  "faq": [
+    {
+      "q": "Where is Daegu located?",
+      "a": "Daegu is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Daegu?",
+      "a": "The greater Daegu area is home to about 2,400,000 people."
+    },
+    {
+      "q": "What is Daegu famous for?",
+      "a": "Ringed by mountains in Korea's southeast, Daegu is known for its centuries-old herbal medicine market, textile heritage, summer heat and lively street-food alleys."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Syonsi / Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Daegu-JungAngDaeRoForBustraffic.jpg"
+  }
+}

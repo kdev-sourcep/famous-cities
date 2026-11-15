@@ -14,11 +14,11 @@ const top10 = rankings.rows.slice(0, 10);
 const europe = speed.legs[0]?.videos[0];
 const jsonld = [{ "@type": "WebSite", "name": "Famous Cities", "url": absUrl(""), "potentialAction": { "@type": "SearchAction", "target": absUrl("cities.html") + "?q={query}", "query-input": "required name=query" } }];
 ---
-<BaseLayout title="Famous Cities | Travel Guides, Fun Facts & Hotel Deals for 92 Cities" description="Discover the world's most famous cities: fun facts, top things to book, Time Out's Best Cities 2026 and easy hotel, flight and tour price comparison for 92 destinations." path="" jsonld={jsonld}>
+<BaseLayout title={`Famous Cities | Travel Guides, Fun Facts & Hotel Deals for ${cities.length} Cities`} description={`Discover the world's most famous cities: fun facts, top things to book, Time Out's Best Cities 2026 and easy hotel, flight and tour price comparison for ${cities.length} destinations.`} path="" jsonld={jsonld}>
   <section class="home-hero">
     <div class="container home-hero__inner">
       <div class="home-hero__copy">
-        <span class="eyebrow"><Icon name="sparkles" size={16} />92 city guides · 7 regions</span>
+        <span class="eyebrow"><Icon name="sparkles" size={16} />{cities.length} city guides · {regions.length} regions</span>
         <h1>Discover the world's most <span class="grad-text">famous cities</span></h1>
         <p>Fun facts, the best things to book and side-by-side price comparison for hotels, flights and tours, all in one place.</p>
         <div class="search search--lg" data-search>
@@ -34,7 +34,7 @@ const jsonld = [{ "@type": "WebSite", "name": "Famous Cities", "url": absUrl("")
 
   <section class="section">
     <div class="container">
-      <div class="section-head"><div><span class="eyebrow">Featured guides</span><h2>Start with a classic</h2></div><a class="btn btn--light btn--sm" href={url("cities.html")}>All 92 cities<Icon name="arrow-right" size={16} /></a></div>
+      <div class="section-head"><div><span class="eyebrow">Featured guides</span><h2>Start with a classic</h2></div><a class="btn btn--light btn--sm" href={url("cities.html")}>All {cities.length} cities<Icon name="arrow-right" size={16} /></a></div>
       <div class="featured">
         <CityCard city={lead} size="lg" tagline showRank />
         <div class="featured__rest">{featured.map((c) => <CityCard city={c} showRank />)}</div>

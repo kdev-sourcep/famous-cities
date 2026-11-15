@@ -1,0 +1,144 @@
+{
+  "slug": "Groningen",
+  "name": "Groningen",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "240,000",
+  "seo": {
+    "title": "Groningen Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Groningen travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Groningen.",
+    "keywords": "Groningen, Groningen travel guide, things to do in Groningen, Groningen fun facts, where to stay in Groningen, Famous Cities"
+  },
+  "image": "Groningen.jpg",
+  "video": "videos/groningen.mp4",
+  "youtube": null,
+  "tagline": "The lively capital of the north is a student city of bikes and canals, with the Martinitoren tower, the colourful Groninger Museum and buzzing nightlife.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Groningen",
+    "twitter": "https://twitter.com/search?q=visit%20Groningen",
+    "wikipedia": "https://en.wikipedia.org/wiki/Groningen"
+  },
+  "overview": [
+    "Groningen is the largest city in the northern Netherlands and one of its liveliest: about a quarter of its residents are students at the University of Groningen or the Hanze University. Medieval trade made it a rich Hanseatic city, and its Grote Markt is overlooked by the Martinitoren, a 97-metre church tower.",
+    "Groningen is famous for cycling. Since the 1970s cars have been kept out of the centre, so bikes rule the streets, and more trips are made by bike than in almost any other city in the world. Canals ring the old town, lined with houseboats.",
+    "The Groninger Museum, a colourful building on its own island opposite the station, shows art, design and fashion. The Prinsenhof garden, the Forum cultural centre with its rooftop views, and late-night bars make it easy to spend a few days."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Groningen&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Groningen",
+    "flights": "https://www.skyscanner.net/transport/flights/to/grq/cheap-flights-to-groningen.html"
+  },
+  "topThings": [
+    {
+      "icon": "🗼",
+      "title": "Martinitoren Climb",
+      "desc": "Views from Groningen's 97-metre tower.",
+      "viator": "https://www.viator.com/searchResults/all?text=Martinitoren%20Groningen",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Martinitoren%20Groningen"
+    },
+    {
+      "icon": "🎨",
+      "title": "Groninger Museum",
+      "desc": "Bold art and design museum on an island.",
+      "viator": "https://www.viator.com/searchResults/all?text=Groninger%20Museum",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Groninger%20Museum"
+    },
+    {
+      "icon": "🚲",
+      "title": "Bike Tour",
+      "desc": "Ride like a local in a bike city.",
+      "viator": "https://www.viator.com/searchResults/all?text=Groningen%20bike%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Groningen%20bike%20tour"
+    },
+    {
+      "icon": "🛶",
+      "title": "Canal Cruise",
+      "desc": "See the city from its canals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Groningen%20canal%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Groningen%20canal%20cruise"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A BIKE CITY",
+      "text": "Groningen is often named one of the world's top cycling cities."
+    },
+    {
+      "title": "CAR-FREE CENTRE",
+      "text": "A 1977 traffic plan kept cars out of the city centre."
+    },
+    {
+      "title": "A TALL TOWER",
+      "text": "The Martinitoren is about 97 metres tall."
+    },
+    {
+      "title": "STUDENT CITY",
+      "text": "About a quarter of Groningen's people are students."
+    },
+    {
+      "title": "HANSEATIC PAST",
+      "text": "Groningen was a member of the Hanseatic League."
+    },
+    {
+      "title": "A MUSEUM ON WATER",
+      "text": "The Groninger Museum sits on an island in a canal."
+    },
+    {
+      "title": "AN OLD UNIVERSITY",
+      "text": "The University of Groningen was founded in 1614."
+    },
+    {
+      "title": "NIGHTLIFE",
+      "text": "Many bars in Groningen have no fixed closing time."
+    },
+    {
+      "title": "FORUM VIEWS",
+      "text": "The Forum building has a rooftop terrace with city views."
+    },
+    {
+      "title": "NORTHERN CAPITAL",
+      "text": "Groningen is the capital of the province of the same name."
+    }
+  ],
+  "randomFacts": [
+    "Groningen is often named one of the world's top cycling cities.",
+    "A 1977 traffic plan kept cars out of the city centre.",
+    "The Martinitoren is about 97 metres tall.",
+    "About a quarter of Groningen's people are students.",
+    "Groningen was a member of the Hanseatic League.",
+    "The Groninger Museum sits on an island in a canal.",
+    "The University of Groningen was founded in 1614.",
+    "Many bars in Groningen have no fixed closing time.",
+    "The Forum building has a rooftop terrace with city views.",
+    "Groningen is the capital of the province of the same name.",
+    "Groningen is about 2 hours from Amsterdam by train.",
+    "The Prinsenhof garden dates back to the 1600s.",
+    "Groningen has a large weekly market on the Vismarkt.",
+    "Noorderzon is the city's summer festival.",
+    "Groningen's station is a grand 1896 building."
+  ],
+  "faq": [
+    {
+      "q": "Where is Groningen located?",
+      "a": "Groningen is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Groningen?",
+      "a": "The greater Groningen area is home to about 240,000 people."
+    },
+    {
+      "q": "What is Groningen famous for?",
+      "a": "The lively capital of the north is a student city of bikes and canals, with the Martinitoren tower, the colourful Groninger Museum and buzzing nightlife."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Wutsje / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:20100523_Grote_Markt_en_Martinitoren_Groningen_NL.jpg"
+  }
+}

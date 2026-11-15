@@ -1,0 +1,144 @@
+{
+  "slug": "Incheon",
+  "name": "Incheon",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "3,000,000",
+  "seo": {
+    "title": "Incheon Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Incheon travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Incheon.",
+    "keywords": "Incheon, Incheon travel guide, things to do in Incheon, Incheon fun facts, where to stay in Incheon, Famous Cities"
+  },
+  "image": "Incheon.jpg",
+  "video": "videos/incheon.mp4",
+  "youtube": null,
+  "tagline": "Korea's gateway city is home to its main international airport, a historic Chinatown and Songdo, a brand-new waterfront district of parks and skyscrapers.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Incheon",
+    "twitter": "https://twitter.com/search?q=visit%20Incheon",
+    "wikipedia": "https://en.wikipedia.org/wiki/Incheon"
+  },
+  "overview": [
+    "Incheon sits on the Yellow Sea just west of Seoul, and for most travellers it is the first stop in Korea: Incheon International Airport, on reclaimed land off the coast, is one of the busiest in Asia. The city has been a major port since it opened to foreign trade in 1883.",
+    "That history shows in Korea's only official Chinatown, founded by Chinese merchants in the late 1800s and the birthplace of jajangmyeon, black-bean noodles. Nearby, the Open Port area keeps old Japanese and Western-style buildings, and Wolmido island has a seaside promenade and amusement rides.",
+    "South of the old town, Songdo International Business District was built on reclaimed land in the 2000s. Its Central Park has a seawater canal, and towers like the Northeast Asia Trade Tower rise around it. Offshore, islands such as Ganghwa and Yeongjong add beaches, temples and fortress walls."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Incheon&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Incheon",
+    "flights": "https://www.skyscanner.net/transport/flights/to/icn/cheap-flights-to-incheon.html"
+  },
+  "topThings": [
+    {
+      "icon": "🥢",
+      "title": "Chinatown & Jajangmyeon",
+      "desc": "Korea's only Chinatown and its famous black-bean noodles.",
+      "viator": "https://www.viator.com/searchResults/all?text=Incheon%20Chinatown%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Incheon%20Chinatown%20tour"
+    },
+    {
+      "icon": "🌳",
+      "title": "Songdo Central Park",
+      "desc": "Seawater canal, water taxis and the futuristic skyline.",
+      "viator": "https://www.viator.com/searchResults/all?text=Incheon%20Songdo%20Central%20Park%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Incheon%20Songdo%20Central%20Park%20tour"
+    },
+    {
+      "icon": "🏯",
+      "title": "Ganghwa Island",
+      "desc": "Fortresses, dolmen sites and Jeondeungsa Temple.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ganghwa%20Island%20tour%20from%20Incheon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ganghwa%20Island%20tour%20from%20Incheon"
+    },
+    {
+      "icon": "✈️",
+      "title": "Airport Layover Tour",
+      "desc": "Short guided trips between flights at Incheon.",
+      "viator": "https://www.viator.com/searchResults/all?text=Incheon%20airport%20layover%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Incheon%20airport%20layover%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "THE GATEWAY TO KOREA",
+      "text": "Incheon International Airport, opened in 2001, is South Korea's main international airport."
+    },
+    {
+      "title": "BUILT ON RECLAIMED LAND",
+      "text": "The airport sits on land reclaimed between Yeongjong and Yongyu islands."
+    },
+    {
+      "title": "HOME OF JAJANGMYEON",
+      "text": "Black-bean noodles were first served in Incheon's Chinatown by Chinese immigrants."
+    },
+    {
+      "title": "KOREA'S ONLY CHINATOWN",
+      "text": "Incheon's Chinatown dates from the 1880s, when the port opened to foreign trade."
+    },
+    {
+      "title": "A LANDING THAT CHANGED A WAR",
+      "text": "In 1950 the Incheon landing turned the tide of the Korean War."
+    },
+    {
+      "title": "A CITY BUILT FROM SCRATCH",
+      "text": "Songdo was planned on reclaimed land as a smart, green business district."
+    },
+    {
+      "title": "HUGE TIDES",
+      "text": "Incheon's coast has some of the largest tidal ranges in the world, around 9 metres."
+    },
+    {
+      "title": "THE INCHEON BRIDGE",
+      "text": "The 21-km Incheon Bridge links Songdo to the airport island."
+    },
+    {
+      "title": "ANCIENT STONES",
+      "text": "Ganghwa Island's dolmens are part of a UNESCO World Heritage Site."
+    },
+    {
+      "title": "ASIAN GAMES HOST",
+      "text": "Incheon hosted the 2014 Asian Games."
+    }
+  ],
+  "randomFacts": [
+    "Incheon International Airport, opened in 2001, is South Korea's main international airport.",
+    "The airport sits on land reclaimed between Yeongjong and Yongyu islands.",
+    "Black-bean noodles were first served in Incheon's Chinatown by Chinese immigrants.",
+    "Incheon's Chinatown dates from the 1880s, when the port opened to foreign trade.",
+    "In 1950 the Incheon landing turned the tide of the Korean War.",
+    "Songdo was planned on reclaimed land as a smart, green business district.",
+    "Incheon's coast has some of the largest tidal ranges in the world, around 9 metres.",
+    "The 21-km Incheon Bridge links Songdo to the airport island.",
+    "Ganghwa Island's dolmens are part of a UNESCO World Heritage Site.",
+    "Incheon hosted the 2014 Asian Games.",
+    "Wolmido island has a seaside promenade and a classic amusement park.",
+    "The Jajangmyeon Museum in Chinatown tells the story of the dish.",
+    "Water taxis run on Songdo Central Park's seawater canal.",
+    "Incheon has more than 160 islands within its city limits.",
+    "The AREX train links the airport to central Seoul in under an hour."
+  ],
+  "faq": [
+    {
+      "q": "Where is Incheon located?",
+      "a": "Incheon is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Incheon?",
+      "a": "The greater Incheon area is home to about 3,000,000 people."
+    },
+    {
+      "q": "What is Incheon famous for?",
+      "a": "Korea's gateway city is home to its main international airport, a historic Chinatown and Songdo, a brand-new waterfront district of parks and skyscrapers."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Ken Eckert / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Songdo_Convensia_and_Central_Park_View.jpg"
+  }
+}

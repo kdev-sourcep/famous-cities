@@ -1,0 +1,144 @@
+{
+  "slug": "Wroclaw",
+  "name": "Wrocław",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "1,250,000",
+  "seo": {
+    "title": "Wrocław Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Wrocław travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Wrocław.",
+    "keywords": "Wrocław, Wrocław travel guide, things to do in Wrocław, Wrocław fun facts, where to stay in Wrocław, Famous Cities"
+  },
+  "image": "Wroclaw.jpg",
+  "video": "videos/wroclaw.mp4",
+  "youtube": null,
+  "tagline": "Built across a dozen islands on the Oder, Wrocław has a colourful market square, a Gothic cathedral island lit by gas lamps and hundreds of tiny bronze dwarfs hidden around town.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Wroc%C5%82aw",
+    "twitter": "https://twitter.com/search?q=visit%20Wroc%C5%82aw",
+    "wikipedia": "https://en.wikipedia.org/wiki/Wroc%C5%82aw"
+  },
+  "overview": [
+    "Wrocław, the historic capital of Silesia, has belonged to Bohemia, the Habsburgs, Prussia and Germany before becoming Polish in 1945. The city spreads across islands in the Oder River joined by more than 100 bridges, which gives it the nickname 'the Venice of Poland'.",
+    "Its Market Square is one of the largest in Poland, centred on the Gothic Old Town Hall and lined with pastel merchant houses. Ostrów Tumski, the oldest part of the city, is home to the twin-towered Cathedral of St John the Baptist, and its gas lamps are still lit by hand each evening.",
+    "Since 2005 hundreds of small bronze dwarfs, or krasnale, have appeared on pavements and windowsills, and hunting for them is a favourite pastime. The Centennial Hall, a UNESCO-listed early concrete dome, and the huge Racławice Panorama painting are other highlights."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Wroclaw&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Wroc%C5%82aw",
+    "flights": "https://www.skyscanner.net/transport/flights/to/wro/cheap-flights-to-wroclaw.html"
+  },
+  "topThings": [
+    {
+      "icon": "🧙",
+      "title": "Dwarf Hunt Walking Tour",
+      "desc": "Find the bronze krasnale around the old town.",
+      "viator": "https://www.viator.com/searchResults/all?text=Wroclaw%20dwarf%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Wroclaw%20dwarf%20walking%20tour"
+    },
+    {
+      "icon": "⛪",
+      "title": "Ostrów Tumski at Dusk",
+      "desc": "Cathedral island and its gas-lamp lighter.",
+      "viator": "https://www.viator.com/searchResults/all?text=Wroclaw%20Ostrow%20Tumski%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Wroclaw%20Ostrow%20Tumski%20tour"
+    },
+    {
+      "icon": "🚤",
+      "title": "Oder River Cruise",
+      "desc": "See the islands and bridges from the water.",
+      "viator": "https://www.viator.com/searchResults/all?text=Wroclaw%20Oder%20river%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Wroclaw%20Oder%20river%20cruise"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Centennial Hall",
+      "desc": "UNESCO-listed dome and multimedia fountain.",
+      "viator": "https://www.viator.com/searchResults/all?text=Wroclaw%20Centennial%20Hall",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Wroclaw%20Centennial%20Hall"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "HUNDREDS OF DWARFS",
+      "text": "More than 600 small bronze dwarfs are scattered around Wrocław."
+    },
+    {
+      "title": "A CITY OF ISLANDS",
+      "text": "Wrocław sits on a dozen islands linked by over 100 bridges."
+    },
+    {
+      "title": "LAMPS LIT BY HAND",
+      "text": "A lamplighter lights the gas lamps on Ostrów Tumski every evening."
+    },
+    {
+      "title": "UNESCO CONCRETE",
+      "text": "The Centennial Hall, completed in 1913, is a UNESCO World Heritage Site."
+    },
+    {
+      "title": "A GIANT PAINTING",
+      "text": "The Racławice Panorama is about 114 metres long."
+    },
+    {
+      "title": "MANY FLAGS",
+      "text": "Wrocław has been ruled by Poland, Bohemia, Austria, Prussia and Germany."
+    },
+    {
+      "title": "DWARFS WITH MEANING",
+      "text": "The first dwarfs recall the Orange Alternative, an anti-communist protest movement."
+    },
+    {
+      "title": "A GOTHIC TOWN HALL",
+      "text": "The Old Town Hall took about 250 years to build."
+    },
+    {
+      "title": "CULTURE CAPITAL",
+      "text": "Wrocław was European Capital of Culture in 2016."
+    },
+    {
+      "title": "LOVE PADLOCKS",
+      "text": "Tumski Bridge is covered in padlocks left by couples."
+    }
+  ],
+  "randomFacts": [
+    "More than 600 small bronze dwarfs are scattered around Wrocław.",
+    "Wrocław sits on a dozen islands linked by over 100 bridges.",
+    "A lamplighter lights the gas lamps on Ostrów Tumski every evening.",
+    "The Centennial Hall, completed in 1913, is a UNESCO World Heritage Site.",
+    "The Racławice Panorama is about 114 metres long.",
+    "Wrocław has been ruled by Poland, Bohemia, Austria, Prussia and Germany.",
+    "The first dwarfs recall the Orange Alternative, an anti-communist protest movement.",
+    "The Old Town Hall took about 250 years to build.",
+    "Wrocław was European Capital of Culture in 2016.",
+    "Tumski Bridge is covered in padlocks left by couples.",
+    "Wrocław's Market Square is one of Europe's largest.",
+    "Hala Targowa is a historic covered market from 1908.",
+    "Wrocław's zoo is the oldest in Poland.",
+    "Students make up a large share of the city's population.",
+    "Wrocław was called Breslau when it was German."
+  ],
+  "faq": [
+    {
+      "q": "Where is Wrocław located?",
+      "a": "Wrocław is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Wrocław?",
+      "a": "The greater Wrocław area is home to about 1,250,000 people."
+    },
+    {
+      "q": "What is Wrocław famous for?",
+      "a": "Built across a dozen islands on the Oder, Wrocław has a colourful market square, a Gothic cathedral island lit by gas lamps and hundreds of tiny bronze dwarfs hidden around town."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Maksym Kozlenko / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:2019-07-02_Wroclaw_market_square_2.jpg"
+  }
+}

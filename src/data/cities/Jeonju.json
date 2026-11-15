@@ -1,0 +1,144 @@
+{
+  "slug": "Jeonju",
+  "name": "Jeonju",
+  "region": "Asia",
+  "country": "South Korea",
+  "metro": "650,000",
+  "seo": {
+    "title": "Jeonju Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Jeonju travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Jeonju.",
+    "keywords": "Jeonju, Jeonju travel guide, things to do in Jeonju, Jeonju fun facts, where to stay in Jeonju, Famous Cities"
+  },
+  "image": "Jeonju.jpg",
+  "video": "videos/jeonju.mp4",
+  "youtube": null,
+  "tagline": "The birthplace of bibimbap is Korea's food capital, with more than 700 traditional hanok houses in Jeonju Hanok Village and a UNESCO City of Gastronomy title.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Jeonju",
+    "twitter": "https://twitter.com/search?q=visit%20Jeonju",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeonju"
+  },
+  "overview": [
+    "Jeonju, the capital of North Jeolla Province, is the spiritual home of the Joseon dynasty: the royal Yi family came from here, and Gyeonggijeon shrine holds a portrait of the dynasty's founder, King Taejo. It has been named a UNESCO Creative City of Gastronomy.",
+    "Jeonju Hanok Village is the city's highlight, with more than 700 traditional tiled-roof houses, many now guesthouses, cafés and craft workshops. Visitors stroll in rented hanbok past Jeondong Cathedral, Gyeonggijeon and the Omokdae hill viewpoint.",
+    "Food is the main reason many people come. Jeonju bibimbap, served in a brass bowl with many toppings, is famous across Korea, as are kongnamul gukbap (bean sprout soup) and makgeolli houses where every round brings more dishes. The Jeonju International Film Festival fills the city every spring."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Jeonju&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Jeonju",
+    "flights": "https://www.skyscanner.net/transport/flights/to/sel/cheap-flights-to-seoul.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏘️",
+      "title": "Jeonju Hanok Village",
+      "desc": "700+ traditional houses, best in hanbok.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jeonju%20Hanok%20Village%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jeonju%20Hanok%20Village%20tour"
+    },
+    {
+      "icon": "🍚",
+      "title": "Bibimbap Food Tour",
+      "desc": "Taste bibimbap where it was born.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jeonju%20food%20tour%20bibimbap",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jeonju%20food%20tour%20bibimbap"
+    },
+    {
+      "icon": "👑",
+      "title": "Gyeonggijeon Shrine",
+      "desc": "Portrait of King Taejo, Joseon's founder.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jeonju%20Gyeonggijeon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jeonju%20Gyeonggijeon"
+    },
+    {
+      "icon": "🎎",
+      "title": "Hanbok & Craft Experience",
+      "desc": "Wear hanbok and try Korean paper crafts.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jeonju%20hanbok%20experience",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jeonju%20hanbok%20experience"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "HOME OF BIBIMBAP",
+      "text": "Jeonju bibimbap is the most famous version of Korea's mixed-rice dish."
+    },
+    {
+      "title": "UNESCO FOOD CITY",
+      "text": "Jeonju was named a UNESCO Creative City of Gastronomy in 2012."
+    },
+    {
+      "title": "700+ HANOK",
+      "text": "Jeonju Hanok Village has one of Korea's largest clusters of traditional houses."
+    },
+    {
+      "title": "ROYAL ROOTS",
+      "text": "Jeonju is the ancestral home of the Joseon dynasty's royal family."
+    },
+    {
+      "title": "A ROYAL PORTRAIT",
+      "text": "Gyeonggijeon holds a portrait of King Taejo."
+    },
+    {
+      "title": "KOREAN PAPER",
+      "text": "Jeonju is known for hanji, traditional mulberry paper."
+    },
+    {
+      "title": "A HISTORIC CATHEDRAL",
+      "text": "Jeondong Cathedral, finished in 1914, is one of Korea's most beautiful churches."
+    },
+    {
+      "title": "FILM FESTIVAL TOWN",
+      "text": "The Jeonju International Film Festival began in 2000."
+    },
+    {
+      "title": "MAKGEOLLI ALLEYS",
+      "text": "In Jeonju's makgeolli houses, each kettle comes with more side dishes."
+    },
+    {
+      "title": "HANGOVER SOUP",
+      "text": "Kongnamul gukbap, bean sprout soup, is a Jeonju breakfast favourite."
+    }
+  ],
+  "randomFacts": [
+    "Jeonju bibimbap is the most famous version of Korea's mixed-rice dish.",
+    "Jeonju was named a UNESCO Creative City of Gastronomy in 2012.",
+    "Jeonju Hanok Village has one of Korea's largest clusters of traditional houses.",
+    "Jeonju is the ancestral home of the Joseon dynasty's royal family.",
+    "Gyeonggijeon holds a portrait of King Taejo.",
+    "Jeonju is known for hanji, traditional mulberry paper.",
+    "Jeondong Cathedral, finished in 1914, is one of Korea's most beautiful churches.",
+    "The Jeonju International Film Festival began in 2000.",
+    "In Jeonju's makgeolli houses, each kettle comes with more side dishes.",
+    "Kongnamul gukbap, bean sprout soup, is a Jeonju breakfast favourite.",
+    "Jeonju is about 1 hour 40 minutes from Seoul by KTX.",
+    "Omokdae hill gives views over the hanok rooftops.",
+    "Choco pie from PNB bakery is a popular Jeonju souvenir.",
+    "Pungnammun is the last surviving gate of Jeonju's old walls.",
+    "Many hanok in the village are guesthouses you can stay in."
+  ],
+  "faq": [
+    {
+      "q": "Where is Jeonju located?",
+      "a": "Jeonju is in South Korea, in Asia."
+    },
+    {
+      "q": "What is the population of Jeonju?",
+      "a": "The greater Jeonju area is home to about 650,000 people."
+    },
+    {
+      "q": "What is Jeonju famous for?",
+      "a": "The birthplace of bibimbap is Korea's food capital, with more than 700 traditional hanok houses in Jeonju Hanok Village and a UNESCO City of Gastronomy title."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Bernard Gagnon / CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Jeonju_Hanok_Maeul_02.jpg"
+  }
+}

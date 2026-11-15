@@ -1,0 +1,144 @@
+{
+  "slug": "Eindhoven",
+  "name": "Eindhoven",
+  "region": "Europe",
+  "country": "Netherlands",
+  "metro": "780,000",
+  "seo": {
+    "title": "Eindhoven Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Eindhoven travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Eindhoven.",
+    "keywords": "Eindhoven, Eindhoven travel guide, things to do in Eindhoven, Eindhoven fun facts, where to stay in Eindhoven, Famous Cities"
+  },
+  "image": "Eindhoven.jpg",
+  "video": "videos/eindhoven.mp4",
+  "youtube": null,
+  "tagline": "Philips' hometown has become the Netherlands' capital of design and technology, with Dutch Design Week, the GLOW light festival and PSV football.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Eindhoven",
+    "twitter": "https://twitter.com/search?q=visit%20Eindhoven",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eindhoven"
+  },
+  "overview": [
+    "Eindhoven was a small town until 1891, when Philips began making light bulbs here; the company's factories turned it into the Netherlands' fifth-largest city. The Philips Museum is in the original light-bulb factory, and Strijp-S, a former Philips industrial site, is now a creative district of lofts, studios and food halls.",
+    "Today the region, known as Brainport, is one of Europe's leading technology hubs, home to the chip machine maker ASML and the Eindhoven University of Technology. The Design Academy Eindhoven and the yearly Dutch Design Week make it the country's design capital.",
+    "In November the GLOW festival fills the streets with light art, a nod to the city's light-bulb roots. PSV Eindhoven, founded by Philips, is one of the country's biggest football clubs, and the Van Abbemuseum has a strong modern art collection."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Eindhoven&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Eindhoven",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ein/cheap-flights-to-eindhoven.html"
+  },
+  "topThings": [
+    {
+      "icon": "💡",
+      "title": "Philips Museum",
+      "desc": "The factory where Philips made its first bulbs.",
+      "viator": "https://www.viator.com/searchResults/all?text=Philips%20Museum%20Eindhoven",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Philips%20Museum%20Eindhoven"
+    },
+    {
+      "icon": "🏭",
+      "title": "Strijp-S District",
+      "desc": "Former Philips site turned creative hub.",
+      "viator": "https://www.viator.com/searchResults/all?text=Eindhoven%20Strijp-S%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Eindhoven%20Strijp-S%20tour"
+    },
+    {
+      "icon": "⚽",
+      "title": "PSV Stadium Tour",
+      "desc": "Behind the scenes at Philips Stadion.",
+      "viator": "https://www.viator.com/searchResults/all?text=PSV%20Eindhoven%20stadium%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=PSV%20Eindhoven%20stadium%20tour"
+    },
+    {
+      "icon": "🎨",
+      "title": "Van Abbemuseum",
+      "desc": "Modern and contemporary art.",
+      "viator": "https://www.viator.com/searchResults/all?text=Van%20Abbemuseum%20Eindhoven",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Van%20Abbemuseum%20Eindhoven"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "CITY OF LIGHT",
+      "text": "Eindhoven grew around the Philips light-bulb factory, founded in 1891."
+    },
+    {
+      "title": "BRAINPORT",
+      "text": "The Eindhoven region is one of Europe's top technology hubs."
+    },
+    {
+      "title": "CHIP-MACHINE GIANT",
+      "text": "ASML, maker of advanced chip machines, is based nearby in Veldhoven."
+    },
+    {
+      "title": "DUTCH DESIGN WEEK",
+      "text": "Eindhoven hosts the largest design event in northern Europe each October."
+    },
+    {
+      "title": "GLOW FESTIVAL",
+      "text": "The GLOW light festival draws hundreds of thousands of visitors."
+    },
+    {
+      "title": "A CLUB FROM A COMPANY",
+      "text": "PSV began in 1913 as Philips' sports club."
+    },
+    {
+      "title": "PATENTS GALORE",
+      "text": "The Eindhoven region files a large share of Dutch patents."
+    },
+    {
+      "title": "A FLOATING ROUNDABOUT",
+      "text": "The Hovenring is a suspended cycle roundabout above a road junction."
+    },
+    {
+      "title": "LIGHT TOWER",
+      "text": "The Lichttoren was Philips' former light-bulb testing tower."
+    },
+    {
+      "title": "A YOUNG CITY",
+      "text": "Eindhoven was formed in 1920 by merging several villages."
+    }
+  ],
+  "randomFacts": [
+    "Eindhoven grew around the Philips light-bulb factory, founded in 1891.",
+    "The Eindhoven region is one of Europe's top technology hubs.",
+    "ASML, maker of advanced chip machines, is based nearby in Veldhoven.",
+    "Eindhoven hosts the largest design event in northern Europe each October.",
+    "The GLOW light festival draws hundreds of thousands of visitors.",
+    "PSV began in 1913 as Philips' sports club.",
+    "The Eindhoven region files a large share of Dutch patents.",
+    "The Hovenring is a suspended cycle roundabout above a road junction.",
+    "The Lichttoren was Philips' former light-bulb testing tower.",
+    "Eindhoven was formed in 1920 by merging several villages.",
+    "Eindhoven is about 1 hour 20 minutes from Amsterdam by train.",
+    "Eindhoven Airport is the second-busiest in the Netherlands.",
+    "Stratumseind is one of the country's longest bar streets.",
+    "The Evoluon is a flying-saucer-shaped building from 1966.",
+    "Eindhoven University of Technology was founded in 1956."
+  ],
+  "faq": [
+    {
+      "q": "Where is Eindhoven located?",
+      "a": "Eindhoven is in Netherlands, in Europe."
+    },
+    {
+      "q": "What is the population of Eindhoven?",
+      "a": "The greater Eindhoven area is home to about 780,000 people."
+    },
+    {
+      "q": "What is Eindhoven famous for?",
+      "a": "Philips' hometown has become the Netherlands' capital of design and technology, with Dutch Design Week, the GLOW light festival and PSV football."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Rosemoon / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Lichttoren_Eindhoven_1_-_Cropped.jpg"
+  }
+}

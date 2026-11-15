@@ -1,0 +1,144 @@
+{
+  "slug": "Poznan",
+  "name": "Poznań",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "1,000,000",
+  "seo": {
+    "title": "Poznań Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Poznań travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Poznań.",
+    "keywords": "Poznań, Poznań travel guide, things to do in Poznań, Poznań fun facts, where to stay in Poznań, Famous Cities"
+  },
+  "image": "Poznan.jpg",
+  "video": "videos/poznan.mp4",
+  "youtube": null,
+  "tagline": "One of Poland's oldest cities has a colourful Renaissance market square where two mechanical goats butt heads at noon, a cathedral island and a lively student scene.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Pozna%C5%84",
+    "twitter": "https://twitter.com/search?q=visit%20Pozna%C5%84",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pozna%C5%84"
+  },
+  "overview": [
+    "Poznań, halfway between Berlin and Warsaw, is one of the cradles of the Polish state: the first Polish rulers were based on Ostrów Tumski, its cathedral island, more than 1,000 years ago, and Poland's first rulers are buried in the cathedral.",
+    "The Old Market Square is ringed by narrow, brightly painted merchant houses and centred on the Renaissance Town Hall. Every day at noon two mechanical goats emerge above the clock and butt heads twelve times, a scene tied to a local legend.",
+    "Poznań is a busy trade-fair and university city, so it feels young and lively. Try rogal świętomarciński, a croissant filled with white poppy seeds made for St Martin's Day, and visit the Imperial Castle, the Croissant Museum or the lakes of Malta and Rusałka."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Poznan&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Pozna%C5%84",
+    "flights": "https://www.skyscanner.net/transport/flights/to/poz/cheap-flights-to-poznan.html"
+  },
+  "topThings": [
+    {
+      "icon": "🐐",
+      "title": "Old Town & Noon Goats",
+      "desc": "Market square, Town Hall and the goats.",
+      "viator": "https://www.viator.com/searchResults/all?text=Poznan%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Poznan%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "⛪",
+      "title": "Ostrów Tumski & Porta Posnania",
+      "desc": "The cathedral island where Poland began.",
+      "viator": "https://www.viator.com/searchResults/all?text=Poznan%20Ostrow%20Tumski%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Poznan%20Ostrow%20Tumski%20tour"
+    },
+    {
+      "icon": "🥐",
+      "title": "Croissant Museum",
+      "desc": "Bake the famous St Martin's croissant.",
+      "viator": "https://www.viator.com/searchResults/all?text=Poznan%20Croissant%20Museum",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Poznan%20Croissant%20Museum"
+    },
+    {
+      "icon": "🏞️",
+      "title": "Lake Malta",
+      "desc": "Walks, rowing and the Malta Ski slope.",
+      "viator": "https://www.viator.com/searchResults/all?text=Poznan%20Lake%20Malta",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Poznan%20Lake%20Malta"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "GOATS AT NOON",
+      "text": "Two mechanical goats butt heads above the Town Hall clock every day at noon."
+    },
+    {
+      "title": "WHERE POLAND BEGAN",
+      "text": "Ostrów Tumski was a seat of the first Piast rulers."
+    },
+    {
+      "title": "ROYAL TOMBS",
+      "text": "Mieszko I and Bolesław the Brave are said to be buried in Poznań Cathedral."
+    },
+    {
+      "title": "A PROTECTED CROISSANT",
+      "text": "Rogal świętomarciński has EU protected-origin status."
+    },
+    {
+      "title": "A TRADE-FAIR CITY",
+      "text": "Poznań International Fair dates back to 1921."
+    },
+    {
+      "title": "COLOURFUL MERCHANT HOUSES",
+      "text": "The narrow merchants' houses on the square date back centuries."
+    },
+    {
+      "title": "AN EMPEROR'S CASTLE",
+      "text": "The Imperial Castle was built for Kaiser Wilhelm II in 1910."
+    },
+    {
+      "title": "1956 UPRISING",
+      "text": "Poznań's June 1956 workers' protest was one of the first against communist rule."
+    },
+    {
+      "title": "A STUDENT CITY",
+      "text": "Poznań has a large university population."
+    },
+    {
+      "title": "KAISER TO CULTURE",
+      "text": "The Imperial Castle now houses a cultural centre."
+    }
+  ],
+  "randomFacts": [
+    "Two mechanical goats butt heads above the Town Hall clock every day at noon.",
+    "Ostrów Tumski was a seat of the first Piast rulers.",
+    "Mieszko I and Bolesław the Brave are said to be buried in Poznań Cathedral.",
+    "Rogal świętomarciński has EU protected-origin status.",
+    "Poznań International Fair dates back to 1921.",
+    "The narrow merchants' houses on the square date back centuries.",
+    "The Imperial Castle was built for Kaiser Wilhelm II in 1910.",
+    "Poznań's June 1956 workers' protest was one of the first against communist rule.",
+    "Poznań has a large university population.",
+    "The Imperial Castle now houses a cultural centre.",
+    "Poznań is about 2.5 hours from Berlin by train.",
+    "Pyry z gzikiem, potatoes with quark, is a local dish.",
+    "Poznań hosted matches at UEFA Euro 2012.",
+    "Porta Posnania tells the story of the cathedral island.",
+    "Malta Festival brings theatre to Poznań each summer."
+  ],
+  "faq": [
+    {
+      "q": "Where is Poznań located?",
+      "a": "Poznań is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Poznań?",
+      "a": "The greater Poznań area is home to about 1,000,000 people."
+    },
+    {
+      "q": "What is Poznań famous for?",
+      "a": "One of Poland's oldest cities has a colourful Renaissance market square where two mechanical goats butt heads at noon, a cathedral island and a lively student scene."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: A.Savin / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Poznan_10-2013_img15_Old_Market.jpg"
+  }
+}

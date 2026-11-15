@@ -1,0 +1,144 @@
+{
+  "slug": "Torun",
+  "name": "Toruń",
+  "region": "Europe",
+  "country": "Poland",
+  "metro": "200,000",
+  "seo": {
+    "title": "Toruń Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Toruń travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Toruń.",
+    "keywords": "Toruń, Toruń travel guide, things to do in Toruń, Toruń fun facts, where to stay in Toruń, Famous Cities"
+  },
+  "image": "Torun.jpg",
+  "video": "videos/torun.mp4",
+  "youtube": null,
+  "tagline": "Copernicus's hometown on the Vistula is a UNESCO-listed Gothic old town of brick churches, a leaning tower and gingerbread baked to centuries-old recipes.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Toru%C5%84",
+    "twitter": "https://twitter.com/search?q=visit%20Toru%C5%84",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toru%C5%84"
+  },
+  "overview": [
+    "Toruń was founded by the Teutonic Knights in the 13th century and grew rich as a Hanseatic trading town on the Vistula. It was barely damaged in World War II, so its Gothic brick churches, granaries and merchants' houses survive, and the medieval town is a UNESCO World Heritage Site.",
+    "Nicolaus Copernicus, the astronomer who put the Sun at the centre of the solar system, was born here in 1473, and his house is a museum. The Old Town Hall's tower gives views over the rooftops, and the Leaning Tower, part of the old walls, tilts noticeably.",
+    "Toruń is also Poland's gingerbread town. Piernik has been baked here since the Middle Ages, and the Living Museum of Gingerbread lets visitors make their own. Evening walks along the Vistula boulevard show the old town's skyline from the river."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Torun&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Toru%C5%84",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bzg/cheap-flights-to-bydgoszcz.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Gothic Old Town Walk",
+      "desc": "UNESCO streets, town hall and churches.",
+      "viator": "https://www.viator.com/searchResults/all?text=Torun%20old%20town%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Torun%20old%20town%20walking%20tour"
+    },
+    {
+      "icon": "🔭",
+      "title": "Copernicus House",
+      "desc": "The astronomer's birthplace museum.",
+      "viator": "https://www.viator.com/searchResults/all?text=Torun%20Copernicus%20house",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Torun%20Copernicus%20house"
+    },
+    {
+      "icon": "🍪",
+      "title": "Gingerbread Museum",
+      "desc": "Bake piernik the traditional way.",
+      "viator": "https://www.viator.com/searchResults/all?text=Torun%20gingerbread%20museum%20workshop",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Torun%20gingerbread%20museum%20workshop"
+    },
+    {
+      "icon": "🏰",
+      "title": "Teutonic Castle Ruins",
+      "desc": "Remains of the knights' 13th-century castle.",
+      "viator": "https://www.viator.com/searchResults/all?text=Torun%20Teutonic%20castle",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Torun%20Teutonic%20castle"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "COPERNICUS WAS BORN HERE",
+      "text": "Nicolaus Copernicus was born in Toruń in 1473."
+    },
+    {
+      "title": "GINGERBREAD CAPITAL",
+      "text": "Toruń has baked gingerbread since the Middle Ages."
+    },
+    {
+      "title": "UNESCO OLD TOWN",
+      "text": "Medieval Toruń was added to UNESCO's World Heritage list in 1997."
+    },
+    {
+      "title": "A LEANING TOWER",
+      "text": "Toruń's Leaning Tower tilts about 1.5 metres from vertical."
+    },
+    {
+      "title": "BUILT BY KNIGHTS",
+      "text": "The Teutonic Knights founded Toruń in 1233."
+    },
+    {
+      "title": "A PEACE TREATY",
+      "text": "The Peace of Toruń in 1466 ended a war between Poland and the Teutonic Order."
+    },
+    {
+      "title": "HANSEATIC TRADE",
+      "text": "Toruń was an important member of the Hanseatic League."
+    },
+    {
+      "title": "SPARED BY WAR",
+      "text": "The old town survived World War II with little damage."
+    },
+    {
+      "title": "A BIG UNIVERSITY",
+      "text": "Nicolaus Copernicus University was founded in 1945."
+    },
+    {
+      "title": "A WALLED RIVERFRONT",
+      "text": "Parts of the medieval walls still line the Vistula."
+    }
+  ],
+  "randomFacts": [
+    "Nicolaus Copernicus was born in Toruń in 1473.",
+    "Toruń has baked gingerbread since the Middle Ages.",
+    "Medieval Toruń was added to UNESCO's World Heritage list in 1997.",
+    "Toruń's Leaning Tower tilts about 1.5 metres from vertical.",
+    "The Teutonic Knights founded Toruń in 1233.",
+    "The Peace of Toruń in 1466 ended a war between Poland and the Teutonic Order.",
+    "Toruń was an important member of the Hanseatic League.",
+    "The old town survived World War II with little damage.",
+    "Nicolaus Copernicus University was founded in 1945.",
+    "Parts of the medieval walls still line the Vistula.",
+    "Toruń hosts the Bella Skyrà light festival each year.",
+    "The Old Town Hall dates from the 13th–14th centuries.",
+    "Toruń has a planetarium named after Copernicus.",
+    "St Johns' Cathedral has a giant medieval bell.",
+    "Toruń is about 2.5 hours from Warsaw by train."
+  ],
+  "faq": [
+    {
+      "q": "Where is Toruń located?",
+      "a": "Toruń is in Poland, in Europe."
+    },
+    {
+      "q": "What is the population of Toruń?",
+      "a": "The greater Toruń area is home to about 200,000 people."
+    },
+    {
+      "q": "What is Toruń famous for?",
+      "a": "Copernicus's hometown on the Vistula is a UNESCO-listed Gothic old town of brick churches, a leaning tower and gingerbread baked to centuries-old recipes."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Andrzej Otrębski / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Torun_panorama_zza_Wisly_2.jpg"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "slug": "Seville",
+  "name": "Seville",
+  "region": "Europe",
+  "country": "Spain",
+  "metro": "1,500,000",
+  "seo": {
+    "title": "Seville Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Seville travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Seville.",
+    "keywords": "Seville, Seville travel guide, things to do in Seville, Seville fun facts, where to stay in Seville, Famous Cities"
+  },
+  "image": "Seville.jpg",
+  "video": "videos/seville.mp4",
+  "youtube": null,
+  "tagline": "The heart of Andalusia dazzles with the Real Alcázar, a vast Gothic cathedral, the sweeping Plaza de España and flamenco that was born in its streets.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Seville",
+    "twitter": "https://twitter.com/search?q=visit%20Seville",
+    "wikipedia": "https://en.wikipedia.org/wiki/Seville"
+  },
+  "overview": [
+    "Seville, the capital of Andalusia, grew rich as Spain's monopoly port for trade with the Americas in the 1500s and 1600s. Its cathedral, built on the site of a mosque, is the largest Gothic cathedral in the world, and its bell tower, the Giralda, began life as a minaret.",
+    "Next door, the Real Alcázar is a royal palace still used by the Spanish royal family, with Mudéjar courtyards, tiled halls and gardens; together with the cathedral and the Archivo de Indias it is a UNESCO site. The Plaza de España, built for the 1929 expo, curves around a canal with tiled alcoves for every Spanish province.",
+    "Seville is the home of flamenco, sevillanas and tapas culture. The Santa Cruz and Triana neighbourhoods are full of tiled courtyards and bars, and spring brings Semana Santa processions and the April Fair. The Metropol Parasol, a giant wooden canopy, gives rooftop views."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Seville&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Seville",
+    "flights": "https://www.skyscanner.net/transport/flights/to/svq/cheap-flights-to-seville.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Real Alcázar",
+      "desc": "Royal palace with Mudéjar courtyards.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seville%20Real%20Alcazar%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seville%20Real%20Alcazar%20tour"
+    },
+    {
+      "icon": "⛪",
+      "title": "Cathedral & Giralda",
+      "desc": "The world's largest Gothic cathedral.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seville%20Cathedral%20Giralda%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seville%20Cathedral%20Giralda%20tour"
+    },
+    {
+      "icon": "💃",
+      "title": "Flamenco Show",
+      "desc": "Live flamenco in its birthplace.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seville%20flamenco%20show",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seville%20flamenco%20show"
+    },
+    {
+      "icon": "🍷",
+      "title": "Tapas in Triana",
+      "desc": "Tapas crawl across the river.",
+      "viator": "https://www.viator.com/searchResults/all?text=Seville%20tapas%20tour%20Triana",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Seville%20tapas%20tour%20Triana"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "BIGGEST GOTHIC CATHEDRAL",
+      "text": "Seville Cathedral is the largest Gothic cathedral in the world."
+    },
+    {
+      "title": "A MINARET TURNED BELL TOWER",
+      "text": "The Giralda was the minaret of the city's 12th-century mosque."
+    },
+    {
+      "title": "A ROYAL PALACE STILL IN USE",
+      "text": "The Real Alcázar's upper floors are used by the Spanish royal family."
+    },
+    {
+      "title": "COLUMBUS RESTS HERE",
+      "text": "A tomb in the cathedral holds remains attributed to Christopher Columbus."
+    },
+    {
+      "title": "GATEWAY TO THE AMERICAS",
+      "text": "Seville held Spain's trade monopoly with the Americas for nearly two centuries."
+    },
+    {
+      "title": "FILM LOCATION",
+      "text": "The Alcázar was used to film Game of Thrones scenes."
+    },
+    {
+      "title": "WOODEN MUSHROOMS",
+      "text": "The Metropol Parasol is one of the world's largest wooden structures."
+    },
+    {
+      "title": "BIRTHPLACE OF FLAMENCO",
+      "text": "Seville and its Triana district are central to flamenco's history."
+    },
+    {
+      "title": "ORANGE TREES",
+      "text": "Seville's streets are lined with thousands of bitter orange trees."
+    },
+    {
+      "title": "A SPRING FAIR",
+      "text": "The Feria de Abril fills the city with music and casetas each spring."
+    }
+  ],
+  "randomFacts": [
+    "Seville Cathedral is the largest Gothic cathedral in the world.",
+    "The Giralda was the minaret of the city's 12th-century mosque.",
+    "The Real Alcázar's upper floors are used by the Spanish royal family.",
+    "A tomb in the cathedral holds remains attributed to Christopher Columbus.",
+    "Seville held Spain's trade monopoly with the Americas for nearly two centuries.",
+    "The Alcázar was used to film Game of Thrones scenes.",
+    "The Metropol Parasol is one of the world's largest wooden structures.",
+    "Seville and its Triana district are central to flamenco's history.",
+    "Seville's streets are lined with thousands of bitter orange trees.",
+    "The Feria de Abril fills the city with music and casetas each spring.",
+    "Seville is about 2.5 hours from Madrid by AVE train.",
+    "Seville oranges are used to make British marmalade.",
+    "The Torre del Oro guarded the river port.",
+    "Summer temperatures often pass 40°C.",
+    "Plaza de España appears in Star Wars: Attack of the Clones."
+  ],
+  "faq": [
+    {
+      "q": "Where is Seville located?",
+      "a": "Seville is in Spain, in Europe."
+    },
+    {
+      "q": "What is the population of Seville?",
+      "a": "The greater Seville area is home to about 1,500,000 people."
+    },
+    {
+      "q": "What is Seville famous for?",
+      "a": "The heart of Andalusia dazzles with the Real Alcázar, a vast Gothic cathedral, the sweeping Plaza de España and flamenco that was born in its streets."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Carlos Delgado / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+  }
+}
