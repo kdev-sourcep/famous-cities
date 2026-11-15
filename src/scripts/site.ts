@@ -192,3 +192,11 @@ if (lang !== "en") {
   gt.src = "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit";
   document.head.appendChild(gt);
 }
+
+const tpWrap = (e: Event) => {
+  const a = (e.target as Element).closest?.("a[data-tp]") as HTMLAnchorElement | null;
+  const wrap = (window as any).FC_TP_WRAP;
+  if (a && !a.dataset.wrapped && typeof wrap === "function") { a.href = wrap(a.dataset.tp, a.href); a.dataset.wrapped = "1"; }
+};
+document.addEventListener("click", tpWrap, true);
+document.addEventListener("auxclick", tpWrap, true);

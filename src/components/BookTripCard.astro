@@ -1,0 +1,52 @@
+---
+import Icon from "./Icon.astro";
+import { url, regionStyle, type City } from "../lib/site";
+
+type Snap = { checkIn: string; checkOut: string; hotels: { prices: { price: number }[] }[] };
+const hotelFiles = import.meta.glob<{ default: Snap }>("../data/hotels/*.json", { eager: true });
+const { city } = Astro.props as { city: City };
+const snap = Object.entries(hotelFiles).find(([p]) => p.endsWith(`/${city.slug}.json`))?.[1].default;
+const lows = snap?.hotels.filter((h) => h.prices?.length).map((h) => Math.min(...h.prices.map((p) => p.price))) || [];
+const from = lows.length ? Math.min(...lows) : 0;
+const tour = city.topThings.find((t) => t.getyourguide || t.viator);
+const q = encodeURIComponent(`${city.name} airport transfer`);
+---
+<section class="section trip-sec" id="book-trip">
+  <div class="container">
+    <div class="trip-card card" style={regionStyle(city.region)}>
+      <div class="trip-card__head">
+        <span class="eyebrow">Book your trip</span>
+        <h2>Plan {city.name} in one place</h2>
+      </div>
+      <div class="trip-card__grid">
+        <div class="trip-card__item">
+          <span class="tile"><Icon name="hotel" size={20} /></span>
+          <h3>Hotels &amp; homes</h3>
+          <p class="muted">{from ? `From $${from} a night, ${lows.length} hotels compared` : `Compare hotels and homes in ${city.name}`}</p>
+          <a class="btn btn--dark btn--sm book-btn" data-category="Trip card" href={url(`book.html?city=${city.slug}`)}>See hotels</a>
+        </div>
+        {tour && (
+          <div class="trip-card__item">
+            <span class="tile"><Icon name="ticket" size={20} /></span>
+            <h3>Top tour</h3>
+            <p class="muted">{tour.title}</p>
+            <div class="trip-card__links">
+              {tour.getyourguide && <a class="btn btn--dark btn--sm book-btn" data-category="Trip card" data-tp="getyourguide" href={tour.getyourguide} target="_blank" rel="sponsored noopener">GetYourGuide</a>}
+              {tour.viator && <a class="btn btn--light btn--sm book-btn" data-category="Trip card" data-tp="viator" href={tour.viator} target="_blank" rel="sponsored noopener">Viator</a>}
+            </div>
+          </div>
+        )}
+        <div class="trip-card__item">
+          <span class="tile"><Icon name="car-taxi-front" size={20} /></span>
+          <h3>Airport transfer</h3>
+          <p class="muted">Private cars and shuttles from the airport to your hotel</p>
+          <div class="trip-card__links">
+            <a class="btn btn--dark btn--sm book-btn" data-category="Trip card" data-tp="getyourguide" href={`https://www.getyourguide.com/s/?q=${q}`} target="_blank" rel="sponsored noopener">GetYourGuide</a>
+            <a class="btn btn--light btn--sm book-btn" data-category="Trip card" data-tp="viator" href={`https://www.viator.com/searchResults/all?text=${q}`} target="_blank" rel="sponsored noopener">Viator</a>
+          </div>
+        </div>
+      </div>
+      <p class="trip-card__note muted">You book and pay on the partner's site. We may earn a commission at no extra cost to you.</p>
+    </div>
+  </div>
+</section>

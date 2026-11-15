@@ -582,3 +582,14 @@ body { top: 0 !important; }
   .vs-head { min-height: 110px; padding: var(--s3); }
   .vs-head__name { font-size: 20px; }
 }
+
+.trip-sec { padding-top: 0; }
+.trip-card { padding: var(--s5); }
+.trip-card__head h2 { margin: 4px 0 0; }
+.trip-card__grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--s4); margin-top: var(--s4); }
+.trip-card__item { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; padding: var(--s4); border: 1px solid var(--line); border-radius: 16px; background: var(--card); }
+.trip-card__item h3 { margin: 4px 0 0; font-size: 18px; }
+.trip-card__item p { margin: 0 0 4px; flex: 1; }
+.trip-card__links { display: flex; flex-wrap: wrap; gap: 8px; }
+.trip-card__note { margin: var(--s3) 0 0; font-size: 13px; }
+@media (max-width: 860px) { .trip-card__grid { grid-template-columns: 1fr; } .trip-card { padding: var(--s4); } }
