@@ -1,0 +1,55 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Icon from "../../components/Icon.astro";
+import SupportBand from "../../components/SupportBand.astro";
+import guides from "../../data/guides.json";
+import { url, absUrl, getCity, cityHref, regionStyle } from "../../lib/site";
+export function getStaticPaths() {
+  return guides.map((g) => ({ params: { slug: g.slug }, props: { g } }));
+}
+const { g } = Astro.props as { g: (typeof guides)[number] };
+const path = `guides/${g.slug}.html`;
+const items = g.items.map((i) => ({ ...i, city: getCity(i.slug)! }));
+const jsonld = [
+  { "@type": "Article", "headline": g.title, "description": g.description, "url": absUrl(path), "author": { "@type": "Organization", "name": "Famous Cities" }, "publisher": { "@type": "Organization", "name": "Famous Cities" } },
+  { "@type": "ItemList", "name": g.title, "itemListElement": items.map((i, n) => ({ "@type": "ListItem", "position": n + 1, "name": i.city.name, "url": absUrl(`${i.slug}.html`) })) },
+  ...(g.faq.length ? [{ "@type": "FAQPage", "mainEntity": g.faq.map((f) => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": f.a } })) }] : []),
+];
+---
+<BaseLayout title={`${g.title} | Famous Cities`} description={g.description} path={path} jsonld={jsonld} ogType="article">
+  <section class="page-hero"><div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href={url("")}>Home</a><Icon name="chevron-right" size={14} /><a href={url("blog/blog.html")}>Guides</a><Icon name="chevron-right" size={14} /><span>{g.kicker}</span></nav>
+    <h1>{g.title}</h1><p>{g.intro}</p>
+  </div></section>
+  <section class="section"><div class="container">
+    <ol class="guide-list">
+      {items.map((i, n) => (
+        <li class="card guide-item" style={regionStyle(i.city.region)}>
+          <a class="guide-item__img" href={cityHref(i.slug)}><img src={url(`cards/${i.slug}.webp`)} alt={`${i.city.name}, ${i.city.country}`} width="560" height="340" loading={n < 2 ? "eager" : "lazy"} decoding="async" /></a>
+          <div class="guide-item__body">
+            <span class="guide-item__num">{String(n + 1).padStart(2, "0")}</span>
+            <h2><a href={cityHref(i.slug)}>{i.city.name}</a> <span class="muted">{i.city.country}</span></h2>
+            <p>{i.why}</p>
+            <div class="hero-btns">
+              <a class="btn btn--dark btn--sm" href={cityHref(i.slug)}>{i.city.name} guide<Icon name="arrow-right" size={16} /></a>
+              {i.city.booking.hotels && <a class="btn btn--light btn--sm book-btn" data-category="Guide" href={i.city.booking.hotels} target="_blank" rel="sponsored noopener"><Icon name="hotel" size={16} />Hotels</a>}
+              {i.city.booking.tours && <a class="btn btn--light btn--sm book-btn" data-category="Guide" href={i.city.booking.tours} target="_blank" rel="sponsored noopener"><Icon name="ticket" size={16} />Tours</a>}
+            </div>
+          </div>
+        </li>
+      ))}
+    </ol>
+    <p class="muted picks-note">We may earn a commission when you book through Hotels or Tours links, at no extra cost to you.</p>
+  </div></section>
+  {g.faq.length > 0 && (
+    <section class="section section--surface"><div class="container">
+      <div class="section-head"><div><span class="eyebrow">FAQ</span><h2>Quick answers</h2></div></div>
+      <div class="faq">{g.faq.map((f) => <details><summary>{f.q}<Icon name="chevron-down" size={18} /></summary><p>{f.a}</p></details>)}</div>
+    </div></section>
+  )}
+  <section class="section"><div class="container">
+    <div class="section-head"><div><span class="eyebrow">More guides</span><h2>Keep exploring</h2></div></div>
+    <div class="region-jump">{guides.filter((o) => o.slug !== g.slug).map((o) => <a class="chip" href={url(`guides/${o.slug}.html`)}>{o.title}</a>)}</div>
+  </div></section>
+  <SupportBand />
+</BaseLayout>

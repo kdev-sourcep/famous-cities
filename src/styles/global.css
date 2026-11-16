@@ -643,3 +643,15 @@ a.pick-card__img { display: block; }
 @media (max-width: 720px) { :root { --header: 64px; } .logo { font-size: 19px; } .logo__mark { width: 36px; height: 36px; } .recent-strip { font-size: 15px; } }
 .photo-credit { position: absolute; left: 12px; bottom: 8px; z-index: 2; max-width: 60%; font-size: 11px; color: rgba(255,255,255,.75); text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .photo-credit:hover { color: #fff; text-decoration: underline; }
+
+.guide-list { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--s5); }
+.guide-item { display: grid; grid-template-columns: minmax(0, 320px) 1fr; gap: var(--s5); align-items: center; padding: var(--s4); }
+.guide-item__img img { width: 100%; height: auto; aspect-ratio: 56 / 34; object-fit: cover; border-radius: calc(var(--radius) - 4px); display: block; }
+.guide-item__num { display: inline-block; font-weight: 800; font-size: 14px; color: #fff; background: linear-gradient(135deg, var(--c1), var(--c2)); border-radius: 999px; padding: 4px 10px; }
+.guide-item h2 { font-size: clamp(1.3rem, 1.1rem + .8vw, 1.75rem); margin: var(--s2) 0; }
+.guide-item h2 a { color: inherit; text-decoration: none; }
+.guide-item h2 .muted { font-size: .6em; font-weight: 600; }
+.guide-item p { color: var(--ink-2); margin: 0 0 var(--s4); }
+.post-card__img { width: 100%; height: auto; aspect-ratio: 56 / 34; object-fit: cover; border-radius: calc(var(--radius) - 4px); }
+@media (max-width: 720px) { .guide-item { grid-template-columns: 1fr; } }
+.guide-links { margin-top: var(--s5); align-items: center; }

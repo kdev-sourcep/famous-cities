@@ -20,6 +20,7 @@ const { city } = Astro.props as { city: City };
 const path = `${city.slug}.html`;
 const more = citiesIn(city.region).filter((c) => c.slug !== city.slug).slice(0, 8);
 const longFacts = city.funFacts.some((f) => f.text.replace(/<[^>]+>/g, "").length > 220);
+const inGuides = guides.filter((g) => g.items.some((i) => i.slug === city.slug));
 const strip = (s: string) => s.replace(/<[^>]+>/g, "");
 const sections = [
   ["overview", "Overview"], ["things-to-do", "Things to do"], ["plan", "Plan your trip"],
@@ -35,6 +36,7 @@ const jsonld = [
   ] },
   ...(city.faq.length ? [{ "@type": "FAQPage", "mainEntity": city.faq.map((f) => ({ "@type": "Question", "name": f.q, "acceptedAnswer": { "@type": "Answer", "text": strip(f.a) } })) }] : []),
 ];
+import guides from "../data/guides.json";
 ---
 <BaseLayout title={city.seo.title} description={city.seo.description} keywords={city.seo.keywords} path={path} image={city.image ? `images/${city.image}` : undefined} jsonld={jsonld} cityPage>
   <section class="city-hero" style={regionStyle(city.region)}>
@@ -197,6 +199,7 @@ const jsonld = [
     <div class="container">
       <div class="section-head"><div><span class="eyebrow">Keep exploring</span><h2>More cities in {city.region}</h2></div><div class="section-head__btns"><a class="btn btn--light btn--sm" href={url(`city-vs-city.html?a=${city.slug}`)}><Icon name="scale" size={16} />Compare {city.name} with another city</a><a class="btn btn--light btn--sm" href={url(`cities.html#${regionId(city.region)}`)}>All {city.region} cities<Icon name="arrow-right" size={16} /></a></div></div>
       <div class="city-grid">{more.map((c) => <CityCard city={c} />)}</div>
+      {inGuides.length > 0 && <div class="region-jump guide-links"><span class="muted">In our guides:</span>{inGuides.map((g) => <a class="chip" href={url(`guides/${g.slug}.html`)}>{g.title}</a>)}</div>}
     </div>
   </section>
 
