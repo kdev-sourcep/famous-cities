@@ -1,82 +1,381 @@
 [
-  {"slug":"best-cities-in-spain","kicker":"Spain","title":"Best Cities in Spain for a First Trip","description":"The best cities to visit in Spain, from Madrid and Barcelona to Seville, Granada and San Sebastián, with what each does best and where to stay.","intro":"Spain packs world-class art, Moorish palaces, beaches and some of Europe's best food into one country, and fast trains link most of its great cities. These are the ten we'd pick, with what makes each one worth the trip.","items":[
-    {"slug":"Madrid","why":"The capital is the place for art and nightlife: the Prado, the Reina Sofía, the Royal Palace and long evenings of tapas. Retiro Park is perfect for an afternoon off."},
-    {"slug":"Barcelona","why":"Gaudí's Sagrada Família and Park Güell, the Gothic Quarter and a city beach make Barcelona Spain's most varied city break."},
-    {"slug":"Seville","why":"The heart of Andalusia, with the Real Alcázar, a giant Gothic cathedral and the best flamenco in Spain. Spring brings orange blossom and festivals."},
-    {"slug":"Granada","why":"Come for the Alhambra, one of the world's great palaces, and stay for the Albaicín's white lanes and the free tapas served with drinks."},
-    {"slug":"Valencia","why":"The birthplace of paella has the futuristic City of Arts and Sciences, the Turia park and long sandy beaches."},
-    {"slug":"San-Sebastian","why":"La Concha Bay and the Basque Country's famous pintxos bars make this a top pick for food lovers."},
-    {"slug":"Bilbao","why":"Frank Gehry's Guggenheim Museum transformed this former industrial city, and its old town is full of pintxos bars too."},
-    {"slug":"Cordoba-Spain","why":"The Mezquita, a mosque-cathedral with a forest of striped arches, is unlike anything else in Europe. Visit in May for the flower-filled patios."},
-    {"slug":"Toledo","why":"Just over half an hour from Madrid by fast train, this hilltop city blends Christian, Muslim and Jewish history above the Tagus River."},
-    {"slug":"Salamanca","why":"Home to one of Europe's oldest universities, founded in 1218, with golden sandstone buildings and a lively student scene."}],
-   "faq":[{"q":"Which Spanish city is best for a first trip?","a":"Madrid or Barcelona are the easiest starting points, with the most flights and fast trains onward. Seville is the best pick for classic Andalusian Spain."},{"q":"How many cities can I see in a week?","a":"Two or three. For example, Madrid with a day trip to Toledo, then a fast train to Seville or Barcelona."}]},
-  {"slug":"best-cities-in-india","kicker":"India","title":"Best Cities to Visit in India","description":"The best cities to visit in India, from Mumbai and New Delhi to Jaipur, Agra and Varanasi, with what each does best and where to stay.","intro":"India's cities are some of the most exciting on Earth: Mughal monuments, holy rivers, royal palaces and incredible street food. Here are ten to plan a trip around.","items":[
-    {"slug":"New-Delhi","why":"The capital is the start of most trips, with the Red Fort, Qutub Minar, India Gate and the food stalls of Old Delhi."},
-    {"slug":"Agra","why":"Home of the Taj Mahal, plus Agra Fort and Fatehpur Sikri nearby. Go at sunrise for the best light and the smallest crowds."},
-    {"slug":"Jaipur","why":"The Pink City has Amer Fort, the Hawa Mahal and colourful bazaars. With Delhi and Agra it forms the classic Golden Triangle."},
-    {"slug":"Varanasi","why":"One of the world's oldest living cities. Watch the evening Ganga Aarti and take a sunrise boat ride along the ghats."},
-    {"slug":"Mumbai","why":"India's biggest city has the Gateway of India, Marine Drive, Bollywood and some of the country's best street food."},
-    {"slug":"Kolkata","why":"The cultural capital, with the Victoria Memorial, colonial streets, book markets and famous sweets."},
-    {"slug":"Hyderabad","why":"The City of Pearls is known for the Charminar, Golconda Fort and its famous Hyderabadi biryani."},
-    {"slug":"Chennai","why":"The gateway to South India, with Marina Beach, great temples and classical music and dance."},
-    {"slug":"Bengaluru","why":"A green, easygoing tech city with leafy parks, a pleasant climate and a famous craft beer and café scene."},
-    {"slug":"Ahmedabad","why":"India's first UNESCO World Heritage City, with a historic walled old town, the Sabarmati Ashram and a riverfront."}],
-   "faq":[{"q":"What is the Golden Triangle?","a":"The classic first-time route linking New Delhi, Agra and Jaipur. It takes about a week, and each leg is a few hours by road or train."},{"q":"When is the best time to visit Indian cities?","a":"October to March is cooler and drier for most of northern India. The summer months are very hot and the monsoon arrives around June."}]},
-  {"slug":"best-cities-in-the-netherlands","kicker":"Netherlands","title":"Best Cities in the Netherlands Beyond Amsterdam","description":"The best cities to visit in the Netherlands, from Amsterdam and Rotterdam to Utrecht, Delft and Maastricht, all a short train ride apart.","intro":"The Netherlands is small and its trains are fast, so you can base yourself in one city and see several more on day trips. Start with Amsterdam, then add a few of these.","items":[
-    {"slug":"Amsterdam","why":"Canals, the Rijksmuseum, the Van Gogh Museum and the Anne Frank House make the capital the obvious first stop."},
-    {"slug":"Rotterdam","why":"Europe's biggest port is the country's capital of modern architecture, from the Cube Houses to the Markthal."},
-    {"slug":"Utrecht","why":"Canals with wharf-level cafés, the Dom Tower and a lively student scene, just 30 minutes from Amsterdam."},
-    {"slug":"The-Hague","why":"The seat of the Dutch government, with the Mauritshuis (home of Girl with a Pearl Earring) and the beach at Scheveningen."},
-    {"slug":"Haarlem","why":"A smaller, calmer Amsterdam just 15 minutes away by train, with a beautiful market square."},
-    {"slug":"Delft","why":"The home of Delft Blue pottery and the painter Vermeer, with picture-perfect canals."},
-    {"slug":"Leiden","why":"The country's oldest university town, with canals, windmills and great museums."},
-    {"slug":"Maastricht","why":"In the far south, Maastricht feels almost Belgian: hilly streets, great food and a famous bookshop inside a church."},
-    {"slug":"Groningen","why":"A young, cycling-mad student city in the north with a lively nightlife."},
-    {"slug":"Eindhoven","why":"The city of light and design, birthplace of Philips and home to Dutch Design Week."}],
-   "faq":[{"q":"Can I visit several Dutch cities from Amsterdam?","a":"Yes. Haarlem, Utrecht, Leiden, Delft, The Hague and Rotterdam are all under about an hour by train."}]},
-  {"slug":"best-cities-in-poland","kicker":"Poland","title":"Best Cities in Poland","description":"The best cities to visit in Poland, from Kraków and Warsaw to Gdańsk, Wrocław and Toruń, with what each does best.","intro":"Poland's cities are full of colourful old towns, rich history and some of Europe's best-value food and hotels. These are the ones we'd visit.","items":[
-    {"slug":"Krakow","why":"Poland's royal capital, with Wawel Castle, the huge Main Square and the Kazimierz district. Most visitors also visit Auschwitz-Birkenau and the Wieliczka Salt Mine."},
-    {"slug":"Warsaw","why":"The capital's Old Town was rebuilt after World War II and is now on the UNESCO list. Today it's a lively, modern city."},
-    {"slug":"Gdansk","why":"A colourful port city on the Baltic, where the Solidarity movement began."},
-    {"slug":"Wroclaw","why":"A city of islands and bridges, famous for the hundreds of tiny bronze dwarfs hidden around its streets."},
-    {"slug":"Poznan","why":"Its Renaissance town hall has mechanical goats that butt heads every day at noon."},
-    {"slug":"Torun","why":"A medieval old town on the UNESCO list, the birthplace of Copernicus and famous for gingerbread."},
-    {"slug":"Lodz","why":"Once Poland's textile capital, now known for street art, old factories and Piotrkowska Street."},
-    {"slug":"Zakopane","why":"Poland's mountain town in the Tatras, for hiking in summer and skiing in winter."}],
-   "faq":[{"q":"Is Poland expensive to visit?","a":"Poland is usually cheaper than Western Europe for hotels, food and transport, especially outside Warsaw and Kraków."}]},
-  {"slug":"best-cities-in-south-korea","kicker":"South Korea","title":"Best Cities in South Korea","description":"The best cities to visit in South Korea, from Seoul and Busan to Gyeongju and Jeonju, linked by fast KTX trains.","intro":"Fast KTX trains link most of South Korea's cities, so it's easy to combine the big-city energy of Seoul with temples, beaches and great food elsewhere.","items":[
-    {"slug":"Seoul","why":"Palaces, K-pop, night markets and futuristic neighbourhoods. Most trips start here."},
-    {"slug":"Busan","why":"Korea's beach city, with Haeundae Beach, the colourful Gamcheon Culture Village and fresh seafood markets."},
-    {"slug":"Gyeongju","why":"An ancient royal capital often called a museum without walls, with Bulguksa Temple and royal tombs."},
-    {"slug":"Jeonju","why":"The home of bibimbap, with a hanok village of more than 700 traditional houses."},
-    {"slug":"Incheon","why":"More than an airport city, with Korea's oldest Chinatown and the island of Songdo."},
-    {"slug":"Suwon","why":"Hwaseong Fortress, a UNESCO site, is an easy day trip from Seoul."},
-    {"slug":"Daegu","why":"A lively city with big markets and some of Korea's best fried chicken."},
-    {"slug":"Gwangju","why":"A city of art and democracy history, and a great base for southwestern food."},
-    {"slug":"Daejeon","why":"Korea's science city, with parks, hot springs and the famous Sungsimdang bakery."}],
-   "faq":[{"q":"How do I travel between Korean cities?","a":"KTX high-speed trains connect Seoul with Busan in under three hours and stop at Daejeon, Daegu and other cities along the way."}]},
-  {"slug":"famous-movie-cities","kicker":"Collection","title":"Famous Movie Cities You Can Visit","description":"Visit the cities behind famous movies, from New York and London to Rome, Tokyo and Queenstown, and see the real filming locations.","intro":"Some cities feel familiar before you ever arrive, because you've seen them on screen. Here are ten famous movie cities and the scenes to look for.","items":[
-    {"slug":"New-York","why":"The most filmed city in the world. See the Plaza Hotel from Home Alone 2, the Ghostbusters firehouse in Tribeca and Tiffany's on Fifth Avenue."},
-    {"slug":"LONDON","why":"Walk Portobello Road from Notting Hill, spot Leadenhall Market (Diagon Alley in Harry Potter) and tour the Warner Bros. studios outside the city."},
-    {"slug":"Paris","why":"Have a coffee at the Café des Deux Moulins in Montmartre, where Amélie worked, and wander the streets from Midnight in Paris."},
-    {"slug":"Rome","why":"Ride a Vespa like Audrey Hepburn in Roman Holiday and toss a coin in the Trevi Fountain from La Dolce Vita."},
-    {"slug":"Tokyo","why":"Lost in Translation made the Park Hyatt bar and Shibuya Crossing famous around the world."},
-    {"slug":"Las-Vegas","why":"Watch the Bellagio fountains from the end of Ocean's Eleven and see Caesars Palace from The Hangover."},
-    {"slug":"Rio-de-Janeiro","why":"Fast Five, the animated film Rio and City of God were all set in Rio, from the beaches to the hillside favelas."},
-    {"slug":"Dubai","why":"Tom Cruise climbed the outside of the Burj Khalifa in Mission: Impossible – Ghost Protocol. You can visit its observation decks instead."},
-    {"slug":"Edinburgh","why":"Avengers: Infinity War filmed on the Royal Mile and at Waverley Station, and Trainspotting is set here."},
-    {"slug":"Queenstown","why":"The mountains and rivers around Queenstown appear throughout The Lord of the Rings, and tours visit the filming spots."}],
-   "faq":[{"q":"Can I visit movie filming locations?","a":"Most street locations are free to visit. Studio tours, such as the Warner Bros. Studio Tour near London, need tickets booked in advance."}]},
-  {"slug":"famous-football-cities","kicker":"Collection","title":"Famous Football Cities and Stadiums","description":"The best cities for football fans, from Madrid and Barcelona to Buenos Aires, Rio and Munich, with the stadiums to visit.","intro":"For football fans, a match or stadium tour can be the highlight of a trip. These cities have the most famous clubs, stadiums and atmospheres in the world.","items":[
-    {"slug":"Madrid","why":"Tour the Santiago Bernabéu, home of Real Madrid, or catch Atlético at their Metropolitano stadium."},
-    {"slug":"Barcelona","why":"FC Barcelona's Camp Nou is one of the largest stadiums in Europe, and the club museum is one of the city's most visited."},
-    {"slug":"LONDON","why":"More professional clubs than any other city, plus Wembley Stadium, the home of English football."},
-    {"slug":"Munich","why":"Bayern Munich's Allianz Arena glows red at night and has a big club museum."},
-    {"slug":"Buenos-Aires","why":"Feel the passion at Boca Juniors' La Bombonera or River Plate's Monumental, home of one of football's biggest rivalries."},
-    {"slug":"Rio-de-Janeiro","why":"The Maracanã hosted World Cup finals in 1950 and 2014 and is a must for any fan."},
-    {"slug":"Istanbul","why":"Galatasaray, Fenerbahçe and Beşiktaş create some of the loudest derbies in the world."},
-    {"slug":"Lisbon","why":"Benfica and Sporting share one of Europe's oldest rivalries, and both offer stadium tours."},
-    {"slug":"Mexico-City","why":"Estadio Azteca hosted the World Cup finals in 1970 and 1986 and is the venue for the opening match of the 2026 World Cup."}],
-   "faq":[{"q":"How do I get match tickets?","a":"Buy from the club's official website or ticket office. Many stadiums also run tours on non-match days, which are easier to book."}]}
+ {
+  "slug": "best-cities-in-spain",
+  "kicker": "Spain",
+  "title": "Best Cities in Spain for a First Trip",
+  "description": "The best cities to visit in Spain, from Madrid and Barcelona to Seville, Granada and San Sebastián, with what each does best and where to stay.",
+  "intro": "Spain packs world-class art, Moorish palaces, beaches and some of Europe's best food into one country, and fast trains link most of its great cities. These are the ten we'd pick, with what makes each one worth the trip.",
+  "items": [
+   {
+    "slug": "Madrid",
+    "why": "The capital is the place for art and nightlife: the Prado, the Reina Sofía, the Royal Palace and long evenings of tapas. Retiro Park is perfect for an afternoon off."
+   },
+   {
+    "slug": "Barcelona",
+    "why": "Gaudí's Sagrada Família and Park Güell, the Gothic Quarter and a city beach make Barcelona Spain's most varied city break."
+   },
+   {
+    "slug": "Seville",
+    "why": "The heart of Andalusia, with the Real Alcázar, a giant Gothic cathedral and the best flamenco in Spain. Spring brings orange blossom and festivals."
+   },
+   {
+    "slug": "Granada",
+    "why": "Come for the Alhambra, one of the world's great palaces, and stay for the Albaicín's white lanes and the free tapas served with drinks."
+   },
+   {
+    "slug": "Valencia",
+    "why": "The birthplace of paella has the futuristic City of Arts and Sciences, the Turia park and long sandy beaches."
+   },
+   {
+    "slug": "San-Sebastian",
+    "why": "La Concha Bay and the Basque Country's famous pintxos bars make this a top pick for food lovers."
+   },
+   {
+    "slug": "Bilbao",
+    "why": "Frank Gehry's Guggenheim Museum transformed this former industrial city, and its old town is full of pintxos bars too."
+   },
+   {
+    "slug": "Cordoba-Spain",
+    "why": "The Mezquita, a mosque-cathedral with a forest of striped arches, is unlike anything else in Europe. Visit in May for the flower-filled patios."
+   },
+   {
+    "slug": "Toledo",
+    "why": "Just over half an hour from Madrid by fast train, this hilltop city blends Christian, Muslim and Jewish history above the Tagus River."
+   },
+   {
+    "slug": "Salamanca",
+    "why": "Home to one of Europe's oldest universities, founded in 1218, with golden sandstone buildings and a lively student scene."
+   }
+  ],
+  "faq": [
+   {
+    "q": "Which Spanish city is best for a first trip?",
+    "a": "Madrid or Barcelona are the easiest starting points, with the most flights and fast trains onward. Seville is the best pick for classic Andalusian Spain."
+   },
+   {
+    "q": "How many cities can I see in a week?",
+    "a": "Two or three. For example, Madrid with a day trip to Toledo, then a fast train to Seville or Barcelona."
+   }
+  ],
+  "cover": "Seville"
+ },
+ {
+  "slug": "best-cities-in-india",
+  "kicker": "India",
+  "title": "Best Cities to Visit in India",
+  "description": "The best cities to visit in India, from Mumbai and New Delhi to Jaipur, Agra and Varanasi, with what each does best and where to stay.",
+  "intro": "India's cities are some of the most exciting on Earth: Mughal monuments, holy rivers, royal palaces and incredible street food. Here are ten to plan a trip around.",
+  "items": [
+   {
+    "slug": "New-Delhi",
+    "why": "The capital is the start of most trips, with the Red Fort, Qutub Minar, India Gate and the food stalls of Old Delhi."
+   },
+   {
+    "slug": "Agra",
+    "why": "Home of the Taj Mahal, plus Agra Fort and Fatehpur Sikri nearby. Go at sunrise for the best light and the smallest crowds."
+   },
+   {
+    "slug": "Jaipur",
+    "why": "The Pink City has Amer Fort, the Hawa Mahal and colourful bazaars. With Delhi and Agra it forms the classic Golden Triangle."
+   },
+   {
+    "slug": "Varanasi",
+    "why": "One of the world's oldest living cities. Watch the evening Ganga Aarti and take a sunrise boat ride along the ghats."
+   },
+   {
+    "slug": "Mumbai",
+    "why": "India's biggest city has the Gateway of India, Marine Drive, Bollywood and some of the country's best street food."
+   },
+   {
+    "slug": "Kolkata",
+    "why": "The cultural capital, with the Victoria Memorial, colonial streets, book markets and famous sweets."
+   },
+   {
+    "slug": "Hyderabad",
+    "why": "The City of Pearls is known for the Charminar, Golconda Fort and its famous Hyderabadi biryani."
+   },
+   {
+    "slug": "Chennai",
+    "why": "The gateway to South India, with Marina Beach, great temples and classical music and dance."
+   },
+   {
+    "slug": "Bengaluru",
+    "why": "A green, easygoing tech city with leafy parks, a pleasant climate and a famous craft beer and café scene."
+   },
+   {
+    "slug": "Ahmedabad",
+    "why": "India's first UNESCO World Heritage City, with a historic walled old town, the Sabarmati Ashram and a riverfront."
+   }
+  ],
+  "faq": [
+   {
+    "q": "What is the Golden Triangle?",
+    "a": "The classic first-time route linking New Delhi, Agra and Jaipur. It takes about a week, and each leg is a few hours by road or train."
+   },
+   {
+    "q": "When is the best time to visit Indian cities?",
+    "a": "October to March is cooler and drier for most of northern India. The summer months are very hot and the monsoon arrives around June."
+   }
+  ]
+ },
+ {
+  "slug": "best-cities-in-the-netherlands",
+  "kicker": "Netherlands",
+  "title": "Best Cities in the Netherlands Beyond Amsterdam",
+  "description": "The best cities to visit in the Netherlands, from Amsterdam and Rotterdam to Utrecht, Delft and Maastricht, all a short train ride apart.",
+  "intro": "The Netherlands is small and its trains are fast, so you can base yourself in one city and see several more on day trips. Start with Amsterdam, then add a few of these.",
+  "items": [
+   {
+    "slug": "Amsterdam",
+    "why": "Canals, the Rijksmuseum, the Van Gogh Museum and the Anne Frank House make the capital the obvious first stop."
+   },
+   {
+    "slug": "Rotterdam",
+    "why": "Europe's biggest port is the country's capital of modern architecture, from the Cube Houses to the Markthal."
+   },
+   {
+    "slug": "Utrecht",
+    "why": "Canals with wharf-level cafés, the Dom Tower and a lively student scene, just 30 minutes from Amsterdam."
+   },
+   {
+    "slug": "The-Hague",
+    "why": "The seat of the Dutch government, with the Mauritshuis (home of Girl with a Pearl Earring) and the beach at Scheveningen."
+   },
+   {
+    "slug": "Haarlem",
+    "why": "A smaller, calmer Amsterdam just 15 minutes away by train, with a beautiful market square."
+   },
+   {
+    "slug": "Delft",
+    "why": "The home of Delft Blue pottery and the painter Vermeer, with picture-perfect canals."
+   },
+   {
+    "slug": "Leiden",
+    "why": "The country's oldest university town, with canals, windmills and great museums."
+   },
+   {
+    "slug": "Maastricht",
+    "why": "In the far south, Maastricht feels almost Belgian: hilly streets, great food and a famous bookshop inside a church."
+   },
+   {
+    "slug": "Groningen",
+    "why": "A young, cycling-mad student city in the north with a lively nightlife."
+   },
+   {
+    "slug": "Eindhoven",
+    "why": "The city of light and design, birthplace of Philips and home to Dutch Design Week."
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I visit several Dutch cities from Amsterdam?",
+    "a": "Yes. Haarlem, Utrecht, Leiden, Delft, The Hague and Rotterdam are all under about an hour by train."
+   }
+  ],
+  "cover": "Delft"
+ },
+ {
+  "slug": "best-cities-in-poland",
+  "kicker": "Poland",
+  "title": "Best Cities in Poland",
+  "description": "The best cities to visit in Poland, from Kraków and Warsaw to Gdańsk, Wrocław and Toruń, with what each does best.",
+  "intro": "Poland's cities are full of colourful old towns, rich history and some of Europe's best-value food and hotels. These are the ones we'd visit.",
+  "items": [
+   {
+    "slug": "Krakow",
+    "why": "Poland's royal capital, with Wawel Castle, the huge Main Square and the Kazimierz district. Most visitors also visit Auschwitz-Birkenau and the Wieliczka Salt Mine."
+   },
+   {
+    "slug": "Warsaw",
+    "why": "The capital's Old Town was rebuilt after World War II and is now on the UNESCO list. Today it's a lively, modern city."
+   },
+   {
+    "slug": "Gdansk",
+    "why": "A colourful port city on the Baltic, where the Solidarity movement began."
+   },
+   {
+    "slug": "Wroclaw",
+    "why": "A city of islands and bridges, famous for the hundreds of tiny bronze dwarfs hidden around its streets."
+   },
+   {
+    "slug": "Poznan",
+    "why": "Its Renaissance town hall has mechanical goats that butt heads every day at noon."
+   },
+   {
+    "slug": "Torun",
+    "why": "A medieval old town on the UNESCO list, the birthplace of Copernicus and famous for gingerbread."
+   },
+   {
+    "slug": "Lodz",
+    "why": "Once Poland's textile capital, now known for street art, old factories and Piotrkowska Street."
+   },
+   {
+    "slug": "Zakopane",
+    "why": "Poland's mountain town in the Tatras, for hiking in summer and skiing in winter."
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is Poland expensive to visit?",
+    "a": "Poland is usually cheaper than Western Europe for hotels, food and transport, especially outside Warsaw and Kraków."
+   }
+  ]
+ },
+ {
+  "slug": "best-cities-in-south-korea",
+  "kicker": "South Korea",
+  "title": "Best Cities in South Korea",
+  "description": "The best cities to visit in South Korea, from Seoul and Busan to Gyeongju and Jeonju, linked by fast KTX trains.",
+  "intro": "Fast KTX trains link most of South Korea's cities, so it's easy to combine the big-city energy of Seoul with temples, beaches and great food elsewhere.",
+  "items": [
+   {
+    "slug": "Seoul",
+    "why": "Palaces, K-pop, night markets and futuristic neighbourhoods. Most trips start here."
+   },
+   {
+    "slug": "Busan",
+    "why": "Korea's beach city, with Haeundae Beach, the colourful Gamcheon Culture Village and fresh seafood markets."
+   },
+   {
+    "slug": "Gyeongju",
+    "why": "An ancient royal capital often called a museum without walls, with Bulguksa Temple and royal tombs."
+   },
+   {
+    "slug": "Jeonju",
+    "why": "The home of bibimbap, with a hanok village of more than 700 traditional houses."
+   },
+   {
+    "slug": "Incheon",
+    "why": "More than an airport city, with Korea's oldest Chinatown and the island of Songdo."
+   },
+   {
+    "slug": "Suwon",
+    "why": "Hwaseong Fortress, a UNESCO site, is an easy day trip from Seoul."
+   },
+   {
+    "slug": "Daegu",
+    "why": "A lively city with big markets and some of Korea's best fried chicken."
+   },
+   {
+    "slug": "Gwangju",
+    "why": "A city of art and democracy history, and a great base for southwestern food."
+   },
+   {
+    "slug": "Daejeon",
+    "why": "Korea's science city, with parks, hot springs and the famous Sungsimdang bakery."
+   }
+  ],
+  "faq": [
+   {
+    "q": "How do I travel between Korean cities?",
+    "a": "KTX high-speed trains connect Seoul with Busan in under three hours and stop at Daejeon, Daegu and other cities along the way."
+   }
+  ]
+ },
+ {
+  "slug": "famous-movie-cities",
+  "kicker": "Collection",
+  "title": "Famous Movie Cities You Can Visit",
+  "description": "Visit the cities behind famous movies, from New York and London to Rome, Tokyo and Queenstown, and see the real filming locations.",
+  "intro": "Some cities feel familiar before you ever arrive, because you've seen them on screen. Here are ten famous movie cities and the scenes to look for.",
+  "items": [
+   {
+    "slug": "New-York",
+    "why": "The most filmed city in the world. See the Plaza Hotel from Home Alone 2, the Ghostbusters firehouse in Tribeca and Tiffany's on Fifth Avenue."
+   },
+   {
+    "slug": "LONDON",
+    "why": "Walk Portobello Road from Notting Hill, spot Leadenhall Market (Diagon Alley in Harry Potter) and tour the Warner Bros. studios outside the city."
+   },
+   {
+    "slug": "Paris",
+    "why": "Have a coffee at the Café des Deux Moulins in Montmartre, where Amélie worked, and wander the streets from Midnight in Paris."
+   },
+   {
+    "slug": "Rome",
+    "why": "Ride a Vespa like Audrey Hepburn in Roman Holiday and toss a coin in the Trevi Fountain from La Dolce Vita."
+   },
+   {
+    "slug": "Tokyo",
+    "why": "Lost in Translation made the Park Hyatt bar and Shibuya Crossing famous around the world."
+   },
+   {
+    "slug": "Las-Vegas",
+    "why": "Watch the Bellagio fountains from the end of Ocean's Eleven and see Caesars Palace from The Hangover."
+   },
+   {
+    "slug": "Rio-de-Janeiro",
+    "why": "Fast Five, the animated film Rio and City of God were all set in Rio, from the beaches to the hillside favelas."
+   },
+   {
+    "slug": "Dubai",
+    "why": "Tom Cruise climbed the outside of the Burj Khalifa in Mission: Impossible – Ghost Protocol. You can visit its observation decks instead."
+   },
+   {
+    "slug": "Edinburgh",
+    "why": "Avengers: Infinity War filmed on the Royal Mile and at Waverley Station, and Trainspotting is set here."
+   },
+   {
+    "slug": "Queenstown",
+    "why": "The mountains and rivers around Queenstown appear throughout The Lord of the Rings, and tours visit the filming spots."
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I visit movie filming locations?",
+    "a": "Most street locations are free to visit. Studio tours, such as the Warner Bros. Studio Tour near London, need tickets booked in advance."
+   }
+  ]
+ },
+ {
+  "slug": "famous-football-cities",
+  "kicker": "Collection",
+  "title": "Famous Football Cities and Stadiums",
+  "description": "The best cities for football fans, from Madrid and Barcelona to Buenos Aires, Rio and Munich, with the stadiums to visit.",
+  "intro": "For football fans, a match or stadium tour can be the highlight of a trip. These cities have the most famous clubs, stadiums and atmospheres in the world.",
+  "items": [
+   {
+    "slug": "Madrid",
+    "why": "Tour the Santiago Bernabéu, home of Real Madrid, or catch Atlético at their Metropolitano stadium."
+   },
+   {
+    "slug": "Barcelona",
+    "why": "FC Barcelona's Camp Nou is one of the largest stadiums in Europe, and the club museum is one of the city's most visited."
+   },
+   {
+    "slug": "LONDON",
+    "why": "More professional clubs than any other city, plus Wembley Stadium, the home of English football."
+   },
+   {
+    "slug": "Munich",
+    "why": "Bayern Munich's Allianz Arena glows red at night and has a big club museum."
+   },
+   {
+    "slug": "Buenos-Aires",
+    "why": "Feel the passion at Boca Juniors' La Bombonera or River Plate's Monumental, home of one of football's biggest rivalries."
+   },
+   {
+    "slug": "Rio-de-Janeiro",
+    "why": "The Maracanã hosted World Cup finals in 1950 and 2014 and is a must for any fan."
+   },
+   {
+    "slug": "Istanbul",
+    "why": "Galatasaray, Fenerbahçe and Beşiktaş create some of the loudest derbies in the world."
+   },
+   {
+    "slug": "Lisbon",
+    "why": "Benfica and Sporting share one of Europe's oldest rivalries, and both offer stadium tours."
+   },
+   {
+    "slug": "Mexico-City",
+    "why": "Estadio Azteca hosted the World Cup finals in 1970 and 1986 and is the venue for the opening match of the 2026 World Cup."
+   }
+  ],
+  "faq": [
+   {
+    "q": "How do I get match tickets?",
+    "a": "Buy from the club's official website or ticket office. Many stadiums also run tours on non-match days, which are easier to book."
+   }
+  ]
+ }
 ]

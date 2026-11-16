@@ -15,7 +15,7 @@ const jsonld = [{ "@type": "Blog", "name": "Famous Cities travel guides", "url":
       <div class="grid grid--3">
         {guides.map((g) => (
           <a class="card post-card" href={url(`guides/${g.slug}.html`)} style="--c1:#0EA5E9;--c2:#6366F1">
-            <img class="post-card__img" src={url(`cards/${g.items[0].slug}.webp`)} alt="" width="560" height="340" loading="lazy" decoding="async" />
+            <img class="post-card__img" src={url(`cards/${(g as { cover?: string }).cover || g.items[0].slug}.webp`)} alt="" width="560" height="340" loading="lazy" decoding="async" />
             <span class="chip">{g.kicker}</span>
             <h2>{g.title}</h2>
             <p class="muted">{g.description}</p>
