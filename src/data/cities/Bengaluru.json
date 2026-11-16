@@ -1,0 +1,144 @@
+{
+  "slug": "Bengaluru",
+  "name": "Bengaluru",
+  "region": "Asia",
+  "country": "India",
+  "metro": "14,000,000",
+  "seo": {
+    "title": "Bengaluru Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Bengaluru travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Bengaluru.",
+    "keywords": "Bengaluru, Bengaluru travel guide, things to do in Bengaluru, Bengaluru fun facts, where to stay in Bengaluru, Famous Cities"
+  },
+  "image": "Bengaluru.jpg",
+  "video": "videos/bengaluru.mp4",
+  "youtube": null,
+  "tagline": "The 'Silicon Valley of India' pairs a booming tech scene and craft breweries with leafy gardens, a royal palace and a pleasant year-round climate.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Bengaluru",
+    "twitter": "https://twitter.com/search?q=visit%20Bengaluru",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bengaluru"
+  },
+  "overview": [
+    "Bengaluru, also known as Bangalore, is the capital of Karnataka in southern India. It sits on the Deccan Plateau at about 900 metres, which gives it a milder climate than most Indian cities. It is India's leading technology hub, home to thousands of IT companies and start-ups.",
+    "Bengaluru is called the Garden City for its green spaces, led by the Lalbagh Botanical Garden, with its glasshouse, and Cubbon Park in the city centre. Bangalore Palace, inspired by Tudor-style castles, and the summer palace of Tipu Sultan recall its royal past.",
+    "The city has a lively food and nightlife scene, with South Indian breakfasts such as masala dosa and idli, and many craft breweries. It is a popular base for trips to Mysuru's palace, the Nandi Hills sunrise and the ruins of Hampi."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Bangalore&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Bengaluru",
+    "flights": "https://www.skyscanner.net/transport/flights/to/blr/cheap-flights-to-bangalore.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "City & Palace Tour",
+      "desc": "Bangalore Palace, Tipu's palace and markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bangalore%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bangalore%20city%20tour"
+    },
+    {
+      "icon": "🌿",
+      "title": "Lalbagh & Gardens",
+      "desc": "Botanical gardens and the glasshouse.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bangalore%20Lalbagh%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bangalore%20Lalbagh%20tour"
+    },
+    {
+      "icon": "🍽️",
+      "title": "Food Walk",
+      "desc": "Dosas, filter coffee and local favourites.",
+      "viator": "https://www.viator.com/searchResults/all?text=Bangalore%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Bangalore%20food%20tour"
+    },
+    {
+      "icon": "🌄",
+      "title": "Nandi Hills Sunrise",
+      "desc": "Early trip to the hills for sunrise.",
+      "viator": "https://www.viator.com/searchResults/all?text=Nandi%20Hills%20sunrise%20tour%20from%20Bangalore",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Nandi%20Hills%20sunrise%20tour%20from%20Bangalore"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SILICON VALLEY OF INDIA",
+      "text": "Bengaluru is India's leading information technology hub."
+    },
+    {
+      "title": "GARDEN CITY",
+      "text": "Bengaluru is nicknamed the Garden City for its many parks."
+    },
+    {
+      "title": "HIGH ALTITUDE",
+      "text": "The city sits about 900 metres above sea level on the Deccan Plateau."
+    },
+    {
+      "title": "A GLASS HOUSE",
+      "text": "Lalbagh's glasshouse was modelled on London's Crystal Palace."
+    },
+    {
+      "title": "ROYAL RESIDENCE",
+      "text": "Bangalore Palace was inspired by Tudor-style castles in England."
+    },
+    {
+      "title": "SPACE SCIENCE",
+      "text": "The Indian Space Research Organisation is headquartered in Bengaluru."
+    },
+    {
+      "title": "PUB CITY",
+      "text": "Bengaluru is known for having many craft breweries."
+    },
+    {
+      "title": "A 2014 NAME",
+      "text": "The city's official name changed from Bangalore to Bengaluru in 2014."
+    },
+    {
+      "title": "TIPU'S PALACE",
+      "text": "Tipu Sultan's summer palace is built mostly of teak wood."
+    },
+    {
+      "title": "FLOWER SHOW",
+      "text": "Lalbagh hosts flower shows around Republic Day and Independence Day."
+    }
+  ],
+  "randomFacts": [
+    "Bengaluru is India's leading information technology hub.",
+    "Bengaluru is nicknamed the Garden City for its many parks.",
+    "The city sits about 900 metres above sea level on the Deccan Plateau.",
+    "Lalbagh's glasshouse was modelled on London's Crystal Palace.",
+    "Bangalore Palace was inspired by Tudor-style castles in England.",
+    "The Indian Space Research Organisation is headquartered in Bengaluru.",
+    "Bengaluru is known for having many craft breweries.",
+    "The city's official name changed from Bangalore to Bengaluru in 2014.",
+    "Tipu Sultan's summer palace is built mostly of teak wood.",
+    "Lalbagh hosts flower shows around Republic Day and Independence Day.",
+    "Masala dosa and filter coffee are Bengaluru breakfast staples.",
+    "Cubbon Park covers around 300 acres.",
+    "Kannada is the main local language.",
+    "Mysuru Palace is about three hours away by road.",
+    "Bengaluru has a mild climate most of the year."
+  ],
+  "faq": [
+    {
+      "q": "Where is Bengaluru located?",
+      "a": "Bengaluru is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Bengaluru?",
+      "a": "The greater Bengaluru area is home to about 14,000,000 people."
+    },
+    {
+      "q": "What is Bengaluru famous for?",
+      "a": "The 'Silicon Valley of India' pairs a booming tech scene and craft breweries with leafy gardens, a royal palace and a pleasant year-round climate."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Moheen Reeyad / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Vidhana_Soudha,_front_(01).jpg"
+  }
+}

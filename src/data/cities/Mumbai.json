@@ -1,0 +1,144 @@
+{
+  "slug": "Mumbai",
+  "name": "Mumbai",
+  "region": "Asia",
+  "country": "India",
+  "metro": "22,000,000",
+  "seo": {
+    "title": "Mumbai Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Mumbai travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Mumbai.",
+    "keywords": "Mumbai, Mumbai travel guide, things to do in Mumbai, Mumbai fun facts, where to stay in Mumbai, Famous Cities"
+  },
+  "image": "Mumbai.jpg",
+  "video": "videos/mumbai.mp4",
+  "youtube": null,
+  "tagline": "India's financial capital and home of Bollywood, with the Gateway of India, Victorian Gothic landmarks, Marine Drive sunsets and legendary street food.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Mumbai",
+    "twitter": "https://twitter.com/search?q=visit%20Mumbai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mumbai"
+  },
+  "overview": [
+    "Mumbai, the capital of Maharashtra on India's west coast, grew from seven islands joined by land reclamation into one of the world's largest cities. It is India's financial centre, home to the Bombay Stock Exchange, the Reserve Bank of India and the country's busiest port.",
+    "The Gateway of India, built to mark a 1911 royal visit, faces the Taj Mahal Palace hotel across the harbour. Chhatrapati Shivaji Terminus, a Victorian Gothic railway station, and the Art Deco buildings along Marine Drive are both part of UNESCO World Heritage sites.",
+    "Mumbai is the heart of Bollywood, India's Hindi film industry. Visitors take ferries to the rock-cut Elephanta Caves, watch the dabbawalas deliver lunches across the city, eat vada pav and pav bhaji at Chowpatty Beach and walk Marine Drive, nicknamed the Queen's Necklace for its lights at night."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Mumbai&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Mumbai",
+    "flights": "https://www.skyscanner.net/transport/flights/to/bom/cheap-flights-to-mumbai.html"
+  },
+  "topThings": [
+    {
+      "icon": "⛵",
+      "title": "Gateway & Elephanta Caves",
+      "desc": "Harbour ferry to ancient cave temples.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mumbai%20Elephanta%20Caves%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mumbai%20Elephanta%20Caves%20tour"
+    },
+    {
+      "icon": "🎬",
+      "title": "Bollywood Studio Tour",
+      "desc": "Go behind the scenes of Hindi cinema.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mumbai%20Bollywood%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mumbai%20Bollywood%20tour"
+    },
+    {
+      "icon": "🍛",
+      "title": "Street Food Walk",
+      "desc": "Vada pav, pav bhaji and more.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mumbai%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mumbai%20street%20food%20tour"
+    },
+    {
+      "icon": "🏙️",
+      "title": "City Highlights Tour",
+      "desc": "Colonial landmarks, Dhobi Ghat and markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mumbai%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mumbai%20city%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "SEVEN ISLANDS",
+      "text": "Mumbai was built by joining seven islands through land reclamation."
+    },
+    {
+      "title": "BOLLYWOOD",
+      "text": "Mumbai is the centre of the Hindi film industry, known as Bollywood."
+    },
+    {
+      "title": "A UNESCO STATION",
+      "text": "Chhatrapati Shivaji Terminus is a UNESCO World Heritage Site."
+    },
+    {
+      "title": "ART DECO CITY",
+      "text": "Mumbai's Victorian Gothic and Art Deco ensembles are a UNESCO World Heritage Site."
+    },
+    {
+      "title": "GATEWAY OF INDIA",
+      "text": "The Gateway of India was built to commemorate a royal visit in 1911."
+    },
+    {
+      "title": "LUNCH DELIVERY",
+      "text": "Mumbai's dabbawalas deliver home-cooked lunches to offices across the city every day."
+    },
+    {
+      "title": "QUEEN'S NECKLACE",
+      "text": "Marine Drive is nicknamed the Queen's Necklace for its curve of lights at night."
+    },
+    {
+      "title": "BUSY TRAINS",
+      "text": "Mumbai's suburban railway carries millions of passengers every day."
+    },
+    {
+      "title": "ANCIENT CAVES",
+      "text": "The Elephanta Caves in Mumbai harbour hold rock-cut temples to Shiva."
+    },
+    {
+      "title": "FORMER NAME",
+      "text": "The city was officially renamed from Bombay to Mumbai in 1995."
+    }
+  ],
+  "randomFacts": [
+    "Mumbai was built by joining seven islands through land reclamation.",
+    "Mumbai is the centre of the Hindi film industry, known as Bollywood.",
+    "Chhatrapati Shivaji Terminus is a UNESCO World Heritage Site.",
+    "Mumbai's Victorian Gothic and Art Deco ensembles are a UNESCO World Heritage Site.",
+    "The Gateway of India was built to commemorate a royal visit in 1911.",
+    "Mumbai's dabbawalas deliver home-cooked lunches to offices across the city every day.",
+    "Marine Drive is nicknamed the Queen's Necklace for its curve of lights at night.",
+    "Mumbai's suburban railway carries millions of passengers every day.",
+    "The Elephanta Caves in Mumbai harbour hold rock-cut temples to Shiva.",
+    "The city was officially renamed from Bombay to Mumbai in 1995.",
+    "Mumbai is home to the Bombay Stock Exchange, one of Asia's oldest.",
+    "Vada pav is Mumbai's most famous street snack.",
+    "The Taj Mahal Palace hotel opened in 1903.",
+    "Monsoon rains arrive in Mumbai around June.",
+    "Juhu and Chowpatty are the city's best-known beaches."
+  ],
+  "faq": [
+    {
+      "q": "Where is Mumbai located?",
+      "a": "Mumbai is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Mumbai?",
+      "a": "The greater Mumbai area is home to about 22,000,000 people."
+    },
+    {
+      "q": "What is Mumbai famous for?",
+      "a": "India's financial capital and home of Bollywood, with the Gateway of India, Victorian Gothic landmarks, Marine Drive sunsets and legendary street food."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Joe Ravi / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Gateway_Of_India.jpg"
+  }
+}

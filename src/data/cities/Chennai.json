@@ -1,0 +1,144 @@
+{
+  "slug": "Chennai",
+  "name": "Chennai",
+  "region": "Asia",
+  "country": "India",
+  "metro": "12,000,000",
+  "seo": {
+    "title": "Chennai Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Chennai travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Chennai.",
+    "keywords": "Chennai, Chennai travel guide, things to do in Chennai, Chennai fun facts, where to stay in Chennai, Famous Cities"
+  },
+  "image": "Chennai.jpg",
+  "video": "videos/chennai.mp4",
+  "youtube": null,
+  "tagline": "The 'Gateway to South India' offers Marina Beach, colourful Dravidian temples, Carnatic music and classic South Indian food on the Bay of Bengal.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Chennai",
+    "twitter": "https://twitter.com/search?q=visit%20Chennai",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chennai"
+  },
+  "overview": [
+    "Chennai, formerly Madras, is the capital of Tamil Nadu on the Bay of Bengal. It grew around Fort St George, which the British East India Company founded in 1644, and it is now a major centre for car manufacturing, IT and healthcare.",
+    "Marina Beach, a long urban beach, is where locals gather at sunset. In Mylapore, the Kapaleeshwarar Temple has a towering, sculpted gopuram, while San Thome Basilica is built over the tomb attributed to St Thomas the Apostle.",
+    "Chennai is a centre of Carnatic music and Bharatanatyam dance, celebrated each December and January during the Madras Music Season. Filter coffee, dosas and banana-leaf meals are local staples, and the UNESCO-listed shore temples of Mahabalipuram are a short drive south."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Chennai&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Chennai",
+    "flights": "https://www.skyscanner.net/transport/flights/to/maa/cheap-flights-to-chennai.html"
+  },
+  "topThings": [
+    {
+      "icon": "🛕",
+      "title": "Temples & City Tour",
+      "desc": "Kapaleeshwarar Temple and Fort St George.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chennai%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chennai%20city%20tour"
+    },
+    {
+      "icon": "🏖️",
+      "title": "Mahabalipuram Day Trip",
+      "desc": "UNESCO shore temples and rock carvings.",
+      "viator": "https://www.viator.com/searchResults/all?text=Mahabalipuram%20day%20trip%20from%20Chennai",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Mahabalipuram%20day%20trip%20from%20Chennai"
+    },
+    {
+      "icon": "🍛",
+      "title": "Food Tour",
+      "desc": "Dosas, filter coffee and banana-leaf meals.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chennai%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chennai%20food%20tour"
+    },
+    {
+      "icon": "🚶",
+      "title": "Mylapore Walk",
+      "desc": "Old neighbourhood of temples and markets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Chennai%20Mylapore%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Chennai%20Mylapore%20walking%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "FORT ST GEORGE",
+      "text": "Chennai grew around Fort St George, founded by the British in 1644."
+    },
+    {
+      "title": "A LONG BEACH",
+      "text": "Marina Beach is one of the longest urban beaches in the world."
+    },
+    {
+      "title": "MUSIC SEASON",
+      "text": "The December Madras Music Season is a major festival of Carnatic music."
+    },
+    {
+      "title": "TOMB OF AN APOSTLE",
+      "text": "San Thome Basilica is built over the tomb attributed to St Thomas."
+    },
+    {
+      "title": "DETROIT OF INDIA",
+      "text": "Chennai is a major car manufacturing hub, sometimes called the Detroit of India."
+    },
+    {
+      "title": "RENAMED",
+      "text": "The city's name changed from Madras to Chennai in 1996."
+    },
+    {
+      "title": "TEMPLE TOWERS",
+      "text": "The Kapaleeshwarar Temple's gopuram is covered in colourful sculptures."
+    },
+    {
+      "title": "KOLLYWOOD",
+      "text": "Chennai is the centre of the Tamil film industry, known as Kollywood."
+    },
+    {
+      "title": "SHORE TEMPLES",
+      "text": "The UNESCO-listed Mahabalipuram monuments are about 60 km south."
+    },
+    {
+      "title": "FILTER COFFEE",
+      "text": "South Indian filter coffee is a daily ritual in Chennai."
+    }
+  ],
+  "randomFacts": [
+    "Chennai grew around Fort St George, founded by the British in 1644.",
+    "Marina Beach is one of the longest urban beaches in the world.",
+    "The December Madras Music Season is a major festival of Carnatic music.",
+    "San Thome Basilica is built over the tomb attributed to St Thomas.",
+    "Chennai is a major car manufacturing hub, sometimes called the Detroit of India.",
+    "The city's name changed from Madras to Chennai in 1996.",
+    "The Kapaleeshwarar Temple's gopuram is covered in colourful sculptures.",
+    "Chennai is the centre of the Tamil film industry, known as Kollywood.",
+    "The UNESCO-listed Mahabalipuram monuments are about 60 km south.",
+    "South Indian filter coffee is a daily ritual in Chennai.",
+    "Tamil, spoken in Chennai, is one of the world's oldest living languages.",
+    "Chennai's Central Station is a red-brick landmark.",
+    "The Government Museum in Egmore opened in 1851.",
+    "Pongal is the city's big harvest festival in January.",
+    "Chennai is hot and humid for most of the year."
+  ],
+  "faq": [
+    {
+      "q": "Where is Chennai located?",
+      "a": "Chennai is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Chennai?",
+      "a": "The greater Chennai area is home to about 12,000,000 people."
+    },
+    {
+      "q": "What is Chennai famous for?",
+      "a": "The 'Gateway to South India' offers Marina Beach, colourful Dravidian temples, Carnatic music and classic South Indian food on the Bay of Bengal."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: N. Vivekananthamoorthy / CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kapaleeshwarar_Temple,_Mylapore,_Chennai,_India.jpg"
+  }
+}

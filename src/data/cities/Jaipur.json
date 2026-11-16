@@ -1,0 +1,144 @@
+{
+  "slug": "Jaipur",
+  "name": "Jaipur",
+  "region": "Asia",
+  "country": "India",
+  "metro": "4,300,000",
+  "seo": {
+    "title": "Jaipur Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Jaipur travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Jaipur.",
+    "keywords": "Jaipur, Jaipur travel guide, things to do in Jaipur, Jaipur fun facts, where to stay in Jaipur, Famous Cities"
+  },
+  "image": "Jaipur.jpg",
+  "video": "videos/jaipur.mp4",
+  "youtube": null,
+  "tagline": "Rajasthan's 'Pink City' dazzles with the Hawa Mahal, hilltop Amer Fort, the City Palace and bazaars full of textiles, gems and crafts.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Jaipur",
+    "twitter": "https://twitter.com/search?q=visit%20Jaipur",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaipur"
+  },
+  "overview": [
+    "Jaipur, the capital of Rajasthan, was founded in 1727 by Maharaja Sawai Jai Singh II as one of India's first planned cities, laid out on a grid. In 1876 the old city was painted pink to welcome the Prince of Wales, and it has been the Pink City ever since; it is now a UNESCO World Heritage Site.",
+    "The Hawa Mahal, or Palace of the Winds, has 953 small windows that let royal women watch street life unseen. The City Palace is still partly home to the royal family, and next to it Jantar Mantar holds giant astronomical instruments, including one of the world's largest stone sundials.",
+    "Just outside town, Amer Fort climbs a hillside above Maota Lake, with mirrored halls and ramparts linked to Jaigarh and Nahargarh forts. Jaipur's bazaars sell block-printed textiles, blue pottery and gems, and it is part of the Golden Triangle with Delhi and Agra."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Jaipur&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Jaipur",
+    "flights": "https://www.skyscanner.net/transport/flights/to/jai/cheap-flights-to-jaipur.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏰",
+      "title": "Amer Fort",
+      "desc": "Hilltop fort with mirrored halls.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jaipur%20Amer%20Fort%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jaipur%20Amer%20Fort%20tour"
+    },
+    {
+      "icon": "🌸",
+      "title": "Pink City Tour",
+      "desc": "Hawa Mahal, City Palace and Jantar Mantar.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jaipur%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jaipur%20city%20tour"
+    },
+    {
+      "icon": "🛍️",
+      "title": "Bazaar & Crafts Walk",
+      "desc": "Textiles, gems and blue pottery.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jaipur%20bazaar%20walking%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jaipur%20bazaar%20walking%20tour"
+    },
+    {
+      "icon": "🎈",
+      "title": "Hot Air Balloon",
+      "desc": "Sunrise flight over forts and villages.",
+      "viator": "https://www.viator.com/searchResults/all?text=Jaipur%20hot%20air%20balloon",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Jaipur%20hot%20air%20balloon"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "PLANNED CITY",
+      "text": "Jaipur, founded in 1727, was one of India's first planned cities."
+    },
+    {
+      "title": "PAINTED PINK",
+      "text": "The old city was painted pink in 1876 for the Prince of Wales's visit."
+    },
+    {
+      "title": "953 WINDOWS",
+      "text": "The Hawa Mahal has 953 small windows called jharokhas."
+    },
+    {
+      "title": "GIANT SUNDIAL",
+      "text": "Jantar Mantar has one of the world's largest stone sundials."
+    },
+    {
+      "title": "TWO UNESCO SITES",
+      "text": "Jantar Mantar and Amer Fort are both UNESCO World Heritage Sites."
+    },
+    {
+      "title": "UNESCO CITY",
+      "text": "Jaipur's walled city was named a UNESCO World Heritage Site in 2019."
+    },
+    {
+      "title": "ROYAL HOME",
+      "text": "Part of the City Palace is still home to the former royal family."
+    },
+    {
+      "title": "HILL FORTS",
+      "text": "Amer, Jaigarh and Nahargarh forts guard the hills around Jaipur."
+    },
+    {
+      "title": "BLUE POTTERY",
+      "text": "Jaipur is known for its distinctive blue pottery."
+    },
+    {
+      "title": "GOLDEN TRIANGLE",
+      "text": "Jaipur forms the Golden Triangle with Delhi and Agra."
+    }
+  ],
+  "randomFacts": [
+    "Jaipur, founded in 1727, was one of India's first planned cities.",
+    "The old city was painted pink in 1876 for the Prince of Wales's visit.",
+    "The Hawa Mahal has 953 small windows called jharokhas.",
+    "Jantar Mantar has one of the world's largest stone sundials.",
+    "Jantar Mantar and Amer Fort are both UNESCO World Heritage Sites.",
+    "Jaipur's walled city was named a UNESCO World Heritage Site in 2019.",
+    "Part of the City Palace is still home to the former royal family.",
+    "Amer, Jaigarh and Nahargarh forts guard the hills around Jaipur.",
+    "Jaipur is known for its distinctive blue pottery.",
+    "Jaipur forms the Golden Triangle with Delhi and Agra.",
+    "The Jaipur Literature Festival is one of the world's largest free literary festivals.",
+    "Jaigarh Fort holds the Jaivana, a huge cannon on wheels.",
+    "Dal baati churma is a classic Rajasthani dish.",
+    "Jaipur is famous for gem cutting.",
+    "Jal Mahal sits in the middle of Man Sagar Lake."
+  ],
+  "faq": [
+    {
+      "q": "Where is Jaipur located?",
+      "a": "Jaipur is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Jaipur?",
+      "a": "The greater Jaipur area is home to about 4,300,000 people."
+    },
+    {
+      "q": "What is Jaipur famous for?",
+      "a": "Rajasthan's 'Pink City' dazzles with the Hawa Mahal, hilltop Amer Fort, the City Palace and bazaars full of textiles, gems and crafts."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Chainwit. / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Hawa_Mahal_east_facade_(14-07-2022).jpg"
+  }
+}

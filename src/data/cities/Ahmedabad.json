@@ -1,0 +1,144 @@
+{
+  "slug": "Ahmedabad",
+  "name": "Ahmedabad",
+  "region": "Asia",
+  "country": "India",
+  "metro": "8,500,000",
+  "seo": {
+    "title": "Ahmedabad Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Ahmedabad travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Ahmedabad.",
+    "keywords": "Ahmedabad, Ahmedabad travel guide, things to do in Ahmedabad, Ahmedabad fun facts, where to stay in Ahmedabad, Famous Cities"
+  },
+  "image": "Ahmedabad.jpg",
+  "video": "videos/ahmedabad.mp4",
+  "youtube": null,
+  "tagline": "India's first UNESCO World Heritage City mixes carved pol houses, Indo-Islamic mosques, Gandhi's Sabarmati Ashram, a riverfront and vegetarian food.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Ahmedabad",
+    "twitter": "https://twitter.com/search?q=visit%20Ahmedabad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahmedabad"
+  },
+  "overview": [
+    "Ahmedabad, the largest city in Gujarat, was founded in 1411 by Sultan Ahmed Shah on the Sabarmati River. In 2017 its walled old city became India's first UNESCO World Heritage City, recognised for its Indo-Islamic monuments and its pols, close-knit lanes of carved wooden houses.",
+    "The city's mosques include the Jama Masjid and the Sidi Saiyyed Mosque, famous for its delicate stone lattice window of an intertwined tree. The Adalaj stepwell, just outside town, is carved with intricate patterns.",
+    "Mahatma Gandhi lived at the Sabarmati Ashram from 1917 to 1930 and began the Salt March from here. Ahmedabad grew rich on textiles, has modernist buildings by Le Corbusier and Louis Kahn, and is famous for Gujarati vegetarian food and the nine nights of Navratri dancing."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Ahmedabad&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Ahmedabad",
+    "flights": "https://www.skyscanner.net/transport/flights/to/amd/cheap-flights-to-ahmedabad.html"
+  },
+  "topThings": [
+    {
+      "icon": "🚶",
+      "title": "Heritage Walk",
+      "desc": "Pols, mosques and the old walled city.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ahmedabad%20heritage%20walk",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ahmedabad%20heritage%20walk"
+    },
+    {
+      "icon": "🕊️",
+      "title": "Sabarmati Ashram",
+      "desc": "Gandhi's home and museum.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ahmedabad%20Gandhi%20ashram%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ahmedabad%20Gandhi%20ashram%20tour"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Adalaj Stepwell",
+      "desc": "Carved 15th-century stepwell.",
+      "viator": "https://www.viator.com/searchResults/all?text=Adalaj%20stepwell%20tour%20Ahmedabad",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Adalaj%20stepwell%20tour%20Ahmedabad"
+    },
+    {
+      "icon": "🍛",
+      "title": "Food Tour",
+      "desc": "Gujarati thali and street snacks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ahmedabad%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ahmedabad%20food%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "UNESCO FIRST",
+      "text": "Ahmedabad was India's first city named a UNESCO World Heritage City, in 2017."
+    },
+    {
+      "title": "FOUNDED IN 1411",
+      "text": "Sultan Ahmed Shah founded Ahmedabad in 1411."
+    },
+    {
+      "title": "GANDHI'S HOME",
+      "text": "Gandhi lived at the Sabarmati Ashram from 1917 to 1930."
+    },
+    {
+      "title": "SALT MARCH",
+      "text": "Gandhi's 1930 Salt March began from the Sabarmati Ashram."
+    },
+    {
+      "title": "STONE TREE",
+      "text": "The Sidi Saiyyed Mosque is famous for its carved stone tree lattice."
+    },
+    {
+      "title": "POLS",
+      "text": "Old Ahmedabad is made up of pols, close-knit residential neighbourhoods."
+    },
+    {
+      "title": "TEXTILE CITY",
+      "text": "Ahmedabad was once called the Manchester of the East for its textile mills."
+    },
+    {
+      "title": "STEPWELLS",
+      "text": "The Adalaj stepwell was built in 1498."
+    },
+    {
+      "title": "KITE FESTIVAL",
+      "text": "Ahmedabad hosts a famous International Kite Festival every January."
+    },
+    {
+      "title": "NAVRATRI",
+      "text": "Ahmedabad celebrates Navratri with nine nights of garba dancing."
+    }
+  ],
+  "randomFacts": [
+    "Ahmedabad was India's first city named a UNESCO World Heritage City, in 2017.",
+    "Sultan Ahmed Shah founded Ahmedabad in 1411.",
+    "Gandhi lived at the Sabarmati Ashram from 1917 to 1930.",
+    "Gandhi's 1930 Salt March began from the Sabarmati Ashram.",
+    "The Sidi Saiyyed Mosque is famous for its carved stone tree lattice.",
+    "Old Ahmedabad is made up of pols, close-knit residential neighbourhoods.",
+    "Ahmedabad was once called the Manchester of the East for its textile mills.",
+    "The Adalaj stepwell was built in 1498.",
+    "Ahmedabad hosts a famous International Kite Festival every January.",
+    "Ahmedabad celebrates Navratri with nine nights of garba dancing.",
+    "The Indian Institute of Management Ahmedabad campus was designed by Louis Kahn.",
+    "The Sabarmati Riverfront has parks and promenades.",
+    "Gujarati thalis are mostly vegetarian.",
+    "Manek Chowk becomes a street food market at night.",
+    "Ahmedabad is about an hour by air from Mumbai."
+  ],
+  "faq": [
+    {
+      "q": "Where is Ahmedabad located?",
+      "a": "Ahmedabad is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Ahmedabad?",
+      "a": "The greater Ahmedabad area is home to about 8,500,000 people."
+    },
+    {
+      "q": "What is Ahmedabad famous for?",
+      "a": "India's first UNESCO World Heritage City mixes carved pol houses, Indo-Islamic mosques, Gandhi's Sabarmati Ashram, a riverfront and vegetarian food."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Pravega / CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sabarmati_riverfront_and_Atal_Pedestrian_Bridge_13.jpg"
+  }
+}

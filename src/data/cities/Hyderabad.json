@@ -1,0 +1,144 @@
+{
+  "slug": "Hyderabad",
+  "name": "Hyderabad",
+  "region": "Asia",
+  "country": "India",
+  "metro": "11,000,000",
+  "seo": {
+    "title": "Hyderabad Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Hyderabad travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Hyderabad.",
+    "keywords": "Hyderabad, Hyderabad travel guide, things to do in Hyderabad, Hyderabad fun facts, where to stay in Hyderabad, Famous Cities"
+  },
+  "image": "Hyderabad.jpg",
+  "video": "videos/hyderabad.mp4",
+  "youtube": null,
+  "tagline": "The 'City of Pearls' is famous for the Charminar, Golconda Fort, glittering bazaars and Hyderabadi biryani, plus a fast-growing tech district.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Hyderabad",
+    "twitter": "https://twitter.com/search?q=visit%20Hyderabad",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyderabad"
+  },
+  "overview": [
+    "Hyderabad is the capital of Telangana in southern India. It was founded in 1591 by the Qutb Shahi dynasty, and its symbol, the four-arched Charminar, was built that same decade at the centre of the old city.",
+    "West of the city, Golconda Fort was once a centre of the diamond trade; famous stones such as the Koh-i-Noor are linked to the region's mines. The Nizams, who later ruled Hyderabad, were among the world's richest people, and their Chowmahalla and Falaknuma palaces can still be visited.",
+    "Around the Charminar, Laad Bazaar sells bangles and the city is known for pearls, giving it the nickname City of Pearls. Hyderabadi biryani and haleem are the signature dishes. The modern HITEC City district hosts major tech companies, and Ramoji Film City is one of the world's largest film studio complexes."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Hyderabad%2C%20India&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Hyderabad",
+    "flights": "https://www.skyscanner.net/transport/flights/to/hyd/cheap-flights-to-hyderabad.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Charminar & Old City",
+      "desc": "Charminar, Mecca Masjid and Laad Bazaar.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hyderabad%20Charminar%20old%20city%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hyderabad%20Charminar%20old%20city%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Golconda Fort",
+      "desc": "Hilltop fort and sound-and-light show.",
+      "viator": "https://www.viator.com/searchResults/all?text=Golconda%20Fort%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Golconda%20Fort%20tour"
+    },
+    {
+      "icon": "🍚",
+      "title": "Biryani Food Tour",
+      "desc": "Biryani, haleem and Irani chai.",
+      "viator": "https://www.viator.com/searchResults/all?text=Hyderabad%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Hyderabad%20food%20tour"
+    },
+    {
+      "icon": "🎬",
+      "title": "Ramoji Film City",
+      "desc": "Huge film studio and theme park.",
+      "viator": "https://www.viator.com/searchResults/all?text=Ramoji%20Film%20City%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Ramoji%20Film%20City%20tour"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "FOUNDED IN 1591",
+      "text": "Hyderabad was founded in 1591 by the Qutb Shahi dynasty."
+    },
+    {
+      "title": "FOUR MINARETS",
+      "text": "The Charminar's name means four minarets."
+    },
+    {
+      "title": "DIAMOND FORT",
+      "text": "Golconda Fort was once a centre of the diamond trade."
+    },
+    {
+      "title": "KOH-I-NOOR",
+      "text": "The Koh-i-Noor diamond is believed to have been mined in the Golconda region."
+    },
+    {
+      "title": "CITY OF PEARLS",
+      "text": "Hyderabad is known as the City of Pearls for its pearl trade."
+    },
+    {
+      "title": "RICH RULERS",
+      "text": "Mir Osman Ali Khan, the last Nizam of Hyderabad, was once called the world's richest man."
+    },
+    {
+      "title": "BIRYANI CITY",
+      "text": "Hyderabadi biryani is one of India's most famous dishes."
+    },
+    {
+      "title": "FILM CITY",
+      "text": "Ramoji Film City is among the world's largest film studio complexes."
+    },
+    {
+      "title": "TECH HUB",
+      "text": "HITEC City hosts offices of major global tech companies."
+    },
+    {
+      "title": "LAKE STATUE",
+      "text": "A large monolithic Buddha statue stands in Hussain Sagar lake."
+    }
+  ],
+  "randomFacts": [
+    "Hyderabad was founded in 1591 by the Qutb Shahi dynasty.",
+    "The Charminar's name means four minarets.",
+    "Golconda Fort was once a centre of the diamond trade.",
+    "The Koh-i-Noor diamond is believed to have been mined in the Golconda region.",
+    "Hyderabad is known as the City of Pearls for its pearl trade.",
+    "Mir Osman Ali Khan, the last Nizam of Hyderabad, was once called the world's richest man.",
+    "Hyderabadi biryani is one of India's most famous dishes.",
+    "Ramoji Film City is among the world's largest film studio complexes.",
+    "HITEC City hosts offices of major global tech companies.",
+    "A large monolithic Buddha statue stands in Hussain Sagar lake.",
+    "Haleem is a Ramadan speciality in Hyderabad.",
+    "Laad Bazaar is famous for lac bangles.",
+    "Golconda Fort's acoustics carry a hand clap to the top of the fort.",
+    "Irani chai and Osmania biscuits are a local tradition.",
+    "Hyderabad shares its name with a city in Pakistan."
+  ],
+  "faq": [
+    {
+      "q": "Where is Hyderabad located?",
+      "a": "Hyderabad is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Hyderabad?",
+      "a": "The greater Hyderabad area is home to about 11,000,000 people."
+    },
+    {
+      "q": "What is Hyderabad famous for?",
+      "a": "The 'City of Pearls' is famous for the Charminar, Golconda Fort, glittering bazaars and Hyderabadi biryani, plus a fast-growing tech district."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Ravi Dwivedi / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Iconic_Charminar_in_Hyderabad,_India.jpg"
+  }
+}

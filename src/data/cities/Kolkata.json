@@ -1,0 +1,144 @@
+{
+  "slug": "Kolkata",
+  "name": "Kolkata",
+  "region": "Asia",
+  "country": "India",
+  "metro": "15,500,000",
+  "seo": {
+    "title": "Kolkata Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Kolkata travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Kolkata.",
+    "keywords": "Kolkata, Kolkata travel guide, things to do in Kolkata, Kolkata fun facts, where to stay in Kolkata, Famous Cities"
+  },
+  "image": "Kolkata.jpg",
+  "video": "videos/kolkata.mp4",
+  "youtube": null,
+  "tagline": "India's cultural capital on the Hooghly River, with the Victoria Memorial, Howrah Bridge, colonial streets, Durga Puja and some of India's best sweets.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Kolkata",
+    "twitter": "https://twitter.com/search?q=visit%20Kolkata",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kolkata"
+  },
+  "overview": [
+    "Kolkata, formerly Calcutta, is the capital of West Bengal on the Hooghly River in eastern India. It was the capital of British India until 1911, and that past shows in grand buildings such as the white marble Victoria Memorial, Writers' Building and St Paul's Cathedral.",
+    "The city is known as India's cultural capital. It was home to the poet Rabindranath Tagore, India's first Nobel laureate, and to filmmaker Satyajit Ray, and it has famous book markets on College Street. Mother Teresa founded the Missionaries of Charity here.",
+    "The cantilever Howrah Bridge carries huge crowds over the Hooghly next to a busy flower market. Every autumn Durga Puja fills the city with artistic pandals; UNESCO lists it as intangible cultural heritage. Food is a big draw, from kathi rolls and puchka to sweets like rosogolla and mishti doi."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Kolkata&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Kolkata",
+    "flights": "https://www.skyscanner.net/transport/flights/to/ccu/cheap-flights-to-kolkata.html"
+  },
+  "topThings": [
+    {
+      "icon": "🏛️",
+      "title": "Heritage Walk",
+      "desc": "Victoria Memorial and colonial Kolkata.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kolkata%20heritage%20walk",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kolkata%20heritage%20walk"
+    },
+    {
+      "icon": "🌸",
+      "title": "Howrah & Flower Market",
+      "desc": "Dawn at Mullick Ghat flower market.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kolkata%20Howrah%20bridge%20flower%20market%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kolkata%20Howrah%20bridge%20flower%20market%20tour"
+    },
+    {
+      "icon": "🍬",
+      "title": "Food & Sweets Tour",
+      "desc": "Kathi rolls, puchka and rosogolla.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kolkata%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kolkata%20food%20tour"
+    },
+    {
+      "icon": "🚣",
+      "title": "Hooghly River Cruise",
+      "desc": "Sunset boat ride on the river.",
+      "viator": "https://www.viator.com/searchResults/all?text=Kolkata%20river%20cruise",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Kolkata%20river%20cruise"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "OLD CAPITAL",
+      "text": "Kolkata was the capital of British India until 1911."
+    },
+    {
+      "title": "HOWRAH BRIDGE",
+      "text": "Howrah Bridge is one of the busiest cantilever bridges in the world."
+    },
+    {
+      "title": "VICTORIA MEMORIAL",
+      "text": "The Victoria Memorial is built of white Makrana marble, like the Taj Mahal."
+    },
+    {
+      "title": "NOBEL POET",
+      "text": "Rabindranath Tagore, India's first Nobel laureate, was born in Kolkata."
+    },
+    {
+      "title": "DURGA PUJA",
+      "text": "Kolkata's Durga Puja is on UNESCO's list of intangible cultural heritage."
+    },
+    {
+      "title": "FIRST METRO",
+      "text": "Kolkata had India's first underground metro, opened in 1984."
+    },
+    {
+      "title": "BOOK STREET",
+      "text": "College Street is famous for its many bookshops and stalls."
+    },
+    {
+      "title": "TRAMS STILL RUN",
+      "text": "Kolkata is the only Indian city still running a tram service."
+    },
+    {
+      "title": "YELLOW TAXIS",
+      "text": "Kolkata is known for its yellow Ambassador taxis."
+    },
+    {
+      "title": "CITY OF JOY",
+      "text": "Kolkata is nicknamed the City of Joy."
+    }
+  ],
+  "randomFacts": [
+    "Kolkata was the capital of British India until 1911.",
+    "Howrah Bridge is one of the busiest cantilever bridges in the world.",
+    "The Victoria Memorial is built of white Makrana marble, like the Taj Mahal.",
+    "Rabindranath Tagore, India's first Nobel laureate, was born in Kolkata.",
+    "Kolkata's Durga Puja is on UNESCO's list of intangible cultural heritage.",
+    "Kolkata had India's first underground metro, opened in 1984.",
+    "College Street is famous for its many bookshops and stalls.",
+    "Kolkata is the only Indian city still running a tram service.",
+    "Kolkata is known for its yellow Ambassador taxis.",
+    "Kolkata is nicknamed the City of Joy.",
+    "The city's name officially changed from Calcutta to Kolkata in 2001.",
+    "Rosogolla is one of Bengal's best-known sweets.",
+    "Eden Gardens is one of the world's largest cricket stadiums.",
+    "Satyajit Ray made his films in Kolkata.",
+    "The Indian Museum is the oldest museum in India."
+  ],
+  "faq": [
+    {
+      "q": "Where is Kolkata located?",
+      "a": "Kolkata is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Kolkata?",
+      "a": "The greater Kolkata area is home to about 15,500,000 people."
+    },
+    {
+      "q": "What is Kolkata famous for?",
+      "a": "India's cultural capital on the Hooghly River, with the Victoria Memorial, Howrah Bridge, colonial streets, Durga Puja and some of India's best sweets."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Subhrajyoti07 / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg"
+  }
+}

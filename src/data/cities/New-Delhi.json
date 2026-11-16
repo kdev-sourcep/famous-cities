@@ -1,0 +1,144 @@
+{
+  "slug": "New-Delhi",
+  "name": "New Delhi",
+  "region": "Asia",
+  "country": "India",
+  "metro": "34,000,000",
+  "seo": {
+    "title": "New Delhi Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "New Delhi travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in New Delhi.",
+    "keywords": "New Delhi, New Delhi travel guide, things to do in New Delhi, New Delhi fun facts, where to stay in New Delhi, Famous Cities"
+  },
+  "image": "New-Delhi.jpg",
+  "video": "videos/new-delhi.mp4",
+  "youtube": null,
+  "tagline": "India's capital blends Mughal monuments like the Red Fort, Humayun's Tomb and Qutub Minar with India Gate, grand boulevards and the bazaars of Old Delhi.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20New%20Delhi",
+    "twitter": "https://twitter.com/search?q=visit%20New%20Delhi",
+    "wikipedia": "https://en.wikipedia.org/wiki/New_Delhi"
+  },
+  "overview": [
+    "New Delhi is the capital of India, part of the vast Delhi metropolitan area on the Yamuna River. The British planned it in the 1910s and 1920s with architects Edwin Lutyens and Herbert Baker, and it became the capital in 1931. Its centre has wide avenues, the Rashtrapati Bhavan presidential palace and the India Gate war memorial.",
+    "Delhi has been the seat of empires for centuries. Three UNESCO World Heritage Sites stand here: the Red Fort, built by Shah Jahan; Humayun's Tomb, an early model for the Taj Mahal; and the Qutub Minar, a soaring 13th-century minaret.",
+    "In Old Delhi, the Chandni Chowk bazaar and the Jama Masjid, one of India's largest mosques, sit a short ride from the Lotus Temple and the Akshardham complex. Delhi is famous for its food, from parathas and chaat to butter chicken, and is the usual start of the Golden Triangle route to Agra and Jaipur."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=New%20Delhi&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=New%20Delhi",
+    "flights": "https://www.skyscanner.net/transport/flights/to/del/cheap-flights-to-new-delhi.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Old & New Delhi Tour",
+      "desc": "Red Fort, Jama Masjid and India Gate.",
+      "viator": "https://www.viator.com/searchResults/all?text=Delhi%20Old%20and%20New%20Delhi%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Delhi%20Old%20and%20New%20Delhi%20tour"
+    },
+    {
+      "icon": "🛺",
+      "title": "Chandni Chowk Rickshaw",
+      "desc": "Rickshaw ride through Old Delhi's bazaar.",
+      "viator": "https://www.viator.com/searchResults/all?text=Delhi%20Chandni%20Chowk%20rickshaw%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Delhi%20Chandni%20Chowk%20rickshaw%20tour"
+    },
+    {
+      "icon": "🍢",
+      "title": "Street Food Walk",
+      "desc": "Chaat, parathas and sweets.",
+      "viator": "https://www.viator.com/searchResults/all?text=Delhi%20street%20food%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Delhi%20street%20food%20tour"
+    },
+    {
+      "icon": "🕋",
+      "title": "Taj Mahal Day Trip",
+      "desc": "Day trip to Agra from Delhi.",
+      "viator": "https://www.viator.com/searchResults/all?text=Taj%20Mahal%20day%20trip%20from%20Delhi",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Taj%20Mahal%20day%20trip%20from%20Delhi"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "A PLANNED CAPITAL",
+      "text": "New Delhi was designed by Edwin Lutyens and Herbert Baker and became the capital in 1931."
+    },
+    {
+      "title": "THREE UNESCO SITES",
+      "text": "The Red Fort, Humayun's Tomb and the Qutub Minar are all UNESCO World Heritage Sites."
+    },
+    {
+      "title": "A TOWERING MINARET",
+      "text": "The Qutub Minar, begun around 1200, is about 73 metres tall."
+    },
+    {
+      "title": "SHAH JAHAN'S FORT",
+      "text": "The Red Fort was built by Shah Jahan, who also built the Taj Mahal."
+    },
+    {
+      "title": "A TAJ MAHAL FORERUNNER",
+      "text": "Humayun's Tomb inspired later Mughal tombs, including the Taj Mahal."
+    },
+    {
+      "title": "WAR MEMORIAL",
+      "text": "India Gate honours Indian soldiers who died in the First World War."
+    },
+    {
+      "title": "A RUST-FREE PILLAR",
+      "text": "The Iron Pillar at the Qutub complex has resisted rust for over 1,600 years."
+    },
+    {
+      "title": "HUGE MOSQUE",
+      "text": "The Jama Masjid in Old Delhi is one of the largest mosques in India."
+    },
+    {
+      "title": "LOTUS TEMPLE",
+      "text": "The Bahá'í Lotus Temple is shaped like a lotus flower with 27 marble petals."
+    },
+    {
+      "title": "GOLDEN TRIANGLE",
+      "text": "Delhi is the starting point of the Golden Triangle tour with Agra and Jaipur."
+    }
+  ],
+  "randomFacts": [
+    "New Delhi was designed by Edwin Lutyens and Herbert Baker and became the capital in 1931.",
+    "The Red Fort, Humayun's Tomb and the Qutub Minar are all UNESCO World Heritage Sites.",
+    "The Qutub Minar, begun around 1200, is about 73 metres tall.",
+    "The Red Fort was built by Shah Jahan, who also built the Taj Mahal.",
+    "Humayun's Tomb inspired later Mughal tombs, including the Taj Mahal.",
+    "India Gate honours Indian soldiers who died in the First World War.",
+    "The Iron Pillar at the Qutub complex has resisted rust for over 1,600 years.",
+    "The Jama Masjid in Old Delhi is one of the largest mosques in India.",
+    "The Bahá'í Lotus Temple is shaped like a lotus flower with 27 marble petals.",
+    "Delhi is the starting point of the Golden Triangle tour with Agra and Jaipur.",
+    "Butter chicken is said to have been created in Delhi.",
+    "The Delhi Metro is one of the largest metro systems in the world.",
+    "Republic Day parades are held on Kartavya Path every 26 January.",
+    "Chandni Chowk dates back to the 17th century.",
+    "Delhi sits on the banks of the Yamuna River."
+  ],
+  "faq": [
+    {
+      "q": "Where is New Delhi located?",
+      "a": "New Delhi is in India, in Asia."
+    },
+    {
+      "q": "What is the population of New Delhi?",
+      "a": "The greater New Delhi area is home to about 34,000,000 people."
+    },
+    {
+      "q": "What is New Delhi famous for?",
+      "a": "India's capital blends Mughal monuments like the Red Fort, Humayun's Tomb and Qutub Minar with India Gate, grand boulevards and the bazaars of Old Delhi."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Yann / CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg"
+  }
+}

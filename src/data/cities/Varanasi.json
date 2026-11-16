@@ -1,0 +1,144 @@
+{
+  "slug": "Varanasi",
+  "name": "Varanasi",
+  "region": "Asia",
+  "country": "India",
+  "metro": "1,800,000",
+  "seo": {
+    "title": "Varanasi Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Varanasi travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Varanasi.",
+    "keywords": "Varanasi, Varanasi travel guide, things to do in Varanasi, Varanasi fun facts, where to stay in Varanasi, Famous Cities"
+  },
+  "image": "Varanasi.jpg",
+  "video": "videos/varanasi.mp4",
+  "youtube": null,
+  "tagline": "One of the world's oldest living cities, Varanasi lines the sacred Ganges with ghats, temples and the nightly Ganga Aarti fire ceremony.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Varanasi",
+    "twitter": "https://twitter.com/search?q=visit%20Varanasi",
+    "wikipedia": "https://en.wikipedia.org/wiki/Varanasi"
+  },
+  "overview": [
+    "Varanasi, also called Benares or Kashi, is on the banks of the Ganges in Uttar Pradesh and is one of the oldest continuously inhabited cities in the world. It is the holiest city in Hinduism, and pilgrims come to bathe in the river and to be cremated here.",
+    "More than 80 ghats, stone steps leading down to the water, line the river. At Dashashwamedh Ghat, priests perform the Ganga Aarti each evening with fire, bells and chanting, while Manikarnika Ghat is the main cremation site. The Kashi Vishwanath Temple is one of the most sacred temples to Shiva.",
+    "Sunrise boat rides show the city waking up along the river. Nearby Sarnath is where the Buddha gave his first sermon. Varanasi is also known for silk Banarasi saris, classical music and street food such as kachori and lassi."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Varanasi&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Varanasi",
+    "flights": "https://www.skyscanner.net/transport/flights/to/vns/cheap-flights-to-varanasi.html"
+  },
+  "topThings": [
+    {
+      "icon": "🚣",
+      "title": "Sunrise Boat Ride",
+      "desc": "Ganges ghats at dawn.",
+      "viator": "https://www.viator.com/searchResults/all?text=Varanasi%20sunrise%20boat%20ride",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Varanasi%20sunrise%20boat%20ride"
+    },
+    {
+      "icon": "🔥",
+      "title": "Evening Ganga Aarti",
+      "desc": "The nightly fire ceremony.",
+      "viator": "https://www.viator.com/searchResults/all?text=Varanasi%20Ganga%20Aarti%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Varanasi%20Ganga%20Aarti%20tour"
+    },
+    {
+      "icon": "☸️",
+      "title": "Sarnath Tour",
+      "desc": "Where the Buddha first taught.",
+      "viator": "https://www.viator.com/searchResults/all?text=Sarnath%20tour%20from%20Varanasi",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Sarnath%20tour%20from%20Varanasi"
+    },
+    {
+      "icon": "🍵",
+      "title": "Food & Old City Walk",
+      "desc": "Kachori, lassi and narrow lanes.",
+      "viator": "https://www.viator.com/searchResults/all?text=Varanasi%20food%20walk",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Varanasi%20food%20walk"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "ANCIENT CITY",
+      "text": "Varanasi is one of the oldest continuously inhabited cities in the world."
+    },
+    {
+      "title": "MANY NAMES",
+      "text": "The city is also known as Benares and Kashi."
+    },
+    {
+      "title": "80+ GHATS",
+      "text": "More than 80 ghats line the Ganges in Varanasi."
+    },
+    {
+      "title": "FIRE CEREMONY",
+      "text": "The Ganga Aarti is performed every evening at Dashashwamedh Ghat."
+    },
+    {
+      "title": "SACRED TEMPLE",
+      "text": "Kashi Vishwanath is one of Hinduism's holiest temples to Shiva."
+    },
+    {
+      "title": "FIRST SERMON",
+      "text": "The Buddha gave his first sermon at nearby Sarnath."
+    },
+    {
+      "title": "BANARASI SILK",
+      "text": "Varanasi is famous for its silk Banarasi saris."
+    },
+    {
+      "title": "HOLY CREMATIONS",
+      "text": "Hindus believe being cremated in Varanasi brings liberation."
+    },
+    {
+      "title": "A GREAT UNIVERSITY",
+      "text": "Banaras Hindu University is one of the largest residential universities in Asia."
+    },
+    {
+      "title": "MUSIC CITY",
+      "text": "Varanasi is a UNESCO Creative City of Music."
+    }
+  ],
+  "randomFacts": [
+    "Varanasi is one of the oldest continuously inhabited cities in the world.",
+    "The city is also known as Benares and Kashi.",
+    "More than 80 ghats line the Ganges in Varanasi.",
+    "The Ganga Aarti is performed every evening at Dashashwamedh Ghat.",
+    "Kashi Vishwanath is one of Hinduism's holiest temples to Shiva.",
+    "The Buddha gave his first sermon at nearby Sarnath.",
+    "Varanasi is famous for its silk Banarasi saris.",
+    "Hindus believe being cremated in Varanasi brings liberation.",
+    "Banaras Hindu University is one of the largest residential universities in Asia.",
+    "Varanasi is a UNESCO Creative City of Music.",
+    "Mark Twain wrote that Benares is older than history.",
+    "Banarasi paan is a famous local treat.",
+    "Dev Deepawali lights up the ghats with thousands of lamps.",
+    "Ramnagar Fort sits across the river.",
+    "Varanasi lassi is served in clay cups."
+  ],
+  "faq": [
+    {
+      "q": "Where is Varanasi located?",
+      "a": "Varanasi is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Varanasi?",
+      "a": "The greater Varanasi area is home to about 1,800,000 people."
+    },
+    {
+      "q": "What is Varanasi famous for?",
+      "a": "One of the world's oldest living cities, Varanasi lines the sacred Ganges with ghats, temples and the nightly Ganga Aarti fire ceremony."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Vyacheslav Argenberg / CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Ghats_on_Ganges_River.jpg"
+  }
+}

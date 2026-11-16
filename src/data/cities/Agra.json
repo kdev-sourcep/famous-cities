@@ -1,0 +1,144 @@
+{
+  "slug": "Agra",
+  "name": "Agra",
+  "region": "Asia",
+  "country": "India",
+  "metro": "2,300,000",
+  "seo": {
+    "title": "Agra Travel Guide: Fun Facts & Where to Stay | Famous Cities",
+    "description": "Agra travel guide with key facts, fun facts and a random fact generator, plus easy ways to compare hotels, homes, flights and tours in Agra.",
+    "keywords": "Agra, Agra travel guide, things to do in Agra, Agra fun facts, where to stay in Agra, Famous Cities"
+  },
+  "image": "Agra.jpg",
+  "video": "videos/agra.mp4",
+  "youtube": null,
+  "tagline": "Home of the Taj Mahal, Agra also has the red-sandstone Agra Fort and nearby Fatehpur Sikri, three UNESCO sites from the Mughal golden age.",
+  "highlights": [
+    "product",
+    "promotion"
+  ],
+  "social": {
+    "facebook": "https://www.facebook.com/search/top?q=visit%20Agra",
+    "twitter": "https://twitter.com/search?q=visit%20Agra",
+    "wikipedia": "https://en.wikipedia.org/wiki/Agra"
+  },
+  "overview": [
+    "Agra sits on the Yamuna River in Uttar Pradesh and was the capital of the Mughal Empire under emperors Akbar, Jahangir and Shah Jahan. Its monuments make it one of the most visited places in India.",
+    "The Taj Mahal, built by Shah Jahan in memory of his wife Mumtaz Mahal, took around 20 years to complete and is one of the world's most famous buildings. Its white marble is inlaid with semi-precious stones, and its colour seems to change from dawn to dusk.",
+    "Upriver, the red-sandstone Agra Fort was the main Mughal residence; Shah Jahan spent his last years there looking out at the Taj. About 40 km away, Fatehpur Sikri is Akbar's abandoned capital. Agra is also known for petha, a translucent sweet, and marble inlay crafts."
+  ],
+  "booking": {
+    "hotels": "https://www.booking.com/searchresults.html?ss=Agra&aid=2243524",
+    "tours": "https://www.viator.com/searchResults/all?text=Agra",
+    "flights": "https://www.skyscanner.net/transport/flights/to/agr/cheap-flights-to-agra.html"
+  },
+  "topThings": [
+    {
+      "icon": "🕌",
+      "title": "Taj Mahal Sunrise",
+      "desc": "See the Taj at dawn.",
+      "viator": "https://www.viator.com/searchResults/all?text=Taj%20Mahal%20sunrise%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Taj%20Mahal%20sunrise%20tour"
+    },
+    {
+      "icon": "🏰",
+      "title": "Agra Fort",
+      "desc": "Mughal fort and palaces.",
+      "viator": "https://www.viator.com/searchResults/all?text=Agra%20Fort%20tour",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Agra%20Fort%20tour"
+    },
+    {
+      "icon": "🏛️",
+      "title": "Fatehpur Sikri",
+      "desc": "Akbar's abandoned capital.",
+      "viator": "https://www.viator.com/searchResults/all?text=Fatehpur%20Sikri%20tour%20from%20Agra",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Fatehpur%20Sikri%20tour%20from%20Agra"
+    },
+    {
+      "icon": "🍬",
+      "title": "Food & Market Walk",
+      "desc": "Petha sweets and local snacks.",
+      "viator": "https://www.viator.com/searchResults/all?text=Agra%20food%20walk",
+      "getyourguide": "https://www.getyourguide.com/s/?q=Agra%20food%20walk"
+    }
+  ],
+  "funFacts": [
+    {
+      "title": "BUILT FOR LOVE",
+      "text": "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "title": "20 YEARS",
+      "text": "The Taj Mahal took about 20 years to complete."
+    },
+    {
+      "title": "NEW WONDER",
+      "text": "The Taj Mahal was named one of the New Seven Wonders of the World in 2007."
+    },
+    {
+      "title": "THREE UNESCO SITES",
+      "text": "The Taj Mahal, Agra Fort and Fatehpur Sikri are UNESCO World Heritage Sites."
+    },
+    {
+      "title": "CHANGING COLOUR",
+      "text": "The Taj Mahal's marble appears pink at dawn and golden at sunset."
+    },
+    {
+      "title": "INLAID STONES",
+      "text": "Semi-precious stones are inlaid in the Taj Mahal's marble."
+    },
+    {
+      "title": "A VIEW OF THE TAJ",
+      "text": "Shah Jahan spent his final years in Agra Fort, within sight of the Taj Mahal."
+    },
+    {
+      "title": "ABANDONED CAPITAL",
+      "text": "Fatehpur Sikri was Akbar's capital for only about 14 years."
+    },
+    {
+      "title": "CLOSED ON FRIDAYS",
+      "text": "The Taj Mahal is closed to general visitors on Fridays."
+    },
+    {
+      "title": "SWEET SPECIALITY",
+      "text": "Agra is famous for petha, a sweet made from ash gourd."
+    }
+  ],
+  "randomFacts": [
+    "Shah Jahan built the Taj Mahal in memory of his wife Mumtaz Mahal.",
+    "The Taj Mahal took about 20 years to complete.",
+    "The Taj Mahal was named one of the New Seven Wonders of the World in 2007.",
+    "The Taj Mahal, Agra Fort and Fatehpur Sikri are UNESCO World Heritage Sites.",
+    "The Taj Mahal's marble appears pink at dawn and golden at sunset.",
+    "Semi-precious stones are inlaid in the Taj Mahal's marble.",
+    "Shah Jahan spent his final years in Agra Fort, within sight of the Taj Mahal.",
+    "Fatehpur Sikri was Akbar's capital for only about 14 years.",
+    "The Taj Mahal is closed to general visitors on Fridays.",
+    "Agra is famous for petha, a sweet made from ash gourd.",
+    "Mehtab Bagh garden offers views of the Taj across the Yamuna.",
+    "The Taj Mahal's minarets lean slightly outward.",
+    "Itimad-ud-Daulah's tomb is nicknamed the Baby Taj.",
+    "Agra is about 3 hours from Delhi by expressway.",
+    "Agra was the Mughal capital under Akbar."
+  ],
+  "faq": [
+    {
+      "q": "Where is Agra located?",
+      "a": "Agra is in India, in Asia."
+    },
+    {
+      "q": "What is the population of Agra?",
+      "a": "The greater Agra area is home to about 2,300,000 people."
+    },
+    {
+      "q": "What is Agra famous for?",
+      "a": "Home of the Taj Mahal, Agra also has the red-sandstone Agra Fort and nearby Fatehpur Sikri, three UNESCO sites from the Mughal golden age."
+    }
+  ],
+  "speedTour": false,
+  "rank2026": null,
+  "photoCredit": {
+    "text": "Photo: Yann; edited by King of Hearts / CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg"
+  }
+}
