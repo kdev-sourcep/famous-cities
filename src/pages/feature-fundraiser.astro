@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { url } from "../lib/site";
+const email = "thekunsaw@gmail.com";
+const subject = "Fundraiser Feature Request – [Organization Name] ([Cause])";
+const letter = `Hi Famous Cities team,
+
+We would love to have our fundraiser considered for your weekly picks of causes worth supporting. Here are the details for our feature card:
+
+- Organization Name: [Official Registered Name]
+- Registration: [e.g., US 501(c)(3) EIN, UK Charity Number, or national charity register link]
+- Country / Region Served: [e.g., Valencia, Spain]
+- Cause (1–2 sentences): [What the fundraiser pays for and who it helps]
+- Official Donation Page (URL): [Link on your organization's own website]
+- Organization Website: [Main website]
+- Contact Name & Role: [Name / Role]
+- Email: [Best Contact Email]
+
+I confirm that this fundraiser is run by the registered organization above, that donations go directly to it, and that the information above is accurate.
+
+Thank you for considering us.
+
+Best regards,
+[Contact Name]
+[Organization Name]`;
+const mailto = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(letter)}`;
+---
+<BaseLayout title="Feature your fundraiser | Famous Cities" description="Registered charities and relief organizations can apply for a free spot in Famous Cities' weekly fundraiser picks. Up to 5 new fundraisers each week." path="feature-fundraiser.html">
+  <section class="page-hero page-hero--center"><div class="container">
+    <span class="eyebrow">For charities</span>
+    <h1>Get your fundraiser in front of travelers</h1>
+    <p>Free for registered charities and relief organizations. Up to 5 new fundraisers each week.</p>
+  </div></section>
+  <section class="section"><div class="container">
+    <div class="feature-why">
+      <div class="card feature-why__item"><Icon name="heart" /><h3>Free to apply</h3><p>Nobody pays to be listed, and we earn nothing from donation links. Donations go straight to your own website.</p></div>
+      <div class="card feature-why__item"><Icon name="trophy" /><h3>5 spots a week</h3><p>Each week we pick up to 5 fundraisers for <a href={url("picks.html")}>This week's picks</a>. Applications that miss a week are considered for the next one.</p></div>
+      <div class="card feature-why__item"><Icon name="landmark" /><h3>Registered organizations only</h3><p>We feature registered charities and relief organizations, not personal crowdfunding pages.</p></div>
+    </div>
+    <p class="muted picks-note">How it works: 1) Email us the letter below. 2) We check your registration and donation page. 3) If approved, your fundraiser is featured in an upcoming week's picks. We don't reply to every application, and sending a letter doesn't guarantee a spot.</p>
+    <div class="section-head feature-head"><div><span class="eyebrow">How to apply</span><h2>Send us this letter</h2><p>Fill in the brackets and email it to <a href={`mailto:${email}`}>{email}</a>.</p></div></div>
+    <div class="card feature-letter">
+      <p class="feature-letter__subject"><strong>Subject:</strong> {subject}</p>
+      <pre id="feature-letter">{letter}</pre>
+      <div class="trip-card__links">
+        <a class="btn btn--dark btn--sm" href={mailto}><Icon name="mail" /> Email us this letter</a>
+        <button type="button" class="btn btn--light btn--sm" id="copy-letter">Copy letter</button>
+      </div>
+    </div>
+    <p class="muted picks-note">Own a restaurant instead? <a href={url("feature-restaurant.html")}>Feature your restaurant</a>.</p>
+  </div></section>
+  <script is:inline>
+    document.getElementById("copy-letter").addEventListener("click", function () {
+      var b = this, t = "Subject: " + document.querySelector(".feature-letter__subject").textContent.replace(/^Subject:\s*/, "") + "\n\n" + document.getElementById("feature-letter").textContent;
+      navigator.clipboard.writeText(t).then(function () { b.textContent = "Copied!"; setTimeout(function () { b.textContent = "Copy letter"; }, 2000); });
+    });
+  </script>
+</BaseLayout>

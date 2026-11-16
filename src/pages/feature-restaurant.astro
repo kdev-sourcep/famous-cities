@@ -46,11 +46,11 @@ const mailto = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${en
     </div>
     <div class="section-head feature-head"><div><span class="eyebrow">Pricing</span><h2>City Spotlight</h2></div></div>
     <div class="feature-tiers feature-tiers--one">
-      <div class="card feature-tier feature-tier--top"><span class="pick-tag">Sponsored</span><h3>City Spotlight</h3><p class="feature-tier__price">$25<span>/month</span></p><ul><li>Photo card on your city's page, labeled "Sponsored"</li><li>Clicks go straight to your menu</li><li>Only independent restaurants, max 12 per city</li><li>Cancel any time; your card is removed when the subscription ends</li></ul>
+      <div class="card feature-tier feature-tier--top"><span class="pick-tag">Sponsored</span><h3>City Spotlight</h3><p class="feature-tier__price">$25<span>/month</span></p><ul><li>Photo card on your city's page, labeled "Sponsored"</li><li>Clicks go straight to your menu</li><li>Only independent restaurants, max 12 per city</li><li>Up to 5 new restaurants approved each week</li><li>Cancel any time; your card is removed when the subscription ends</li></ul>
         {payLink && <a class="btn btn--dark btn--sm" href={payLink} target="_blank" rel="noopener">Pay $25/month &amp; apply</a>}
       </div>
     </div>
-    <p class="muted picks-note">How it works: 1) Subscribe with the button above. 2) Email us the letter below from the same email address you paid with. 3) We review it and, once approved, your card goes live within a couple of days. If we can't approve your restaurant, we refund your payment. Our weekly picks are chosen independently and can't be bought.</p>
+    <p class="muted picks-note">How it works: 1) Subscribe with the button above. 2) Email us the letter below from the same email address you paid with. 3) We review it and, once approved, your card goes live within a couple of days. We approve up to 5 new restaurants each week; if that week is full, yours goes live the next week. If we can't approve your restaurant, we refund your payment. Our weekly picks are chosen independently and can't be bought.</p>
     <div class="section-head feature-head"><div><span class="eyebrow">How to apply</span><h2>Send us this letter</h2><p>Fill in the brackets, attach a photo you own, and email it from the address you paid with to <a href={`mailto:${email}`}>{email}</a>.</p></div></div>
     <div class="card feature-letter">
       <p class="feature-letter__subject"><strong>Subject:</strong> {subject}</p>
@@ -60,7 +60,7 @@ const mailto = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${en
         <button type="button" class="btn btn--light btn--sm" id="copy-letter">Copy letter</button>
       </div>
     </div>
-    <p class="muted picks-note">See who's featured right now on <a href={url("picks.html")}>This week's picks</a>.</p>
+    <p class="muted picks-note">See who's featured right now on <a href={url("picks.html")}>This week's picks</a>. Run a registered charity? <a href={url("feature-fundraiser.html")}>Feature your fundraiser</a>.</p>
   </div></section>
   <script is:inline>
     document.getElementById("copy-letter").addEventListener("click", function () {
