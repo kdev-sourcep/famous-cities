@@ -16,6 +16,13 @@
   <url><loc>https://famouscities.world/about.html</loc><priority>0.4</priority></url>
   <url><loc>https://famouscities.world/terms.html</loc><priority>0.3</priority></url>
   <url><loc>https://famouscities.world/privacy.html</loc><priority>0.3</priority></url>
+  <url><loc>https://famouscities.world/guides/best-cities-in-spain.html</loc><priority>0.7</priority></url>
+  <url><loc>https://famouscities.world/guides/best-cities-in-india.html</loc><priority>0.7</priority></url>
+  <url><loc>https://famouscities.world/guides/best-cities-in-the-netherlands.html</loc><priority>0.7</priority></url>
+  <url><loc>https://famouscities.world/guides/best-cities-in-poland.html</loc><priority>0.7</priority></url>
+  <url><loc>https://famouscities.world/guides/best-cities-in-south-korea.html</loc><priority>0.7</priority></url>
+  <url><loc>https://famouscities.world/guides/famous-movie-cities.html</loc><priority>0.7</priority></url>
+  <url><loc>https://famouscities.world/guides/famous-football-cities.html</loc><priority>0.7</priority></url>
   <url><loc>https://famouscities.world/LONDON.html</loc><priority>0.8</priority></url>
   <url><loc>https://famouscities.world/Paris.html</loc><priority>0.8</priority></url>
   <url><loc>https://famouscities.world/Edinburgh.html</loc><priority>0.8</priority></url>
