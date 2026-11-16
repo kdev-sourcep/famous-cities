@@ -61,7 +61,7 @@ export function factTitle(s: string): string {
   return s.replace(/\s+/g, " ").trim().split(" ").map((w) => {
     const bare = w.replace(/[^A-Za-z]/g, "");
     if (KEEP_UPPER.has(bare)) return w;
-    return w.toLowerCase().replace(/(^|[-'"(“‘])([a-z])/g, (_, p, c) => p + c.toUpperCase());
+    return w.toLowerCase().replace(/(^'?|[-"(“‘])([a-z])/g, (_, p, c) => p + c.toUpperCase());
   }).join(" ").replace(/\s+([!?.,])/g, "$1");
 }
 
